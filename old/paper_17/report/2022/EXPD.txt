@@ -1,0 +1,911 @@
+risk factors the nature of our worldwide operations necessitates transacting in a multitude of currencies other than the u.s.
+dollar. that exposes us to the inherent risks of volatile international currency markets and governmental interference. some of the countries where we maintain offices and/or have agency relationships maintain strict currency control regulations that influence our ability to hedge foreign currency exposure. we try to compensate for these exposures by accelerating international currency settlements among our offices and agents. we may enter into foreign currency hedging transactions where there are regulatory or commercial limitations on our ability to move money freely around the world or the short-term financial outlook in any country is such that hedging is the most time-sensitive way to mitigate short-term exchange losses. any such hedging activity during 2022 and 2021 was insignificant. we had no foreign currency derivatives outstanding at december 31, 2022 and 2021. net foreign currency losses were approximately $2 million and $12 million for 2022 and 2021, respectively.
+historically, our business has not been adversely affected by inflation. however, starting in 2021 and continuing in 2022, many countries including the united states experienced higher inflation than in recent years. in 2022 our business has experienced rising labor costs, significant service provider rate increases, higher rent and occupancy and other expenses, which could continue to increase in 2023. due to the high degree of competition in the marketplace we may not be able to increase our prices to our customers to offset this inflationary pressure, which could lead to an erosion in our margins and operating income in the future. conversely, raising our prices to keep pace with inflationary pressure may result in a decrease in customer demand. as we are not required to purchase or maintain extensive property and equipment and have not otherwise incurred substantial interest rate-sensitive indebtedness, we currently have limited direct exposure to increased costs resulting from increases in interest rates.
+there is uncertainty as to how new regulatory requirements and volatility in oil prices will continue to impact future buy rates. because fuel is an integral part of carriers' costs and impacts both our buy rates and sell rates, we would expect our revenues and costs to be impacted as carriers adjust rates for the effect of changing fuel prices. to the extent that future fuel prices increase and we are unable to pass through the increase to our customers, fuel price increases could adversely affect our operating income.
+34.
+liquidity and capital resources our principal source of liquidity is cash and cash equivalents and cash generated from operating activities. net cash provided by operating activities for the year ended december 31, 2022 was $2,130 million, as compared with
+$868 million for 2021. this $1,262 million increase is primarily due to collection of accounts receivable when compared to the same period in 2021. at december 31, 2022, working capital was $2,464 million, including cash and cash equivalents of $2,034 million. other than our recorded lease liabilities, we had no long-term obligations or debt at december 31, 2022. management believes that our current cash position and operating cash flows will be sufficient to meet our capital and liquidity requirements for at least the next 12 months and thereafter for the foreseeable future, including meeting any contingent liabilities related to standby letters of credit and other obligations.
+as a customs broker, we make significant cash advances for a select group of our credit-worthy customers. these cash advances are for customer obligations such as the payment of duties and taxes to customs authorities in various countries throughout the world. increases in duty rates could result in increases in the amounts we advance on behalf of our customers. cash advances are a "pass through" and are not recorded as a component of revenue and expense. the billings of such advances to customers are accounted for as a direct increase in accounts receivable from the customer and a corresponding increase in accounts payable to governmental customs authorities. as a result of these "pass through" billings, the conventional days sales outstanding or dso calculation does not directly measure collection efficiency. for customers that meet certain criteria, we have agreed to extend payment terms beyond our customary terms. our accounts receivable and consequently our customer credit exposure increased as a result of historically high freight rates in 2021 and 2022. management believes that it has established effective credit control procedures, and historically has experienced relatively insignificant collection problems.
+our business historically has been subject to seasonal fluctuations, and this is expected to continue in the future. cash flows fluctuate as a result of this seasonality. historically, the first quarter shows an excess of customer collections over customer billings. this results in positive cash flow. the increased activity associated with periods of higher demand (typically commencing late second or early third quarter and continuing well into the fourth quarter) causes an excess of customer billings over customer collections. this cyclical growth in customer receivables consumes available cash. however, there is no assurance that this seasonal trend will occur in the future or to what degree it will continue to be impacted in 2023 by the softening of the global economy.
+cash used in investing activities for the year ended december 31, 2022 was $88 million, as compared with $37
+million in 2021. capital expenditures were $87 million in 2022 compared to $36 million in 2021. total anticipated capital expenditures in 2023 are currently estimated to be $100 million. this includes routine capital expenditures, leasehold and building improvements and investments in technology.
+cash used in financing activities for the year ended december 31, 2022 was $1,685 million as compared with $614
+million in 2021. we have a discretionary stock repurchase plan under which management is allowed to repurchase shares to reduce the issued and outstanding stock to 140 million shares of common stock, down from 150 million at december 31, 2022 as authorized by the board of directors in february 2023. we used the proceeds from stock option exercises, employee stock purchases and available cash to repurchase our common stock on the open market to reduce issued and outstanding shares. during 2022 and 2021, we used cash to repurchase 14.5 million shares of common stock at an average price of $108.88 per share and 4.4 million shares of common stock at an average price of $117.54 per share, respectively. in addition, during 2022 and 2021, we paid cash dividends of $1.34 and $1.16 per share, respectively.
+we follow established guidelines relating to credit quality, diversification and maturities of our investments to preserve principal and maintain liquidity. historically, our investment portfolio has not been adversely impacted by disruptions occurring in the credit markets. however, there can be no assurance that our investment portfolio will not be adversely affected in the future.
+we cannot predict what further impact ongoing uncertainties in the global economy, inflation, rising interest rates, political uncertainty nor the pandemic may have on our operating results, freight volumes, pricing, amounts advanced on behalf of our customers, changes in consumer demand, carrier stability and capacity, customers'
+abilities to pay or changes in competitors' behavior. the company expects that the february 2022 cyber-attack will not have a material adverse impact on its future business, revenues, expenses, results of operations and cash flows.
+35.
+we maintain international unsecured bank lines of credit for short-term working capital purposes. a few of these credit lines are supported by standby letters of credit issued by a united states bank or guarantees issued by the company to the foreign banks issuing the credit line. at december 31, 2022, borrowings under these credit lines were $58 million and we were contingently liable for $78 million from standby letters of credit and guarantees. the standby letters of credit and guarantees relate to obligations of our foreign subsidiaries for credit extended in the ordinary course of business by direct carriers, primarily airlines, and for duty and tax deferrals available from governmental entities responsible for customs and value-added-tax. the total underlying amounts due and payable for transportation and governmental excises are properly recorded as obligations in the accounting records of the respective foreign subsidiaries, and there would be no need to record additional expense in the unlikely event the parent company is required to perform.
+we have lease arrangements primarily for office and warehouse space in all districts where we conduct business. as of december 31, 2022, we had fixed lease payment obligations of $686 million, with $112 million payable within 12
+months.
+we typically enter into unconditional purchase obligations with asset-based providers (generally short-term in nature) reserving space on a guaranteed basis. the pricing of these obligations varies to some degree with market conditions. we only enter into agreements that management believes we can fulfill. in the regular course of business, we also enter into agreements with service providers to maintain or operate equipment, facilities or software that can be longer than one year. we also regularly have contractual obligations for specific projects related to improvements of our owned or leased facilities and information technology infrastructure. purchase obligations outstanding as of december 31, 2022 totaled $150 million.
+our foreign subsidiaries regularly remit dividends to the u.s. parent company after evaluating their working capital requirements and funds necessary to finance local capital expenditures. in some cases, our ability to repatriate funds from foreign operations may be subject to foreign exchange controls. at december 31, 2022, cash and cash equivalent balances of $722 million were held by our non-united states subsidiaries, of which $20 million was held in banks in the united states. earnings of our foreign subsidiaries are not considered to be indefinitely reinvested outside of the united states.
+as of december 31, 2022, we did not have any material off-balance-sheet arrangements, as defined in item 303(a)(2)
+of sec regulation s-k.
+item 7a - quantitative and qualitative disclosures about market risk we are exposed to market risks in the ordinary course of our business. these risks are primarily related to foreign exchange risk and changes in short-term interest rates. the potential impact of our exposure to these risks is presented below:
+foreign exchange risk we conduct business in many different countries and currencies. our business often results in billings issued in a country and currency that differs from that where the expenses related to the service are incurred. in the ordinary course of business, we create numerous intercompany transactions and may have receivables, payables and currencies that are not denominated in the local functional currency. this brings foreign exchange risk to our earnings. the principal foreign exchange risks to which expeditors is exposed include chinese yuan, euro, mexican peso, canadian dollar and british pound.
+foreign exchange rate sensitivity analysis can be quantified by estimating the impact on our earnings as a result of hypothetical changes in the value of the u.s. dollar, our functional currency, relative to the other currencies in which we transact business. all other things being equal, an average 10% weakening of the u.s. dollar, throughout the year ended december 31, 2022, would have had the effect of raising operating income by approximately
+$94 million. an average 10% strengthening of the u.s. dollar, for the same period, would have the effect of reducing operating income by approximately $77 million. this analysis does not take into account changes in shipping patterns based upon this hypothetical currency fluctuation. for example, a weakening in the u.s. dollar would be expected to increase exports from the united states and decrease imports into the united states over some relevant period of time, but the exact effect of this change cannot be quantified without making speculative assumptions.
+we currently do not use derivative financial instruments to manage foreign currency risk and only enter into foreign currency hedging transactions in limited locations where regulatory or commercial limitations restrict our ability to move money freely. any such hedging activity throughout the year ended december 31, 2022, was insignificant. net foreign currency losses were approximately $2 million and $12 million in 2022 and 2021, respectively. we had no foreign currency derivatives outstanding at december 31, 2022 and 2021. we instead follow a policy of accelerating international currency settlements to manage foreign exchange risk relative to intercompany billings. as of december 31, 2022, we had $73 million of net unsettled intercompany transactions. the majority of intercompany billings are resolved within 30 days.
+36.
+interest rate risk at december 31, 2022, we had cash and cash equivalents of $2,034 million, of which $995 million was invested at various short-term market interest rates. we had no long-term debt at december 31, 2022. a hypothetical change in the interest rate of 10 basis points at december 31, 2022 would not have a significant impact on our earnings.
+in management's opinion, there has been no material change in our interest rate risk exposure between 2022 and
+2021.
+37.
+item 8 - financial statements and supplementary data the following documents are filed on the pages listed below, as part of part ii, item 8 of this report.
+document                                                                                   page
+1              financial statements and reports of independent registered public accounting firm:
+reports of independent registered public accounting firm                       f-1 through f-4
+consolidated financial statements:
+balance sheets as of december 31, 2022 and 2021                                f-5
+statements of earnings for the years ended december 31, 2022, 2021 and 2020    f-6
+statements of comprehensive income for the years ended december 31, 2022,      f-7
+2021 and 2020
+statements of equity for the years ended december 31, 2022, 2021 and 2020      f-8
+statements of cash flows for the years ended december 31, 2022, 2021 and       f-9
+2020
+notes to consolidated financial statements                                     f-10 through f-24
+38.
+item 9 - changes in and disagreements with accountants on accounting and financial disclosure none.
+item 9a - controls and procedures evaluation of disclosure controls and procedures we carried out an evaluation, under the supervision and with the participation of our management, including the chief executive officer and chief financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in the exchange act rule 13a-15(e)) as of the end of the period covered by this report. based upon that evaluation, the chief executive officer and chief financial officer concluded that our disclosure controls and procedures were not effective as of december 31, 2022, due to a material weakness in internal control over financial reporting described below.
+management report on internal control over financial reporting management is responsible for establishing and maintaining adequate internal control over financial reporting as required by the sarbanes-oxley act of 2002 and as defined in exchange act rule 13a-15(f). our system of internal control over financial reporting is designed to provide reasonable assurance to our management and board of directors regarding the reliability of our financial reporting and the preparation of financial statements for external purposes in accordance with u.s. generally accepted accounting principles. internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with u.s. generally accepted accounting principles, and that receipts and expenditures are being made only in accordance with authorizations of management and our board of directors; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the company's assets that could have a material effect on the financial statements.
+a system of internal control can provide only reasonable, not absolute, assurance that the objectives of the control system are met. management, including the chief executive officer and chief financial officer, under the oversight of our board of directors, evaluated the effectiveness of the company's internal control over financial reporting, as of december 31, 2022, based on the framework in internal control - integrated framework (2013) issued by the committee of sponsoring organizations of the treadway commission (coso). a material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis.
+in the fourth quarter of 2022, management identified a material weakness in internal control related to certain database changes made to an information technology (it) system that supports the company's financial reporting processes. a control to review and authorize direct changes to databases that support several key operational and accounting systems did not capture the complete population of database changes and, as such did not operate effectively as designed. management concluded that unauthorized database changes could have gone undetected, could have resulted in errors in the financial statements for the year ended 2022 and could have had a direct or indirect impact on financial reporting controls, as there were no alternate information technology general control (itgc) or processes operating at a sufficient level of precision that would have timely detected improper -- database changes. management believes that this control deficiency was a result of it control processes lacking sufficient precision to support the successful operation of this itgc and was overly dependent upon interpretation, knowledge and actions of certain individuals with it expertise performing the control. the material weakness did not result in any identified misstatements to the financial statements, and there were no changes to previously released financial results. based on this material weakness, the company's management concluded that at december 31, 2022, the company's internal control over financial reporting was not effective.
+kpmg llp, an independent registered public accounting firm, has issued an attestation report on our internal control over financial reporting as of december 31, 2022, which is included on page f-3.
+39.
+remediation subsequent to the identification of the material weakness and prior to the issuance of these financial statements on form 10-k, the company (i) performed a lookback review of all direct changes made to the database subject to the control operating ineffectiveness for the full year 2022 and (ii) conducted supplemental procedures and found no evidence of improper changes or changes with direct or consequential impact on internal controls over financial reporting. as a result of identifying this issue management will be implementing certain enhancements designed to strengthen it program change management processes and will continue to conduct monthly supplemental lookback review procedures of direct database changes until improvements are fully in place. we expect that such enhancements will be completed prior to the end of 2023.
+changes in internal controls except for the material weakness identified during the quarter, as of december 31, 2022, there were no changes in our internal control over financial reporting that occurred during the most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting other than related to the cyber-attack as discussed below.
+with respect to the cyber-attack that is discussed in note 11 to the consolidated financial statements in this report, starting on february 20, 2022, we shut down most of our operating systems globally, including our accounting information systems, to manage the safety of our entire global systems environment. we engaged third-
+party cybersecurity experts to investigate and assist in the remediation. our board of directors was regularly apprised of, and directors with experience in cybersecurity participated in, the critical investigation and remediation activities. subsequently, we restored and strengthened the security of our systems and networks and enhanced the continuous monitoring of the entire information security environment. additionally, we have continued to implement various improvements to our network and processes to mitigate the risk of recurrence and severity of such incidents in the future.
+during the disruption caused by the cyber-attack, we deployed interim procedures and controls to maintain our systems of internal control over financial reporting. as a result of this cyber-attack and based on information known at this date, management determined that our disclosure controls and procedures were effective and the cyber-
+attack did not materially affect, nor was it reasonably likely to affect the effectiveness of the company's internal control over financial reporting.
+we are developing a new accounting system, which is being implemented on a worldwide basis over the next several years. this system is expected to improve the efficiency of certain financial and transactional processes and reporting. this transition affects the processes that constitute our internal control over financial reporting and requires testing for operating effectiveness.
+our management has confidence in our internal controls and procedures. nevertheless, our management, including expeditors' chief executive officer and chief financial officer, does not expect that our disclosure controls and procedures or our internal controls will prevent all errors or intentional fraud. an internal control system, no matter how well-conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of such internal controls are met. further, the design of an internal control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. because of the inherent limitations in all internal control systems, no evaluation of controls can provide absolute assurance that all of our control issues and instances of fraud, if any, have been detected.
+item 9b - other information not applicable.
+item 9c - disclosure regarding foreign jurisdictions that prevent inspections not applicable.
+40.
+partiii item 10 - directors, executive officers and corporate governance the information required by this item is set forth below or incorporated by reference to information under the caption "proposal no. 1: election of directors" and to the information under the caption "board operations" in expeditors' definitive proxy statement for its annual meeting of shareholders to be held on may 2, 2023. see also part i - item 1 - information about our executive officers.
+audit committee and audit committee financial expert expeditors' board has a separately-designated standing audit committee established in accordance with section
+3(a)(58)(a) of the exchange act. the members of the audit committee are brandon s. pedersen, james m. dubois, and olivia d. polius. expeditors' board has determined that brandon s. pedersen, chair of the audit committee, and olivia d. polius, are the audit committee financial experts as defined by item 407(d)(5) of regulation s-k under the exchange act and that each member of the audit committee is independent under the nasdaq independence standards applicable to audit committee members.
+code of ethics and governance guidelines expeditors has adopted acode of business conductthat applies to all expeditors employees including, of course, its principal executive officer and principal financial and accounting officer. thecode of business conductis posted with the governance documents on expeditors' website athttps://investor.expeditors.com. expeditors will post any amendments to thecode of business conductat that location. in the unlikely event that the board of directors approves any sort of waiver to thecode of business conductfor expeditors' executive officers or directors, information concerning such waiver will also be posted at that location. no such waivers have been granted.
+item 11 - executive compensation the information required by this item is incorporated by reference to information under the captions "director compensation program" and "compensation discussion and analysis" in expeditors' definitive proxy statement for its annual meeting of shareholders to be held on may 2, 2023.
+item 12 - security ownership of certain beneficial owners and management and related stockholder matters the information required by this item is incorporated by reference to information under the captions "shareholder engagement & stock ownership information" in expeditors' definitive proxy statement for its annual meeting of shareholders to be held on may 2, 2023.
+41.
+securities authorized for issuance under equity compensation plans the following table provides information as of december 31, 2022, regarding compensation plans under which equity securities of expeditors are authorized for issuance.
+(c)
+number of
+(a)                                  securities number of                     (b)       available for securities               weighted-     future issuance to be issued                 average        under equity upon exercise       exercise price of        compensation of outstanding             outstanding    plans (excluding options,                options,          securities warrants            warrants and        reflected in plan category                             and rights (1)              rights (2)     column (a)) (3)
+──────────────────────────────────────────────────────────────────────────────────────────────────────
+equity compensation plans approved by          2,861,347    $              44.86           3,172,538
+security holders equity compensation plans not approved                 -                       -                   -
+by security holders total                                          2,861,347    $              44.86           3,172,538
+represents shares issuable upon exercise of outstanding stock options, vesting of outstanding restricted stock units and performance stock units that will vest if target levels are achieved under the omnibus incentive plan.
+the weighted average exercise price does not take into account the shares issuable upon vesting of outstanding restricted stock units and performance stock units, which have no exercise price.
+includes 1,131,713 available for issuance under the employee stock purchase plans and 2,040,825 available for future grants of equity awards under the amended and restated 2017 omnibus incentive plan.
+item 13 - certain relationships and related transactions, and director independence the information required by this item is incorporated by reference to information under the captions "certain relationships and related transactions" in expeditors' definitive proxy statement for its annual meeting of shareholders to be held on may 2, 2023.
+item 14 - principal accounting fees and services the information required by this item is incorporated by reference to information under the caption "relationship with independent registered public accounting firm" in expeditors' definitive proxy statement for its annual meeting of shareholders to be held on may 2, 2023.
+42.
+part iv item 15 - exhibits, financial statement schedules page
+(a)  1.  financial statements reports of independent registered public accounting firm                             f-1 through f-4
+consolidated balance sheets as of december 31, 2022 and 2021                         f-5
+consolidated statements of earnings for the years ended december 31, 2022, 2021      f-6
+and 2020
+consolidated statements of comprehensive income for the years ended december 31,     f-7
+2022, 2021 and 2020
+consolidated statements of equity for the years ended december 31, 2022, 2021 and    f-8
+2020
+consolidated statements of cash flows for the years ended december 31, 2022, 2021    f-9
+and 2020
+notes to consolidated financial statements                                           f-10 through f-24
+2.  financial statement schedules schedules are omitted because of the absence of conditions under which they are required or because the required information is given in the consolidated financial statements or notes thereto.
+3.  executive compensation plans and arrangements the following list is a subset of the list of exhibits described below and contains all compensatory plans, contracts or arrangements in which any director or executive officer of expeditors is a participant, unless the method of allocation of benefits thereunder is the same for management and non-management participants:
+form of employment agreement executed by jeffrey s. musser, expeditors' president and chief executive officer. see exhibit 10.23.
+form of employment agreement executed by expeditors' chief financial officer. see exhibit 10.25.
+general form of executive employment agreement. see exhibit 10.27.
+expeditors' 2008 executive incentive compensation plan. see exhibit 10.35.
+expeditors' 2002 amended and restated employee stock purchase plan. see exhibit 10.42.
+expeditors' 2012 stock option plan. see exhibit 10.59.
+form of stock option agreement used in connection with options granted under expeditors' 2012 stock option plan.
+see exhibit 10.60.
+expeditors' 2013 stock option plan. see exhibit 10.61.
+form of stock option agreement used in connection with options granted under expeditors' 2013 stock option plan.
+see exhibit 10.62.
+expeditors' 2014 stock option plan. see exhibit 10.63.
+form of stock option agreement used in connection with options granted under expeditors; 2014 stock option plan.
+see exhibit 10.64.
+expeditors' 2015 stock option plan. see exhibit 10.65.
+form of stock option agreement used in connection with options granted under expeditors' 2015 stock option plan.
+see exhibit 10.66.
+expeditors' 2016 stock option plan. see exhibit 10.67.
+form of stock option agreement used in connection with options granted under expeditors' 2016 stock option plan.
+see exhibit 10.68.
+expeditors' amended and restated 2017 omnibus incentive plan. see exhibit 10.69
+form of executive restricted stock unit award agreement used in connection with executive restricted stock units granted under expeditors' amended and restated 2017 omnibus incentive stock plan. see exhibit 10.70
+form of performance share award agreement used in connection with performance share units granted under expeditors'
+amended and restated 2017 omnibus incentive stock plan. see exhibit 10.72
+43.
+exhibits exhibit expeditors' restated articles of incorporation and the articles of amendment as amended.
+exhibitnumber    (incorporated by reference to exhibit 3.1 to form 10-k, filed on or about february 23, 2018.)
+3.1              expeditors' amended and restated bylaws. (incorporated by reference to exhibit 3.2 to form
+3.2              8-k, filed on or about november 9, 2022.)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+4.1              description of registrant's securities. (incorporated by reference to the company's form 10-k for the year ended december 31, 2019, filed on or about february 21, 2020.)
+form of employment agreement executed by jeffrey s. musser, expeditors' president and chief
+10.23            executive officer dated december 31, 2008. (incorporated by reference to exhibit 10.23 to form
+10-k, filed on or about february 26, 2015.)
+form of employment agreement executed by expeditors' chief financial officer dated december
+10.25            31, 2008. (incorporated by reference to exhibit 10.25 to form 10-k, filed on or about february
+27, 2009.)
+10.27            general form of executive employment agreement (incorporated by reference to exhibit 10.27 to form 10-q, filed on or about august 6, 2015.)
+expeditors' 2008 executive incentive compensation plan. (incorporated by reference to appendix
+10.35            c of expeditors' notice of annual meeting of shareholders and proxy statement pursuant to regulation 14a filed on or about march 21, 2008.)
+expeditors' amended and restated 2002 employee stock purchase plan. (incorporated by reference
+10.42            to appendix a of expeditors' notice of annual meeting of shareholders and proxy statement pursuant to regulation 14a filed on or about march 27, 2019.)
+expeditors' 2012 stock option plan. (incorporated by reference to appendix a of expeditors'
+10.59            notice of annual meeting of shareholders and proxy statement pursuant to regulation 14a filed on or about march 20, 2012.)
+form of stock option agreement used in connection with options granted under expeditors' 2012
+10.60            stock option plan.  (incorporated by reference to appendix b of expeditors' notice of annual meeting of shareholders and proxy statement pursuant to regulation 14a filed on or about march
+20, 2012.)
+expeditors' 2013 stock option plan. (incorporated by reference to appendix a of expeditors'
+10.61            notice of annual meeting of shareholders and proxy statement pursuant to regulation 14a filed on or about march 29, 2013.)
+form of stock option agreement used in connection with options granted under expeditors' 2013
+10.62            stock option plan.  (incorporated by reference to appendix b of expeditors' notice of annual meeting of shareholders and proxy statement pursuant to regulation 14a filed on or about march
+29, 2013.)
+expeditors' 2014 stock option plan. (incorporated by reference to appendix a of expeditors'
+10.63            notice of annual meeting of shareholders and proxy statement pursuant to regulation 14a filed on or about march 21, 2014.)
+form of stock option agreement used in connection with options granted under expeditors' 2014
+10.64            stock option plan.  (incorporated by reference to appendix b of expeditors' notice of annual meeting of shareholders and proxy statement pursuant to regulation 14a filed on or about march
+21, 2014.)
+expeditors' 2015 stock option plan. (incorporated by reference to appendix a of expeditors'
+10.65            notice of annual meeting of shareholders and proxy statement pursuant to regulation 14a filed on or about april 9, 2015.)
+form of stock option agreement used in connection with options granted under expeditors' 2015
+10.66            stock option plan.  (incorporated by reference to appendix b of expeditors' notice of annual meeting of shareholders and proxy statement pursuant to regulation 14a filed on or about april
+9, 2015.)
+44.
+expeditors' 2016 stock option plan. (incorporated by reference to appendix a of expeditors' notice of annual meeting of shareholders and proxy statement pursuant to regulation 14a filed on or about march 24, 2016.)
+form of stock option agreement used in connection with options granted under expeditors' 2016 stock
+10.67      option plan.  (incorporated by reference to appendix b of expeditors' notice of annual meeting of
+10.68      shareholders and proxy statement pursuant to regulation 14a filed on or about march 24, 2016.)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+expeditors' amended and restated 2017 omnibus incentive plan. (incorporated by reference to appendix
+10.69      b of expeditors' notice of annual meeting of shareholders and proxy statement pursuant to regulation
+14a filed on or about march 24, 2020.)
+form of executive restricted stock unit award agreement used in connection with executive restricted
+10.70      stock units granted under expeditors' amended and restated 2017 omnibus incentive plan.
+(incorporated by reference to exhibit 10.70 to form s-8 filed on or about may 16, 2017.)
+form of performance share award agreement used in connection with performance share units granted
+10.72      under expeditors' amended and restated 2017 omnibus incentive plan. (incorporated by reference to exhibit 10.72 to form 10-q filed on or about august 7, 2019.)
+21.1       subsidiaries of the registrant.
+23.1       consent of independent registered public accounting firm.
+31.1       certification of chief executive officer pursuant to section 302 of the sarbanes-oxley act of 2002.
+31.2       certification of chief financial officer pursuant to section 302 of the sarbanes-oxley act of 2002.
+32         certification pursuant to 18 u.s.c. section 1350, as adopted pursuant to section 906 of the sarbanes-oxley act of 2002.
+101.ins    inline xbrl instance document - the instance document does not appear in the interactive data file because its xbrl tags are embedded within the inline xbrl document.
+101.sch    inline xbrl taxonomy extension schema document.
+101.cal    inline xbrl taxonomy extension calculation linkbase document.
+101.lab    inline xbrl taxonomy extension label linkbase document.
+101.pre    inline xbrl taxonomy extension presentation linkbase document.
+101.def    inline xbrl taxonomy extension definition linkbase document.
+104        the cover page from the company's yearly report on form 10-k for the year ended december 31, 2022, has been formatted in inline xbrl.
+item 16 - form10-k summary none.
+45.
+signatures pursuant to the requirements of section 13 or 15(d) of the securities exchange act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+date: march 1, 2023
+expeditors international of washington, inc.
+by:                                                /s/ bradley s. powell bradley s. powell senior vice president and chief financial officer pursuant to the requirements of the securities exchange act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities indicated on february 28, 2023.
+signature                  title
+/s/ jeffrey s. musser      president, chief executive officer and director
+(jeffrey s. musser)        -principal executive officer
+/s/ bradley s. powell      senior vice president and chief financial officer
+(bradley s. powell)        -principal financial and accounting officer
+/s/ robert p. carlile      chairman of the board and director
+(robert p. carlile)
+/s/ glenn m. alger         director
+(glenn m. alger)
+/s/ james m. dubois        director
+(james m. dubois)
+/s/ mark a. emmert         director
+(mark a. emmert)
+/s/ diane h. gulyas        director
+(diane h. gulyas)
+/s/ brandon s. pedersen    director
+(brandon s. pedersen)
+/s/ liane j. pelletier     director
+(liane j. pelletier)
+/s/ olivia d. polius       director
+(olivia d. polius)
+46.
+expeditors international of washington, inc.
+and subsidiaries consolidated financial statements comprising item 8
+annual report on form 10-k to securities and exchange commission for the years ended december 31, 2022, 2021, and 2020
+47.
+report of independent registered public accounting firm to the shareholders and board of directors expeditors international of washington, inc.:
+opinion on the consolidated financial statements we have audited the accompanying consolidated balance sheets of expeditors international of washington, inc. and subsidiaries (the company) as of december 31, 2022 and 2021, the related consolidated statements of earnings, comprehensive income, equity, and cash flows for each of the years in the three-year period ended december 31,
+2022, and the related notes (collectively, the consolidated financial statements). in our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the company as of december
+31, 2022 and 2021, and the results of its operations and its cash flows for each of the years in the three-year period ended december 31, 2022, in conformity with u.s. generally accepted accounting principles.
+we also have audited, in accordance with the standards of the public company accounting oversight board (united states) (pcaob), the company's internal control over financial reporting as of december 31, 2022, based on criteria established in internalcontrol - integrated framework (2013)issued by the committee of sponsoring organizations of the treadway commission, and our report dated march 1, 2023 expressed an adverse opinion on the effectiveness of the company's internal control over financial reporting.
+basis for opinion these consolidated financial statements are the responsibility of the company's management. our responsibility is to express an opinion on these consolidated financial statements based on our audits. we are a public accounting firm registered with the pcaob and are required to be independent with respect to the company in accordance with the u.s. federal securities laws and the applicable rules and regulations of the securities and exchange commission and the pcaob.
+we conducted our audits in accordance with the standards of the pcaob. those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. we believe that our audits provide a reasonable basis for our opinion.
+critical audit matter the critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1)
+relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. the communication of a critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+assessment of gross unrecognized tax benefits as discussed in note 7 to the consolidated financial statements, the company is subject to examination by taxing authorities throughout the world in the normal course of business. the company estimates additional tax expense, as well as interest and penalties that could arise from certain tax audits.
+we identified the assessment of certain gross unrecognized tax benefits as a critical audit matter. complex auditor judgment was required in evaluating the company's interpretation of tax law and its estimate of the ultimate resolution of tax positions.
+the primary procedures we performed to address this critical audit matter included the following. we tested certain internal controls over the company's unrecognized tax benefit process. this included controls related to the interpretation of tax law and its application in the liability estimation process. since tax law is complex and often subject to interpretations, we involved tax professionals with specialized skills and knowledge, who assisted in:
+f-1
+evaluating the company's interpretation of tax laws, assessing transfer pricing positions for compliance with applicable laws and regulations, inspecting settlement documents with applicable taxing authorities and appeals documents with applicable tax courts, assessing the expiration of statutes of limitations, comparing historical gross unrecognized tax benefits to actual results upon conclusion of tax audits or expiration of the statute of limitations, and performing an independent assessment of the company's tax positions and comparing the results to the company's assessment.
+in addition, we assessed the responses received directly from the company's external legal counsel regarding tax positions for which they had been engaged.
+/s/ kpmg llp we have served as the company's auditor since
+1982.
+seattle, washington march 1, 2023
+f-2
+report of independent registered public accounting firm to the shareholders and board of directors expeditors international of washington, inc.:
+opinion on internal control over financial reporting we have audited expeditors international of washington, inc. and subsidiaries' (the company) internal control over financial reporting as of december 31, 2022, based on criteria established ininternal control - integrated framework (2013)issued by the committee of sponsoring organizations of the treadway commission. in our opinion, because of the effect of the material weakness, described below, on the achievement of the objectives of the control criteria, the company has not maintained effective internal control over financial reporting as of december
+31, 2022, based on criteria established ininternal control - integrated framework (2013)issued by the committee of sponsoring organizations of the treadway commission.
+we also have audited, in accordance with the standards of the public company accounting oversight board (united states) (pcaob), the consolidated balance sheets of the company as of december 31, 2022 and 2021, the related consolidated statements of earnings, comprehensive income, equity, and cash flows for each of the years in the three-year period ended december 31, 2022, and the related notes (collectively, the consolidated financial statements), and our report dated march 1, 2023 expressed an unqualified opinion on those consolidated financial statements.
+a material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the company's annual or interim financial statements will not be prevented or detected on a timely basis. a material weakness in internal control related to certain database changes made to an information technology (it) system that supports the company's financial reporting process has been identified and included in management's assessment. a control to review and authorize direct changes to databases that support several key operational and accounting systems did not capture the complete population of database changes and, as such did not operate effectively as designed.
+management concluded that unauthorized database changes could have gone undetected, could have resulted in errors in the financial statements for the year ended 2022 and could have had a direct or indirect impact on financial reporting controls, as there were no alternate itgc controls or processes operating at a sufficient level of precision that would have timely detected improper database changes. the material weakness was considered in determining the nature, timing, and extent of audit tests applied in our audit of the 2022 consolidated financial statements, and this report does not affect our report on those consolidated financial statements.
+basis for opinion the company's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying management report on internal control over financial reporting (item 9a). our responsibility is to express an opinion on the company's internal control over financial reporting based on our audit. we are a public accounting firm registered with the pcaob and are required to be independent with respect to the company in accordance with the u.s. federal securities laws and the applicable rules and regulations of the securities and exchange commission and the pcaob.
+we conducted our audit in accordance with the standards of the pcaob. those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk.
+our audit also included performing such other procedures as we considered necessary in the circumstances. we believe that our audit provides a reasonable basis for our opinion.
+f-3
+definition and limitations of internal control over financial reporting a company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. a company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ kpmg llp seattle, washington march 1, 2023
+─────────────────────
+f-4
+consolidated balance sheets in thousands, except per share data december 31,                                        2022               2021
+────────────────────────────────────────────────────────────────────────────────
+assets:
+current assets:
+cash and cash equivalents                   $  2,034,131       $  1,728,692
+accounts receivable, net                       2,107,645          3,810,286
+deferred contract costs                          257,545            987,266
+other                                            118,696            108,801
+total current assets                           4,518,017          6,635,045
+property and equipment, net                      501,916            487,870
+operating lease right-of-use assets              507,503            459,158
+goodwill                                           7,927              7,927
+deferred federal and state income taxes,          37,449                729
+net other assets, net                                 17,622             19,200
+total assets                                $  5,590,434       $  7,609,929
+liabilities:
+current liabilities:
+accounts payable                            $  1,108,996       $  2,012,461
+accrued expenses, primarily salaries and         479,262            403,625
+related costs contract liabilities                             323,101          1,142,026
+current portion of operating lease                95,621             82,019
+liabilities federal, state and foreign income taxes           47,075             86,166
+total current liabilities                      2,054,055          3,726,297
+noncurrent portion of operating lease            422,844            385,641
+liabilities commitments and contingencies shareholders' equity:
+preferred stock, par value $0.01 per share, authorized 2,000 shares; none                   -                  -
+issued common stock, par value $0.01 per share, authorized 640,000. issued and outstanding:                                       1,543              1,672
+154,313 shares and 167,210 shares at december 31, 2022 and 2021, respectively additional paid-in capital                           139              3,160
+retained earnings                              3,310,892          3,620,008
+accumulated other comprehensive loss            (202,553  )        (130,414  )
+total shareholders' equity                     3,110,021          3,494,426
+noncontrolling interest                            3,514              3,565
+total equity                                   3,113,535          3,497,991
+total liabilities and equity                $  5,590,434       $  7,609,929
+see accompanying notes to consolidated financial statements.
+f-5
+consolidated statements of earnings in thousands, except per share data years ended december 31,                          2022                2021               2020
+──────────────────────────────────────────────────────────────────────────────────────────────────
+revenues:
+airfreight services                      $   5,886,886       $   6,771,402       $  4,274,026
+ocean freight and ocean services             6,544,559           5,545,818          2,342,344
+customs brokerage and other services         4,639,839           4,206,297          2,968,023
+total revenues                              17,071,284          16,523,517          9,584,393
+operating expenses:
+airfreight services                          4,359,726           5,067,380          3,168,808
+ocean freight and ocean services             5,188,066           4,364,160          1,751,850
+customs brokerage and other services         3,029,105           2,626,615          1,736,044
+salaries and related costs                   2,056,387           2,062,351          1,538,104
+rent and occupancy costs                       209,532             186,287            169,863
+depreciation and amortization                   57,338              51,312             56,959
+selling and promotion                           24,293              16,026             18,436
+other                                          322,466             240,060            203,892
+total operating expenses                    15,246,913          14,614,191          8,643,956
+operating income                             1,824,371           1,909,326            940,437
+other income (expense):
+interest income                                 25,554               8,807             10,415
+interest expense                               (23,277  )             (411  )            (219  )
+other, net                                       9,243               6,894              5,931
+other income, net                               11,520              15,290             16,127
+earnings before income taxes                 1,835,891           1,924,616            956,564
+income tax expense                             475,286             505,771            258,350
+net earnings                                 1,360,605           1,418,845            698,214
+less net earnings attributable to the            3,206               3,353              2,074
+noncontrolling interest net earnings attributable to             $   1,357,399       $   1,415,492       $    696,140
+shareholders diluted earnings attributable to         $        8.26       $        8.27       $       4.07
+shareholders per share basic earnings attributable to           $        8.33       $        8.37       $       4.14
+shareholders per share weighted average diluted shares                164,427             171,250            170,896
+outstanding weighted average basic shares                  163,010             169,145            168,333
+outstanding see accompanying notes to consolidated financial statements.
+f-6
+consolidated statementsof comprehensive income in thousands years ended december 31,                            2022               2021             2020
+──────────────────────────────────────────────────────────────────────────────────────────────
+net earnings                                $  1,360,605       $  1,418,845       $  698,214
+other comprehensive income (loss), net of tax:
+foreign currency translation adjustments, net of tax (benefit)                (73,451  )         (32,408  )        30,759
+expense of ($5,037) in 2022, ($5,275) in
+2021, and $4,254 in 2020
+other comprehensive (loss) income                (73,451  )         (32,408  )        30,759
+comprehensive income                           1,287,154          1,386,437          728,973
+less comprehensive income attributable             1,894              1,606            1,399
+to the noncontrolling interest comprehensive income attributable to        $  1,285,260       $  1,384,831       $  727,574
+shareholders see accompanying notes to consolidated financial statements.
+f-7
+consolidated statements of equity in thousands, except per share data years ended december 31, 2022, 2021 and 2020
+acc...
+com...                        add...                        oth...          tot...
+sto...           par          pai...          ret...          com...          sha...          no...          tot...
+sha...          val...          cap...          ear...          loss          equ...          in...          equ...
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ba...
+at de...    169...       $  1,6...       $  3,2...       $  2,3...       $  (13...  )       2,1...       $  2,...       $  2,1...
+31,
+20...
+cu...
+ad...
+for ad...       -             -             -          6,0...             -          6,0...            -          6,0...
+of new ac...
+pr...
+sh...
+is...
+un...    4,2...            43          175...             -             -          175...            -          175...
+em...
+st...
+pl...
+sh...
+re...
+un...
+pr...    (4,...  )        (46  )       (84...  )       (24...  )          -          (33...  )         -          (33...  )
+of st...
+re...
+pl...
+st...
+co...       -             -          62,...             -             -          62,...            -          62,...
+ex...
+net       -             -             -          696...             -          696...          2,...          698...
+ea...
+ot...
+co...       -             -             -             -          31,...          31,...          (6...  )       30,...
+in...
+(l...
+di...
+and di...       -             -          1,0...          (17...  )          -          (17...  )         -          (17...  )
+eq...
+pa...
+($...
+ba...
+at de...    169...          1,6...          157...          2,6...          (99...  )       2,6...          3,...          2,6...
+31,
+20...
+sh...
+is...
+un...    2,2...            23          90,...             -             -          90,...            -          90,...
+em...
+st...
+pl...
+sh...
+re...
+un...
+pr...    (4,...  )        (44  )       (31...  )       (19...  )          -          (51...  )         -          (51...  )
+of st...
+re...
+pl...
+st...
+co...       -             -          69,...             -             -          69,...            -          69,...
+ex...
+net       -             -             -          1,4...             -          1,4...          3,...          1,4...
+ea...
+ot...
+co...       -             -             -             -          (30...  )       (30...  )       (1...  )       (32...  )
+lo...
+di...
+and di...       -             -           934          (19...  )          -          (19...  )         -          (19...  )
+eq...
+pa...
+($...
+di...
+to        -             -             -             -             -             -          (1...  )       (1,...  )
+no...
+in...
+ba...
+at de...    167...          1,6...          3,1...          3,6...          (13...  )       3,4...          3,...          3,4...
+31,
+20...
+sh...
+is...
+un...    1,6...            16          61,...             -             -          61,...            -          61,...
+em...
+st...
+pl...
+sh...
+re...
+un...
+pr...    (14...  )       (145  )       (13...  )       (1,...  )          -          (1,...  )         -          (1,...  )
+of st...
+re...
+pl...
+st...
+co...       -             -          64,...             -             -          64,...            -          64,...
+ex...
+net       -             -             -          1,3...             -          1,3...          3,...          1,3...
+ea...
+ot...
+co...       -             -             -             -          (72...  )       (72...  )       (1...  )       (73...  )
+lo...
+di...
+and di...       -             -          1,1...          (21...  )          -          (21...  )         -          (21...  )
+eq...
+pa...
+($...
+di...
+to        -             -             -             -             -             -          (1...  )       (1,...  )
+no...
+in...
+ba...
+at de...    154...       $  1,5...       $   139       $  3,3...       $  (20...  )    $  3,1...       $  3,...       $  3,1...
+31,
+20...
+see accompanying notes to consolidated financial statements.
+f-8
+consolidated statements of cash flows in thousands years ended december 31,                             2022                2021               2020
+─────────────────────────────────────────────────────────────────────────────────────────────────────
+operating activities:
+net earnings                                $   1,360,605       $   1,418,845       $    698,214
+adjustments to reconcile net earnings to net cash from operating activities:
+provisions for losses on accounts                  11,050               7,540              5,584
+receivable deferred income tax (benefit) expense             (33,240  )           (3,690  )           8,371
+stock compensation expense                         64,397              69,385             62,498
+depreciation and amortization                      57,338              51,312             56,959
+other, net                                          1,252               3,790              3,960
+changes in operating assets and liabilities:
+decrease (increase) in accounts                 1,592,341          (1,869,827  )        (647,193  )
+receivable
+(decrease) increase in accounts payable          (798,123  )        1,041,805            430,452
+and accrued expenses decrease (increase) in deferred contract          714,960            (700,273  )        (189,447  )
+costs
+(decrease) increase in contract                  (798,356  )          803,837            217,699
+liabilities
+(decrease) increase in income taxes               (55,129  )           57,867              8,502
+payable, net decrease (increase) in other, net                  12,580             (12,097  )            (630  )
+net cash from operating activities              2,129,675             868,494            654,969
+investing activities:
+purchase of property and equipment                (86,824  )          (36,247  )         (47,543  )
+other, net                                           (890  )             (398  )           1,516
+net cash from investing activities                (87,714  )          (36,645  )         (46,027  )
+financing activities:
+proceeds from borrowing on lines of                81,756              10,063                257
+credit payments from borrowing on lines of               (30,289  )           (2,551  )            (214  )
+credit proceeds from issuance of common stock             80,980             106,105            186,345
+repurchases of common stock                    (1,581,908  )         (514,594  )        (332,387  )
+dividends paid                                   (213,799  )         (195,766  )        (174,929  )
+payments for taxes related to net share           (19,335  )          (15,172  )         (10,566  )
+settlement of equity awards distribution to noncontrolling interest            (1,945  )           (1,631  )               -
+net cash from financing activities             (1,684,540  )         (613,546  )        (331,494  )
+effect of exchange rate changes on cash           (51,982  )          (17,402  )          19,852
+and cash equivalents change in cash and cash equivalents               305,439             200,901            297,300
+cash and cash equivalents at beginning          1,728,692           1,527,791          1,230,491
+of period cash and cash equivalents at end of         $   2,034,131       $   1,728,692       $  1,527,791
+period supplemental cash flow information:
+cash paid for income taxes                  $     566,533       $     442,549       $    239,849
+see accompanying notes to consolidated financial statements.
+f-9
+notes to consolidated financial statements note 1.summary of significant accounting policies a. | basis of presentation expeditors international of washington, inc. (the "company") is a non-asset-based provider of global logistics services operating through a worldwide network of offices and exclusive or non-
+exclusive agents. the company's customers include retailing and wholesaling, electronics, high technology, industrial and manufacturing companies around the world. international trade is influenced by many factors, including economic and political conditions in the united states and abroad, currency exchange rates, laws and policies relating to tariffs, trade restrictions, foreign investments and taxation. periodically, governments consider a variety of changes to tariffs and trade restrictions and accords. the company cannot predict the outcome of ongoing proposals or negotiations, nor can the company predict the effects adoption of any such proposal will have on the company's business. doing business in foreign locations also subjects the company to a variety of risks and considerations not normally encountered by domestic enterprises. in addition to being influenced by governmental policies and inter-governmental disputes concerning international trade, the company's business may also be affected by political developments and changes in government personnel or policies as well as economic turbulence, natural disasters and pandemics, political unrest and security concerns in the nations and on the shipping lanes in which it does business and the future impact that these events may have on international trade, oil prices and security costs.
+the consolidated financial statements have been prepared pursuant to the rules and regulations of the securities and exchange commission in accordance with accounting principles generally accepted in the united states (u.s.
+gaap). the consolidated financial statements include the accounts of the company and its subsidiaries stated in u.s. dollars, the company's reporting currency. in addition, the consolidated financial statements also include the accounts of operating entities where the company maintains a parent-subsidiary relationship through unilateral control over assets and operations together with responsibility for payment of all liabilities, notwithstanding a lack of technical majority ownership of the subsidiary's common stock. all significant intercompany accounts and transactions have been eliminated in consolidation. all dollar amounts in the notes are presented in thousands except for per share data or unless otherwise specified. certain prior year amounts on the consolidated statements of earnings and consolidated statements of cash flows have been reclassified to conform to the current year presentation.
+b. | cash equivalents all highly liquid investments with a maturity of three months or less at date of purchase are considered to be cash equivalents.
+c. | accounts receivable effective january 1, 2020, the company adopted a new accounting standard update related to the measurement of credit losses on financial instruments. the company determined that this new guidance is applicable to its accounts receivable, which are short term and for which the company has not historically experienced significant credit losses. the adoption had an immaterial effect on the company's consolidated financial statements and disclosures. the company adopted this standard using the modified retrospective transition method resulting in a $ 6 million adjustment to the opening balance of retained earnings and an $ 8 million reduction to the opening balance of allowance for credit loss. the valuation allowance reduces a financial asset's balance for credit losses expected to be incurred over the assets contractual term. the company's trade accounts receivable present similar credit risk characteristics and the allowance for credit loss is estimated on a collective basis, using a credit loss-rate method that uses historical credit loss information and considers the current economic environment. additional allowances may be necessary in the future if changes in economic conditions are significant enough to affect expected credit losses. the company has recorded an allowance for credit loss in the amounts of $ 9,466 and $ 6,686 as of december 31, 2022 and 2021 , respectively. additions and write-offs have not been significant in the periods presented.
+f-10
+d. | long-lived assets, depreciation and amortization property and equipment are recorded at cost and are depreciated or amortized on the straight-line method over the shorter of the assets' estimated useful lives or lease terms.useful lives for major categories of property and equipment are as follows:
+buildings and land improvements                 30 to 40 years building improvements                           3 to 10 years furniture, fixtures, equipment and purchased    3 to 10 years software expenditures for maintenance, repairs, and replacements of minor items are charged to earnings as incurred. major upgrades and improvements that extend the life of the asset are capitalized. upon disposition, the cost and related accumulated depreciation are removed from the accounts and the resulting gain or loss is included in income for the period.
+for the years ended december 31, 2022 and 2021, the company performed the required goodwill annual impairment test during the fourth quarter and determined thatnoimpairment had occurred.
+e. | leases the company determines if an arrangement is a lease at inception. right-of-use (rou) assets represent the company's right to use an underlying asset for the lease term, and lease liabilities represent the company's obligation to make lease payments arising from the lease. all rou assets and lease liabilities are recognized at the commencement date at the present value of lease payments over the lease term. rou assets are adjusted for lease incentives and initial direct costs. the lease term includes renewal options exercisable at the company's sole discretion when the company is reasonably certain to exercise that option. as the company's leases generally do not have an implicit rate, the company uses an estimated incremental borrowing rate based on market information available at the commencement date to determine the present value. certain of our leases include variable payments, which may vary based upon changes in facts or circumstances after the start of the lease. the company excludes variable payments from rou assets and lease liabilities, to the extent not considered fixed, and instead expenses variable payments as incurred. lease expense is recognized on a straight-line basis over the lease term and is included in rent and occupancy expenses on the consolidated statement of earnings. additionally, the company elected to apply the short-term lease exemption for leases with a non-cancelable period of twelve months or less and has chosen not to separate non-lease components from lease components and instead to account for each as a single lease component.
+f. | revenues and revenue recognition the company provides global logistics services, including air and ocean freight consolidation and forwarding, customs brokerage, warehousing and distribution, purchase order management, vendor consolidation, time-definite transportation services, temperature-controlled transit, cargo insurance, specialized cargo monitoring and tracking and other logistics solutions. as a non-asset-based carrier, the company does not own transportation assets. the company derives its revenues by entering into agreements that are generally comprised of a single performance obligation, which is that freight is shipped for and received by the customer.
+each performance obligation is comprised of one or more of the company's services. the company's three principal services are the revenue categories presented in the consolidated statements of earnings: 1) airfreight services,
+2) ocean freight and ocean services, and 3) customs brokerage and other services. the most significant drivers of changes in gross revenues and related transportation expenses are volume, sell rates and buy rates. volume has a similar effect on the change in both gross revenues and related transportation expenses in each of the company's three primary sources of revenue. the major portion of the company's air and ocean freight revenues are generated by purchasing transportation services on a volume basis from direct (asset-based) carriers and then reselling that space to customers on a retail basis. the rate billed to our customers (the sell rate) is recognized as revenues and the rate we pay to the carrier (the buy rate) is recognized in operating expenses as the directly related cost of transportation and other expenses. f- 11 revenue is recognized upon transfer of control of promised services to customers, which occurs over time. the company has determined that in general each shipment transaction or service order constitutes a separate contract with the customer. however, when the company provides multiple services to a customer, different contracts may be present for different services. the company combines the contracts, which form a single performance obligation, and accounts for the contracts as a single contract when certain criteria are met.
+the company typically satisfies its performance obligations as services are rendered over time. a typical shipment would include services rendered at origin, such as pick-up and delivery to port, freight services from origin to destination port and destination services, such as customs clearance and final delivery. the company measures the performance of its obligations as services are completed over the life of a shipment, including services at origin, freight and destination. this method of measurement of progress depicts the pattern of the company's actual performance under the contracts with the customer. there are no significant judgments involved in measuring the progress of the performance obligations. amounts allocated to the services for each performance obligation are typically based on standalone selling prices. the company does not have significant variable consideration in its contracts. taxes assessed concurrently with a specific revenue-producing transaction that are collected by the company from a customer are excluded from revenues. typically, the transaction price for each of the company's services are quoted as separate components; however, customers on occasion will request an all-inclusive rate for a set of services known in the industry as "door-to-door service." this means that the customer is billed a single rate for all services from pickup at origin to delivery at destination. in these instances, the transaction price is allocated to each service on a relative selling price basis. the company fulfills nearly all of its performance obligations within a one to two month-period and contracts with customers have an original expected duration of less than one year. the company generally has an unconditional right to consideration when the services are initiated or soon thereafter. the amount due from the customer is recorded as accounts receivable. the amounts related to services that are not yet completed at the reporting date are presented as contract liabilities, with corresponding direct costs to fulfill the performance obligation that will be satisfied in the future presented as deferred contract costs. the company generally does not incur incremental costs to obtain the contract with the customer. the company may incur costs to fulfill the contract with the customers, such as set-up costs. however, the amount incurred is insignificant to the company's consolidated financial statements. the company evaluates whether amounts billed to customers should be reported as revenues on a gross or net basis. generally, revenue is recorded on a gross basis when the company is primarily responsible for fulfilling the promise to provide the services, when it assumes the risk of loss, when it has discretion in setting the prices for the services to the customers, and when the company has the ability to direct the use of the services provided by the third party. in most cases the company acts as an indirect carrier. when acting as an indirect carrier, the company issues a house airway bill (hawb), a house ocean bill of lading (hobl) or a house seaway bill to customers as the contract of carriage. in turn, when the freight is physically tendered to a direct carrier, the company receives a contract of carriage known as a master airway bill for airfreight shipments and a master ocean bill of lading for ocean shipments. when revenue is recorded on a net basis, the amounts earned are determined using a fixed fee, a per unit of activity fee or a combination thereof. for revenues earned in other capacities, for instance, when the company does not issue a hawb, a hobl, or a house seaway bill or otherwise act solely as an agent for the shipper, only the commissions and fees earned for such services are included in revenues. in these transactions, the company is not a principal and report only commissions and fees earned in revenues. the company disaggregates its revenues by its three primary service categories in the consolidated financial statements: airfreight, ocean freight and ocean services and customs brokerage and other. revenues by geographic location are presented within business segment information in note 10.
+f-12
+g. | income taxes income taxes are accounted for under the asset and liability method of accounting. under this method, deferred tax assets and liabilities are recognized for the future tax consequences attributed to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases, the tax effect of loss carryforwards and tax credit carryforwards. deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. the effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. a valuation allowance is established when necessary to reduce deferred tax assets to amounts expected to be realized. the company uses a two-step approach to recognizing and measuring uncertain income tax positions (tax contingencies). the first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates it is more likely than not the position will be sustained on audit, including resolution of related appeals or litigation processes. the second step is to measure the tax benefit as the largest amount which is more than 50% likely of being realized upon ultimate settlement. the company considers many factors when evaluating its tax positions and estimating our tax benefits, which may require periodic adjustments and which may not match the ultimate future outcome. the company recognizes interest expense related to unrecognized tax benefits or underpayment of income taxes in interest expense and recognizes penalties in operating expenses. u.s. corporate income tax laws and regulations include a territorial tax framework and provisions for global intangible low-taxed income (gilti) under which taxes on foreign income are imposed on the excess of a deemed return on tangible assets of certain foreign subsidiaries, base erosion and anti-abuse tax (beat) under which taxes are imposed on certain base eroding payments to affiliated foreign companies as well as u.s. income tax deductions for foreign-derived intangible income (fdii).
+the company treats beat and gilti as discrete adjustments as components of current income tax expense. earnings of the company's foreign subsidiaries are not considered to be indefinitely reinvested outside of the united states.
+h | net earnings attributable to shareholders per common share diluted earnings attributable to shareholders per share is computed using the weighted average number of common shares and dilutive potential common shares outstanding. dilutive potential common shares represent outstanding stock options, stock purchase rights and unvested restricted stock units. basic earnings attributable to shareholders per share is calculated using the weighted average number of common shares outstanding without taking into consideration dilutive potential common shares outstanding.
+i. | stock plans the company maintains several equity incentive plans under which the company has granted stock options, director restricted stock, restricted stock units (rsus), performance stock units (psus) and employee stock purchase rights to employees or directors. the company recognizes stock compensation expense based on the fair value of awards granted to employees and directors under the company's amended and restated 2017 omnibus plan and employee stock purchase rights plans. this expense, adjusted for expected performance and forfeitures, is recognized in net earnings on a straight-line basis over the service periods as salaries and related costs on the consolidated statements of earnings. expense for psus is recognized over the service period when it is probable the performance goal will be achieved and based on the most probable outcome of performance conditions at the reporting date. rsus and psus awarded to certain employees meeting specific retirement eligibility criteria at the time of grant are expensed immediately, as there is no substantive service period associated with those awards.
+f-13
+j. | foreign currency foreign currency amounts attributable to foreign operations have been translated into u.s.
+dollars using year-end exchange rates for assets and liabilities, historical rates for equity, and weighted average rates for revenues and expenses. currency fluctuations are a normal operating factor in the conduct of the company's business and foreign exchange transaction gains and losses are included in revenues and operating expenses. also, the company is exposed to foreign currency exchange fluctuations on monetary assets and liabilities denominated in currencies that are not the local functional currency. foreign exchange gains and losses on such balances are recognized in net earnings within customs brokerage and other services costs. net foreign currency losses in 2022, 2021 and 2020 were $ 1,616 , $ 11,806 , and $ 25,398 , respectively. the company follows a policy of accelerating international currency settlements to manage its foreign exchange exposure. accordingly, the company enters into foreign currency hedging transactions only in limited locations where there are regulatory or commercial limitations on the company's ability to move money freely. such hedging activity during 2022, 2021 and
+2020 was insignificant. the company had no foreign currency derivatives outstanding at december 31, 2022 and 2021 .
+k. | comprehensive income comprehensive income consists of net earnings and other gains and losses affecting equity that, under u.s. gaap, are excluded from net earnings. for the company, these consist of foreign currency translation gains and losses, net of related income tax effects and comprehensive income or loss attributable to the noncontrolling interests. upon the complete or substantially complete liquidation of the company's investment in a foreign entity, cumulative translation adjustments are recorded as reclassification adjustments in other comprehensive income and recognized in net earnings. accumulated other comprehensive loss consisted entirely of foreign currency translation adjustments, net of related income tax effects, as of december 31, 2022 and 2021 .
+l. | segment reporting the company is organized functionally in geographic operating segments. accordingly, management focuses its attention on revenues, directly related cost of transportation and other expenses for each of the company's three primary sources of revenue, salaries and other operating expenses, operating income, identifiable assets, capital expenditures, depreciation and amortization and equity generated in each of these geographical areas when evaluating the effectiveness of geographic management. transactions among the company's various offices are conducted using the same arms-length pricing methodologies the company uses when its offices transact business with independent agents. certain costs are allocated among the segments based on the relative value of the underlying services, which can include allocation based on actual costs incurred or estimated cost plus a profit margin.
+m. | use of estimates the preparation of financial statements in conformity with u.s. gaap requires management to make estimates and assumptions that affect the reported amounts of the assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the period. the company uses estimates primarily in the following areas: accounts receivable valuation, accrual of costs related to ancillary services the company performs, typically at the destination location, self-insured liabilities, accrual of various tax liabilities, accrual of loss contingencies, including estimates for ongoing and potential claims as a result of the downtime caused by the cyber-attack, calculation of share-based compensation expense and estimates related to determining the lease term and discount rate when measuring rou assets and lease liabilities. see note 11 for further information on estimates related to the cyber-
+attack. actual results could be materially different from the estimated provisions and accruals recorded.
+note 2.fair value of financial instruments the company's financial instruments, other than cash, consist primarily of cash equivalents, accounts receivable, accounts payable and accrued expenses. the carrying value of these financial instruments approximates their fair value.
+f-14
+cash and cash equivalents consist of the following:
+december 31, 2022                        december 31, 2021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+cost       fair value                    cost       fair value cash and cash equivalents:
+cash and overnight deposits      $          1,038,903    $   1,038,903    $          1,241,565    $   1,241,565
+corporate commercial paper                    977,887          978,325                 423,261          423,279
+time deposits and money                        17,341           17,341                  63,866           63,866
+market funds total cash and cash              $          2,034,131    $   2,034,569    $          1,728,692    $   1,728,710
+equivalents the fair value of corporate commercial paper and time deposits is based on the use of market interest rates for identical or similar assets (level 2 fair value measurement).
+note 3.property and equipment the components of property and equipment are as follows:
+2022            2021
+──────────────────────────────────────────────────────────────────────
+land                                    $    139,635    $    147,310
+buildings and leasehold improvements         505,525         494,797
+furniture, fixtures, equipment and           420,485         382,676
+purchased software construction in progress                       4,029           4,764
+property and equipment, at cost            1,069,674       1,029,547
+less accumulated depreciation and            567,758         541,677
+amortization property and equipment, net             $    501,916    $    487,870
+note 4.leases the company enters into lease agreements primarily for office and warehouse space in all districts where it conducts business. as of december 31, 2022, all of the company's leases are operating leases. lease terms are either on a month-to-month basis or terminate at various times through 2040. the company also has two long-term operating lease arrangements to use land, for which the usage rights were entirely prepaid. usage rights for those arrangements are recognized in rent expense over the lease terms up to 2057.
+lease cost is recorded under rent and occupancy expenses in the consolidated statements of earnings and is comprised of the following for the year-ended december 31:
+2022          2021          2020
+────────────────────────────────────────────────────────────────
+operating lease cost    $  107,858    $   98,219    $   91,436
+variable lease cost         47,553        39,607        26,857
+total lease cost        $  155,411    $  137,826    $  118,293
+variable lease cost includes short-term lease expenses, which are insignificant.
+maturities of lease liabilities as ofdecember 31, 2022 are as follows:
+2023                            $  112,010
+2024                                97,113
+2025                                88,513
+2026                                71,776
+2027                                56,552
+thereafter                         159,363
+total minimum lease payments       585,327
+less imputed interest               66,862
+lease liability                 $  518,465
+f-15
+as of december 31, 2022, the company had $101million in operating lease obligations with maturities through 2034
+for several office and warehouse locations not included in the lease liabilities, as the lease had not yet commenced.
+the weighted-average remaining lease term and weighted-average discount rate are as follows:
+2022       2021
+weighted-average remaining lease term    7.10       7.45
+(in years)
+weighted-average discount rate           3.63  %    3.71  %
+other information related to the company's operating leases are as follows:
+2022          2021          2020
+────────────────────────────────────────────────────────────────────────────────────
+right-of-use assets obtained in exchange    $  151,654    $  117,409    $  109,515
+for new operating lease liabilities cash paid for amounts included in the       $  106,772    $   95,804    $   90,101
+measurement of lease liabilities note 5.shareholders' equity a. | stock repurchase plan the company has a discretionary stock repurchase plan, originally approved by the board of directors in november
+2001 and amended from time to time, under which management as of december 31, 2022 is authorized to repurchase shares down to150,000shares of common stock outstanding. the maximum number of shares available for repurchase under this plan will increase as the total number of outstanding shares increases.on february 20, 2023, the board of directors amended the plan to further authorize repurchases down to140,000shares.this authorization has no expiration date.
+cumulative shares of common stock repurchased since inception of the above plan and a previous now expired plan were137,498.
+b. | omnibus incentive plan on may 5, 2020, the shareholders approved the company's amended and restated 2017 omnibus incentive plan (amended
+2017 plan), which made available5,500shares of the company's common stock in aggregate to be issued under any award type allowed by the amended 2017 plan. the rsus granted in2022, 2021 and 2020generally vest annually overthree yearsbased on continued employment and are settled upon vesting in shares of the company's common stock on aone-
+for-one basis.
+the amended 2017 plan also provides for annual equity awards to non-employee directors. the amended 2017 plan provides for an annual grant of equity awards to each participant with a fair market value that may not exceed
+$600, or $800with respect to the chairman of the board. restricted shares granted to non-employee directors in
+2022, 2021 and 2020 vest at the time of grant and there werenounvested restricted shares as ofdecember 31, 2022. in
+2022,16fully vested rsus with a weighted average grant date fair value per share of$102.65were granted to non-
+employee directors.
+the following table summarizes information about rsus and restricted shares:
+number of               weighted average shares          grant date fair value
+────────────────────────────────────────────────────────────────────────────
+nonvested at december 31, 2021          794       $                  89.74
+rsus granted                            372       $                 102.65
+rsus vested                            (439  )    $                  85.37
+rsus forfeited                          (20  )    $                  93.24
+nonvested at december 31, 2022          707       $                  99.09
+f-16
+in 2022, 2021 and 2020, the company also awarded84,75and95psus, respectively, under the amended 2017 plan.
+nonvested psus include performance conditions to be finally measured based on financial results at december 31,
+2023 and 2024. the final number of psus will be determined using an adjustment factor of up to2times or down to0.5of the targeted psu grant, depending on the degree of achievement of the designated performance targets. if the minimum performance thresholds are not achieved,noshares will be issued. each psu will convert tooneshare of the company's common stock upon vesting.
+at december 31, 2022, there were161shares of nonvested psus at target levels, with a weighted-average grant date fair value of$107.58. at december 31, 2022,197psus with a grant date fair value of$72.90became vested based on satisfaction of performance goals but had not settled.
+rsus and psus granted under the amended 2017 plan have dividend equivalent rights, which entitle holders of rsus and psus to the same dividend value per share as holders of common stock. dividend equivalent rights are subject to the same vesting and other terms and conditions as the corresponding unvested rsus and psus and are accumulated and paid in shares when the underlying awards is released.
+at december 31, 2022, there are approximately2,041shares available for grant under the amended 2017 plan.
+when restrictions on employee rsus or psus lapse the company derives a tax deduction in certain countries based on the fair market value of the award upon vesting and subject to the limits allowed under each jurisdiction's tax regulations. until vesting, a deferred tax asset is recognized and measured based on the fair value of the award at the date of grant (consistent with measurement for stock compensation expense). any excess or shortfall in the tax deduction resulting from the difference between fair market value of the award between the date of grant and the date of vesting is recognized in income tax expense upon vesting.
+c. | stock option plans prior to 2017, the company granted stock options under stock option plans approved annually by shareholders. those plans generally allowed for the grant of qualified and non-qualified grants and outstanding options expire no more thanten yearsfrom the date of grant. all options were fully vested as of december 31, 2020. no additional shares can be granted under any of the company's stock option plans other than the amended 2017 plan.
+upon the exercise of non-qualified stock options and disqualifying dispositions of incentive stock options, the company derives a tax deduction measured by the excess of the market value over the option price at the date of exercise or disqualifying disposition. the portion of the benefit from the deduction, which equals the estimated fair value of the options (previously recognized as compensation expense) is recorded as a credit to the deferred tax asset for non-qualified stock options and is recorded as a credit to current tax expense for any disqualified dispositions of incentive stock options. for disqualifying dispositions, when the amount of the tax deduction is less than the cumulative amount of compensation expense recognized for the award, the amount credited to current tax expense is limited to the tax benefit associated with the tax deduction.
+the following table summarizes information about stock options:
+weighted average            weighted exercise             average       aggregate number of              price           remaining       intrinsic shares          per share    contractual life           value
+──────────────────────────────────────────────────────────────────────────────────────────────────────
+outstanding at december 31, 2021        2,329       $      44.07
+options granted                             -       $          -
+options exercised                        (539  )    $      41.48
+options canceled                           (6  )    $      41.53
+outstanding at december 31, 2022        1,784       $      44.86                2.29    $    105,400
+exercisable at december 31, 2022        1,784       $      44.86                2.29    $    105,400
+f-17
+d. | stock purchase plan in may 2002, the shareholders approved the company's 2002 employee stock purchase plan (the 2002 plan), which became effective august 1, 2002. as last amended in may 2019, the company's 2002 plan provides for15,305shares of the company's common stock to be reserved for issuance upon exercise of purchase rights granted to employees who elect to participate through regular payroll deductions beginning august 1 of each year. the purchase rights are exercisable on july 31 of the following year at a price equal to the lesser of (1)85% of the fair market value of the company's stock on the last trading day in july or (2) 85% of the fair market value of the company's stock on the first trading day in august of the preceding year. a total of14,174shares have been issued under the 2002 plan since inception and$32,458has been withheld from employees at december 31, 2022 in connection with the plan year ending july 31, 2023.
+e. | share-based compensation expense the fair value of employee stock purchase rights granted under the 2002 plan is estimated on the date of grant using the black-scholes model with the following assumptions:
+for the years ended december 31,
+2022           2021           2020
+dividend yield                                                1.30  %        1.10  %        1.40  %
+volatility                                                      29  %          20  %          32  %
+risk-free interest rates                                      3.02  %        0.08  %        0.15  %
+expected life (years)                                            1              1              1
+weighted average fair value    $                             27.07       $  28.55       $  23.26
+the company's expected volatility assumptions are based on the historical volatility of the company's stock over a period of time commensurate to the expected life. the expected life assumption is based on the one-year offering period. the risk-free interest rate for the expected term of the option is based on the corresponding yield curve in effect at the time of grant for u.s. treasury bonds having the same term as the expected life of the option. the expected dividend yield is based on the company's historical experience. the forfeiture assumption used to calculate compensation expense is primarily based on historical pre-vesting employee forfeiture patterns.
+the compensation expense for employee rsus and psus is based on the fair market value of the company's share of common stock on the date of grant. rsus and psus awarded in 2022, 2021 and 2020 were granted at a weighted-average grant date fair value of$102.65,$113.82and$74.00, respectively.
+the total intrinsic value of options exercised during the years ended december 31, 2022, 2021 and 2020 was approximately$34million,$82millionand$117million, respectively.
+as of december 31, 2022, the total unrecognized compensation cost related to stock awards is$52millionand the weighted average period over which that cost is expected to be recognized is1.6years.
+shares issued as a result of stock option exercises, restricted stock awards, vested rsus, vested psus and employee stock plan purchases are issued as new shares outstanding by the company.
+note 6.basic and diluted earnings per share diluted earnings attributable to shareholders per share is computed using the weighted average number of common shares and dilutive potential common shares outstanding. dilutive potential shares represent outstanding stock options, including purchase options under the company's employee stock purchase plan and unvested rsus. basic earnings attributable to shareholders per share is calculated using the weighted average number of common shares outstanding without taking into consideration dilutive potential common shares outstanding.
+f-18
+the following table reconciles the numerator and the denominator of the basic and diluted per share computations for earnings attributable to shareholders.
+net earnings    weighted attributable to     average       earnings per
+2022                                         shareholders      shares              share
+──────────────────────────────────────────────────────────────────────────────────────────
+basic earnings attributable to         $        1,357,399     163,010    $          8.33
+shareholders effect of dilutive potential common                     -       1,417                  -
+shares diluted earnings attributable to       $        1,357,399     164,427    $          8.26
+shareholders
+2021
+basic earnings attributable to         $        1,415,492     169,145    $          8.37
+shareholders effect of dilutive potential common                     -       2,105                  -
+shares diluted earnings attributable to       $        1,415,492     171,250    $          8.27
+shareholders
+2020
+basic earnings attributable to         $          696,140     168,333    $          4.14
+shareholders effect of dilutive potential common                     -       2,563                  -
+shares diluted earnings attributable to       $          696,140     170,896    $          4.07
+shareholders in 2022,1,072potential common shares were excluded from the computation of diluted earnings per share because the effect would have been antidilutive. substantially all outstanding potential common shares in 2021 and 2020 were dilutive.
+f-19
+note 7.income taxes income tax expense (benefit) includes the following components:
+2022           federal           state          foreign         total
+──────────────────────────────────────────────────────────────────────────
+current     $  149,840       $  63,140       $  295,546    $  508,526
+deferred       (27,904  )       (5,336  )             -       (33,240  )
+$  121,936       $  57,804       $  295,546    $  475,286
+2021
+current     $  126,840       $  54,484       $  328,137    $  509,461
+deferred        (3,981  )          291                -        (3,690  )
+$  122,859       $  54,775       $  328,137    $  505,771
+2020
+current     $   37,551       $  18,432       $  193,996    $  249,979
+deferred         8,440             (69  )             -         8,371
+$   45,991       $  18,363       $  193,996    $  258,350
+the components of earnings before income taxes are as follows:
+2022            2021          2020
+─────────────────────────────────────────────────────────────
+united states    $    987,186    $    823,009    $  325,009
+foreign               848,705       1,101,607       631,555
+$  1,835,891    $  1,924,616    $  956,564
+income tax expense differs from amounts computed by applying the united states federal income tax rate of21% when compared to earnings before income taxes as a result of the following:
+2022          2021             2020
+──────────────────────────────────────────────────────────────────────────────────────
+computed "expected" tax expense         $  385,537    $  404,169       $  200,879
+increase (decrease) in income taxes resulting from:
+effect of foreign taxes                     32,293        46,644           48,584
+state income taxes, net of federal          45,665        43,272           14,507
+income tax benefit nondeductible executive compensation         8,019         8,981            4,324
+stock compensation expense, net                454        (6,238  )        (8,461  )
+other, net                                   3,318         8,943           (1,483  )
+$  475,286    $  505,771       $  258,350
+in 2022, 2021 and 2020, the company also benefited from u.s. federal tax credits totaling $41.6million,
+$27.9million and, $16.7million, respectively, principally because of withholding taxes related to the company's foreign operations, as well as u.s. income tax deductions for foreign-derived intangible income (fdii) of
+$41.7million, $22.6million, and $10.0million, respectively. the company's effective tax rate in 2021 and 2020
+benefited from significant share-based compensation deductions. these amounts were offset by the effect of higher foreign tax rates of the company's international subsidiaries, when compared to the u.s. federal income tax rate of21%, as well as certain expenses that are no longer deductible under the 2017 tax act, including certain executive compensation in excess of amounts allowed.the company treats beat and gilti as components of current income tax expense. for the years 2022, 2021 and 2020, there wasnobeat expense and gilti expense was insignificant.
+f-20
+the tax effects of temporary differences and tax credits that give rise to significant portions of deferred tax assets and deferred tax liabilities are as follows:
+years ended december 31,                          2022          2021
+──────────────────────────────────────────────────────────────────────
+deferred tax assets:
+deductible stock compensation expense,      $    9,707    $   11,291
+net operating lease liabilities                     72,506        67,065
+capitalized r&d expenses                        23,246             -
+accrued third party obligations, deductible for taxes upon economic               9,601         6,504
+performance excess of financial statement over tax          10,280         9,182
+depreciation foreign currency translation adjustments        12,184         8,729
+retained liability for cargo claims              1,592         1,430
+provision for credit losses on accounts          3,550         2,168
+receivable total gross deferred tax assets                142,666       106,369
+deferred tax liabilities:
+unremitted foreign earnings, net of             36,542        41,560
+related foreign tax credits operating lease assets                          68,675        64,080
+total gross deferred tax liabilities           105,217       105,640
+net deferred tax assets                     $   37,449    $      729
+based on management's review of the company's tax positions, the company had no significant unrecognized tax benefits as of december 31, 2022 and 2021.
+the company is subject to taxation in various states and many foreign jurisdictions including the people's republic of china, including hong kong, taiwan, vietnam, india, mexico, canada, netherlands and the united kingdom. the company believes that its tax positions, including intercompany transfer pricing policies, are reasonable and consistent with established transfer pricing methodologies and norms. the company is under, or may be subject to, audit or examination and assessments by the relevant authorities in respect to these and any other jurisdictions primarily for years 2009 and thereafter. sometimes audits result in proposed assessments where the ultimate resolution could result in significant additional tax, penalties and interest payments being required. the company establishes liabilities when, despite its belief that the tax return positions are appropriate and consistent with tax law, it concludes that it may not be successful in realizing the tax position. in evaluating a tax position, the company determines whether it is more likely than not that the position will be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits of the position and in consultation with qualified legal and tax advisors.
+the total amount of the company's tax contingencies may increase in 2023. in addition, changes in state, federal, and foreign tax laws and changes, including transfer pricing and changes in interpretations of these laws may increase the company's existing tax contingencies. the timing of the resolution of income tax examinations can be highly uncertain, and the amounts ultimately paid including interest and penalties, if any, upon resolution of the issues raised by the taxing authorities may differ from the amounts recorded. it is reasonably possible that within the next twelve months the company may undergo further audits and examinations by various tax authorities and possibly may reach resolution related to income tax examinations in one or more jurisdictions. these assessments or settlements could result in changes to the company's contingencies related to positions on tax filings in future years. the estimate of any ultimate tax liability contains assumptions based on experiences, judgments about potential actions by taxing jurisdictions as well as judgments about the likely outcome of issues that have been raised by the taxing jurisdiction. the company cannot currently provide an estimate of the range of possible outcomes. any interest and penalties expensed in relation to the underpayment of income taxes were insignificant for the years ended december 31, 2022, 2021 and 2020.
+f-21
+note 8. commitments a. | unconditional purchase obligations the company enters into short-term unconditional purchase obligations with asset-based providers reserving space on a guaranteed basis. the pricing of these obligations varies to some degree with market conditions. historically, the company has met these obligations in the normal course of business within one year. in the regular course of business, the company also enters into agreements with service providers to maintain or operate equipment, facilities or software that can be longer than one year. we also regularly have contractual obligations for specific projects related to improvements of our owned or leased facilities and information technology infrastructure. purchase obligations outstanding as of december 31,
+2022 totaled $ 150 million. b. | employee benefits the company has employee savings plans under which the company provides a discretionary matching contribution. in 2022, 2021 and 2020 , the company's contributions under the plans were $ 24,774 , $ 22,587 , and $ 20,713 , respectively. c. | credit arrangements certain of the company's foreign subsidiaries maintain bank lines of credit for short-term working capital purposes. a few of these credit lines are supported by standby letters of credit issued by a united states bank, or guarantees issued by the company to the foreign banks issuing the credit line. at december 31, 2022, borrowings under these credit lines were $ 57,778 and the company was contingently liable for approximately $ 77,528 under outstanding standby letters of credit and guarantees. at december 31, 2022, the company was in compliance with all restrictive covenants of these credit lines and the associated credit facilities. the standby letters of credit and guarantees relate to obligations of the company's foreign subsidiaries for credit extended in the ordinary course of business by direct carriers, primarily airlines, and for duty and tax deferrals available from governmental entities responsible for customs and value-added-tax (vat) taxation. the total underlying amounts due and payable for transportation and governmental excise taxes are properly recorded as obligations in the books of the respective foreign subsidiaries, and there would be no need to record additional expense in the unlikely event the parent company were to be required to perform.
+note 9. contingencies the company is involved in claims, lawsuits, government investigations and other legal matters that arise in the ordinary course of business and are subject to inherent uncertainties. currently, in management's opinion and based upon advice from legal advisors, none of these matters are expected to have a significant effect on the company's operations, cash flows or financial position. as of december 31, 2022, the company recorded $ 22 million in tax contingencies in other operating expenses and $ 22 million of interest expense in the consolidated statement of earnings, related to a non income tax contingency. other amounts recorded for claims, lawsuits, government investigations and other legal matters are not significant to the company's operations, cash flows or financial position. at this time, the company is unable to estimate any additional loss or range of reasonably possible losses, if any, beyond the amounts recorded, that might result from the resolution of these matters, including potential claims resulting from a cyber-attack in february 2022.
+f-22
+note 10.business segment information financial information regarding2022, 2021 and 2020 operations by the company's designated geographic areas is as follows:
+middle east, other                                                 africa united      north      latin      north      south                   and
+2022          states    america    america       asia       asia     europe      india    elimin...       consol...
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+reven...    $  4,869,...    517,662    257,721    5,810,...    2,144,...    2,471,...    1,005,...    (4,530   )    17,071...
+direc...
+relat...
+cost of trans...    $  2,943,...    310,206    160,273    4,853,...    1,751,...    1,768,...    791,887    (1,892   )    12,576...
+and other expen...
+1
+salar...
+and other     $  944,050    188,192     72,177    504,805    238,658    573,598    151,069    (2,533   )    2,670,...
+opera...
+expen...
+2
+opera...
+income    $  982,082     19,264     25,271    451,381    154,189    129,756     62,533    (105     )    1,824,...
+3
+ident...
+assets at        $  3,070,...    209,516    123,003    675,022    316,777    938,660    283,872    (27,113  )    5,590,...
+period end capit...    $   56,411      2,954        937      2,976      1,543     17,868      4,135    -              86,824
+expen...
+depre...
+and       $   35,461      1,892      1,123      4,682      1,966      9,640      2,574    -              57,338
+amort...
+equity    $  2,246,...     31,132     56,416    274,703    136,944    263,278    145,269    (40,624  )    3,113,...
+2021
+reven...    $  4,344,...    440,226    209,161    6,363,...    2,046,...    2,258,...    865,509    (4,738   )    16,523...
+direc...
+relat...
+cost of trans...    $  2,491,...    245,842    125,940    5,295,...    1,666,...    1,558,...    675,303    (1,986   )    12,058...
+and other expen...
+1
+salar...
+and other     $  1,019,...    123,147     57,779    515,703    204,574    494,760    143,581    (2,744   )    2,556,...
+opera...
+expen...
+2
+opera...    $  833,642     71,237     25,442    551,739    175,203    205,446     46,625    (8       )    1,909,...
+income ident...
+assets at        $  3,699,...    265,872    122,327    1,587,...    572,980    1,089,...    350,843    (79,463  )    7,609,...
+period end capit...    $   19,527        983        471      1,786      2,057      9,507      1,916    -              36,247
+expen...
+depre...
+and       $   29,826      1,780      1,079      5,047      1,965      9,228      2,387    -              51,312
+amort...
+equity    $  2,599,...    111,952     41,743    224,765    140,129    294,348    123,598    (38,348  )    3,497,...
+2020
+reven...    $  2,776,...    325,878    156,163    3,425,...    961,989    1,455,...    486,331    (3,761   )    9,584,...
+direc...
+relat...
+cost of trans...    $  1,568,...    190,326     93,249    2,744,...    711,004    992,357    359,002    (1,952   )    6,656,...
+and other expen...
+1
+salar...
+and other     $  877,117    100,687     48,114    332,978    149,269    375,900    104,968    (1,779   )    1,987,...
+opera...
+expen...
+2
+opera...    $  330,968     34,865     14,800    348,268    101,716     87,489     22,361    (30      )    940,437
+income ident...
+assets at        $  2,532,...    186,204     85,085    876,856    272,106    752,589    240,984    (18,645  )    4,927,...
+period end capit...    $   31,604      1,886        564      2,202      2,264      6,394      2,629    -              47,543
+expen...
+depre...
+and       $   37,081      1,946      1,194      4,961      1,876      8,029      1,872    -              56,959
+amort...
+equity    $  1,928,...     67,243     32,273    241,155    121,411    196,637    114,369    (38,806  )    2,663,...
+1. directly related cost of transportation and other expenses totals operating expenses from airfreight services, ocean freight and ocean services and customs brokerage and other services as shown in the consolidated statements of earnings.
+2. salaries and other operating expenses totals salaries and related, rent and occupancy, depreciation and amortization, selling and promotion and other as shown in the consolidated statements of earnings.
+3. in 2022, other north america operating income includes charges of $ 22 million related to non-income tax contingencies.
+other than the united states, only the people's republic of china, including hong kong, represented more than10% of the company's total revenue, total operating income, total identifiable assets or equity in any period presented as noted in the table below.
+2022    2021    2020
+revenues                            27%     31%     29%
+operating income                    19%     22%     29%
+identifiable assets at year end     10%     17%     14%
+equity                               7%      4%      6%
+f-23
+note 11. cyber-attack on february 20, 2022, management determined that the company was the subject of a targeted cyber-attack. upon discovering the incident, the company shut down most of its connectivity, operating and accounting systems globally to manage the safety of its overall global systems environment and initiated its cybersecurity incident response plan. the company's security teams, supplemented by commercial cybersecurity experts and in collaboration with law enforcement, worked to remediate this cyber-attack. the company undertook extensive efforts to identify, contain, eradicate and methodically recover from this attack as rapidly as possible.
+the company had limited ability to conduct operations for a period of approximately three weeks including but not limited to arranging for shipments of freight or managing customs and distribution activities for its customers'
+shipments and performing accounting functions. the company's teams worked to maintain its business operations and minimize the impact on its employees, customers and operating partners, including regulatory agencies. the company continues to incorporate learnings from the cyber-atta ck. in 2022 the company has incurred, as a result of its inability to timely process and move shipments through ports during the downtime, approximately $ 47 million in incremental demurrage charges, net of recoveries, where the company has direct liability for this obligation. these costs are recorded in customs brokerage and other services expenses. additionally, principally in the first quarter, the company incurred investigation, recovery, and remediation expenses, including costs to recover its operational and accounting systems and to enhance cybersecurity protections. these costs are primarily comprised of various consulting services including cybersecurity experts, outside legal advisors, and other it professional expenses. the company also recorded estimated liabilities for potential shipment-related claims. in 2022, the total amount recorded for these items was approximately $ 18 million and is recorded in other operating expenses. the company did not incur significant capital expenditures as a result of the cyber-attack. the company may incur additional expenses which could include third-party expenses, increased information services costs, or indemnities to customers. when the company's operating systems were down, many customers worked with other providers to meet their logistics needs, resulting in lower shipment volumes in the first quarter and to a lesser extent in the second quarter for which the financial impact on revenues and operating income cannot be quantified. such costs and the ongoing impacts from the downtime caused by the cyber-attack are not expected to have further material adverse impact on the company's business. the company is unable to estimate the ultimate direct and indirect financial impacts of this cyber-attack.
+f-24
+securities and exchange commission washington, d.c.
+annual report on form 10-k for fiscal year ended december 31, 2022
+expeditors international of washington, inc.
+exhibits exhibitnumber    description
+21.1             subsidiaries of the registrant
+23.1             consent of independent registered public accounting firm
+31.1             certification of chief executive officer pursuant to section 302 of the sarbanes-oxley act of
+2002
+31.2             certification of chief financial officer pursuant to section 302 of the sarbanes-oxley act of
+2002
+32               certification pursuant to 18 u.s.c. section 1350, as adopted pursuant to section 906 of the sarbanes-oxley act of 2002
+101.ins          inline xbrl instance document - the instance document does not appear in the interactive data file because its xbrl tags are embedded within the inline xbrl document.
+101.sch          inline xbrl taxonomy extension schema document
+101.cal          inline xbrl taxonomy extension calculation linkbase document
+101.lab          inline xbrl taxonomy extension label linkbase document
+101.pre          inline xbrl taxonomy extension presentation linkbase document
+101.def          inline xbrl taxonomy extension definition linkbase document
+104              the cover page from the company's yearly report on form 10-k for the year ended december 31,
+2022, has been formatted in inline xbrl
+item 7 - management's discussion and analysis of financial condition and results of operations overview expeditors international of washington, inc. provides a full suite of global logistics services. our services include air and ocean freight consolidation and forwarding, customs brokerage, warehousing and distribution, purchase order management, vendor consolidation, time-definite transportation services, temperature-controlled transit, cargo insurance, specialized cargo monitoring and tracking, and other supply chain solutions. we do not compete for overnight courier or small parcel business. as a non-asset-based carrier, we do not own or operate transportation assets.
+we derive our revenues by entering into agreements that are generally comprised of a single performance obligation, which is that freight is shipped for and received by our customer. each performance obligation is comprised of one or more of the company's services. we typically satisfy our performance obligations as services are rendered over time. a typical shipment would include services rendered at origin, such as pick-up and delivery to port, freight services from origin to destination port and destination services, such as customs clearance and final delivery. our three principal services are the revenue categories presented in our financial statements: 1) airfreight services, 2) ocean freight and ocean services, and 3) customs brokerage and other services. the most significant drivers of changes in gross revenues and related transportation expenses are volume, sell rates and buy rates. volume has a similar effect on the change in both gross revenues and related transportation expenses in each of our three primary sources of revenue.
+we generate the major portion of our air and ocean freight revenues by purchasing transportation services on a volume basis from direct (asset-based) carriers and then reselling that space to our customers. the rate billed to our customers (the sell rate) is recognized as revenues and the rate we pay to the carrier (the buy rate) is recognized in operating expenses as the directly related cost of transportation and other expenses. by consolidating shipments from multiple customers and concentrating our buying power, we are able to negotiate favorable buy rates from the direct carriers, while at the same time offering lower sell rates than customers would otherwise be able to negotiate themselves.
+in most cases we act as an indirect carrier. when acting as an indirect carrier, we issue a house airway bill (hawb), a house ocean bill of lading (hobl) or a house seaway bill to customers as the contract of carriage. in turn, when the freight is physically tendered to a direct carrier, we receive a contract of carriage known as a master airway bill for airfreight shipments and a master ocean bill of lading (mobl) for ocean shipments.
+customs brokerage and other services involve providing services at destination, such as helping customers clear shipments through customs by preparing and filing required documentation, calculating and providing for payment of duties and other taxes on behalf of customers as well as arranging for any required inspections by governmental agencies, and import services such as arranging for local pick up, storage and delivery at destinations. these are complicated functions requiring technical knowledge of customs rules and regulations in the multitude of countries in which we have offices. we also provide other value-added services at destination, such as warehousing and distribution, time-definitive transportation services and consulting.
+we manage our company along five geographic areas of responsibility: americas; north asia; south asia; europe; and middle east, africa and india (mair). each area is divided into sub-regions that are composed of operating units with individual profit and loss responsibility. our business involves shipments between operating units and typically touches more than one geographic area. the nature of the international logistics business necessitates a high degree of communication and cooperation among operating units. because of this inter-relationship between operating units, it is very difficult to examine any one geographic area and draw meaningful conclusions as to its contribution to our overall success on a stand-alone basis.
+our operating units share revenue using the same arms-length pricing methodologies that we use when our offices transact business with independent agents. certain costs are allocated among the segments based on the relative value of the underlying services, which can include allocation based on actual costs incurred or estimated cost plus a profit margin. our strategy closely links compensation with operating unit profitability, which includes shared revenues and allocated costs. therefore, individual success is closely linked to cooperation with other operating units within our network. the mix of services varies by segment based primarily on the import or export orientation of local operations in each of our regions. north asia is our largest export-oriented region and accounted for 34% of revenues, 39% of directly related cost of transportation and other expenses and 25% of operating income for the year ended december 31, 2022.
+.
+highlights from 2022
+•revenues and directly related operating expenses increased 3% and 4%, respectively, from higher average buy and sell rates, while operating income and net earnings to shareholders both declined 4% due to higher operating expenses.
+•operational conditions remained challenging and uncertain in 2022. the covid-19 pandemic, including the effect of ongoing quarantine requirements in china and resulting disruptions on supply chains, continued to affect our business operations and financial results. imbalances between carrier available capacity and customer demand that were severe at the beginning of the year gradually eased throughout the year. congestion at destination ports, shortages in equipment, labor and warehouse space that were significant at the beginning of the year cleared by the fourth quarter.
+•volumes transacted in most services were down due to softening customer demand and from a slowdown in the global economy and retail customers' inventory build-up early in the year.
+•average buy and sell rates, while still higher than historical levels, progressively declined throughout the year as imbalances between available capacity for transportation and demand and major port congestion have dissipated.
+•in the first quarter of 2022, our company was the subject of a targeted cyber-attack which resulted in having to shut down most of our connectivity, operating and accounting systems globally to manage the safety of our entire global systems environment. we had limited ability to conduct operations for a period of approximately three weeks, including but not limited to arranging for shipments of freight or managing customs and distribution activities for our customers' shipments. while we continued to navigate residual effects and incorporate learnings from the cyber-attack, our core systems were utilized to deliver our services from the second quarter and on. we incurred additional expenses of $65 million, net of recoveries, and experienced a loss of revenues that cannot be quantified as a result of this attack.
+•operating cash flows were $2,130 million and we returned $1,796 million to shareholders through common stock repurchases and dividends.
+industry trends, trade conditions and competition we operate in over 60 countries in the competitive global logistics industry and our activities are closely tied to the global economy. international trade is influenced by many factors, including economic and political conditions in the united states and abroad, currency exchange rates, laws and policies relating to tariffs, trade restrictions, foreign investment and taxation. periodically, governments consider a variety of changes to tariffs and impose trade restrictions and accords. currently, the united states and china have increased concerns affecting certain imports and exports and have implemented additional tariffs. we cannot predict the outcome of changes in tariffs, or interpretations, and trade restrictions and accords and the effects they will have on our business. as governments implement restrictions on imports and exports, manufacturers may change sourcing patterns, to the extent possible, and, over time, may shift manufacturing to other countries. doing business in foreign locations also subjects us to a variety of risks and considerations not normally encountered by domestic enterprises. in addition to being influenced by governmental policies and inter-governmental disputes concerning international trade, our business may also be negatively affected by political developments and changes in government personnel or policies in the united states and other countries, as well as economic turbulence, political unrest and security concerns in the nations and on the trade shipping lanes in which we conduct business and the future impact that these events may have on international trade, oil prices and security costs. we do not have employees, assets, or operations in russia or ukraine. while very limited, any shipment activity is conducted with independent agents in those countries in compliance with all applicable trade sanctions, laws and regulations.
+our ability to provide services to our customers is highly dependent on good working relationships with a variety of entities, including airlines; ocean carrier lines and ground transportation providers, as well as governmental agencies. we select and engage with best-in-class, compliance-focused, efficiently run, growth-oriented partners, based upon defined value elements and are intentional in our relationship and performance management activity, reinforcing success by awarding service providers who consistently achieve at the highest levels with additional business. we consider our current working relationships with these entities to be satisfactory. however, changes in the financial stability and operating capabilities and capacity of asset-based carriers, capacity allotments available from carriers, governmental regulation or deregulation efforts, modernization of the regulations governing customs brokerage, and/or changes in governmental restrictions, quota restrictions or trade accords could affect our business in unpredictable ways. many air carriers are recovering from significant cash flow challenges and record operating losses incurred in 2020 and 2021 as a result of travel restrictions resulting in cancellation of flights. uncertainty over recovery of demand for trans-pacific passenger air travel, in particular business travel, compared to pre-pandemic levels may impact air carriers' operations and financial stability long term. when the market experiences seasonal peaks or any sort of disruption, the carriers often increase their pricing suddenly. this carrier behavior creates pricing volatility that could impact expeditors' ability to maintain historical unitary profitability.
+.
+the global economic and trade environments remain uncertain, including the potential future impacts of the pandemic, higher inflation and oil prices, rising interest rates and the conflict in ukraine. starting in the second quarter and continuing through the fourth quarter, we saw a slowdown in the global economy and a softening of customer demand resulting in declines in average buy and sell rates. as demand softened and pandemic restrictions subsided, port congestion cleared, availability of labor and equipment eased resulting in excess carrier capacity over demand. these conditions could result in further declines in average sell and buy rates in 2023. we also expect that pricing volatility will continue as carriers adapt to lower demand, changing fuel prices and react to governmental trade policies and other regulations. additionally, we cannot predict the direct or indirect impact that further changes in and purchasing behavior, such as online shopping, could have on our business. in response to governments implementing higher tariffs on imports, as well as responses to the pandemic's disruptions, some customers have begun shifting manufacturing to other countries which could negatively impact us.
+critical accounting estimates our consolidated financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the united states (u.s. gaap). preparing our consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities and expenses. a summary of our significant accounting policies can be found in note 1 to the consolidated financial statements in this report. management believes that the nature of our business is such that there are few complex challenges in accounting for operations. while judgments and estimates are a necessary component of any system of accounting, the use of estimates is limited primarily to accrual of loss contingencies, accrual of various tax liabilities and contingencies, accrual of insurance liabilities for the portion of the related exposure that we have self-insured, and accounts receivable valuation.
+these estimates, other than the accrual of loss contingencies and tax liabilities and contingencies, are not highly uncertain and have not historically been subject to significant change. management believes that the methods utilized in all of these areas are non-aggressive in approach and consistent in application, and that there are limited, if any, alternative accounting principles or methods which could be applied to these transactions. while the use of estimates means that actual future results may be different from those contemplated by the estimates, management believes that alternative principles and methods used for making such estimates would not produce materially different results than those reported.
+the outcome of loss contingencies, including legal proceedings and claims and government investigations, brought against us are subject to significant uncertainty. an estimated loss from a contingency, including a legal or tax proceeding, claim, government investigation or audit, or a customer claim, is recorded by a charge to income if it is probable that an asset has been impaired, or a liability has been incurred and the amount of the loss can be reasonably estimated. disclosure of a loss contingency is made if there is at least a reasonable possibility that a significant loss has been incurred. in determining whether a loss should be recorded, management evaluates several factors, including advice from outside legal counsel and qualified tax advisors, in order to estimate the likelihood of an unfavorable outcome and to make a reasonable estimate of the amount of loss or range of reasonably possible loss. changes in these factors could have a material impact on our financial position, results of operations and operating cash flows for any particular quarter or year.
+accounting for income taxes involves significant estimates and judgments. we are subject to taxation in various states and in many foreign jurisdictions including the people's republic of china, including hong kong, taiwan, vietnam, india, mexico, canada, netherlands and the united kingdom. management believes that our tax positions, including intercompany transfer pricing policies, are reasonable and are consistent with established transfer pricing methodologies and norms. we are under, or may be subject to, audit or examination and assessments by the relevant authorities in respect of these particular jurisdictions primarily for 2009 and thereafter. sometimes audits and examinations result in proposed assessments where the ultimate resolution could result in significant additional tax, penalties and interest payments being required. we establish liabilities when, despite our belief that the tax return positions are appropriate and consistent with tax law, we conclude that we may not be successful in realizing the tax position. in evaluating a tax position, we determine whether it is more likely than not that the position will be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits of the position and in consultation with qualified tax advisors.
+.
+the total amount of our income and non-income tax contingencies may increase in 2023. in addition, changes in state, federal, and foreign tax laws and changes in interpretations of these laws may increase our existing tax contingencies. the timing of the resolution of tax examinations can be highly uncertain, and the amounts ultimately paid, if any, upon resolution of the issues raised by the taxing authorities may differ significantly from the amounts recorded. it is reasonably possible that within the next 12 months we may undergo further audits and examinations by various tax authorities, and it is also possible that we may reach resolution related to income tax and non-income tax examinations in one or more jurisdictions. these assessments or settlements could result in changes to our contingencies related to positions on tax filings in future years and may increase the amount of tax expense we recognize as well as the potential for penalties and interest being incurred. our estimate of any ultimate tax liability contains assumptions based on our experience, judgments about potential actions by taxing jurisdictions as well as judgments about the likely outcome of issues that have been raised by the taxing jurisdiction. though we believe the estimates and assumptions used to support the evaluation of our tax positions are reasonable, the actual amount of any change could vary significantly depending on the ultimate timing and nature of its resolution. we cannot currently provide an estimate of the range of possible outcomes.
+as discussed in note 1.g to the consolidated financial statements, earnings of our foreign subsidiaries are not considered to be indefinitely reinvested outside of the united states. u.s. corporate income tax laws and regulations include a territorial tax framework and provisions for global intangible low-taxed income (gilti) under which taxes on foreign income are imposed on the excess of a deemed return on tangible assets of certain foreign subsidiaries, base erosion and anti-abuse tax (beat) under which taxes are imposed on certain base eroding payments to affiliated foreign companies as well as u.s. income tax deductions for foreign-derived intangible income (fdii). our effective tax rate is significantly impacted by the mix of pretax earnings that we generate in the u.s. as compared to countries in the rest of the world, and the tax rates in effect in those locations relative to the pre-tax earnings generated in those countries and jurisdictions. we believe it is reasonably possible that many countries and jurisdictions will increase their tax rates or otherwise implement tax reforms that would be expected to increase the total tax expense that we will incur in those locations. our effective tax rate will continue to be impacted by any discrete items for events occurring in a future period or future changes in tax regulations and related interpretations.
+.
+results of operations this section of this form 10-k generally discusses year-to-year comparisons between the results of operations for the year ended december 31, 2022 compared to the year ended december 31, 2021. for a discussion of the year ended december 31, 2021 compared to the year ended december 31, 2020, please refer to part ii, item 7, "management's discussion and analysis of financial condition and results of operations" in our annual report on form 10-k for the year ended december 31, 2021.
+the following table shows the revenues, the directly related cost of transportation and other expenses for our principal services and our overhead expenses for 2022, 2021 and 2020. the table, chart and the accompanying discussion and analysis should be read in conjunction with the consolidated financial statements and related notes thereto in part ii, item 8 of this report.
+percentage change in thousands                                                    2022                    2021                    2020                      2022 vs.
+2021
+airfreight services:
+revenues                                                                   $5,886,886              $6,771,402              $4,274,026        (13)%
+expenses                                                                    4,359,726               5,067,380               3,168,808        (14)%
+ocean freight and ocean services:
+revenues                                                                    6,544,559               5,545,818               2,342,344          18%
+expenses                                                                    5,188,066               4,364,160               1,751,850          19%
+customs brokerage and other services:
+revenues                                                                    4,639,839               4,206,297               2,968,023          10%
+expenses                                                                    3,029,105               2,626,615               1,736,044          15%
+overhead expenses:
+salaries and related costs                                                  2,056,387               2,062,351               1,538,104            -
+other                                                                         613,629                 493,685                 449,150          24%
+total overhead expenses                                                     2,670,016               2,556,036               1,987,254           4%
+operating income                                                            1,824,371               1,909,326                 940,437         (4)%
+other income, net                                                              11,520                  15,290                  16,127        (25)%
+earnings before income taxes                                                1,835,891               1,924,616                 956,564         (5)%
+income tax expense                                                            475,286                 505,771                 258,350         (6)%
+net earnings                                                                1,360,605               1,418,845                 698,214         (4)%
+less net earnings attributable to the noncontrolling interest                   3,206                   3,353                   2,074         (4)%
+net earnings attributable to shareholders                                  $1,357,399              $1,415,492                $696,140         (4)%
+.
+airfreight services:
+airfreight services revenues and expenses decreased 13% and 14%, respectively, in 2022, as compared with 2021, due to a 17% decrease in tonnage offset by 3% increases in both average sell and buy rates, respectively. volumes were lower in 2022 as a result of softening overall demand and compared to strong volumes in the same period in 2021 from customers converting to air shipments due to ocean port congestion. in 2022, demand for airfreight services softened compared to 2021 but rates remained high as available capacity was limited compared to pre-pandemic levels. airlines increased passenger flight schedules as restrictions were lifted which added available belly space throughout 2022. continued restrictions from the pandemic in china and other countries have resulted in airlines not increasing passenger flight schedules to pre-pandemic levels in certain lanes. additionally, capacity was further limited due to the conflict in ukraine and the related route restrictions in asia and europe lanes and sanctions on russian carriers. in order to meet the transportation needs of our customers, we continued to purchase capacity in advance and on the spot market in the first half of the year.
+.
+tonnage decreased in almost all regions due to softening demand, pandemic related lockdowns in china and downtime caused by the cyber-attack with the largest decrease coming from exports out of north asia, south asia and north america. though we continued to process air shipments on a limited basis during the downtime caused by the cyber-attack, our volumes were negatively affected. subsequent to the downtime in march, our volumes began to recover as customers gradually returned but were negatively affected through the second quarter. average sell and buy rates started declining in the second half of the year and accelerated in the fourth quarter as demand softened from an overall slowdown in the economy and as more cargo capacity on passenger flights became available.
+compared to the fourth quarter of 2021, airfreight services revenues and expenses decreased 47% and 48%, respectively, due to 38% and 37% decreases in average sell and buy rates, respectively, and a 20% decrease in tonnage compared to high demand for airfreight while capacity was constrained in particular on exports from north asia in 2021. declines in tonnage and rates were most significant on export out of north asia and south asia. as air carriers bring back additional flights, in some cases ahead of passenger demand, supply and demand imbalances may occur, resulting in further pressure on rates.
+the continued high average buy and sell rates caused by the pandemic and supply chain disruptions have significantly contributed to the growth in our revenues, expenses and operating income in 2021 and 2022. as experienced in the fourth quarter of 2022, these unprecedented disruptions improved as supply chain operations normalized. buy rates and sell rates have been declining since the second quarter of 2022 and are expected to further decline in 2023, which could result in further decrease in our revenues, expenses and operating income. we are unable to predict how these uncertainties and any future disruptions will affect our future operations or financial results.
+ocean freight and ocean services:
+ocean freight consolidation, direct ocean forwarding, and order management are the three basic services that constitute and are collectively referred to as ocean freight and ocean services. ocean freight and ocean services revenues and expenses increased 18% and 19%, respectively, in 2022, as compared with 2021. the largest component of our ocean freight and ocean services revenue is derived from ocean freight consolidation, which represented 85% and 82% of ocean freight and ocean services revenue in 2022 and 2021, respectively.
+ocean freight consolidation revenues and expenses increased across all regions and were both up 23% in 2022, as compared with 2021, primarily due to 36% and 35% increases in average sell and buy rates, respectively, partially offset by a 10% decrease in containers shipped. for the majority of the year, rising fuel prices, congestion at ports due to labor, truck and equipment shortages and disrupted sailing schedules resulted in continued high average buy rates in 2022. as demand softened, port congestion cleared and shortages of labor and equipment at ports eased, resulting in available capacity from carriers that exceeded demand. this resulted in a sharp decline in average buy rates in the fourth quarter of 2022 and average sell rates declined to adjust to market conditions.
+containers shipped were lower in all regions, most significantly on exports out of north asia. the slowdown in the economy resulted in softening demand and a buildup of retail inventories that began in the second quarter of 2022 in the united states, negatively affected containers shipped. when compared to the fourth quarter of 2021, ocean freight consolidation revenues and expenses decreased 44% and 46%, respectively, due to 34% and 37% decreases in average buy and sell rates, respectively and a 15% decrease in containers shipped. north asia ocean freight consolidation revenues and expenses decreased 57% and 59%, respectively, due to a 23% decrease in containers shipped and lower average rates.
+direct ocean freight forwarding revenues and expenses both increased 5% in 2022, principally due to higher volumes and increased ancillary services provided at higher rates. order management revenues and expenses both decreased 17% in 2022, due to lower volumes from retail customers and the impact of downtime and lost customers caused by the cyber-attack. our ability to provide order management services in the first quarter of 2022 was significantly affected by limited system connectivity during the downtime caused by the cyber-attack.
+as global economic conditions slow, we expect available capacity to exceed demand and continue downward pressure on sell and buy rates in 2023. while supply-chain congestion has cleared, uncertainty remains around labor, rail, truck and equipment shortages and pandemic related restrictions, which could result in volatility in average buy and sell rates. we also expect that pricing volatility will continue as carriers adapt to increases in fuel prices and customers react to governmental trade policies and other regulations. the high average buy and sell rates have significantly contributed to the growth in our revenues and expenses in the first part of 2022. as experienced in the fourth quarter of 2022, these unprecedented disruptions improved as supply chains operations normalized. buy rates and sell rates have been declining throughout 2022, sharply in the fourth quarter, and are expected to further decline in 2023, which could result in further decrease in our revenues, expenses and operating income.
+.
+customs brokerage and other services:
+customs brokerage and other services revenues and expenses increased 10% and 15%, respectively, in 2022, as compared with 2021, primarily due to higher charges on import services due to supply chain congestion and costs related to the downtime caused by the cyber-attack. revenues and expenses for import services increased significantly due to high drayage, storage, delivery, demurrage, and detention costs incurred at destinations caused by supply chains congestion, shortages in warehousing space and delays in retrieving and delivering cargo and were partially offset by a decrease in revenue from customs clearance due to fewer shipments. additionally, as a result of our inability to timely process and move shipments through ports during the cyber-attack downtime, we directly incurred approximately $47 million in incremental demurrage charges in 2022. road freight, warehousing and distribution services also grew due to higher volumes and higher trucking, storage and labor costs. while customers continue to value our brokerage services due to changing tariffs and increasing complexity in the declaration process, some customers opt to use multiple customs brokerage service providers to reduce their risk. customers continue to seek knowledgeable customs brokers with sophisticated computerized capabilities critical to an overall logistics management program that are necessary to rapidly respond to changes in the regulatory and security environment. additionally, as supply-chains congestion subsides and international trade slows, volumes shipped and pricing could be negatively affected resulting in lower revenues and expenses.
+north america revenues and directly related expenses increased 16% and 22%, respectively in 2022, as compared with 2021, primarily as a result of higher charges on import services due to port congestion. additionally, $43 million in demurrage charges related to the downtime caused by the cyber-attack also contributed to the increase in expenses in 2022.
+overhead expenses:
+salaries and related costs were constant in 2022, as compared with 2021, principally due to decreases in bonuses earned from lower operating income and were offset by increases in base salaries and a 4% increase in headcount.
+historically, the relatively consistent relationship between salaries and operating income has been the result of a compensation philosophy that has been maintained since the inception of our company: offer a modest base salary and the opportunity to share in a fixed and determinable percentage of the operating profit of the business unit controlled by each key employee. using this compensation model, changes in individual incentive compensation occur in proportion to changes in our operating income, creating an alignment between branch and corporate performance and shareholder interests.
+our management compensation programs have always been incentive-based and performance driven. bonuses to field and executive management in 2022 decreased 9% when compared to the same period in 2021 primarily due a 4% decrease in operating income and by unused bonus allocations and reductions in bonuses awarded to senior management.
+because our management incentive compensation programs are also cumulative, generally no management bonuses can be paid unless the relevant business unit is, from inception, cumulatively profitable. any operating losses must be offset in their entirety by operating profits before management is eligible for a bonus. executive management, in limited circumstances, makes exceptions at the branch operating unit level. since the most significant portion of management compensation comes from the incentive bonus programs, we believe that this cumulative feature is a disincentive to excessive risk taking by our managers. the outcome of any higher risk transactions, such as overriding established credit limits, would be known in a relatively short time frame. management believes that when the potential and certain impact on the bonus is fully considered in light of the short operating cycle of our services, the potential for short-term gains that could be generated by engaging in risky business practices is sufficiently mitigated to discourage excessive and inappropriate risk taking. management believes that both the stability and the long-term growth in operating income and net earnings are a result of the incentives inherent in our compensation programs.
+other overhead expenses increased 24% in 2022, as compared with 2021. we incurred $18 million of incremental costs in relation with the cyber-attack in 2022. these costs comprised of various consulting services including cybersecurity experts, outside legal advisors, and other it professional expenses; and estimated liabilities for potential shipment-related claims. the remaining increases in other overhead expenses are the result of certain operational expenses, renting additional space to accommodate changing market conditions, increased technology-related costs and higher local tax expenses, including a non-income tax contingency of $22 million, and an increase in travel and entertainment expenses. we expect to continue to enhance the effectiveness and security of our systems and deploy additional protection technologies and processes which will result in increased expenses in the future. we will also continue to make important investments in people, processes and technology, as well as to invest in our strategic efforts to explore new areas for profitable growth.
+.
+other income, net:
+other income and expense is comprised of interest expense, including $22 million on non-income tax contingencies recognized in 2022, and interest income.
+income tax expense:
+our consolidated effective income tax rate was 25.9% in 2022, as compared to 26.3% in 2021. the earnings of our u.s. operations were proportionally higher than that of our international subsidiaries in 2022 which resulted in a benefit to our effective tax rate as average u.s. federal and state tax rates are lower than average tax rates of our international subsidiaries. in 2022 and 2021, we benefited from u.s. federal tax credits totaling $41.6 million and $27.9 million, respectively principally because of withholding taxes related to our foreign operations, as well as u.s. income tax deductions for foreign-derived intangible income (fdii) of $41.7 million and $22.6 million, respectively. this was offset by a lower benefit from tax deductions for share-based compensation in 2022, principally stock option exercises of our employees, as well as the impact of certain expenses that are not deductible including certain executive compensation in excess of amounts allowed.
+our effective tax rate is subject to variation and the effective tax rate may be more or less volatile based on the amounts of pre-tax income or loss. for example, the impact of discrete items and non-deductible expenses on the effective rate is greater when pre-tax income is lower. total consolidated foreign income tax expense is composed of the income tax expense of our non-u.s. subsidiaries as well as income based withholding taxes paid by our non-u.s. subsidiaries on behalf of its parent for intercompany payments, including the remittance of dividends, some of which do not qualify for tax credits under u.s. income tax laws and regulations. the tax benefit associated with non-qualified stock option and restricted stock unit grants is recorded when the related compensation expense is recorded (excess tax benefits are recorded upon the exercise of non-qualified stock options and vesting of restricted stock units and performance share units), while the tax benefit received for employee stock purchase plan shares cannot be anticipated and are therefore recognized if and when a disqualifying disposition occurs.
+some elements of the recorded impacts of enacted tax laws and regulation could be impacted by further legislative action as well as additional interpretations and guidance issued by the internal revenue service or treasury. see note 7 to the consolidated financial statements for additional information.
+currency and other risk factors the nature of our worldwide operations necessitates transacting in a multitude of currencies other than the u.s. dollar. that exposes us to the inherent risks of volatile international currency markets and governmental interference. some of the countries where we maintain offices and/or have agency relationships maintain strict currency control regulations that influence our ability to hedge foreign currency exposure. we try to compensate for these exposures by accelerating international currency settlements among our offices and agents. we may enter into foreign currency hedging transactions where there are regulatory or commercial limitations on our ability to move money freely around the world or the short-term financial outlook in any country is such that hedging is the most time-sensitive way to mitigate short-term exchange losses. any such hedging activity during 2022 and 2021 was insignificant. we had no foreign currency derivatives outstanding at december 31, 2022 and 2021. net foreign currency losses were approximately $2 million and $12 million for 2022 and 2021, respectively.
+historically, our business has not been adversely affected by inflation. however, starting in 2021 and continuing in 2022, many countries including the united states experienced higher inflation than in recent years. in 2022 our business has experienced rising labor costs, significant service provider rate increases, higher rent and occupancy and other expenses, which could continue to increase in 2023. due to the high degree of competition in the marketplace we may not be able to increase our prices to our customers to offset this inflationary pressure, which could lead to an erosion in our margins and operating income in the future. conversely, raising our prices to keep pace with inflationary pressure may result in a decrease in customer demand. as we are not required to purchase or maintain extensive property and equipment and have not otherwise incurred substantial interest rate-sensitive indebtedness, we currently have limited direct exposure to increased costs resulting from increases in interest rates.
+there is uncertainty as to how new regulatory requirements and volatility in oil prices will continue to impact future buy rates. because fuel is an integral part of carriers' costs and impacts both our buy rates and sell rates, we would expect our revenues and costs to be impacted as carriers adjust rates for the effect of changing fuel prices. to the extent that future fuel prices increase and we are unable to pass through the increase to our customers, fuel price increases could adversely affect our operating income.
+.
+liquidity and capital resources our principal source of liquidity is cash and cash equivalents and cash generated from operating activities. net cash provided by operating activities for the year ended december 31, 2022 was $2,130 million, as compared with $868 million for 2021. this $1,262 million increase is primarily due to collection of accounts receivable when compared to the same period in 2021. at december 31, 2022, working capital was $2,464 million, including cash and cash equivalents of $2,034 million. other than our recorded lease liabilities, we had no long-term obligations or debt at december 31, 2022. management believes that our current cash position and operating cash flows will be sufficient to meet our capital and liquidity requirements for at least the next 12 months and thereafter for the foreseeable future, including meeting any contingent liabilities related to standby letters of credit and other obligations.
+as a customs broker, we make significant cash advances for a select group of our credit-worthy customers. these cash advances are for customer obligations such as the payment of duties and taxes to customs authorities in various countries throughout the world. increases in duty rates could result in increases in the amounts we advance on behalf of our customers. cash advances are a "pass through" and are not recorded as a component of revenue and expense. the billings of such advances to customers are accounted for as a direct increase in accounts receivable from the customer and a corresponding increase in accounts payable to governmental customs authorities. as a result of these "pass through" billings, the conventional days sales outstanding or dso calculation does not directly measure collection efficiency. for customers that meet certain criteria, we have agreed to extend payment terms beyond our customary terms. our accounts receivable and consequently our customer credit exposure increased as a result of historically high freight rates in 2021 and 2022. management believes that it has established effective credit control procedures, and historically has experienced relatively insignificant collection problems.
+our business historically has been subject to seasonal fluctuations, and this is expected to continue in the future. cash flows fluctuate as a result of this seasonality. historically, the first quarter shows an excess of customer collections over customer billings. this results in positive cash flow. the increased activity associated with periods of higher demand (typically commencing late second or early third quarter and continuing well into the fourth quarter) causes an excess of customer billings over customer collections. this cyclical growth in customer receivables consumes available cash. however, there is no assurance that this seasonal trend will occur in the future or to what degree it will continue to be impacted in 2023 by the softening of the global economy.
+cash used in investing activities for the year ended december 31, 2022 was $88 million, as compared with $37 million in 2021. capital expenditures were $87 million in 2022 compared to $36 million in 2021. total anticipated capital expenditures in 2023 are currently estimated to be $100 million. this includes routine capital expenditures, leasehold and building improvements and investments in technology.
+cash used in financing activities for the year ended december 31, 2022 was $1,685 million as compared with $614 million in 2021. we have a discretionary stock repurchase plan under which management is allowed to repurchase shares to reduce the issued and outstanding stock to 140 million shares of common stock, down from 150 million at december 31, 2022 as authorized by the board of directors in february 2023. we used the proceeds from stock option exercises, employee stock purchases and available cash to repurchase our common stock on the open market to reduce issued and outstanding shares. during 2022 and 2021, we used cash to repurchase 14.5 million shares of common stock at an average price of $108.88 per share and 4.4 million shares of common stock at an average price of $117.54 per share, respectively. in addition, during 2022 and 2021, we paid cash dividends of $1.34 and $1.16 per share, respectively.
+we follow established guidelines relating to credit quality, diversification and maturities of our investments to preserve principal and maintain liquidity. historically, our investment portfolio has not been adversely impacted by disruptions occurring in the credit markets. however, there can be no assurance that our investment portfolio will not be adversely affected in the future.
+we cannot predict what further impact ongoing uncertainties in the global economy, inflation, rising interest rates, political uncertainty nor the pandemic may have on our operating results, freight volumes, pricing, amounts advanced on behalf of our customers, changes in consumer demand, carrier stability and capacity, customers' abilities to pay or changes in competitors' behavior. the company expects that the february 2022 cyber-attack will not have a material adverse impact on its future business, revenues, expenses, results of operations and cash flows.
+.
+we maintain international unsecured bank lines of credit for short-term working capital purposes. a few of these credit lines are supported by standby letters of credit issued by a united states bank or guarantees issued by the company to the foreign banks issuing the credit line. at december 31, 2022, borrowings under these credit lines were $58 million and we were contingently liable for $78 million from standby letters of credit and guarantees. the standby letters of credit and guarantees relate to obligations of our foreign subsidiaries for credit extended in the ordinary course of business by direct carriers, primarily airlines, and for duty and tax deferrals available from governmental entities responsible for customs and value-added-tax. the total underlying amounts due and payable for transportation and governmental excises are properly recorded as obligations in the accounting records of the respective foreign subsidiaries, and there would be no need to record additional expense in the unlikely event the parent company is required to perform.
+we have lease arrangements primarily for office and warehouse space in all districts where we conduct business. as of december 31, 2022, we had fixed lease payment obligations of $686 million, with $112 million payable within 12 months.
+we typically enter into unconditional purchase obligations with asset-based providers (generally short-term in nature) reserving space on a guaranteed basis. the pricing of these obligations varies to some degree with market conditions. we only enter into agreements that management believes we can fulfill. in the regular course of business, we also enter into agreements with service providers to maintain or operate equipment, facilities or software that can be longer than one year. we also regularly have contractual obligations for specific projects related to improvements of our owned or leased facilities and information technology infrastructure. purchase obligations outstanding as of december 31, 2022 totaled $150 million.
+our foreign subsidiaries regularly remit dividends to the u.s. parent company after evaluating their working capital requirements and funds necessary to finance local capital expenditures. in some cases, our ability to repatriate funds from foreign operations may be subject to foreign exchange controls. at december 31, 2022, cash and cash equivalent balances of $722 million were held by our non-united states subsidiaries, of which $20 million was held in banks in the united states. earnings of our foreign subsidiaries are not considered to be indefinitely reinvested outside of the united states.
+as of december 31, 2022, we did not have any material off-balance-sheet arrangements, as defined in item 303(a)(2) of sec regulation s-k.

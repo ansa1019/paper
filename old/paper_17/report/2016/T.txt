@@ -1,0 +1,56 @@
+item 1a. risk factors information required by this item is included in the annual report under the heading "risk factors" on pages 39 through 43 which is incorporated herein by reference pursuant to general instruction g(2).
+cautionary language concerning forward-looking statements information set forth in this report contains forward-looking statements that are subject to risks and uncertainties, and actual results could differ materially. many of these factors are discussed in more detail in the "risk factors" section. we claim the protection of the safe harbor for forward-looking statements provided by the private securities litigation reform act of 1995.
+the following factors could cause our future results to differ materially from those expressed in the forward-looking statements:
+·   adverse economic and/or capital access changes in the markets served by us or in countries in which we have significant investments, including the impact on customer demand and our ability and our suppliers' ability to access financial markets at favorable rates and terms.
+
+·   changes in available technology and the effects of such changes, including product substitutions and deployment costs.
+
+·   increases in our benefit plans' costs, including increases due to adverse changes in the united states and foreign securities markets, resulting in worse-than-assumed investment returns and discount rates; adverse changes in mortality assumptions; adverse medical cost trends; and unfavorable or delayed implementation or repeal of healthcare legislation, regulations or related court decisions.
+
+·   the final outcome of fcc and other federal, state or foreign government agency proceedings (including judicial review, if any, of such proceedings) involving issues that are important to our business, including, without limitation, special access and business data services; intercarrier compensation; interconnection obligations; pending notices of apparent liability; the transition from legacy technologies to ip-based infrastructure, including the withdrawal of legacy tdm-based services; universal service; broadband deployment; e911 services; competition policy; privacy net neutrality, including the fcc's order classifying broadband as title ii services subject to much more comprehensive regulation; unbundled network elements and other wholesale obligations; multi-channel video programming distributor services and equipment; availability of new spectrum, on fair and balanced terms; and wireless and satellite license awards and renewals.
+
+·   the final outcome of state and federal legislative efforts involving issues that are important to our business, including deregulation of ip-based services, relief from carrier of last resort obligations and elimination of state commission review of the withdrawal of services.
+
+·   enactment of additional state, local, federal and/or foreign regulatory and tax laws and regulations, or changes to existing standards and actions by tax agencies and judicial authorities including the resolution of disputes with any taxing jurisdictions, pertaining to our subsidiaries and foreign investments, including laws and regulations that reduce our incentive to invest in our networks, resulting in lower revenue growth and/or higher operating costs.
+
+·   our ability to absorb revenue losses caused by increasing competition, including offerings that use alternative technologies or delivery methods (e.g., cable, wireless, voip and over-the-top video service) and our ability to maintain capital expenditures.
+
+·   the extent of competition including from governmental networks and other providers and the resulting pressure on customer and access line totals and segment operating margins.
+
+·   our ability to develop attractive and profitable product/service offerings to offset increasing competition.
+
+·   the ability of our competitors to offer product/service offerings at lower prices due to lower cost structures and regulatory and legislative actions adverse to us, including state regulatory proceedings relating to unbundled network elements and non-regulation of comparable alternative technologies (e.g., voip).
+
+·   the continued development and delivery of attractive and profitable video offerings through satellite and ip-based networks; the extent to which regulatory and build-out requirements apply to our offerings; and the availability, cost and/or reliability of the various technologies and/or content required to provide such offerings.
+
+·   our continued ability to maintain margins, attract and offer a diverse portfolio of wireless service and devices and device financing plans.
+
+·   the availability and cost of additional wireless spectrum and regulations and conditions relating to spectrum use, licensing, obtaining additional spectrum, technical standards and deployment and usage, including network management rules.
+
+·   our ability to manage growth in wireless video and data services, including network quality and acquisition of adequate spectrum at reasonable costs and terms.
+
+·   the outcome of pending, threatened or potential litigation (which includes arbitrations), including, without limitation, patent and product safety claims by or against third parties.
+
+·   the impact from major equipment failures on our networks, including satellites operated by directv; the effect of security breaches related to the network or customer information; our inability to obtain handsets, equipment/software or have handsets, equipment/software serviced in a timely and cost-effective manner from suppliers; and in the case of satellites launched, timely provisioning of services from vendors; or severe weather conditions, natural disasters, pandemics, energy shortages, wars or terrorist attacks.
+
+·   the issuance by the financial accounting standards board or other accounting oversight bodies of new accounting standards or changes to existing standards.
+
+·   our ability to integrate our acquisition of directv.
+
+·   our ability to close our pending acquisition of time warner inc. and successfully integrate its operations.
+
+·   our ability to adequately fund our wireless operations, including payment for additional spectrum, network upgrades and technological advancements.
+
+·   our increased exposure to video competition and foreign economies due to our recent acquisitions of directv and mexican wireless properties, including foreign exchange fluctuations as well as regulatory and political uncertainty.
+
+·   changes in our corporate strategies, such as changing network-related requirements or acquisitions and dispositions, which may require significant amounts of cash or stock, to respond to competition and regulatory, legislative and technological developments.
+
+·   the uncertainty surrounding further congressional action to address spending reductions, which may result in a significant decrease in government spending and reluctance of businesses and consumers to spend in general.
+
+·   the uncertainty and impact of anticipated regulatory and corporate tax reform, which may impact the overall economy and incentives for business investments.
+
+readers are cautioned that other factors discussed in this report, although not enumerated here, also could materially affect our future earnings.
+11
+at&amp;t inc.
+
+item 7. management's discussion and analysis of financial condition and results of operations information required by this item is included in the annual report on pages 11 through 44, which is incorporated herein by reference pursuant to general instruction g(2).

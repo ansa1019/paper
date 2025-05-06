@@ -1,0 +1,612 @@
+item 7. management's discussion and analysis of financial condition and results of operations
+
+index executive overview                      36
+consolidated results of operations      41
+liquidity and capital resources         43
+critical accounting estimates           46
+segment reporting                       49
+global health care                      49
+global supplemental benefits            50
+group disability and life               51
+other operations                        52
+corporate                               53
+investment assets                       53
+management's discussion and analysis of financial condition and results of operations ("md&a") is intended to provide information to assist you in better understanding and evaluating our financial condition and results of operations. we encourage you to read this md&a in conjunction with our consolidated financial statements included in part ii, item 8 of this annual report on form 10-k ("form 10-k") and the "risk factors" contained in part i, item 1a of this form 10-k.
+unless otherwise indicated, financial information in the md&a is presented in accordance with accounting principles generally accepted in the united states of america ("gaap"). see note 2 to the consolidated financial statements for additional information regarding the company's significant accounting policies. in some of our financial tables in this md&a, we present either percentage changes or "n/m" when those changes are so large as to become not meaningful. changes in percentages are expressed in basis points ("bps").
+in this md&a, our consolidated measures "operating revenues" and "adjusted income from operations" are not determined in accordance with gaap and should not be viewed as substitutes for the most directly comparable gaap measures "total revenues" and "shareholders' net income."
+we define operating revenues as total revenues excluding realized investment results. we exclude realized investment results from this measure because our portfolio managers may sell investments based on factors largely unrelated to the underlying business purposes of each segment. as a result, gains or losses created in this process may not be indicative of past or future underlying performance of our businesses.
+we use adjusted income (loss) from operations as our principal financial measure of operating performance because management believes it best reflects the underlying results of our business operations and permits analysis of trends in underlying revenue, expenses and profitability. we define adjusted income from operations as shareholders' net income (loss) excluding after-tax realized investment gains and losses, net amortization of other acquired intangible assets and special items. income or expense amounts are excluded from adjusted income from operations for the following reasons:
+
+realized investment results are excluded because, as noted above, our portfolio managers may sell investments based on factors largely unrelated to the underlying business purposes of each segment.
+
+net amortization of other intangible assets is excluded because it relates to costs incurred for acquisitions and, as a result, it does not relate to the core performance of the company's business operations. in 2015, the amortization amount was net of a bargain purchase gain on an acquisition.
+
+special items are excluded because management believes they are not representative of the underlying results of operations. see note 22 to the consolidated financial statements for descriptions of special items.
+executive overview
+
+cigna corporation, together with its subsidiaries (either individually or collectively referred to as "cigna," the "company," "we," "our" or "us") is a global health services organization dedicated to a mission of helping individuals improve their health, well-being and sense of security. to execute on our mission, cigna's strategy is to "go deep", "go global" and "go individual" with a differentiated set of medical, dental, disability, life and accident insurance and related products and services offered by our subsidiaries. in addition to these ongoing operations, we also have certain run-off operations.
+for further information on our business and strategy, please see item 1, "business" in this form 10-k.
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations financial summary
+
+summarized below are certain key measures of our performance for the years ended december 31:
+
+(dollars in millions, except per share amounts)       2016               2015               2014                   2016 vs. 2015           2015 vs. 2014
+total revenues (1)                                    $39,668            $37,876            $34,914                           5%                      8%
+operating revenues (1)
+global health care                                    $31,199            $29,929            $27,290                           4%                     10%
+global supplemental benefits                                 3,385              3,149              3,005       7                       5
+group disability and life                                    4,443              4,271              3,970                       4                       8
+other operations                                      472                485                510                              (3)                     (5)
+corporate                                                                       (15)               (15)                     100                       
+total operating revenues (1)                          $39,499            $37,819            $34,760                           4%                      9%
+shareholders' net income (1)                          $1,867             $2,094             $2,102                         (11)%                      %
+adjusted income (loss) from operations (1)
+global health care                                    $1,852             $1,848             $1,752                            %                      5%
+global supplemental benefits                          294                262                243                12                      8
+group disability and life                                      125                324                317                    (61)                       2
+other operations                                      70                 75                 68                               (7)       10
+corporate                                                    (237)              (253)              (265)                       6                       5
+total adjusted income from operations (1)             $2,104             $2,256             $2,115                          (7)%                      7%
+earnings per share (diluted):
+shareholders' net income (1)                          $7.19              $8.04              $7.83                          (11)%                      3%
+adjusted income from operations (1)                   $8.10              $8.66              $7.87                           (6)%                     10%
+global medical customers (in thousands)                     15,197             14,999             14,456                      1%                      4%
+(1)
+see consolidated results of operations beginning on page 41 for reconciliations of operating revenues to total revenues and adjusted income from operations to shareholders' net income on a dollar and per share basis.
+2016 and 2015 both increased, primarily reflecting higher operating revenues driven by business growth across the company as discussed further below.
+2016 and 2015 both reflected business growth in each of our ongoing reportable segments. rate actions for certain products within our commercial segment to recover medical cost trend also contributed to these increases.
+2016 vs. 2015  decrease was due to lower adjusted income from operations, primarily in the group disability and life segment. increased special item charges in 2016 (primarily higher merger costs and the 2016
+risk corridor allowance) also contributed to the decline.
+2015 vs. 2014  the slight increase primarily reflected higher adjusted income from operations and, to a lesser extent, the impact of share repurchase. these favorable effects were partially offset by lower realized investment results and 2015 charges for merger and debt extinguishment costs reported as special items.
+(1)
+see consolidated results of operations starting on page 41 for reconciliations of operating revenues to total revenues and adjusted income from operations to shareholders' net income on a dollar and per share basis.
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations
+2016 vs. 2015  decrease was driven by significantly lower earnings in group disability and life and costs related to the government segment's cms audit response. increased earnings contributions in global supplemental benefits and the commercial segment partially offset those unfavorable impacts.
+2015 vs. 2014  increase was due to higher earnings in each of our ongoing reportable segments, reflecting continued customer growth in all of our reportable segments, including improved contributions from our specialty health care businesses. share repurchase also contributed to the increase.
+(1)
+see consolidated results of operations starting on page 41 for reconciliations of operating revenues to total revenues and adjusted income from operations to shareholders' net income on a dollar and per share basis.
+2016 and 2015 both increased, including growth in the middle market, select and international market segments. the 2015 increase also reflected the acquisition of qualcare alliance networks, inc. as well as growth in the government market segment.
+further discussion of detailed components of revenues and expenses can be found in the "consolidated results of operations" section of this md&a beginning on page 41. for further analysis and explanation of individual segment results, see the "segment reporting" section of this md&a beginning on page 49.
+key transactions
+
+proposed merger with anthem, inc. ("anthem")
+on july 23, 2015, we entered into a definitive agreement to merge with anthem, subject to certain terms, conditions and customary operating covenants, with anthem continuing as the surviving company. at special shareholders' meetings in december 2015, cigna shareholders approved the merger with anthem and anthem shareholders voted to approve the issuance of shares of anthem common stock according to the merger agreement. upon closing, our shareholders would receive $103.40 in cash and 0.5152 of a share of anthem common stock for each common share of the company. the closing price of anthem stock on february 22, 2017 was $163.27.
+consummation of the merger is subject to certain customary conditions, including the receipt of certain necessary governmental and regulatory approvals, and the absence of a legal restraint prohibiting the consummation of the merger. on july 21, 2016, the u.s. department of justice ("doj") and certain state attorneys general filed a civil antitrust lawsuit in the u.s. district court for the district of columbia (the "district court") seeking to block the merger and, on january 4, 2017, the parties concluded the district court trial. on february 8, 2017, the district court issued an order enjoining the proposed merger. anthem appealed this ruling to the u.s. court of appeals for the district of columbia circuit (the "appeals court"). additionally, cigna appealed the district court ruling following the chancery court ruling described below.
+on february 14, 2017, cigna delivered a notice to anthem terminating the merger agreement and filed suit in the delaware court of chancery (the "chancery court") seeking, among other things, declaratory judgment that cigna's termination of the merger agreement is lawful and that anthem does not have the right to extend the merger agreement termination date. later that day, anthem filed a lawsuit in the chancery court against us seeking, among other things, a temporary restraining order to enjoin cigna from terminating the merger agreement, specific performance and damages, and, on february 15, 2017, the chancery court issued an order temporarily enjoining us from terminating the merger agreement. this order will be subject to further review at a preliminary injunction hearing.
+see notes 3 and 21 to the consolidated financial statements in this form 10-k for additional information about the proposed merger. see item 1a.  risk factors in this form 10-k for risks to our business due to the proposed merger.
+
+part ii item 7. management's discussion and analysis of financial condition and results of operations health care industry developments and other matters affecting our global health care segment
+
+the "regulation" section of this form 10-k provides a detailed description of the patient protection and affordable care act (the "health care reform act" or "aca") provisions and other legislative initiatives that impact our health care business, including regulations issued by the centers for medicare and medicaid services ("cms") and the departments of the treasury and health and human services ("hhs"). the table presented below provides further details related to the impact of key aca-related items and certain other regulatory matters affecting our global health care segment.
+item                                                description medicare advantage ("ma")                           cms actions: in january 2016, cms issued a notice of imposition of immediate intermediate sanctions (the "notice") to the company. the notice required us to suspend certain enrollment and marketing activities for medicare advantage-prescription drug and medicare part d plans. the sanctions do not impact the right of current enrollees to remain covered by our medicare advantage-prescription drug or medicare part d plans.
+although we continue to devote resources to our remediation efforts, we expect remediation costs in 2017 to be significantly lower than 2016. for 2016, costs related to our cms audit response were approximately $100 million after-tax. see note 21 to the consolidated financial statements for additional information.
+while these matters were not resolved in time to participate in the 2017 medicare advantage and part d annual enrollment period, we continue to work with cms to address the audit findings and have the sanctions lifted as quickly as possible. we expect to have these sanctions lifted in time to participate in the 2018 annual enrollment period. the impact of disenrollment was not material to 2016 consolidated revenues and earnings. in 2017, medicare enrollment and consolidated revenues will be materially impacted due to our inability to participate in 2017 annual enrollment. however, management does not anticipate that 2017
+shareholders' net income will be materially affected because we expect to offset the margin impact of the revenue loss with several factors including significantly lower costs to remediate the sanctions and other operational efficiencies.
+on october 12, 2016, cms announced medicare star quality ratings ("star ratings") for 2017 (see item 1  business and item 1a.  risk factors in this form 10-k for additional discussion of star ratings programs). while star ratings are based on a number of plan performance measures that are evaluated each year, the projected star ratings for our plans included certain reductions that are primarily attributable to our cms audit discussed above. under these revised star ratings, approximately 20% of our medicare advantage customers are expected to be in a 4 stars or greater plan. we do not believe that these star ratings reflect the quality offerings cigna-healthspring provides to beneficiaries.
+we filed a reconsideration request with cms, which was denied, and will work fully with cms through their process as well as consider additional alternatives with the objective that the final star ratings more accurately reflect our performance under the star ratings measures. we remain committed to our partnership with cms and to delivering quality products and services to seniors, while working to mitigate the impact these star ratings could have on our offerings in 2018. there is no financial impact in 2016 or 2017 because these ratings apply to plans for the 2018 payment year. however, if we are unsuccessful in restoring at least some of the star ratings, the effect in 2018 could be material to shareholders' net income. the actual impact on earnings in 2018 could potentially be offset in part by our ability to restore some or all of our downgraded 2018 star rating measures, modify our product offerings and implement operational efficiencies in the government business.
+2017 and 2018 ma rates: final ma reimbursement rates for 2017 were published by cms in april 2016.
+preliminary ma reimbursement rates for 2018 were published by cms in february 2017. we do not expect the new rates to have a material impact on our consolidated results of operations in 2017 and 2018.
+health care reform act taxes and fees               health insurance industry tax: this non-deductible tax is being levied based on a ratio of an insurer's net health insurance premiums written for the previous calendar year compared to
+ industry tax                                      the u.s. health insurance industry total. the industry assessment was $11.3 billion in both 2016 and 2015 and $8 billion in 2014. we recognized approximately $310 million in operating expenses for both 2016 and 2015 and
+$240 million in 2014. because this tax is not deductible for federal income tax purposes, it negatively impacts our effective tax rate. of the full year 2016 tax, $170 million relates to our commercial business and $140 million to our government business.
+for our commercial business, we incorporated the industry tax into target pricing actions. for our medicare business, although we have partially mitigated the effect of the tax through benefit changes and customer premium increases, the combination of the tax and lower ma rates reduced margins in the government operating segment in both 2016 and 2015.
+in december 2015, federal appropriations legislation imposed a one-year moratorium on the industry tax for 2017, with reinstatement expected in 2018. our target pricing actions related to 2017 and 2018 plan years will consider the impacts of this legislation. the moratorium in 2017 is expected to lower our effective tax rate.
+ reinsurance fee                                   reinsurance fee: this fee, applicable only for 2014-2016, was a fixed dollar per customer levy that applied to both insured and self-insured major medical plans excluding certain products such as medicare advantage and medicare part d. proceeds from the fee were used to fund the reinsurance program for non-grandfathered individual business sold either on or off the public exchanges. for our insured business, the amount of the tax-deductible fee was approximately $45 million in 2016, $70 million in 2015 and $110 million in 2014. the declines from 2014 to 2016 reflect annual per-customer levies of $27 in 2016, $44 in 2015 and $63 in 2014.
+public health exchanges                             public health exchanges: for 2016, we offered individual coverage on seven public health insurance exchanges in the following states: arizona, colorado, georgia, maryland, missouri, tennessee and texas. for 2017, we are offering individual coverage on seven public health insurance exchanges in the following states: colorado, illinois, maryland, missouri, north carolina, tennessee and virginia.
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations risk mitigation programs
+
+see note 2 (k) to the consolidated financial statements for a description of and our accounting policy for these programs that commenced in 2014.
+the following table presents the after-tax benefits to shareholders' net income from these programs for the years ended december 31, 2016, 2015 and 2014 and our net receivable balances as of december 31, 2016 and 2015.
+net receivable balance (2)                   after-tax impact on shareholders' net income as of december 31,                           for the years ended december 31,
+(in millions)                 2016                   2015                  2016                   2015                       2014
+risk corridor (1)
+risk corridor (gross)         $124                   $134                  $(6)                   $49                        $40
+risk corridor allowance            (124)                                       (80)                                                 
+net risk corridor                                   134                        (86)              49                         40
+reinsurance                        63                         158               30                         125                        109
+risk adjustment               1                      118                   25                     92                         49
+total                         $64                    $410                  $(31)                  $266                       $198
+(1)
+starting in fourth quarter 2016, we did not record amounts due to us under the risk corridor program and recorded an allowance for previously due amounts. see discussion below.
+(2)
+for the reinsurance program, receivables are reported in reinsurance recoverables. receivables, net of allowances, for the risk adjustment and risk corridor programs are reported in premiums, accounts and notes receivable. payables for the risk adjustment program as of december 31, 2016 of $51 million are netted in the receivable balance presented above, but are reported in accounts payable, accrued expenses and other liabilities in the consolidated balance sheets.
+as of september 30, 2016, the company's risk corridor receivable was $124 million pre-tax. an unfavorable court decision was issued during the fourth quarter rejecting another insurer's statutory, contractual and constitutional claims for payment of risk corridor receivables (land of lincoln mutual health insurance company v. united states). based on this decision, as well as the large risk corridor program deficit, under applicable accounting rules, the company determined it was required to establish an allowance for all of the $124 million of receivables associated with the risk corridor program. in addition, the company was unable to recognize $25 million pre-tax income for incremental fourth quarter risk corridor receivables. this court case is under appeal and notwithstanding the accounting reflected, management continues to believe that the government has a binding obligation to satisfy the risk corridor receivable. we expect full payment of the remaining reinsurance and risk adjustment receivables.
+
+part ii item 7. management's discussion and analysis of financial condition and results of operations consolidated results of operations
+
+financial summary
+
+summarized below are our results of operations on a gaap basis.
+for the years ended                            increase                              increase december 31,                          (decrease)                            (decrease)
+(in millions)                                                   2016                2015                2014                               2016 vs. 2015                         2015 vs. 2014
+premiums                                                        $30,626             $29,642             $27,214            $984                        3   %    $2,428                       9   %
+fees and other revenues                                                4,760               4,488               4,141       272                 6                347                 8
+net investment income                                                  1,147               1,153               1,166               (6)                (1   )            (13   )             (1   )
+mail order pharmacy revenues                                           2,966               2,536               2,239       430                 17               297                 13
+operating revenues                                                    39,499              37,819              34,760             1,680                 4              3,059                  9
+net realized investment gains                                   169                 57                  154                112                 196                      (97   )            (63   )
+total revenues                                                        39,668              37,876              34,914             1,792                 5              2,962                  8
+global health care medical costs                                      19,009              18,354              16,694       655                 4                      1,660         10
+other benefit expenses                                                 5,477               4,936               4,640               541                11                296                  6
+mail order pharmacy costs                                              2,468               2,134               1,907       334                 16               227                 12
+other operating expenses                                               9,584               8,982               8,174               602                 7                808                 10
+amortization of other acquired intangible assets, net           151                 143                 195                8                   6                        (52   )            (27   )
+benefits and expenses                                                 36,689              34,549              31,610             2,140                 6              2,939                  9
+income before income taxes                                             2,979               3,327               3,304             (348)               (10   )    23                  1
+income taxes                                                           1,136               1,250               1,210             (114)                (9   )             40                  3
+net income                                                             1,843               2,077               2,094             (234)               (11   )            (17   )             (1   )
+less: net (loss) attributable to noncontrolling interests               (24)                (17)                 (8)               (7)               (41   )             (9   )           (113   )
+shareholders' net income                                        $1,867              $2,094              $2,102             $(227)                    (11   )%   $(8           )                 %
+a reconciliation of shareholders' net income to adjusted income from operations follows:
+for the years ended            increase                          increase december 31,            (decrease)                        (decrease)
+(in millions)                                                                                                    2016               2015              2014                   2016 vs. 2015                     2015 vs. 2014
+shareholders' net income                                                                                         $1,867             $2,094            $2,102            $(227      )           (11   )%   $(8)                    %
+after-tax adjustments required to reconcile to adjusted income from operations:
+ net realized investment (gains)                                                                                      (109)              (40)              (106)            (69   )                           66
+ amortization of other acquired intangible assets, net                                                          94                 80                119               14                                     (39)
+special items:
+ risk corridor allowance (see note 22 to the consolidated financial statements)                                 80                                                   80                                     
+ merger-related transaction costs (see note 3 to the consolidated financial statements)                                 147              57                                90                                57
+ charges associated with litigation matters discussed in note 21 to the consolidated financial statements       25                                                   25                                     
+ debt extinguishment costs (see note 5 to the consolidated financial statements)                                                        65                                (65   )                           65
+adjusted income from operations                                                                                  $2,104             $2,256            $2,115            $(152      )           (7    )%   $141                    7%
+for the years ended             change                                         change december 31,             favorable                                   favorable
+(unfavorable)                           (unfavorable)
+other key consolidated financial data                                       2016              2015              2014                   2016 vs. 2015                           2015 vs. 2014
+earnings per share (diluted):
+shareholders' net income                                                    $7.19             $8.04             $7.83            $(0.85        )       (11)%       $0.21                3%
+per share impact of after-tax adjustments to shareholders' net income net realized investment (gains)                                                  (0.42   )         (0.15   )         (0.40   )         (0.27   )                   0.25
+amortization of other acquired intangible assets, net                             0.36              0.30             0.44              0.06                             (0.14   )
+special items  see note 22 for details                                     0.97              0.47                              0.50                              0.47
+adjusted income from operations                                             $8.10             $8.66             $7.87            $(0.56        )       (6)%        $0.79                10%
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations consolidated results of operations: 2016 compared to 2015 and 2015 compared to 2014
+
+
+revenues.  the components of revenue changes are discussed further below:
+premiums. the increases in both 2016 and 2015, compared with each prior year, reflected premium growth in each of our ongoing reporting segments: global health care, global supplemental benefits and group disability and life. these results were primarily attributable to customer growth in our targeted market segments within global health care, as well as growth in global supplemental benefits and group disability and life. rate actions in our commercial health care businesses consistent with medical cost trend also contributed to these increases.
+fees and other revenues. the increases in both 2016
+and 2015, compared with each prior year, largely reflected growth from specialty products offered through our global health care segment and an increased customer base for our administrative services only business.
+net investment income decreased slightly in both 2016
+and 2015, compared with each prior year, as lower investment yields in the continued low interest rate environment were partially offset by higher average invested assets. unfavorable foreign currency effects also contributed to these declines.
+mail order pharmacy revenues increased in both 2016
+and 2015, compared with each prior year, driven by greater volume, primarily for specialty medications (e.g., certain injectables) due to our higher customer base and increased utilization.
+realized investment results increased in 2016
+compared with 2015 due to significantly lower impairment losses. in 2015, realized investment results decreased compared with 2014, primarily due to higher impairment losses on certain externally managed fixed maturities, particularly within the energy sector. these impairments were driven by increased market yields. see note 11 to the consolidated financial statements for additional information.
+
+global health care medical costs.  the increase in 2016 compared with 2015 resulted primarily from medical cost trend and customer growth in our commercial health care businesses. the 2015 increase compared with 2014 was primarily due to customer growth in our government business and, to a lesser extent, medical cost trend.
+
+other benefit expenses.  the increase in 2016 compared with 2015 was driven by unfavorable disability and life claim experience due primarily to changes in the disability claims management process in 2016 and elevated life claims during the second quarter of 2016. business growth in our group disability and life and global supplemental benefits segments also contributed to the increase. in 2015, the increase compared with 2014 primarily reflected business growth in our group disability and life and global supplemental benefits segments.
+
+mail order pharmacy costs.  the increases in both 2016 and 2015 compared with each prior year were primarily due to increased volume, primarily for specialty medications (e.g., certain injectables) due to our higher customer base and increased utilization. in 2015, higher unit costs also contributed to the increase.
+
+other operating expenses.  the increases in both 2016 and 2015 compared with each prior year were due to business growth, strategic investment across our segments and special items described in note 22 to the consolidated financial statements. in 2016, the increase also reflected costs associated with our cms audit response as discussed in the executive overview section of this md&a beginning on page 36.
+
+amortization of other acquired intangible assets, net.  the increase in 2016 compared with 2015 was driven by the absence of the $23 million bargain purchase gain recorded in 2015 for an acquisition. this factor was partially offset by the expected continuing decline in amortization from our 2012 acquisition of healthspring, inc. the decrease in 2015 compared with 2014 reflects the impact of both the $23 million bargain purchase gain and the decline in healthspring amortization.
+
+special items.  special item charges were higher in 2016 compared with 2015 primarily due to higher merger costs and the 2016 risk corridor allowance. special items charges were higher in 2015 compared with 2014 due to merger costs and losses on the early extinguishment of debt in 2015 and the absence of special items in 2014. see note 22 to the consolidated financial statements for additional details about special items.
+
+consolidated effective tax rate.  the increase in our effective tax rate in 2016 compared with 2015 was largely driven by an increase in certain merger-related transaction costs reported in 2016 that are not tax deductible, partially offset by the tax benefits associated with adopting accounting standard update ("asu") 2016-09 as discussed in note 2 to the consolidated financial statements. the increase in the consolidated effective tax rate in 2015 was primarily driven by merger-related transaction costs in 2015 and the non-deductible health insurance industry tax assessed under the health care reform act. this tax was first assessed in 2014 and increased in 2015. see note 20 to the consolidated financial statements for additional information about income taxes.
+we expect our effective tax rate to decline in 2017 as a result of the moratorium on the health insurance industry tax.
+
+part ii item 7. management's discussion and analysis of financial condition and results of operations liquidity and capital resources
+
+
+short-term investments               $691            $381            $163
+cash and cash equivalents          $3,185          $1,968          $1,420
+short-term debt                      $276            $149            $147
+long-term debt                     $4,756          $5,020          $4,979
+shareholders' equity              $13,723         $12,035         $10,774
+consolidated short-term investments increased in both 2016 and 2015 as a result of investing excess cash balances at the parent company level.
+liquidity
+
+we maintain liquidity at two levels: the subsidiary level and the parent company level.
+liquidity requirements at the subsidiary level generally consist of:
+ medical costs and benefit payments to policyholders;  expense requirements, primarily for employee compensation and benefits, information technology and facilities costs; and  income taxes.
+our subsidiaries normally meet their operating requirements by:
+ maintaining appropriate levels of cash, cash equivalents and short-term investments;  using cash flows from operating activities;
+ matching investment durations to those estimated for the related insurance and contractholder liabilities;  selling investments; and  borrowing from affiliates, subject to applicable regulatory limits.
+liquidity requirements at the parent company level generally consist of:
+ debt service and dividend payments to shareholders;  pension plan funding; and  repurchases of common stock.
+the parent company normally meets its liquidity requirements by:
+ maintaining appropriate levels of cash and various types of marketable investments;  collecting dividends from its subsidiaries;
+ using proceeds from issuance of debt and equity securities; and  borrowing from its subsidiaries.
+cash flows for the years ended december 31, were as follows:
+
+net cash provided by operating activities (1)(2)       $4,026            $2,933            $2,158
+net cash (used in) investing activities (2)            $(2,574)          $(1,736)          $(1,866)
+net cash (used in) financing activities (1)            $(225)            $(609)            $(1,635)
+(1)
+as required in adopting asu 2016-09, we retrospectively reclassified $79 million in 2015 and $53 million in 2014 of cash payments from operating to financing activities. these payments were related to employee tax obligations associated with stock compensation. the comparable amount reported in financing activities in 2016 was $72 million. see note 2 to the consolidated financial statements for further discussion.
+(2)
+as required in adopting asu 2016-15, the company retrospectively reclassified from investing to operating activities $137 million in 2015 and $111 million in 2014 of cash distributions from partnership earnings. the comparable amount reported in operating activities in 2016 was $144 million. see note 2 to the consolidated financial statements for further discussion.
+cash flows from operating activities consist of cash receipts and disbursements for premiums and fees, mail order pharmacy, other revenues, investment income, taxes, benefits and expenses. because certain income and expense transactions do not generate cash, and because cash transactions related to revenues and expenses may occur in periods different from when those revenues and expenses are recognized in shareholders' net income, cash flows from operating activities can be significantly different from shareholders' net income.
+cash flows from investing activities generally consist of net investment purchases or sales and net purchases of property and equipment including capitalized software, as well as cash used to acquire businesses.
+cash flows from financing activities are generally comprised of issuances and re-payment of debt at the parent company level, proceeds on the issuance of common stock resulting from stock option exercises, and stock repurchases. in addition, the subsidiaries report deposits to and withdrawals from investment contract liabilities (including universal life insurance liabilities) because such liabilities are considered financing activities with policyholders.
+operating activities cash flows from operating activities increased in 2016 compared with 2015 due to higher receipts from medicare part d and medicare advantage programs.
+cash flows from operating activities increased in 2015 compared with 2014 primarily driven by the volume and timing of government reimbursements and pharmacy considerations.
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations investing activities cash used in investing activities increased in 2016 compared with 2015, due to higher purchases of fixed maturity investments. net cash used in investing activities decreased in 2015 compared with 2014 due to lower net purchases of fixed maturities.
+financing activities cash used in financing activities decreased in 2016 compared with 2015, primarily due to lower share repurchases offset by lower proceeds from employees' exercise of stock options. cash used in financing activities decreased in 2015 compared with the same period in 2014, primarily reflecting lower share repurchases.
+share repurchase we maintain a share repurchase program, authorized by our board of directors. under this program, we may repurchase shares from time to time, depending on market conditions and alternate uses of capital. the timing and actual number of shares repurchased will depend on a variety of factors, including price, general business and market conditions, and alternate uses of capital. the share repurchase program may be effected through open market purchases or privately negotiated transactions in compliance with rule 10b-18 under the securities exchange act of 1934, as amended, including through rule 10b5-1 trading plans. the program may be suspended or discontinued at any time.
+in 2016, we repurchased 0.8 million shares for $110 million. in february 2017, the board of directors increased repurchase authority to $3.7 billion, however management has determined that it is prudent to cap the amount of repurchase to $250 million per quarter until there is more clarity with respect to the litigation with anthem. from january 1, 2017 through february 22, 2017 we repurchased 0.7 million shares for $106 million. the total remaining share repurchase authorization as of february 22, 2017 was $3.7 billion. we repurchased 5.5 million shares for $683 million in 2015 and 18.5 million shares for $1.6 billion in 2014.
+interest expense
+
+interest expense on long-term debt, short-term debt and capital leases was as follows:
+
+interest expense       $251          $252          $265
+interest expense reported above for the year ended 2015 excluded losses on the early extinguishment of debt.
+the weighted average interest rate for outstanding short-term debt (primarily commercial paper) was 0.69% at december 31, 2015. there was no commercial paper outstanding as of december 31, 2016.
+capital resources
+
+our capital resources (primarily retained earnings and proceeds from the issuance of debt and equity securities) provide protection for policyholders, furnish the financial strength to underwrite insurance risks and facilitate continued business growth.
+management, guided by regulatory requirements and rating agency capital guidelines, determines the amount of capital resources that we maintain. management allocates resources to new long-term business commitments when returns, considering the risks, look promising and when the resources available to support existing business are adequate.
+we prioritize our use of capital resources to:
+
+provide the capital necessary to support growth and maintain or improve the financial strength ratings of subsidiaries and to fund pension obligations;
+
+consider acquisitions that are strategically and economically advantageous; and
+
+return capital to investors through share repurchase.
+see note 3 to the consolidated financial statements for information regarding capital restrictions imposed by our merger agreement with anthem. the availability of capital resources will be impacted by equity and credit market conditions. extreme volatility in credit or equity market conditions may reduce our ability to issue debt or equity securities.
+liquidity and capital resources outlook
+
+at december 31, 2016, there was approximately $2.8 billion in cash and marketable investments available at the parent company level. in 2017, the parent company's combined cash obligations are expected to approximate $660 million for repayment of debt, interest, pension contributions and dividends.
+we expect, based on the parent company's current cash position and current projections for subsidiary dividends, to have sufficient liquidity to meet the obligations discussed above.
+our cash projections may not be realized and the demand for funds could exceed available cash if our ongoing businesses experience unexpected shortfalls in earnings, or we experience material adverse effects from one or more risks or uncertainties described more fully in the risk factors section of this form 10-k. in those cases, we expect to have the flexibility to satisfy liquidity needs through a variety of measures, including intercompany borrowings and sales of liquid investments. the parent company may borrow up to $1.3 billion from its insurance subsidiaries without additional state approval. as of december 31, 2016, the parent company had $277 million of net intercompany loans
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations payable to its insurance subsidiaries. alternatively, to satisfy parent company liquidity requirements we may use short-term borrowings, such as the commercial paper program, the committed revolving credit and letter of credit agreement of up to $1.5 billion subject to the maximum debt leverage covenant in its line of credit agreement. as of december 31, 2016, $1.5 billion of short-term borrowing capacity under the credit agreement was available to us. within the maximum debt leverage covenant in the line of credit agreement as described in note 5 to the consolidated financial statements, we have $9.7 billion of borrowing capacity in addition to the $5 billion of debt outstanding. this additional borrowing capacity includes the $1.5 billion available under the credit agreement.
+though we believe we have adequate sources of liquidity, significant disruption or volatility in the capital and credit markets could affect our ability to access those markets for additional borrowings or increase costs associated with borrowing funds.
+we maintain a capital management strategy to retain overseas a significant portion of the earnings from our foreign operations. as of december 31, 2016, undistributed earnings were approximately $2.5 billion. these undistributed earnings are deployed outside of the u.s. predominantly in support of the liquidity and regulatory capital requirements of our foreign operations. approximately $305 million of cash and cash equivalents held overseas would be subject to additional tax expense representing the difference between the u.s. and foreign tax rates, if repatriated. we continue to expect most of the undistributed earnings and future earnings to be reinvested to support growth initiatives overseas. this strategy does not materially limit our ability to meet our liquidity and capital needs in the u.s.
+unfunded pension plan liability.   as of december 31, 2016, our unfunded pension liability was $911 million, reflecting a decrease of $42 million from december 31, 2015. the decrease in the unfunded liability reflected strong asset returns in line with our expectations and changes to our mortality assumptions based on an updated pension mortality improvement scale published in the fourth quarter of 2016. these factors were partially offset by a decrease of approximately 20 basis points in the weighted average assumed discount rate. in february 2017, we made a voluntary pension contribution of $150 million. we do not expect to make any additional pension contributions for the remainder of 2017, as there are no contributions required under the pension protection act of 2006. see note 15 to the consolidated financial statements for additional information regarding our pension plans.
+solvency ii.   beginning in 2016, our businesses in the european union became subject to the directive on insurance regulation, solvency and governance requirements known as solvency ii. this directive imposes economic risk-based solvency and governance requirements and supervisory rules. our european insurance companies are capitalized at levels consistent with projected solvency ii requirements and in compliance with anticipated governance and technical capability requirements.
+guarantees and contractual obligations
+
+we are contingently liable for various contractual obligations entered into in the ordinary course of business. the maturities of our primary contractual cash obligations, as of december 31, 2016, are estimated to be as follows:
+
+on-balance sheet:
+insurance liabilities:
+contractholder deposit funds                   $6,680             $786              $1,006            $807              $4,081
+future policy benefits                               11,319       553                     1,390             1,163             8,213
+global health care medical costs payable              2,554             2,458                39                12                45
+unpaid claims and claim expenses                      5,354             1,678             1,035       695                     1,946
+short-term debt                                         276               276                                                   
+long-term debt                                        7,886       247               617                     1,350             5,672
+other long-term liabilities                             879               306               116                88               369
+off-balance sheet:
+purchase obligations                                  1,443               542               573               230                98
+operating leases                               661                135               215               147               164
+total                                          $37,052            $6,981            $4,991            $4,492            $20,588
+on balance sheet:
+
+
+insurance liabilities.  contractual cash obligations for insurance liabilities, excluding unearned premiums, represent estimated net benefit payments for health, life and disability insurance policies and annuity contracts. recorded contractholder deposit funds reflect current fund balances primarily from universal life insurance customers. contractual cash obligations for these universal life contracts are estimated by projecting future payments using assumptions for lapse, withdrawal and mortality. these projected future payments include estimated future interest crediting on current fund balances based on current investment yields less the estimated cost of insurance charges and mortality and administrative fees. actual obligations in any single year will vary based on actual morbidity, mortality, lapse, withdrawal, investment and premium experience. the sum of the obligations presented above exceeds the corresponding insurance and contractholder liabilities of $21 billion recorded on the balance sheet because the recorded insurance liabilities reflect discounting for interest and the recorded contractholder liabilities exclude future interest crediting, charges and fees. we manage our investment portfolios to generate cash flows needed to satisfy contractual obligations. any shortfall from expected investment yields could result in increases to recorded reserves and adversely impact results of operations. the amounts associated with the sold retirement benefits and individual life insurance and annuity businesses, as well as the reinsured workers' compensation, personal accident and supplemental benefits businesses, are excluded from the table above as their related net cash flows associated with them are not expected to impact our cash flows. the total amount of these reinsured reserves excluded is approximately $5 billion. the expected future cash flows for guaranteed minimum death benefit ("gmdb") and guaranteed minimum income benefit ("gmib") contracts included in the table above (within future policy benefits and other long-term liabilities) do not consider any of the related reinsurance arrangements.
+
+short-term debt represents current maturities of long-term debt, and current obligations under capital leases.
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations
+
+long-term debt includes scheduled interest payments. capital leases are included in long-term debt and primarily represent obligations for it network storage, servers and equipment.
+
+other long-term liabilities.  this table includes estimated payments for gmib contracts, pension and other postretirement and postemployment benefit obligations, supplemental and deferred compensation plans, interest rate and foreign currency swap contracts, and reinsurance liabilities. these items are presented in accounts payable, accrued expenses and other liabilities in our consolidated balance sheets.
+estimated payments of $75 million for deferred compensation, qualified, non-qualified and international pension plans and other postretirement and postemployment benefit plans are expected to be paid in less than one year, including a voluntary contribution to the qualified pension plan of $150 million made in february 2017. we do not expect to make any additional contributions to the qualified domestic pension plans during 2017. we expect to make payments subsequent to 2017 for these obligations, however subsequent payments have been excluded from the table as their timing is based on plan assumptions that may materially differ from actual activities. see note 15 to the consolidated financial statements for further information on pension and other postretirement benefit obligations.
+off-balance sheet:
+
+purchase obligations.   as of december 31, 2016, purchase obligations consisted of estimated payments required under contractual arrangements for future services and investment commitments as follows:
+
+fixed maturities                                               $26
+commercial mortgage loans                                      69
+limited liability entities (other long-term investments)             1,073
+total investment commitments                                         1,168
+future service commitments                                             275
+total purchase obligations                                     $1,443
+see note 11 to the consolidated financial statements for additional information.
+our estimated future service commitments primarily represent contracts for certain outsourced business processes and it maintenance and support. we generally have the ability to terminate these agreements, but do not anticipate doing so at this time. purchase obligations exclude contracts that are cancelable without penalty and those that do not contractually require minimum levels of goods or services to be purchased.
+operating leases.   for additional information, see note 18 to the consolidated financial statements.
+guarantees
+
+we are contingently liable for various financial and other guarantees provided in the ordinary course of business. see note 21 to the consolidated financial statements for additional information on guarantees.
+critical accounting estimates
+
+the preparation of consolidated financial statements in accordance with gaap requires management to make estimates and assumptions that affect reported amounts and related disclosures in the consolidated financial statements. management considers an accounting estimate to be critical if:
+
+it requires assumptions to be made that were uncertain at the time the estimate was made; and
+
+changes in the estimate or different estimates that could have been selected could have a material effect on our consolidated results of operations or financial condition.
+management has discussed the development and selection of its critical accounting estimates with the audit committee of our board of directors and the audit committee has reviewed the disclosures presented below.
+in addition to the estimates presented in the following table, there are other accounting estimates used in the preparation of our consolidated financial statements, including estimates of liabilities for future policy benefits, as well as estimates with respect to postemployment and postretirement benefits other than pensions, certain compensation accruals, and income taxes.
+management believes the current assumptions used to estimate amounts reflected in our consolidated financial statements are appropriate. however, if actual experience differs from the assumptions used in estimating amounts reflected in our consolidated financial statements, the resulting changes could have a material adverse effect on our consolidated results of operations and, in certain situations, could have a material adverse effect on our liquidity and financial condition. the table below presents the adverse impacts of certain changes in assumptions. except as noted, the effect of an assumption change in the opposite direction would be a positive impact to our consolidated results of operations, liquidity or financial condition.
+
+part ii item 7. management's discussion and analysis of financial condition and results of operations see note 2 to the consolidated financial statements for further information on significant accounting policies.
+
+goodwill at the acquisition date, goodwill represents the excess of the cost of businesses acquired over the fair value of their net assets. we completed our annual evaluations                                                                                                                                                                                                                                                            if we do not achieve our earnings objectives or the cost of capital rises significantly, the assumptions and estimates underlying these impairment evaluations could be adversely affected and result in future impairment charges that would negatively of goodwill for impairment during the third quarter of 2016. these evaluations were performed at the reporting unit level, based on discounted cash flow analyses and market data. the evaluations indicated that no impairment was required. during the                                                                                                                                                                           impact our operating results. based on our most recent evaluations, the fair value estimates of our reporting units exceed their carrying values by adequate margins.
+fourth quarter, we updated our analysis of the government reporting unit, reflecting an increase in market interest rates. the updated analysis for the government reporting unit continued to indicate that no impairment was required. fair value of a reporting unit was estimated using models and assumptions that we believe a hypothetical market participant would use to determine a current transaction price. the       changes in the funding for our medicare programs by the federal government, or our inability to resolve the matters arising from the cms notice in a timely and significant assumptions and estimates used in determining fair value include the discount rate and future cash flows. a range of discount rates was used, corresponding with the reporting unit's weighted average cost of capital, consistent with that                                                                                                                                                                           satisfactory manner, could materially reduce revenues and profitability in our government reporting unit and have a significant impact on its fair value.
+used for investment decisions considering the specific and detailed operating plans and strategies within the reporting unit. projections of future cash flows were consistent with our annual planning process for revenues, claims, operating expenses, taxes, capital levels and long-term growth rates. in addition to these assumptions, we considered market data to evaluate the fair value of each reporting unit.
+in our government operating segment (which is a reporting unit) we contract with cms and various state governmental agencies to provide managed health care services, including medicare advantage plans and medicare-approved prescription drug plans.
+estimated future cash flows for this business incorporated the potential effects of medicare advantage reimbursement rates for 2017 and beyond as discussed in the "executive overview" section of this md&amp;a. revenues from the medicare programs are dependent, in whole or in part, upon annual funding from the federal government through cms. this evaluation also considered management's assessment of the impact of the cms sanctions and updated star ratings discussed in note 21 to the consolidated financial statements. funding for these programs is dependent on many factors including general economic conditions, continuing government efforts to contain health care costs and budgetary constraints at the federal level and general political issues and priorities.
+goodwill as of december 31 was as follows (in millions):
+ 2016  $5,980
+ 2015  $6,019
+see note 17 to the consolidated financial statements for additional discussion of our goodwill.
+accounts payable, accrued expenses and other liabilities  pension liabilities these liabilities are estimates of the present value of the qualified and nonqualified pension benefits to be paid (attributed to employee service to date) net of the fair value of plan assets. the accrued pension benefit liability as of                                                                                                                                                                                      the discount rate is typically the most significant assumption in measuring the pension liability. we develop the discount rate by applying actual annualized yields at various durations from a discount rate curve constructed from high quality december 31 was as follows (in millions):  2016  $911  2015  $953 see note 15 to the consolidated financial statements for assumptions and methods used to estimate pension liabilities.                                                                                                                                                                                                                                       corporate bonds. if discount rates for the qualified and nonqualified pension plans decreased by 50 basis points, the accrued pension benefit liability would increase by approximately $195 million as of december 31, 2016 resulting in an after-tax decrease to shareholders' equity of approximately $125 million. if the december 31, 2016 fair values of domestic qualified plan assets decreased by 10%, the accrued pension benefit liability would increase by approximately $395 million as of december 31, 2016 resulting in an after-tax decrease to shareholders' equity of approximately $255 million.
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations
+
+global health care medical costs payable medical costs payable for the global health care segment include both reported claims and estimates for losses incurred but not yet reported. liabilities for medical                                                                                                                                                                                                                                                                                                                                                                                        as described in note 7, global health care medical costs payable are primarily impacted by assumptions related to completion factors and medical cost trend. changes in either assumption from actual results could impact the global health care costs payable as of december 31 were as follows (in millions):  2016  gross                                                                                                                                                                                                                                                                                                                                                                                                                                                                                medical costs payable balance as noted below. a large number of factors may cause the medical cost trend to vary from the company's estimates, including: changes in medical management practices, changes in the level and mix of benefits offered and
+$2,532; net $2,257                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           services utilized, and changes in medical practices. completion factors may be affected if actual claims submission rates from providers differ from estimates (that can be influenced by a number of factors, including provider mix, and electronic
+ 2015  gross $2,355; net $2,112 these liabilities are presented above both gross and net of reinsurance and other recoverables and generally exclude amounts for administrative services only business. see note 7 to the consolidated financial statements for additional information regarding assumptions and methods used to estimate this liability.                                                                                                                                                                                                  versus manual submissions), or if changes to the company's internal claims processing patterns occur. based on studies of our claim experience, it is reasonably possible that a 100 basis point change in the medical cost trend and a 50 basis point change in completion factors could occur in the near term. a 100 basis point increase in the medical cost trend rate would increase this liability by approximately
+$30 million, resulting in a decrease in net income of approximately $20 million after-tax, and a 50 basis point decrease in completion factors would increase this liability by approximately $70 million, resulting in a decrease in net income of approximately $45 million after-tax.
+unpaid claims and claim expenses  long-term disability reserves the liability for long-term disability reserves is the present value of estimated future benefits payments over the expected disability period and includes estimates for both reported claims and for claims incurred but not yet reported.                                                                                                                                                                                                                                                                                                                 as described in note 8, key assumptions in the calculation of long-term disability reserves include the discount rate and claim resolution rates, both of which are reviewed annually and updated when experience or future expectations would long-term disability reserves as of december 31 were as follows (in millions):  2016  gross                                                                                                                                                                                                                                                                                                                                                                                                                                                                indicate a necessary change. based on recent and historical resolution rate patterns and changes in investment portfolio yields, it is reasonably possible that a 5 percent change in claim resolution rates and a 25 basis point change in the
+$3,708; net $3,622                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           discount rate could occur. the discount rate is the interest rate used to discount the projected future benefit payments to their present value. the discount rate
+ 2015  gross $3,481; net $3,403 see note 8 to the consolidated financial statements for additional information regarding assumptions and methods used to estimate this liability.                                                                                                                                                                                                                                                                                                                                                                          assumption is based on the projected investment yield of the assets supporting the reserves. a 25 basis point decrease in the discount rate would increase long-term disability reserves by approximately $45 million and decrease net income by approximately $30 million after-tax. claim resolution rate assumptions involve many factors including claimant demographics, the type of contractual benefit provided and the time since initially becoming disabled. the company uses its own historical experience to develop its claim resolution rates. a 5 percent decrease in the claim resolution rate would increase long-term disability reserves by approximately
+$90 million and decrease net income by approximately $60 million after-tax.
+valuation of fixed maturity investments most fixed maturities are classified as available for sale and are carried at fair value with changes in fair value recorded in accumulated other comprehensive income (loss) within shareholders' equity. fair value is defined as the price at which an asset could be exchanged in an orderly transaction between market participants at the balance sheet date. determining fair value for a financial instrument requires management judgment. the degree of judgment involved generally correlates to the level of pricing readily observable in       typically, the most significant input in the measurement of fair value is the market interest rate used to discount the estimated future cash flows of the instrument. such market rates are derived by calculating the appropriate spreads over the markets. financial instruments with quoted prices in active markets or with market observable inputs to determine fair value, such as public securities, generally require less judgment. conversely, private placements including more complex                                                                                                                                                                                                                                                                                                          comparable u.s. treasury securities, based on the credit quality, industry and structure of the asset. if the interest rates used to calculate fair value increased by 100
+securities that are traded infrequently are typically measured using pricing models that require more judgment as to the inputs and assumptions used to estimate fair value. there may be a number of alternative inputs to select based on an                                                                                                                                                                                                                                                                                                               basis points, the fair value of the total fixed maturity portfolio of $21 billion would decrease by approximately $1.2 billion, resulting in an after-tax decrease to shareholders' equity of approximately $0.8 billion.
+understanding of the issuer, the structure of the security and overall market conditions. in addition, these factors are inherently variable in nature as they change frequently in response to market conditions. approximately two-thirds of our fixed maturities are public securities, and one-third are private placement securities. see note 10 to the consolidated financial statements for a discussion of our fair value measurements and the procedures performed by management to determine that the amounts represent appropriate estimates.
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations
+
+assessment of "other-than-temporary" impairments on fixed maturities to determine whether a fixed maturity's decline in fair value below its amortized cost is other than temporary, we must evaluate the expected recovery in value and our intent to sell or the likelihood of a required sale of the fixed maturity prior       for all fixed maturities with cost in excess of their fair value, if this excess was determined to be other-than-temporary, shareholders' net income for the year ended december 31, 2016 would have decreased by approximately $115 million to an expected recovery. to make this determination, we consider a number of general and specific factors including the regulatory, economic and market environments, length of time and severity of the decline, and the financial health and specific       after-tax. unlike impairments, there is no impact to shareholders' net income for holding fixed maturities with a fair value in excess of cost because we classify our near term prospects of the issuer. see note 11 to the consolidated financial statements for additional discussion of our review of declines in fair value, including                                                                                          fixed maturities as available for sale.
+information regarding our accounting policies for fixed maturities.
+segment reporting
+
+the following section of this md&a discusses the results of each of our reporting segments. in these segment discussions, we present "operating revenues," defined as total revenues excluding realized investment results and "adjusted income from operations," defined as shareholders' net income (loss) excluding after-tax realized investment results, net amortization of other acquired intangible assets and special items. ratios presented in this segment discussion exclude the same items as adjusted income from operations. see note 22 to the consolidated financial statements for additional discussion of these metrics.
+in these segment discussions, we also present "adjusted margin," defined as adjusted income from operations divided by operating revenues.
+see the md&a executive overview beginning on page 36 for summarized financial results of each of our reporting segments.
+global health care segment
+
+as described in the segment reporting introduction above, the performance of the global health care segment is measured using adjusted income from operations. the key factors affecting adjusted income from operations for this segment are:
+
+customer growth;
+
+sales of specialty products;
+
+operating expense as a percentage of operating revenues (operating expense ratio); and
+
+medical costs as a percentage of premiums (medical care ratio or "mcr") for our commercial and government businesses.
+results of operations financial summary
+
+for the years                              change             change ended december 31,                           favorable             favorable
+(unfavorable)             (unfavorable)
+(in millions)                         2016              2015              2014                             2016 vs. 2015             2015 vs. 2014
+operating revenues                    $31,199           $29,929           $27,290          $1,270                    4     %   $2,639                   10    %
+adjusted income from operations       $1,852            $1,848            $1,752           $4                             %   $96                5           %
+adjusted margin                              5.9   %           6.2   %           6.4   %          (30   )bps                         (20   )bps medical care ratios:
+commercial                                  79.3   %          78.1   %          78.5   %         (120   )bps                         40    bps government                            85.3         %    85.2         %    84.3         %          (10   )bps                         (90   )bps consolidated global health care             81.6   %          80.9   %          80.6   %          (70   )bps                         (30   )bps operating expense ratio               21.5         %    21.4         %    21.4         %          (10   )bps                              bps as of december 31,                         increase                          increase
+(decrease)                        (decrease)
+(dollars in millions, customers in thousands)       2016                2015                2014                            2016 vs. 2015                     2015 vs. 2014
+global health care medical costs payable            $2,532              $2,355              $2,180             $177                   8     %   $175                     8%
+customers:
+total commercial risk                                      2,576               2,502               2,534             74               3     %        (32   )           (1)%
+total government                                    566                 567                 518                      (1   )                    49               9
+total risk                                                 3,142               3,069               3,052             73               2               17                  1
+service                                                   12,055              11,930              11,404       125              1               526              5
+total medical customers                                   15,197              14,999              14,456            198               1     %        543                 4%
+
+part ii item 7. management's discussion and analysis of financial condition and results of operations adjusted income from operations was essentially flat in 2016 compared with 2015, reflecting earnings growth in our commercial segment, primarily due to increased contributions from specialty products partially offset by lower margins in our u.s. individual business. this increase was offset by lower earnings in our government segment primarily driven by costs related to our cms audit response.
+adjusted income from operations increased in 2015 compared with 2014, reflecting u.s. commercial business growth, including increased contributions from pharmacy, stop loss and other specialty products. results in 2015 also reflect the impact of increased investments in business initiatives.
+operating revenues.   the increase in operating revenues in 2016 compared with 2015 was due to growth in our commercial segment primarily from increased specialty revenues. growth in medicare advantage customer volumes and higher premium rates for most products in our u.s. health care businesses primarily to recover underlying medical cost trend also contributed to the increase. these increases were partially offset by lower customer volumes in our medicare part d and u.s. individual businesses. operating revenues include amounts related to the risk mitigation programs under the health care reform act. see the risk mitigation section on page 40 for further discussion of the risk corridor program.
+the increase in operating revenues in 2015, compared with 2014 was primarily due to a higher customer base in our government segment, as well as revenue growth in specialty businesses and higher premiums in the u.s. commercial segment reflecting rate actions on most risk products primarily to recover underlying medical cost trends.
+medical care ratios.   the commercial medical care ratio increased in 2016 compared with 2015 reflecting a less favorable medical care ratio in our stop loss business as expected, lower premium due to the anticipated reduction of the health care reform act mandated fees in 2017, and less favorable prior year reserve development. the commercial medical care ratio decreased slightly in 2015 compared with 2014 primarily due to a lower medical care ratio in our stop loss business.
+the government medical care ratio increased slightly in 2016 compared with 2015 reflecting higher medical costs in our medicaid business and less favorable prior year development, mostly offset by improvements in the medicare part d business. the government medical care ratio increased in 2015 compared with 2014 due to an increase in medicare part d utilization.
+as discussed in the regulation section of this form 10-k, both the commercial and government segments are subject to minimum medical loss ratio requirements under the health care reform act. as of december 31, 2016 and 2015, liabilities under these requirements were not material.
+operating expense ratio.   the operating expense ratio increased slightly in 2016 compared with 2015, reflecting costs related to our cms audit response. excluding those costs, the operating expense ratio decreased, reflecting higher revenue and operating efficiencies, partially offset by business initiative investments to enhance our capabilities. the operating expense ratio was flat in 2015 compared with 2014, reflecting business-initiative investments offset by higher revenue and disciplined expense management.
+other items affecting health care results global health care medical costs payable medical costs payable was higher as of december 31, 2016 compared with 2015, primarily due to medical cost trend across all businesses and customer growth in our commercial group business. medical costs payable increased in 2015 compared with 2014, primarily driven by growth in the stop loss book of business and the government segment. see note 7 to the consolidated financial statements for additional information.
+medical customers a medical customer is defined as a person meeting any one of the following criteria:
+
+is covered under an insurance policy or service agreement issued by us;
+
+has access to the company's provider network for covered services under their medical plan; or
+
+has medical claims that are administered by us.
+our medical customer base as of december 31, 2016 was higher than 2015, primarily driven by growth in our middle market, select, and international market segments. our medical customer base as of december 31, 2015 was higher than 2014, driven by strong overall retention and sales in our targeted market segments, as well as the acquisition of qualcare alliance networks, inc. on february 28, 2015.
+global supplemental benefits segment
+
+as described in the segment reporting introduction on page 49, the performance of the global supplemental benefits segment is measured using adjusted income from operations. the key factors affecting adjusted income from operations for this segment are:
+
+premium growth, including new business and customer retention;
+
+benefit expenses as a percentage of premiums (loss ratio);
+
+operating expense and acquisition expense as a percentage of operating revenues (expense ratio and acquisition cost ratio); and
+
+the impact of foreign currency movements.
+throughout this discussion and the table presented below, prior period currency adjusted income from operations and operating revenues are calculated by applying the current period's exchange rates to reported results in the prior period. a strengthening u.s. dollar against foreign currencies decreases these measures, while a weakening u.s. dollar produces the opposite effect.
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations results of operations financial summary
+
+for the years            change                                            change ended december 31,            favorable                                      favorable
+(unfavorable)                              (unfavorable)
+(in millions)                                                                    2016              2015              2014                  2016 vs. 2015                              2015 vs. 2014
+operating revenues                                                               $3,385            $3,149            $3,005           $236                   7     %   $144                     5     %
+adjusted income from operations                                                  $294              $262              $243             $32              12          %   $19                8           %
+operating revenues, using actual 2016 currency exchange rates                    $3,385            $3,069            $2,738           $316                   10    %   $331                     12    %
+adjusted income from operations, using actual 2016 currency exchange rates       $294              $255              $219             $39              15          %   $36                16          %
+adjusted margin                                                                         8.7   %           8.3   %           8.1   %        40    bps                          20   bps loss ratio                                                                       55.3         %    55.3         %    54.3         %             bps                        (100   )bps acquisition cost ratio                                                                 18.6   %          19.3   %          21.0   %        70    bps                         170   bps expense ratio (excluding acquisition costs)                                      17.9         %    18.3         %    17.7         %   40         bps                         (60   )bps adjusted income from operations increased in 2016 compared with 2015 primarily due to business growth, largely in south korea, and lower acquisition and operating cost ratios. these factors were partially offset by higher income taxes and the unfavorable impact of foreign currency movements, primarily in south korea. the increase in adjusted income from operations in 2015 compared with 2014 was primarily due to business growth and lower acquisition costs, partially offset by the unfavorable impact of foreign currency movements and higher expense ratios as discussed below.
+operating revenues were higher in 2016 compared with 2015 primarily due to new sales, particularly in south korea and the u.s., reflecting both customer growth and sales of higher premium products. these higher premiums were partially offset by lower persistency in the u.k. and the unfavorable impact of foreign currency movements, primarily in south korea and the u.k.
+operating revenues were higher in 2015 compared with 2014, primarily attributable to new sales, particularly in south korea and the u.s., reflecting both customer growth and sales of higher premium products, partially offset by the unfavorable impact of foreign currency movements.
+loss ratios were flat in 2016 compared with 2015 reflecting favorable claims in south korea, largely offset by higher claims in the u.s. loss ratios increased in 2015 compared with 2014, primarily due to a business mix shift toward products with higher expected loss ratios in south korea and the u.s.
+acquisition cost ratios decreased in both 2016 and 2015 compared with each prior year. the decline in each year's ratio largely represents a shift toward higher premium products with lower acquisition costs primarily in south korea and the u.s.
+the expense ratio (excluding acquisition costs) decreased in 2016 compared with 2015 primarily driven by operating efficiencies. the expense ratio (excluding acquisition costs) increased in 2015 compared with 2014 reflecting strategic business investments partially offset by operating efficiencies.
+other items affecting global supplemental benefits results south korea is the single largest geographic market for our global supplemental benefits segment. south korea generated 51% of the segment's operating revenues and 85% of the segment's adjusted income from operations in 2016. in 2016, our global supplemental benefits segment operations in south korea represented 4% of our consolidated operating revenues and 12% of consolidated adjusted income from operations.
+as a global company, our business is exposed to risks inherent in foreign operations. while we continue to monitor and evaluate the impacts of the u.k. vote to exit the european union and the political unrest in turkey, we do not expect these events to materially impact the results of the global supplemental benefits segment in 2017.
+significant movements in foreign currency exchange rates could materially affect the reported results of the global supplemental benefits segment.
+group disability and life segment
+
+as described in the segment reporting introduction on page 49, the performance of the group disability and life segment is measured using adjusted income from operations. the key factors affecting adjusted income from operations for this segment are:
+
+premium growth, including new business and customer retention;
+
+net investment income;
+
+benefit expenses as a percentage of premiums (loss ratio); and
+
+operating expense as a percentage of operating revenues excluding net investment income (expense ratio).
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations results of operations financial summary
+
+for the years                                       change                              change ended december 31,                                  favorable                           favorable
+(unfavorable)                       (unfavorable)
+(in millions)                         2016              2015              2014                  2016 vs. 2015                       2015 vs. 2014
+operating revenues                    $4,443            $4,271            $3,970           $172                     4     %    $301                    8     %
+adjusted income from operations       $125              $324              $317             $(199       )            (61   )%   $7                2           %
+adjusted margin                             2.8    %          7.6    %          8.0    %        (480   )bps                         (40   )bps loss ratio                            83.8         %    76.3         %    76.5         %        (750   )bps                    20         bps operating expense ratio                     22.4   %          21.9   %          21.9   %        (50    )bps                              bps during the first half of 2016, the group disability and life segment experienced significant unfavorable claims in its disability and life businesses. while claims experience moderated during the second half of 2016, the first half results caused full year earnings to decline significantly from the prior year.
+disability:   we implemented modifications to our disability claims management process in the first quarter of 2016 to drive improved quality and consistency. these modifications extended the claims processing cycle and lowered the disability claim resolution rate. as our modified disability claims management process continued to mature during the latter half of 2016, our claim resolution rate significantly improved compared with the first half of 2016. as overall claim metrics continue to improve, management expects disability operational margins to normalize over the course of 2017.
+life:   we experienced a period of elevated life claims in the second quarter of 2016, driven by substantially higher new claim incidence and sizes, both of which improved in the second half of 2016.
+2016 vs. 2015
+
+adjusted income from operations.   results decreased in 2016 compared with 2015 due primarily to unfavorable disability and life claims experience as well as the absence of favorable reserve reviews and a higher operating expense ratio. results in 2016 included the unfavorable impact of reserve reviews of $18 million after-tax compared with a favorable impact of $55 million after-tax in 2015.
+operating revenues.   premiums and fees increased in 2016 compared with 2015 driven by new business growth due to disability and life sales. net investment income also increased in 2016 compared with 2015 primarily due to higher average assets partially offset by lower yields.
+the  loss ratio increased in 2016 compared with 2015 due to lower claim resolutions in disability, higher life claim incidence and sizes in the second quarter, and the unfavorable impact of reserve reviews as discussed above.
+operating expense ratio.   the operating expense ratio increased in 2016 compared with 2015 primarily reflecting higher disability claim management costs.
+2015 vs. 2014
+
+adjusted income from operations.   results in 2015 increased compared with 2014 due primarily to favorable life claims experience. results also included the favorable after-tax effects of reserve reviews of $55 million in 2015 and $52 million in 2014.
+operating revenues.   the increase in 2015 compared with 2014 was driven by new business growth due to disability and life sales. net investment income also increased in 2015 compared with 2014 primarily due to higher average assets partially offset by lower yields.
+the loss ratio decreased in 2015 compared with 2014 due to lower life claim incidence.
+operating expense ratio.   the operating expense ratio was flat in 2015 compared with 2014 driven by effective cost management.
+other operations
+
+as described in the segment reporting introduction on page 49, the performance of the other operations segment is measured using adjusted income from operations. cigna's corporate-owned life insurance ("coli") business contributes the majority of earnings in other operations. cigna's other operations segment also includes the results from the run-off reinsurance and settlement annuity businesses, as well as the remaining deferred gains recognized from the sale of the individual life insurance and annuity and retirement benefits businesses.
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations results of operations financial summary
+
+for the years                                     change                             change ended december 31,                                favorable                          favorable
+(unfavorable)                      (unfavorable)
+(in millions)                         2016             2015             2014                 2016 vs. 2015                      2015 vs. 2014
+operating revenues                    $472             $485             $510            $(13       )            (3    )%   $(25       )           (5    )%
+adjusted income from operations       $70              $75              $68             $(5        )            (7    )%   $7               10          %
+adjusted margin                            14.8   %         15.5   %         13.3   %        (70   )bps                         220   bps adjusted income from operations decreased in 2016 compared with 2015, reflecting less favorable mortality experience and lower interest margins in coli. adjusted income from operations increased in 2015 compared with 2014, reflecting favorable mortality experience in coli.
+operating revenues decreased in 2016 compared with 2015 due to lower net investment income driven by lower investment yields. the decrease in operating revenues in 2015 compared with 2014 is largely due to lower net investment income driven by lower investment yields and, to a lesser extent, lower premiums in coli driven by favorable experience-rating results.
+corporate
+
+corporate reflects amounts not allocated to operating segments, including net interest expense (defined as interest on corporate debt less net investment income on investments not supporting segment operations), interest on uncertain tax positions, certain litigation matters, intersegment eliminations, compensation cost for stock options, expense associated with our frozen pension plans and certain overhead and project costs.
+financial summary
+
+for the years                              change                          change ended december 31,                         favorable                       favorable
+(unfavorable)                   (unfavorable)
+(in millions)                       2016           2015           2014              2016 vs. 2015                   2015 vs. 2014
+adjusted loss from operations       $(237     )    $(253     )    $(265     )   $16                   6     %   $12                   5     %
+corporate's adjusted loss from operations decreased in 2016 compared with 2015, primarily due to adopting asu 2016-09 effective january 1, 2016, as further discussed in note 2 to the consolidated financial statements, and higher net investment income partially offset by higher pension and project expenses.
+corporate's adjusted loss from operations decreased in 2015 compared with 2014, primarily due to lower pension and interest expenses.
+investment assets
+
+the following table presents our invested asset portfolio, excluding separate account assets, as of december 31, 2016 and 2015. an increase in investable funds has led to an increase across all asset types, except for commercial mortgages, that have continued to decline due to a competitive investment environment and our assessment of relative value versus other fixed income opportunities.
+additional information regarding our investment assets and related accounting policies is included in notes 2, 10, 11, 12, 13, and 14 to the consolidated financial statements.
+
+fixed maturities                  $20,961           $19,455
+equity securities                 583               190
+commercial mortgage loans               1,666             1,864
+policy loans                            1,452             1,419
+other long-term investments             1,462             1,404
+short-term investments            691               381
+total                             $26,815           $24,713
+fixed maturities
+
+investments in fixed maturities include publicly traded and privately placed debt securities, mortgage and other asset-backed securities, and preferred stocks redeemable by the investor. these investments are classified as available for sale and are carried at fair value on our balance sheet. additional information regarding valuation methodologies, key inputs and controls is included in note 10 of the consolidated financial statements.
+the following table reflects our fixed maturity portfolio by type of issuer as of december 31, 2016 and 2015.
+
+federal government and agency         $877               $779
+state and local government                   1,435              1,641
+foreign government                           2,113              2,014
+corporate                                   16,050             14,448
+mortgage and other asset-backed                486                573
+total                                 $20,961            $19,455
+
+part ii item 7. management's discussion and analysis of financial condition and results of operations as of december 31, 2016, $18.6 billion, or 89%, of the fixed maturities in our investment portfolio were investment grade (baa and above, or equivalent), and the remaining $2.4 billion were below investment grade. the majority of the bonds that are below investment grade are rated at the higher end of the non-investment grade spectrum. these quality characteristics have not materially changed from the prior year and are consistent with our investment strategy.
+state and local government.   our investment in state and local government securities, with an average quality rating of aa2, is diversified by issuer and geography with no single exposure greater than $30 million as of december 31, 2016. we assess each issuer's credit quality based on a fundamental analysis of underlying financial information and do not rely solely on statistical rating organizations or monoline insurer guarantees.
+foreign government.   we invest in high quality foreign government obligations with an average quality rating of aa3 as of december 31, 2016. these investments are concentrated in asia, primarily south korea, consistent with the geographic locations of our international business operations. foreign government obligations also include $221 million of investments in european sovereign debt, none of which are in countries with significant political or economic concerns such as portugal, italy, ireland, greece, spain and turkey.
+corporate.   as of december 31, 2016, corporate fixed maturities included the following.
+
+private placement investments were $5.3 billion. these investments are generally less marketable than publicly-traded bonds, however yields on these investments tend to be higher than yields on publicly-traded bonds with comparable credit risk. we perform a credit analysis of each issuer, diversify investments by industry and issuer and require financial and other covenants that allow us to monitor issuers for deteriorating financial strength and pursue remedial actions, if warranted.
+
+investments in companies that are domiciled or have significant business interests in italy, ireland, spain and turkey were $354 million. these investments have an average quality rating of baa3 and are diversified by industry sector, including approximately 1% invested in financial institutions.
+
+investments in the energy and natural gas sector were $1.7 billion with gross unrealized losses of $18 million. these investments have an average quality rating of baa2 and are diversified by issuer with no single exposure greater than $40 million.
+in addition to amounts classified in fixed maturities on our consolidated balance sheets, we operate a joint venture in china in which we have a 50% ownership interest. we account for this joint venture on the equity basis of accounting and report it in other assets, including other intangibles. this entity has an investment portfolio of approximately $3.3 billion that is primarily invested in local chinese corporate and government fixed maturities and has no investments with a material unrealized loss as of december 31, 2016.
+equity securities
+
+equity securities increased approximately $400 million during 2016 to $583 million as of december 31, 2016, largely due to investing in an exchange traded fund ("etf") as part of a temporary program to invest available funds in high quality and liquid assets. the underlying assets of the etf are primarily u.s. investment grade corporate bonds and there is a gross unrealized loss of $5 million as of december 31, 2016 due to an increase in market yields since purchase.
+commercial mortgage loans
+
+our commercial mortgage loans are fixed rate loans, diversified by property type, location and borrower. loans are secured by high quality commercial properties and are generally made at less than 70% of the property's value at origination of the loan. property value, debt service coverage, quality, building tenancy and stability of cash flows are all important financial underwriting considerations. we hold no direct residential mortgage loans and do not securitize or service mortgage loans. we completed an annual in-depth review of our commercial mortgage loan portfolio during the second quarter of 2016. for further information on the property type, location and credit quality of our commercial mortgage loans, as well as a discussion of the results of the annual portfolio review, see note 11 to the consolidated financial statements.
+commercial real estate capital markets remain very active for well-leased, quality commercial real estate located in strong institutional investment markets. the vast majority of properties securing the mortgages in our mortgage portfolio possess these characteristics.
+the $1.7 billion commercial mortgage loan portfolio consists of approximately 60 loans, including one impaired loan with a carrying value of $21 million, net of a $5 million reserve, that is classified as a problem loan. we have $92 million of loans maturing in the next twelve months. given the quality and diversity of the underlying real estate, positive debt service coverage and significant borrower investment generally ranging between 30 and 40%, we remain confident that borrowers will continue to perform as expected under their contract terms.
+other long-term investments
+
+other long-term investments of $1.5 billion primarily include investments in security partnership and real estate funds as well as direct investments in real estate joint ventures. the funds typically invest in mezzanine debt or equity of privately held companies (securities partnerships) and equity real estate. given our subordinate position in the capital structure of these underlying entities, we assume a higher level of risk in return for higher expected returns. to mitigate risk, investments are diversified across approximately 120 separate partnerships, and approximately 70 general partners who manage one or more of these partnerships. also, the funds' underlying investments are diversified by industry sector or property type, and geographic region. no single partnership investment exceeds 4% of our securities and real estate partnership portfolio.
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations problem and potential problem investments
+
+"problem" bonds and commercial mortgage loans are either delinquent by 60 days or more or have been restructured as to terms, including concessions by us for modification of interest rate, principal payment or maturity date. "potential problem" bonds and commercial mortgage loans are considered current (no payment is more than 59 days past due), but management believes they have certain characteristics that increase the likelihood that they may become problems. the characteristics management considers include, but are not limited to, the following:
+
+request from the borrower for restructuring;
+
+principal or interest payments past due by more than 30 but fewer than 60 days;
+
+downgrade in credit rating;
+
+collateral losses on asset-backed securities; and
+
+for commercial mortgages, deterioration of debt service coverage below 1.0 or value declines resulting in estimated loan-to-value ratios increasing to 100% or more.
+we recognize interest income on problem bonds and commercial mortgage loans only when payment is actually received because of the risk profile of the underlying investment. the amount that would have been reflected in net income if interest on non-accrual investments had been recognized in accordance with their original terms was not significant for 2016 or 2015.
+the following table shows problem and potential problem investments at amortized cost, net of valuation reserves and write-downs:
+december 31, 2016                                    december 31, 2015
+(in millions)                                          gross             reserve             net            gross             reserve             net problem bonds                                     $70               $(9)                $61            $3                $(1)                $2
+problem commercial mortgage loans                 26                     (5)            21             90                     (11)           79
+foreclosed real estate                                 49                                   49                                                 
+total problem investments                         $145              $(14)               $131           $93               $(12)               $81
+potential problem bonds                           $12               $(7)                $5             $55               $(23)               $32
+potential problem commercial mortgage loans                                                         64                     (4)            60
+total potential problem investments               $12               $(7)                $5             $119              $(27)               $92
+the increase in problem bonds was primarily due to three additional problem bonds in the energy sector. the increase in foreclosed real estate during 2016 reflects the foreclosure of a commercial mortgage loan classified as a problem loan as of december 31, 2015. the decrease in potential problem commercial mortgage loans in 2016 was due to a full payoff of one loan and partial payoff, and subsequent reclassification to good standing, of another loan.
+investment outlook
+
+global financial markets exhibited volatility throughout 2016 resulting from global economic and political uncertainty. the volatility began early in the year led by concerns related to slowing economic global growth, with particular concerns regarding china, potentially destabilizing impacts from cyclically low energy prices, followed in mid-year by concerns regarding the united kingdom's decision to exit the european union, and then finished the year with strong market reactions anticipating growth-oriented policy changes in the united states following our recent elections. the near-term impact of these events has not materially impacted our financial condition or liquidity; however, we continue to closely monitor global macroeconomic trends and the potential impact to our investment portfolio. future realized and unrealized investment results will be driven largely by market conditions that exist when a transaction occurs or at the reporting date. these future conditions are not reasonably predictable; however, we believe that the vast majority of our investments will continue to perform under their contractual terms. based on our strategy to match the duration of invested assets to the duration of insurance and contractholder liabilities, we expect to hold a significant portion of these assets for the long term. although future impairment losses resulting from interest rate movements and credit deterioration due to both company-specific and the global economic uncertainties discussed above remain possible, we do not expect these losses to have a material adverse effect on our financial condition or liquidity.
+market risk
+
+financial instruments
+
+our assets and liabilities include financial instruments subject to the risk of potential losses from adverse changes in market rates and prices. our primary market risk exposures are:
+
+interest-rate risk on fixed-rate, medium-term instruments. changes in market interest rates affect the value of instruments that promise a fixed return and our employee pension liabilities.
+
+foreign currency exchange rate risk of the u.s. dollar primarily to the south korean won, euro, chinese yuan renminbi, taiwan dollar and british pound. an unfavorable change in exchange rates reduces the carrying value of net assets denominated in foreign currencies.
+
+back to contents part ii item 7. management's discussion and analysis of financial condition and results of operations our management of market risks
+
+we predominantly rely on three techniques to manage our exposure to market risk:
+
+investment/liability matching.  we generally select investment assets with characteristics (such as duration, yield, currency and liquidity) that correspond to the underlying characteristics of our related insurance and contractholder liabilities so that we can match the investments to our obligations. shorter-term investments generally support shorter-term life and health liabilities. medium-term, fixed-rate investments support interest-sensitive and health liabilities. longer-term investments generally support products with longer pay out periods such as annuities and long-term disability liabilities.
+
+use of local currencies for foreign operations.  we generally conduct our international business through foreign operating entities that maintain assets and liabilities in local currencies. while this technique does not reduce foreign currency exposure on our net assets, it substantially limits exchange rate risk to those net assets.
+
+use of derivatives.  we use derivative financial instruments to minimize certain market risks.
+see note 12 to the consolidated financial statements for additional information about financial instruments, including derivative financial instruments.
+effect of market fluctuations
+
+the examples that follow illustrate the adverse effect of hypothetical changes in market rates or prices on the fair value of certain financial instruments including:
+
+a hypothetical increase in market interest rates, primarily for fixed maturities and commercial mortgage loans, partially offset by liabilities for long-term, largely fixed-rate debt; and
+
+a hypothetical strengthening of the u.s. dollar to foreign currencies, primarily for the net assets of foreign subsidiaries denominated in a foreign currency.
+management believes that actual results could differ materially from these examples because:
+
+these examples were developed using estimates and assumptions;
+
+changes in the fair values of all insurance-related assets and liabilities have been excluded because their primary risks are insurance rather than market risk;
+
+changes in the fair values of investments recorded using the equity method of accounting and liabilities for pension and other postretirement and postemployment benefit plans (and related assets) have been excluded, consistent with the disclosure guidance; and
+
+changes in the fair values of other significant assets and liabilities such as goodwill, deferred policy acquisition costs, taxes, and various accrued liabilities have been excluded; because they are not financial instruments, their primary risks are other than market risk.
+the effects of hypothetical changes in market rates or prices on the fair values of certain of our financial instruments, subject to the exclusions noted above (particularly insurance liabilities), would have been as follows as of december 31:
+loss in fair value market scenario for certain non-insurance financial instruments (in billions)       2016               2015
+100 basis point increase in interest rates                                          $1.0               $0.9
+10% strengthening in u.s. dollar to foreign currencies                              $0.4               $0.3
+the effect of a hypothetical increase in interest rates was determined by estimating the present value of future cash flows using various models, primarily duration modeling. the impact of a hypothetical increase to interest rates at december 31, 2016 was greater than that at december 31, 2015 reflecting increased purchases of fixed maturities, in addition to valuation decreases of our long-term debt resulting from higher market yields during 2016.
+the effect of a hypothetical strengthening of the u.s. dollar relative to the foreign currencies held by us was estimated to be 10% of the u.s. dollar equivalent fair value. our foreign operations hold investment assets, such as fixed maturities, cash, and cash equivalents, that are generally invested in the currency of the related liabilities. the effect of a hypothetical 10% strengthening in the u.s. dollar to foreign currencies at december 31, 2016 was greater than that effect at december 31, 2015 due to increased amounts of investments that are primarily denominated in the south korean won.
+
+part ii item 7a. quantitative and qualitative disclosures about market risk

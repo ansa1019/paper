@@ -1,0 +1,578 @@
+item 1a.   risk factors.
+
+the following are significant risks which could have a material negative impact on the companys financial condition or results of operations.
+business and industry risks commercial truck market demand is variable. the companys business is highly sensitive to global and national economic conditions as well as economic conditions in the industries and markets it serves. negative economic conditions and outlook can materially weaken demand for the companys equipment and services. the yearly demand for commercial vehicles may increase or decrease more than overall gross domestic product in markets the company serves, which are principally north america and europe. demand for commercial vehicles may also be affected by the introduction of new vehicles and technologies by the company or its competitors.
+competition and prices. the company operates in a highly competitive environment, which could adversely affect the companys sales and pricing. financial results depend largely on the ability to develop, manufacture and market competitive products that profitably meet customer demand.
+production costs and supplier capacity. the companys products are exposed to variability in material and commodity costs. commodity or component price increases and significant shortages of component products may adversely impact the companys financial results or use of its production capacity. many of the companys suppliers also supply automotive manufacturers, and factors that adversely affect the automotive industry can also have adverse effects on these suppliers and the company. supplier delivery performance can be adversely affected if increased demand for these suppliers products exceeds their production capacity. unexpected events, including natural disasters, may increase the companys cost of doing business or disrupt the companys or its suppliers operations.
+liquidity risks, credit ratings and costs of funds. disruptions or volatility in global financial markets could limit the companys sources of liquidity, or the liquidity of customers, dealers and suppliers. a lowering of the companys credit ratings could increase the cost of borrowing and adversely affect access to capital markets. the companys financial services segment obtains funds for its operations from commercial paper, medium-term notes and bank debt. if the markets for commercial paper, medium-term notes and bank debt do not provide the necessary liquidity in the future, the financial services segment may experience increased costs or may have to limit its financing of retail and wholesale assets. this could result in a reduction of the number of vehicles the company is able to produce and sell to customers.
+7
+the financial services industry is highly competitive. the companys financial services segment competes with banks, other commercial finance companies and financial services firms which may have lower costs of borrowing, higher leverage or market share goals that result in a willingness to offer lower interest rates, which may lead to decreased margins, lower market share or both. a decline in the companys truck unit sales and a decrease in truck residual values due to lower used truck pricing are also factors which may affect the companys financial services segment.
+the financial services segment is subject to credit risk. the financial services segment is exposed to the risk of loss arising from the failure of a customer, dealer or counterparty to meet the terms of the loans, leases and derivative contracts with the company. although the financial assets of the financial services segment are secured by underlying equipment collateral, in the event a customer cannot meet its obligations to the company, there is a risk that the value of the underlying collateral will not be sufficient to recover the amounts owed to the company, resulting in credit losses.
+interest rate risks. the financial services segment is subject to interest rate risks, because increases in interest rates can reduce demand for its products, increase borrowing costs and potentially reduce interest margins. pfs uses derivative contracts to mitigate the risk of changing interest rates.
+product liability, litigation and regulatory actions. the companys products are subject to recall for environmental, performance and safety-related issues. product recalls, lawsuits, regulatory actions or increases in the reserves the company establishes for contingencies may increase the companys costs and lower profits. refer to item 3  legal proceedings for a discussion of the risk associated with the european commission investigation. the companys reputation and its brand names are valuable assets, and claims or regulatory actions, even if unsuccessful or without merit, could adversely affect the companys reputation and brand images because of adverse publicity.
+information technology. the company relies on information technology systems, including the internet and other computer systems, which may be subject to disruptions during the process of upgrading or replacing software, databases or components; power outages; hardware failures; computer viruses; or outside parties attempting to disrupt the companys business or gain unauthorized access to the companys electronic data. the company maintains protections to guard against such events. if the companys computer systems were to be damaged, disrupted or breached, it could result in negative impact on the companys operating results and also could cause reputational damage, business disruption or the disclosure of confidential data.
+political, regulatory and economic risks multinational operations. the companys global operations are exposed to political, economic and other risks and events beyond its control in the countries in which the company operates. the company may be adversely affected by political instabilities, fuel shortages or interruptions in utility or transportation systems, natural calamities, wars, terrorism and labor strikes. changes in government monetary or fiscal policies and international trade policies may impact demand for the companys products, financial results and competitive position. paccars global operations are subject to extensive trade, competition and anti-corruption laws and regulations that could impose significant compliance costs.
+environmental regulations. the companys operations are subject to and affected by environmental laws and regulations that impose significant compliance costs. the company could experience higher research and development costs due to changes in government requirements for its products, including changes in engine and vehicle emissions, safety regulations, fuel requirements or greenhouse gas regulations.
+8
+currency exchange and translation. the companys consolidated financial results are reported in u.s. dollars, while significant operations are denominated in the currencies of other countries. currency exchange rate fluctuations can affect the companys assets, liabilities and results of operations through both translation and transaction risk, as reported in the companys financial statements. the company uses certain derivative financial instruments and localized production of its products to reduce, but not eliminate, the effects of foreign currency exchange rate fluctuations.
+accounting estimates. in the preparation of the companys financial statements in accordance with u.s. generally accepted accounting principles, management uses estimates and makes judgments and assumptions that affect asset and liability values and the amounts reported as income and expense during the periods presented. certain of these estimates, judgments and assumptions, such as residual values on operating leases, the allowance for credit losses, warranty and pension expenses and the provision for income taxes, are particularly sensitive. if actual results are different from estimates used by management, they may have a material impact on the financial statements. for additional disclosures regarding accounting estimates, see critical accounting policies under item 7 of this form 10-k.
+taxes. changes in statutory income tax rates in the countries in which the company operates impact the companys effective tax rate. changes to other taxes or the adoption of other new tax legislation could affect the companys provision for income taxes and related tax assets and liabilities.
+item 7.   managements discussion and analysis of financial condition and results of operations.
+
+overview:
+paccar is a global technology company whose truck segment includes the design and manufacture of high-quality, light-, medium- and heavy-duty commercial trucks. in north america, trucks are sold under the kenworth and peterbilt nameplates, in europe, under the daf nameplate and in australia and south america, under the kenworth and daf nameplates. the parts segment includes the distribution of aftermarket parts for trucks and related commercial vehicles. the companys financial services segment derives its earnings primarily from financing or leasing paccar products in north america, europe and australia. the companys other business is the manufacturing and marketing of industrial winches.
+consolidated net sales and revenues of $18.99 billion in 2014 were the highest in the companys history. the increase of 11% from $17.12 billion in 2013 was mainly due to record truck and aftermarket parts sales and higher financial services revenues. truck unit sales increased in 2014 to 142,900 units from 137,100 units in 2013, reflecting higher industry retail sales in the u.s. and canada, partially offset by a lower over 16-tonne market in europe. record freight volumes and improving fleet utilization are contributing to excellent parts and service business.
+in 2014, paccar earned net income for the 76th consecutive year. net income in 2014 of $1.36 billion was the second highest in the companys history, increasing from $1.17 billion in 2013, primarily due to record truck and parts segment sales, improved truck segment operating margin and record financial services segment pre-tax income. earnings per diluted share of $3.82 was the second best in the companys history.
+daf introduced a new range of euro 6 cf and xf four-axle trucks and tractors for heavy-duty applications. these new vehicles expand dafs product range in the construction, container and refuse markets and complement dafs award-winning euro 6 on-highway trucks. in addition, daf introduced the new daf euro 6 cf silent distribution truck for deliveries in urban areas with noise restrictions, and the new daf euro 6 cf and xf low deck tractors which maximize trailer volume within european height and length regulations. these new vehicles expand dafs product range in distribution and over-the-road applications and expand dafs euro 6 range of trucks.
+kenworth and peterbilt launched their new medium-duty cab-over-engine distribution trucks with extensive exterior and interior enhancements. in addition, new vocational kenworth t880 and peterbilt model 567 trucks were introduced, which expanded paccars offerings in the construction, utility and refuse markets.
+in 2014, the companys research and development expenses were $215.6 million compared to $251.4 million in 2013.
+paccar parts opened a new distribution center in montreal, canada and now has 17 parts distribution centers supporting over 2,000 daf, kenworth and peterbilt dealer locations. paccar began construction of a new 160,000 square-foot distribution center in renton, washington. the new facility will increase the distribution capacity for the companys dealers and customers in the northwestern u.s. and western canada.
+the paccar financial services (pfs) group of companies has operations covering four continents and 22 countries. the global breadth of pfs and its rigorous credit application process support a portfolio of loans and leases with total assets of $11.92 billion that earned a record pre-tax profit of $370.4 million. pfs issued $1.58 billion in medium-term notes during the year to support portfolio growth.
+truck and parts outlook truck industry retail sales in the u.s. and canada in 2015 are expected to be 250,000280,000 units compared to 249,400 units in 2014 driven by expansion of truck industry fleet capacity and economic growth. in europe, the 2015 truck industry registrations for over 16-tonne vehicles are expected to be 200,000240,000 units, compared to the 226,900 truck registrations in 2014.
+heavy-duty truck industry sales for south america were 129,000 units in 2014, and heavy-duty truck industry sales are estimated to be in a range of 110,000 to 130,000 units in 2015. the production of daf trucks in brasil and the continued growth of the daf brasil dealer network will further enhance paccars vehicle sales in south america.
+14
+in 2015, paccar parts sales are expected to grow 5-8% in north america, reflecting steady economic growth and high fleet utilization. paccar parts deliveries are expected to increase in europe, reflecting slightly improving freight markets and paccar parts innovative customer service programs. sales in europe may be affected by recent declines in the values of the euro relative to the u.s. dollar.
+capital investments in 2015 are expected to be $300 to $350 million, focused on enhanced powertrain development and increased operating efficiency for our factories and distribution centers. research and development (r&d) in 2015 is expected to be $220 to $260 million, focused on new products and services.
+financial services outlook based on the truck market outlook, average earning assets in 2015 are expected to be slightly higher than current levels. current levels of freight tonnage, freight rates and fleet utilization are contributing to customers profitability and cash flow. if current freight transportation conditions decline due to weaker economic conditions, then past due accounts, truck repossessions and credit losses would likely increase from the current low levels.
+see the forward-looking statements section of managements discussion and analysis for factors that may affect these outlooks.
+results of operations:
+($ in millions, except per share amounts)
+year ended december 31,                     2014                      2013                      2012
+net sales and revenues:
+truck                                                 $14,594.0                 $13,002.9                 $13,131.5
+parts                                                   3,077.5                   2,822.2                   2,667.5
+other                                                     121.3                     123.8                     152.7
+truck, parts and other                                 17,792.8                  15,948.9                  15,951.7
+financial services                                      1,204.2                   1,174.9                   1,098.8
+$18,997.0                 $17,123.8                 $17,050.5
+income (loss) before income taxes:
+truck                                                  $1,160.1                    $936.7                    $920.4
+parts                                                     496.7                     416.0                     374.6
+other                                                     (31.9   )                 (26.5   )                  (7.0   )
+truck, parts and other                                  1,624.9                   1,326.2                   1,288.0
+financial services                                        370.4                     340.2                     307.8
+investment income                                          22.3                      28.6                      33.1
+income taxes                                             (658.8   )                (523.7   )                (517.3   )
+net income                                             $1,358.8                  $1,171.3                  $1,111.6
+diluted earnings per share                                $3.82                     $3.30                     $3.12
+return on revenues                                          7.2   %                   6.8   %                   6.5   %
+the following provides an analysis of the results of operations for the companys three reportable segments - truck, parts and financial services. where possible, the company has quantified the impact of factors identified in the following discussion and analysis. in cases where it is not possible to quantify the impact of factors, the company lists them in estimated order of importance. factors for which the company is unable to specifically quantify the impact include market demand, fuel prices, freight tonnage and economic conditions affecting the companys results of operations.
+15
+2014 compared to 2013:
+truck the companys truck segment accounted for 77% and 76% of total revenues for 2014 and 2013, respectively.
+($ in millions)
+year ended december 31,                                                                           2014                                                                            2013                                                                        % change truck net sales and revenues:
+u.s. and canada                                                                               $8,974.5                                                                        $7,138.1                                                                              26
+europe                                                                                         3,657.6                                                                         3,844.4                                                                              (5   )
+mexico, south america, australia and other                                                     1,961.9                                                                         2,020.4                                                                              (3   )
+$14,594.0                                                                       $13,002.9                                                                              12
+truck income before income taxes                                                              $1,160.1                                                                          $936.7                                                                              24
+pre-tax return on revenues                                                                         7.9   %                                                                         7.2   %
+the companys worldwide truck net sales and revenues increased to $14.59 billion from $13.0 billion in 2013, primarily due to higher truck deliveries in the u.s. and canada, higher price realization in europe related to higher content euro 6 emission vehicles, partially offset by lower truck deliveries in europe and mexico.
+truck segment income before income taxes and pre-tax return on revenues reflect higher truck unit deliveries and improved price realization in the u.s. and canada and lower r&amp;d spending, partially offset by lower deliveries in europe and mexico.
+the companys new truck deliveries are summarized below:
+year ended december 31,                                                                           2014                                                                            2013                                                                        % change u.s.                                                                                            74,300                                                                          59,000                                                                              26
+canada                                                                                          10,500                                                                           9,700                                                                               8
+u.s. and canada                                                                                 84,800                                                                          68,700                                                                              23
+europe                                                                                          39,500                                                                          48,400                                                                             (18   )
+mexico, south america, australia and other                                                      18,600                                                                          20,000                                                                              (7   )
+total units                                                                                    142,900                                                                         137,100                                                                               4
+in 2014, industry retail sales in the heavy-duty market in the u.s. and canada increased to 249,400 units from 212,200 units in 2013. the companys heavy-duty truck retail market share was 27.9% compared to 28.0% in 2013. the medium-duty market was 73,300 units in 2014 compared to 65,900 units in 2013. the companys medium-duty market share was a record 16.7% in 2014 compared to 15.7% in 2013.
+the over 16-tonne truck market in western and central europe in 2014 was 226,900 units, a 6% decrease from 240,800 units in 2013. the largest decreases were in the u.k. and france, partially offset by increases in germany and spain. the companys market share was 13.8% in 2014, a decrease from 16.2% in 2013. the decrease in market share was primarily due to the lower daf registrations in the u.k. and the netherlands which were impacted by the euro 5/euro 6 transition rules. the 6 to 16-tonne market in 2014 was 46,900 units compared to 57,200 units in 2013. the companys market share was 8.8% in 2014, a decrease from 11.8% in 2013. the decline in market share is a result of reduced registrations in the u.k. which were also affected by the euro 5/euro 6 transition rules.
+16
+the major factors for the changes in net sales and revenues, cost of sales and revenues and gross margin between 2014 and 2013 for the truck segment are as follows:
+net                                                                                        cost                                                                                       gross
+($ in millions)                                                                                                         sales                                                                                    of sales                                                                                      margin
+2013                                                                                                                $13,002.9                                                                                   $11,691.9                                                                                    $1,311.0
+increase (decrease)
+truck delivery volume                                                                                                 1,265.8                                                                                     1,086.9                                                                                       178.9
+average truck sales prices                                                                                              477.4                                                                                                                                                                                   477.4
+average per truck material, labor and other direct costs                                                                                                                                                            408.6                                                                                      (408.6   )
+factory overhead and other indirect costs                                                                                                                                                                            63.6                                                                                       (63.6   )
+operating leases                                                                                                         (7.2                      )                                                                (12.5                      )                                                                  5.3
+currency translation                                                                                                   (144.9                      )                                                               (133.0                      )                                                                (11.9   )
+total increase                                                                                                        1,591.1                                                                                     1,413.6                                                                                       177.5
+2014                                                                                                                $14,594.0                                                                                   $13,105.5                                                                                    $1,488.5
+
+truck delivery volume reflects higher truck deliveries in the u.s. and canada which resulted in higher sales ($1,798.6 million) and cost of sales ($1,511.5 million), partially offset by lower truck deliveries in europe and mexico which resulted in lower sales ($564.3 million) and costs of sales ($457.8 million).
+ average truck sales prices increased sales by $477.4 million, primarily due to higher content euro 6 emission vehicles in europe ($274.9 million), improved price realization in the u.s. and canada ($146.6 million) and in mexico ($31.9 million).
+ average cost per truck increased cost of sales by $408.6 million, primarily due to higher content euro 6 emission vehicles in europe ($352.6 million).  factory overhead and other indirect costs increased $63.6 million, primarily due to higher salaries and related costs ($59.5 million) to support higher sales volume, higher depreciation expense ($13.0 million), partially offset by lower euro 6 project expenses ($17.4 million).
+ operating lease revenues and cost of sales decreased due to lower average asset balances as lease maturities exceeded new lease volume.  truck gross margins in 2014 of 10.2% increased from 10.1% in 2013 due to factors noted above.
+truck sg&amp;a expenses for 2014 decreased to $198.2 million from
+$214.1 million in 2013. the decrease was primarily due to lower promotion and marketing costs. as a percentage of sales, sg&amp;a decreased to 1.4% in 2014 compared to 1.6% in 2013, reflecting higher sales volume and ongoing cost controls. parts the companys parts segment accounted for 16% of total revenues for both 2014
+and 2013.
+($ in millions)
+year ended december 31,                                    2014                                                                                        2013                                                                                                                                                  % change parts net sales and revenues:
+u.s. and canada                                                                                                      $1,842.9                                                                                    $1,635.5                                                                                          13
+europe                                                                                                                  867.2                                                                                       828.3                                                                                           5
+mexico, south america, australia and other                                                                              367.4                                                                                       358.4                                                                                           3
+$3,077.5                                                                                    $2,822.2                                                                                           9
+parts income before income taxes                                                                                       $496.7                                                                                      $416.0                                                                                          19
+pre-tax return on revenues                                                                                               16.1                      %                                                                 14.7                      %
+the companys worldwide parts net sales and revenues increased due to higher aftermarket demand in all markets. the increase in parts segment income before taxes and pre-tax return on revenues was primarily due to higher sales and gross margins.
+17
+the major factors for the changes in net sales and revenues, cost of sales and revenues and gross margin between 2014 and 2013 for the parts segment are as follows:
+($ in millions)                                   net               cost             gross sales           of sales            margin
+2013                                         $2,822.2           $2,107.0            $715.2
+increase (decrease)
+aftermarket parts volume                        187.8              120.0              67.8
+average aftermarket parts sales prices           82.5                                 82.5
+average aftermarket parts direct costs                              57.8             (57.8   )
+warehouse and other indirect costs                                   8.0              (8.0   )
+currency translation                            (15.0   )          (11.1   )          (3.9   )
+total increase                                  255.3              174.7              80.6
+2014                                         $3,077.5           $2,281.7            $795.8
+   higher market demand in all markets resulted in increased aftermarket parts sales volume of $187.8 million and related cost of sales by $120.0 million.
+
+   average aftermarket parts sales prices increased sales by $82.5 million reflecting improved price realization in all markets.
+
+   average aftermarket parts direct costs increased $57.8 million due to higher material costs in all markets.
+
+   warehouse and other indirect costs increased $8.0 million primarily due to additional costs to support higher sales volume.
+
+   parts gross margins in 2014 of 25.9% increased from 25.3% in 2013 due to higher price realization and other factors noted above.
+
+parts sg&a expense for 2014 increased to $207.5 million from $204.1 million in 2013. the increase was primarily due to higher salaries and related expenses. as a percentage of sales, parts sg&a decreased to 6.7% in 2014 from 7.2% in 2013, reflecting higher sales volume.
+18
+financial services the companys financial services segment accounted for 6.3% and 6.9% of total revenues for 2014 and 2013, respectively.
+($ in millions)
+year ended december 31,                 2014                 2013                    % change new loan and lease volume:
+u.s. and canada                                   $2,798.3             $2,617.4             7
+europe                                               988.1                838.3            18
+mexico and australia                                 668.7                862.9           (23   )
+$4,455.1             $4,318.6             3
+new loan and lease volume by product:
+loans and finance leases                          $3,516.7             $3,368.1             4
+equipment on operating lease                         938.4                950.5            (1   )
+$4,455.1             $4,318.6             3
+new loan and lease unit volume:
+loans and finance leases                            32,900               32,200             2
+equipment on operating lease                         9,000                9,000
+41,900               41,200             2
+average earning assets:
+u.s. and canada                                   $6,779.0             $6,331.9             7
+europe                                             2,683.8              2,495.9             8
+mexico and australia                               1,721.4              1,770.1            (3   )
+$11,184.2            $10,597.9             6
+average earning assets by product:
+loans and finance leases                          $7,269.3             $6,876.3             6
+dealer wholesale financing                         1,462.0              1,490.9            (2   )
+equipment on lease and other                       2,452.9              2,230.7            10
+$11,184.2            $10,597.9             6
+revenues:
+u.s. and canada                                     $641.2               $626.6             2
+europe                                               317.8                303.5             5
+mexico and australia                                 245.2                244.8
+$1,204.2             $1,174.9             2
+revenue by product:
+loans and finance leases                            $410.3               $407.7             1
+dealer wholesale financing                            52.3                 55.1            (5   )
+equipment on lease and other                         741.6                712.1             4
+$1,204.2             $1,174.9             2
+income before income taxes                          $370.4               $340.2             9
+in 2014, new loan and lease volume of $4.46 billion increased 3% compared to $4.32 billion in 2013. pfss finance market share on new paccar truck sales was 27.7% in 2014 compared to 29.2% in 2013 due to increased competition.
+pfs revenue of $1.20 billion in 2014 was comparable to $1.17 billion in 2013. pfs income before income taxes increased to a record $370.4 million compared to $340.2 million in 2013, primarily due to higher finance and lease margins related to increased average earning asset balances.
+19
+the major factors for the changes in interest and fees, interest and other borrowing expenses and finance margin for the year ended december 31, 2014 are outlined below:
+($ in millions)                                                                      interest                                                                            interest and                                                                                 finance and fees                                                                                   other                                                                                  margin borrowing expenses
+2013                                                                                   $462.8                                                                                  $155.9                                                                                  $306.9
+increase (decrease)
+average finance receivables                                                              23.7                                                                                                                                                                            23.7
+average debt balances                                                                                                                                                             5.3                                                                                    (5.3   )
+yields                                                                                  (19.1                     )                                                                                                                                                     (19.1   )
+borrowing rates                                                                                                                                                                 (26.0                     )                                                              26.0
+currency translation                                                                     (4.8                     )                                                              (1.5                     )                                                              (3.3   )
+total (decrease) increase                                                                 (.2                     )                                                             (22.2                     )                                                              22.0
+2014                                                                                   $462.6                                                                                  $133.7                                                                                  $328.9
+
+average finance receivables increased $462.3 million (net of foreign exchange effects) in 2014 as a result of retail portfolio new business volume exceeding collections.
+ average debt balances increased $329.4 million in 2014 (net of foreign exchange effects). the higher average debt balances reflect funding for a higher average earning asset portfolio, including loans, finance leases and equipment on operating leases. 
+lower market rates resulted in lower portfolio yields (5.3% in 2014 and 5.6% in 2013) and lower borrowing rates (1.6% in 2014 and 2.0% in 2013).
+the following table summarizes operating lease, rental and other revenues and depreciation and other expense:
+($ in millions)
+year ended december 31,                      2014            2013
+operating lease and rental revenues                 $712.2          $663.0
+used truck sales and other                            29.4            49.1
+operating lease, rental and other revenues          $741.6          $712.1
+depreciation of operating lease equipment           $472.3          $435.4
+vehicle operating expenses                           100.6            98.1
+cost of used truck sales and other                    15.6            38.2
+depreciation and other expense                      $588.5          $571.7
+20
+the major factors for the changes in operating lease, rental and other revenues, depreciation and other expense and related lease margin for the year ended december 31, 2014 are outlined below:
+($ in millions)                       operating lease,          depreciation            lease rental and             and other           margin other               expense revenues
+2013                                            $712.1                $571.7           $140.4
+increase (decrease)
+used truck sales                                 (20.5   )             (20.7   )           .2
+results on returned lease assets                                        (6.5   )          6.5
+average operating lease assets                    39.7                  30.6              9.1
+revenue and cost per asset                        10.5                  15.7             (5.2   )
+currency translation and other                     (.2   )              (2.3   )          2.1
+total increase                                    29.5                  16.8             12.7
+2014                                            $741.6                $588.5           $153.1
+   a lower volume of used truck sales decreased operating lease, rental and other revenues by $20.5 million and decreased depreciation and other expense by $20.7 million.
+
+   average operating lease assets increased $222.3 million in 2014, which increased revenues by $39.7 million and related depreciation and other expense by $30.6 million.
+
+   revenue per asset increased $10.5 million due to higher rental rates, partially offset by lower fee income. cost per asset increased $15.7 million due to higher depreciation and maintenance expenses.
+
+the following table summarizes the provision for losses on receivables and net charge-offs:
+($ in millions)        2014                                           2013
+provision for             net                  provision for             net losses on                 charge-offs          losses on                 charge-offs receivables                                    receivables u.s. and canada                        $6.1                    $5.1                   $1.9                     $.5
+europe                                  5.4                     6.5                    7.4                    11.0
+mexico and australia                    3.9                     4.4                    3.6                     2.1
+$15.4                   $16.0                  $12.9                   $13.6
+the provision for losses on receivables was $15.4 million in 2014, an increase of $2.5 million compared to 2013, mainly due to a higher portfolio balance in the u.s., higher past dues resulting from a weaker mining industry in australia, partially offset by improved portfolio performance across other markets.
+the company modifies loans and finance leases as a normal part of its financial services operations. the company may modify loans and finance leases for commercial reasons or for credit reasons. modifications for commercial reasons are changes to contract terms for customers that are not considered to be in financial difficulty. insignificant delays are modifications extending terms up to three months for customers experiencing some short-term financial stress, but not considered to be in financial difficulty. modifications for credit reasons are changes to contract terms for customers considered to be in financial difficulty. the companys modifications typically result in granting more time to pay the contractual amounts owed and charging a fee and interest for the term of the modification. when considering whether to modify customer accounts for credit reasons, the company evaluates the creditworthiness of the customers and modifies those accounts that the company considers likely to perform under the modified terms. when the company modifies loans and finance leases for credit reasons and grants a concession, the modifications are classified as troubled debt restructurings (tdr).
+21
+the post-modification balance of accounts modified during the years ended december 31, 2014 and 2013 are summarized below:
+($ in millions)          2014                                                                            2013
+recorded                                % of total                              recorded                                % of total investment                              portfolio*                              investment                              portfolio*
+commercial                                    $181.6                       2.5                 %                              $233.0                       3.2                 %
+insignificant delay                             64.1                       .9                  %                               110.1                       1.6                 %
+credit - no concession                          31.5                       .4                  %                                24.2                       .3                  %
+credit - tdr                                    27.1                       .4                  %                                13.6                       .2                  %
+$304.3                       4.2                 %                              $380.9                       5.3                 %
+*   recorded investment immediately after modification as a percentage of ending retail portfolio.
+
+in 2014, total modification activity decreased compared to 2013 primarily due to lower modifications for commercial reasons and insignificant delays, partially offset by an increase in tdr modifications. the decrease in commercial modifications primarily reflects lower levels of additional equipment financed and end-of-contract modifications. the decline in modifications for insignificant delays reflects 2013 extensions granted to two customers in australia primarily due to business disruptions arising from flooding. tdr modifications increased primarily due to a contract modification for a large customer in the u.s.
+the following table summarizes the companys 30+ days past due accounts:
+at december 31,                                                   2014            2013
+percentage of retail loan and lease accounts 30+ days past due:
+u.s. and canada                                                          .1   %       .3      %
+europe                                                                  1.1   %       .7      %
+mexico and australia                                                    2.0   %       1.4     %
+worldwide                                                                .5   %       .5      %
+accounts 30+ days past due were .5% at december 31, 2014 and 2013. the higher past dues in europe, mexico and australia were offset by lower past dues in the u.s. and canada. the company continues to focus on maintaining low past due balances.
+when the company modifies a 30+ days past due account, the customer is then generally considered current under the revised contractual terms. the company modified $4.0 million of accounts worldwide during the fourth quarter of 2014 and $4.9 million during the fourth quarter of 2013 that were 30+ days past due and became current at the time of modification. had these accounts not been modified and continued to not make payments, the pro forma percentage of retail loan and lease accounts 30+ days past due would have been as follows:
+at december 31,                                                             2014            2013
+pro forma percentage of retail loan and lease accounts 30+ days past due:
+u.s. and canada                                                                    .1   %       .3      %
+europe                                                                            1.2   %       .8      %
+mexico and australia                                                              2.3   %       1.7     %
+worldwide                                                                          .6   %       .6      %
+modifications of accounts in prior quarters that were more than 30 days past due at the time of modification are included in past dues if they were not performing under the modified terms at december 31, 2014 and 2013. the effect on the allowance for credit losses from such modifications was not significant at december 31, 2014 and 2013.
+the companys 2014 and 2013 pre-tax return on average earning assets for financial services was 3.3% and 3.2%, respectively.
+22
+other other includes the winch business as well as sales, income and expenses not attributable to a reportable segment, including a portion of corporate expense. other sales represent approximately 1% of consolidated net sales and revenues for 2014 and 2013. other sg&a was $59.5 million in 2014 and $47.1 million in 2013. the increase in sg&a was primarily due to higher salaries and related expenses of $11.4 million. other income (loss) before tax was a loss of $31.9 million in 2014 compared to a loss of $26.5 million in 2013. the higher loss in 2014 was primarily due to higher salaries and related expenses and lower income before tax from the winch business.
+investment income was $22.3 million in 2014 compared to $28.6 million in 2013. the lower investment income in 2014 primarily reflects lower yields on investments due to lower market interest rates, partially offset by higher average investment balances.
+the 2014 effective income tax rate of 32.7% increased from 30.9% in 2013. the increase in the effective tax rate was primarily due to a higher proportion of income generated in higher taxed jurisdictions.
+($ in millions)
+year ended december 31,               2014                  2013
+domestic income before taxes                 $1,267.3                $827.0
+foreign income before taxes                     750.3                 868.0
+total income before taxes                    $2,017.6              $1,695.0
+domestic pre-tax return on revenues              12.4   %              10.2   %
+foreign pre-tax return on revenues                8.6   %               9.7   %
+total pre-tax return on revenues                 10.6   %               9.9   %
+the higher income before income taxes and pre-tax return on revenues for domestic operations were primarily due to higher revenues from trucks and parts operations and higher truck margins. the lower income before income taxes and pre-tax return on revenues for foreign operations were primarily due to lower revenues and truck margins in all foreign markets, except canada.
+2013 compared to 2012:
+truck the companys truck segment accounted for 76% and 77% of total revenues for 2013 and 2012, respectively.
+($ in millions)
+year ended december 31,                      2013                     2012                        % change truck net sales and revenues:
+u.s. and canada                                        $7,138.1                 $7,467.8                (4   )
+europe                                                  3,844.4                  3,217.1                19
+mexico, south america, australia and other              2,020.4                  2,446.6               (17   )
+$13,002.9                $13,131.5                (1   )
+truck income before income taxes                         $936.7                   $920.4                 2
+pre-tax return on revenues                                  7.2   %                  7.0   %
+the companys worldwide truck net sales and revenues decreased due to lower market demand in the u.s. and canada ($329.7 million), south america ($342.3 million) and australia ($94.8 million), partially offset by higher market demand in europe ($627.3 million). truck segment income before income taxes and pre-tax return on revenues reflects improved price realization, primarily in europe, and lower r&d and sg&a expenses, partially offset by lower truck unit deliveries.
+23
+the companys new truck deliveries are summarized below:
+year ended december 31,                      2013              2012              % change u.s.                                                  59,000            62,200            (5   )
+canada                                                 9,700            10,900           (11   )
+u.s. and canada                                       68,700            73,100            (6   )
+europe                                                48,400            43,500   11
+mexico, south america, australia and other            20,000            23,800           (16   )
+total units                                          137,100           140,400            (2   )
+in 2013, industry retail sales in the heavy-duty market in the u.s. and canada decreased to 212,200 units compared to 224,900 units in 2012. the companys heavy-duty truck retail market share was 28.0% compared to 28.9% in 2012. the medium-duty market was 65,900 units in 2013 compared to 64,600 units in 2012. the companys medium-duty market share was 15.7% in 2013 compared to 15.4% in 2012.
+the over 16-tonne truck market in western and central europe in 2013 was 240,800 units, an 8% increase from 222,000 units in 2012 reflecting a pre-buy of euro 5 trucks by some customers ahead of euro 6 emissions regulations effective in 2014. the companys market share was a record 16.2% in 2013, an increase from 16.0% in 2012. the 6 to 16-tonne market in 2013 was 57,200 units compared to 55,500 units in 2012. the companys market share was a record 11.8% in 2013, an increase from 11.4% in 2012.
+sales in mexico, south america, australia and other markets decreased in 2013 primarily due to fewer new truck deliveries in colombia.
+the major factors for the changes in net sales and revenues, cost of sales and revenues and gross margin between 2013 and 2012 for the truck segment are as follows:
+($ in millions)                                                      net                cost              gross sales            of sales             margin
+2012                                                           $13,131.5           $11,794.0           $1,337.5
+increase (decrease)
+truck delivery volume                                             (399.7   )          (324.5   )          (75.2   )
+average truck sales prices                                          57.6                                   57.6
+average per truck material, labor and other direct costs                                 2.2               (2.2   )
+factory overhead and other indirect costs                                               20.6              (20.6   )
+operating leases                                                   149.0               142.4                6.6
+currency translation                                                64.5                57.2                7.3
+total decrease                                                    (128.6   )          (102.1   )          (26.5   )
+2013                                                           $13,002.9           $11,691.9           $1,311.0
+   truck delivery volume reflects lower truck deliveries in all markets except europe. higher deliveries in europe reflect purchases of euro 5 vehicles ahead of the euro 6 emission requirement in 2014.
+
+   average truck sales prices increased sales by $57.6 million, reflecting increased price realization from higher market demand in europe.
+
+   factory overhead and other indirect costs increased $20.6 million, primarily due to higher depreciation expense.
+
+   operating lease revenues and cost of sales increased due to a higher volume of operating leases in europe.
+
+   truck gross margins in 2013 of 10.1% decreased slightly from 10.2% in 2012 primarily from lower truck volume as noted above.
+
+truck sg&a was $214.1 million in 2013 compared to $231.0 million in 2012. the lower spending in 2013 was primarily due to lower sales and marketing expense of $5.9 million and ongoing cost controls. as a percentage of sales, sg&a decreased to 1.6% in 2013 compared to 1.8% in 2012.
+24
+parts the companys parts segment accounted for 16% of total revenues for both 2013 and 2012.
+($ in millions)
+year ended december 31,                      2013                  2012                     % change parts net sales and revenues:
+u.s. and canada                                     $1,635.5              $1,529.1                 7
+europe                                                 828.3                 786.7                 5
+mexico, south america, australia and other             358.4                 351.7                 2
+$2,822.2              $2,667.5                 6
+parts income before income taxes                      $416.0                $374.6                11
+pre-tax return on revenues                              14.7   %              14.0   %
+the companys worldwide parts net sales and revenues increased due to higher aftermarket demand worldwide. the increase in parts segment income before taxes and pre-tax return on revenues was primarily due to higher sales, gross margins and cost controls.
+the major factors for the changes in net sales and revenues, cost of sales and revenues and gross margin between 2013 and 2012 for the parts segment are as follows:
+($ in millions)                                  net          cost         gross sales      of sales        margin
+2012                                        $2,667.5      $1,995.0        $672.5
+increase (decrease)
+aftermarket parts volume                       103.6          67.4          36.2
+average aftermarket parts sales prices          38.3                        38.3
+average aftermarket parts direct costs                        29.6         (29.6   )
+warehouse and other indirect costs                             6.5          (6.5   )
+currency translation                            12.8           8.5           4.3
+total increase                                 154.7         112.0          42.7
+2013                                        $2,822.2      $2,107.0        $715.2
+   higher market demand in all markets resulted in increased aftermarket parts sales volume of $103.6 million and related cost of sales by $67.4 million.
+
+   average aftermarket parts sales prices increased sales by $38.3 million reflecting improved price realization.
+
+   average aftermarket parts direct costs increased $29.6 million due to higher material costs.
+
+   warehouse and other indirect costs increased $6.5 million primarily due to higher costs from warehouse capacity expansion to support sales volume.
+
+   parts gross margins in 2013 of 25.3% increased slightly from 25.2% in 2012 due to the factors noted above.
+
+parts sg&a decreased slightly to $204.1 million in 2013 from $206.0 million in 2012 due to lower sales and marketing expenses. as a percentage of sales, parts sg&a decreased to 7.2% in 2013 from 7.7% in 2012, due to cost controls and higher sales volume.
+25
+financial services the companys financial services segment accounted for 6.9% and 6.4% of total revenues for 2013 and 2012, respectively.
+($ in millions)
+year ended december 31,                 2013                 2012                    % change new loan and lease volume:
+u.s. and canada                                   $2,617.4             $2,913.1           (10   )
+europe                                               838.3                888.2            (6   )
+mexico and australia                                 862.9                820.9             5
+$4,318.6             $4,622.2            (7   )
+new loan and lease volume by product:
+loans and finance leases                          $3,368.1             $3,660.7            (8   )
+equipment on operating lease                         950.5                961.5            (1   )
+$4,318.6             $4,622.2            (7   )
+new loan and lease unit volume:
+loans and finance leases                            32,200               36,100           (11   )
+equipment on operating lease                         9,000                9,400            (4   )
+41,200               45,500            (9   )
+average earning assets:
+u.s. and canada                                   $6,331.9             $5,894.6             7
+europe                                             2,495.9              2,285.1             9
+mexico and australia                               1,770.1              1,556.0            14
+$10,597.9             $9,735.7             9
+average earning assets by product:
+loans and finance leases                          $6,876.3             $6,213.2            11
+dealer wholesale financing                         1,490.9              1,574.7            (5   )
+equipment on lease and other                       2,230.7              1,947.8            15
+$10,597.9             $9,735.7             9
+revenues:
+u.s. and canada                                     $626.6               $592.8             6
+europe                                               303.5                283.5             7
+mexico and australia                                 244.8                222.5            10
+$1,174.9             $1,098.8             7
+revenue by product:
+loans and finance leases                            $407.7               $392.2             4
+dealer wholesale financing                            55.1                 61.5           (10   )
+equipment on lease and other                         712.1                645.1            10
+$1,174.9             $1,098.8             7
+income before income taxes                          $340.2               $307.8            11
+in 2013, new loan and lease volume decreased 7% to $4.32 billion from $4.62 billion in 2012. the lower volume in 2013 primarily reflects lower market shares. pfss finance market share on new paccar truck sales was 29.2% in 2013 compared to 30.6% in the prior year primarily due to lower market share in the u.s. and canada and europe.
+the increase in pfs revenue to $1.17 billion in 2013 from $1.10 billion in 2012 primarily resulted from higher average earning asset balances, partially offset by lower yields. pfs income before income taxes increased to a record $340.2 million compared to $307.8 million in 2012 primarily due to higher finance and lease margins and a lower provision for losses on receivables.
+26
+the major factors for the changes in interest and fees, interest and other borrowing expenses and finance margin for the year ended december 31, 2013 are outlined below:
+($ in millions)                   interest           interest           finance and fees                and            margin other borrowing expenses
+2012                                $453.7             $158.4            $295.3
+increase (decrease)
+average finance receivables           33.5                                 33.5
+average debt balances                                    13.1             (13.1   )
+yields                               (20.5   )                            (20.5   )
+borrowing rates                                         (15.7   )          15.7
+currency translation                  (3.9   )             .1              (4.0   )
+total increase (decrease)              9.1               (2.5   )          11.6
+2013                                $462.8             $155.9            $306.9
+   average finance receivables increased $590.5 million (net of foreign exchange effects) in 2013 from retail portfolio new business volume exceeding collections, partially offset by a decrease in dealer wholesale financing, primarily in the u.s. and canada.
+
+   average debt balances increased $671.5 million in 2013 and included increased medium-term note funding. the higher average debt balances reflect funding for a higher average earning asset portfolio, including loans, finance leases and equipment on operating leases.
+
+   lower market rates resulted in lower portfolio yields (5.6% in 2013 and 5.8% in 2012) and lower borrowing rates (2.0% in 2013 and 2.2% in 2012).
+
+the following table summarizes operating lease, rental and other revenues and depreciation and other expense:
+($ in millions)
+year ended december 31,                      2013            2012
+operating lease and rental revenues                 $663.0          $585.9
+used truck sales and other                            49.1            59.2
+operating lease, rental and other revenues          $712.1          $645.1
+depreciation of operating lease equipment           $435.4          $369.9
+vehicle operating expenses                            98.1            97.0
+cost of used truck sales and other                    38.2            50.5
+depreciation and other expense                      $571.7          $517.4
+27
+the major factors for the changes in operating lease, rental and other revenues, depreciation and other expense and related lease margin for the year ended december 31, 2013 are outlined below:
+($ in millions)                       operating lease,          depreciation            lease rental and             and other           margin other revenues               expense
+2012                                            $645.1                $517.4           $127.7
+increase (decrease)
+used truck sales and other                       (10.1   )             (12.2   )          2.1
+results on returned lease assets                                         2.9             (2.9   )
+average operating lease assets                    55.3                  43.6             11.7
+revenue and cost per asset                        17.5                  16.0              1.5
+currency translation                               4.3                   4.0               .3
+total increase                                    67.0                  54.3             12.7
+2013                                            $712.1                $571.7           $140.4
+   used truck sales and other revenues decreased operating lease, rental and other revenues by $10.1 million and decreased depreciation and other expense by $12.2 million, reflecting a lower number of used truck units sold.
+
+   average operating lease assets increased $282.9 million in 2013, which increased revenues by $55.3 million and related depreciation and other expense by $43.6 million, as a result of a higher demand for leased vehicles.
+
+   revenue and cost per asset increased $17.5 million and $16.0 million, respectively, reflecting the higher demand for leased vehicles and the related costs for higher fleet utilization.
+
+the following table summarizes the provision for losses on receivables and net charge-offs:
+($ in millions)        2013                                           2012
+provision for             net                  provision for             net losses on                 charge-offs          losses on                 charge-offs receivables                                    receivables u.s. and canada                        $1.9                     $.5                   $4.6                   $15.2
+europe                                  7.4                    11.0                    9.9                     9.2
+mexico and australia                    3.6                     2.1                    5.5                     6.9
+$12.9                   $13.6                  $20.0                   $31.3
+the provision for losses on receivables was $12.9 million in 2013, a decrease of $7.1 million compared to 2012, due to lower provisions in all markets reflecting improved portfolio performance.
+the company modifies loans and finance leases as a normal part of its financial services operations. the company may modify loans and finance leases for commercial reasons or for credit reasons. modifications for commercial reasons are changes to contract terms for customers that are not considered to be in financial difficulty. insignificant delays are modifications extending terms up to three months for customers experiencing some short-term financial stress, but not considered to be in financial difficulty. modifications for credit reasons are changes to contract terms for customers considered to be in financial difficulty. the companys modifications typically result in granting more time to pay the contractual amounts owed and charging a fee and interest for the term of the modification. when considering whether to modify customer accounts for credit reasons, the company evaluates the creditworthiness of the customer and modifies those accounts that the company considers likely to perform under the modified terms. when the company modifies loans and finance leases for credit reasons and grants a concession, the modifications are classified as troubled debt restructurings (tdr).
+28
+the post-modification balances of accounts modified during the years ended december 31, 2013 and 2012 are summarized below:
+($ in millions)          2013                                             2012
+recorded                 % of total              recorded                 % of total investment               portfolio*              investment               portfolio*
+commercial                            $233.0                    3.2   %                $211.6              3.1         %
+insignificant delay                    110.1                    1.6   %                  57.1              .9          %
+credit - no concession                  24.2                     .3   %                  41.0              .6          %
+credit - tdr                            13.6                     .2   %                  56.9              .8          %
+$380.9                    5.3   %                $366.6              5.4         %
+*   recorded investment immediately after modification as a percentage of ending retail portfolio.
+
+in 2013, total modification activity increased slightly compared to 2012 due to higher modifications for commercial reasons and insignificant delays, partially offset by lower credit modifications. the increase in commercial modifications primarily reflects higher levels of additional equipment financed and end-of-contract modifications. the higher modifications for insignificant delays were mainly due to granting two customers in australia extensions due to business disruptions arising from flooding and granting one large fleet customer in the u.s. a one-month extension.
+the following table summarizes the companys 30+ days past due accounts:
+at december 31,                                                                                                                                                      2013                                                                                                                            2012
+percentage of retail loan and lease accounts 30+ days past due:
+u.s. and canada                                                                                             .3                                                              %                                                                                                                          .3   %
+europe                                                                                                      .7                                                              %                                                                                                                         1.0   %
+mexico and australia                                                                                        1.4                                                             %                                                                                                                         1.5   %
+worldwide                                                                                                   .5                                                              %                                                                                                                          .6   %
+worldwide pfs accounts 30+ days past due were .5% at december 31, 2013 and have decreased .1% from december 31, 2012. the company continues to focus on maintaining low past due balances.
+when the company modifies a 30+ days past due account, the customer is then generally considered current under the revised contractual terms. the company modified $4.9 million of accounts worldwide during the fourth quarter of 2013 and $11.5 million during the fourth quarter of 2012 that were 30+ days past due and became current at the time of modification. had these accounts not been modified and continued to not make payments, the pro forma percentage of retail loan and lease accounts 30+ days past due would have been as follows:
+at december 31,                                                                                                                                                      2013                                                                                                                            2012
+pro forma percentage of retail loan and lease accounts 30+ days past due:
+u.s. and canada                                                                                             .3                                                              %                                                                                                                          .4   %
+europe                                                                                                      .8                                                              %                                                                                                                         1.3   %
+mexico and australia                                                                                        1.7                                                             %                                                                                                                         1.9   %
+worldwide                                                                                                   .6                                                              %                                                                                                                          .8   %
+modifications of accounts in prior quarters that were more than 30 days past due at the time of modification are included in past dues if they were not performing under the modified terms at december 31, 2013 and 2012. the effect on the allowance for credit losses from such modifications was not significant at december 31, 2013 and 2012.
+the companys 2013 and 2012 pre-tax return on average earning assets for financial services was 3.2%.
+29
+other other includes the winch business as well as sales, income and expenses not attributable to a reportable segment, including a portion of corporate expense. other sales represent approximately 1.0% of consolidated net sales and revenues for 2013 and 2012. other sg&a was $47.1 million in 2013 and $39.4 million in 2012 as higher salaries and related expenses of $6.2 million and charitable contributions of $3.0 million were partially offset by lower professional fees of $1.6 million. other income (loss) before tax was a loss of $26.5 million in 2013 compared to a loss of $7.0 million in 2012. the higher loss in 2013 was primarily due to lower income before tax from the winch business.
+investment income was $28.6 million in 2013 compared to $33.1 million in 2012. the lower investment income in 2013 primarily reflects lower yields on investments from lower market interest rates.
+the 2013 effective income tax rate of 30.9% decreased from 31.8% in 2012. the decrease in the effective tax rate was primarily due to a higher proportion of income generated in lower taxed jurisdictions.
+($ in millions)
+year ended december 31,                                                                                                                                                                2013                                                                                        2012
+domestic income before taxes                                                                                                                                                         $827.0                                                                                      $786.6
+foreign income before taxes                                                                                                                                                           868.0                                                                                       842.3
+total income before taxes                                                                                                                                                          $1,695.0                                                                                    $1,628.9
+domestic pre-tax return on revenues                                                                                                                                                    10.2   %                                                                                     9.6   %
+foreign pre-tax return on revenues                                                                                                                                                      9.7   %                                                                                     9.6   %
+total pre-tax return on revenues                                                                                                                                                        9.9   %                                                                                     9.6   %
+the higher income before income taxes and return on revenues for domestic operations were primarily due to higher revenues and margins from parts and financial services operations, partially offset by lower revenues and margins from the truck segment. the higher income before income taxes and return on revenues for foreign operations were primarily due to higher revenues and margins from parts operations, partially offset by lower revenues and margins from all foreign truck markets, except europe.
+liquidity and capital resources:
+($ in millions)
+at december 31,              2014                                                                                                                                                      2013                                                                                        2012
+cash and cash equivalents                           $1,737.6                                                                                                                       $1,750.1                                                                                    $1,272.4
+marketable debt securities                                                 1,272.0                                                                                                  1,267.5                                                                                     1,192.7
+$3,009.6                                                                                                                       $3,017.6                                                                                    $2,465.1
+the companys total cash and marketable debt securities at december 31, 2014 was comparable to december 31, 2013.
+30
+the change in cash and cash equivalents is summarized below:
+($ in millions)
+year ended december 31,                                2014                      2013                      2012
+operating activities:
+net income                                                        $1,358.8                  $1,171.3                  $1,111.6
+net income items not affecting cash                                  875.5                     957.5                     906.6
+pension contributions                                                (81.1   )                 (26.2   )                (190.8   )
+changes in operating assets and liabilities, net                     (29.6   )                 273.1                    (308.4   )
+net cash provided by operating activities                          2,123.6                   2,375.7                   1,519.0
+net cash used in investing activities                             (1,531.9   )              (2,151.0   )              (2,588.0   )
+net cash (used in) provided by financing activities                 (520.5   )                 273.8                     209.5
+effect of exchange rate changes on cash                              (83.7   )                 (20.8   )                  25.2
+net (decrease) increase in cash and cash equivalents                 (12.5   )                 477.7                    (834.3   )
+cash and cash equivalents at beginning of the year                 1,750.1                   1,272.4                   2,106.7
+cash and cash equivalents at end of the year                      $1,737.6                  $1,750.1                  $1,272.4
+2014 compared to 2013:
+operating activities: cash provided by operations decreased $252.1 million to $2.12 billion in 2014 compared to $2.38 billion in 2013. lower operating cash flow reflects a higher increase in financial services segment wholesale receivables of $150.3 million and a higher increase in net purchases of inventories of $149.9 million. in addition, lower cash inflows resulted from a reduction in liabilities for residual value guarantees (rvg) and deferred revenues of $138.7 million, primarily due to a lower volume of new rvg contracts compared to 2013, and $54.9 million in higher pension contributions. these outflows were partially offset by $187.5 million of higher net income and $74.5 million of higher depreciation on property, plant and equipment.
+investing activities: cash used in investing activities of $1.53 billion in 2014 decreased $619.1 million from the $2.15 billion used in 2013, primarily due to lower net new loan and lease originations of $257.0 million, lower payments for property, plant and equipment of $212.4 million and lower cash used in the acquisitions of equipment for operating leases of $123.1 million.
+financing activities: cash used in financing activities was $520.5 million for 2014 compared to cash provided by financing activities of $273.8 million in 2013. the company paid $623.8 million of dividends in 2014 compared to $283.1 million paid in 2013, an increase of $340.7 million. the higher dividends in 2014 reflect a special dividend declared in 2013 and paid in early 2014. in 2013, there was no special dividend payment, as the 2012 special dividend was declared and paid in 2012. the company also repurchased .7 million shares of common stock for $42.7 million in 2014. in 2014, the company issued $1.65 billion in long-term debt and $349.1 million of commercial paper and short-term bank loans to repay long-term debt of $1.88 billion. in 2013, the company issued $2.13 billion in medium-term debt to repay medium-term debt of $568.9 million and reduce its outstanding commercial paper and bank loans by $1.04 billion. this resulted in cash provided by borrowing activities of $116.9 million, $409.0 million lower than cash provided by borrowing activities of $525.9 million in 2013.
+2013 compared to 2012:
+operating activities: cash provided by operations increased $856.7 million to $2.38 billion in 2013 primarily due to an improvement in working capital and $164.6 million in lower pension contributions. higher operating cash flow reflects a $544.4 million higher inflow for purchases of goods and services in accounts payable and accrued expenses in excess of payments, $87.9 million in higher depreciation of equipment on operating leases and $59.7 million of higher net income. in addition, there was a $21.9 million lower increase in inventories. these cash inflows were partially offset by a $190.2 million increase in sales of goods and services in accounts receivable exceeding cash receipts.
+investing activities: cash used in investing activities of $2.15 billion in 2013 decreased $437.0 million from the $2.59 billion used in 2012. net new loan and lease originations in the financial services segment in 2013 were $307.6 million lower, reflecting a lower growth in the portfolio. in addition, net purchases of marketable securities were $179.4 million lower in 2013.
+31
+financing activities: cash provided by financing activities increased to $273.8 million from $209.5 million in 2012. the company paid $283.1 million of dividends in 2013, a decrease of $526.4 million, compared to the $809.5 million paid in 2012. the higher dividends paid in 2012 reflect a special dividend declared in 2011 and paid in early 2012, and a special dividend declared and paid at the end of 2012. the special dividend declared in 2013 is payable in 2014. in addition, there were no purchases of treasury stock in 2013, compared to $162.1 million purchased in 2012. in 2013, the company issued $2.13 billion of medium-term debt, $67.0 million less than 2012. the proceeds were used to repay medium-term debt of $568.9 million and to reduce outstanding balances on commercial paper and bank loans by $1.04 billion, resulting in cash provided by borrowing activities of $525.9 million, $641.3 million lower than the cash provided by borrowing activities of $1.17 billion in 2012.
+credit lines and other:
+the company has line of credit arrangements of $3.50 billion, of which $3.37 billion were unused at december 31, 2014. included in these arrangements are $3.0 billion of syndicated bank facilities, of which $1.0 billion matures in june 2015, $1.0 billion matures in june 2018 and $1.0 billion matures in june 2019. the company intends to replace these credit facilities as they expire with facilities of similar amounts and duration. these credit facilities are maintained primarily to provide backup liquidity for commercial paper borrowings and maturing medium-term notes. there were no borrowings under the syndicated bank facilities for the year ended december 31, 2014.
+in december 2011, paccar inc filed a shelf registration under the securities act of 1933; the registration expired in the fourth quarter of 2014. upon maturity in february 2014, $500.0 million of medium-term notes, of which $150.0 million was manufacturing debt, were repaid in full.
+in december 2011, paccars board of directors approved the repurchase of $300.0 million of the companys common stock, and as of december 31, 2014, $234.7 million of shares have been repurchased pursuant to the authorization.
+at december 31, 2014 and december 31, 2013, the company had cash and cash equivalents and marketable debt securities of $1.60 billion and $1.75 billion, respectively, which are considered indefinitely reinvested in foreign subsidiaries. the company periodically repatriates foreign earnings that are not indefinitely reinvested. dividends paid by foreign subsidiaries to the u.s. parent were $.24 billion, $.19 billion and $.23 billion in 2014, 2013 and 2012, respectively. the company believes that its u.s. cash and cash equivalents and marketable debt securities, future operating cash flow and access to the capital markets, along with periodic repatriation of foreign earnings, will be sufficient to meet u.s. liquidity requirements.
+truck, parts and other the company provides funding for working capital, capital expenditures, r&d, dividends, stock repurchases and other business initiatives and commitments primarily from cash provided by operations. management expects this method of funding to continue in the future.
+investments for property, plant and equipment in 2014 totaled $220.8 million compared to $406.5 million in 2013 as the company invested in new products and expanded its aftermarket distribution centers and enhanced its production facilities. investments in 2014 were lower than 2013, as 2013 included higher spending for new product development and construction of the eindhoven parts distribution center in europe and the daf brasil factory. over the past decade, the companys combined investments in worldwide capital projects and r&d totaled $5.83 billion, which have significantly increased operating capacity and efficiency of its facilities and the competitive advantage of the companys premium products.
+in 2015, capital investments are expected to be $300 to $350 million and are targeted for enhanced powertrain development and increased operating efficiency of the companys factories and parts distribution centers. spending on r&d in 2015 is expected to be $220 to $260 million, as paccar will continue to focus on new products and increased manufacturing capacity.
+the company conducts business in spain, italy, portugal, ireland, greece, russia, ukraine and certain other countries which have been experiencing significant financial stress, fiscal or political strain and are subject to potential default. the company routinely monitors its financial exposure to global financial conditions, its global counterparties and its operating environments. as of
+32
+december 31, 2014, the company had finance and trade receivables in these countries of approximately 1% of consolidated total assets. as of december 31, 2014, the company did not have any marketable debt security investments in corporate or sovereign government securities in these countries. in addition, the company had no derivative counterparty credit exposures in these countries as of december 31, 2014.
+financial services the company funds its financial services activities primarily from collections on existing finance receivables and borrowings in the capital markets. the primary sources of borrowings in the capital markets are commercial paper and medium-term notes issued in the public markets and, to a lesser extent, bank loans. an additional source of funds is loans from other paccar companies.
+the company issues commercial paper for a portion of its funding in its financial services segment. some of this commercial paper is converted to fixed interest rate debt through the use of interest rate swaps, which are used to manage interest rate risk. in the event of a future significant disruption in the financial markets, the company may not be able to issue replacement commercial paper. as a result, the company is exposed to liquidity risk from the shorter maturity of short-term borrowings paid to lenders compared to the longer timing of receivable collections from customers. the company believes its cash balances and investments, collections on existing finance receivables, syndicated bank lines and current investment-grade credit ratings of a+/a1 will continue to provide it with sufficient resources and access to capital markets at competitive interest rates and therefore contribute to the company maintaining its liquidity and financial stability. a decrease in these credit ratings could negatively impact the companys ability to access capital markets at competitive interest rates and the companys ability to maintain liquidity and financial stability.
+in november 2012, the companys u.s. finance subsidiary, paccar financial corp. (pfc), filed a shelf registration under the securities act of 1933. the total amount of medium-term notes outstanding for pfc as of december 31, 2014 was $4.15 billion. the registration expires in november 2015 and does not limit the principal amount of debt securities that may be issued during that period.
+as of december 31, 2014, the companys european finance subsidiary, paccar financial europe, had 366.9 million available for issuance under a 1.50 billion medium-term note program registered with the london stock exchange. the program was renewed in the second quarter of 2014 and is renewable annually through the filing of a new prospectus.
+in april 2011, paccar financial mexico registered a 10.00 billion peso medium-term note and commercial paper program with the comision nacional bancaria y de valores. the registration expires in 2016 and limits the amount of commercial paper (up to one year) to 5.00 billion pesos. at december 31, 2014, 8.00 billion pesos remained available for issuance.
+paccar believes its financial services companies will be able to continue funding receivables, servicing debt and paying dividends through internally generated funds, access to public and private debt markets and lines of credit.
+commitments the following summarizes the companys contractual cash commitments at december 31, 2014:
+maturity
+($ in millions)          within 1 year           1-3 years           3-5 years           more than         total
+5 years borrowings*                   $4,129.2            $3,464.4              $638.0                          $8,231.6
+purchase obligations             255.0               135.2                                                 390.2
+interest on debt**                54.4                57.3                15.5                             127.2
+operating leases                  19.5                23.9                 9.5                $2.2          55.1
+other obligations                 10.1                14.1                 7.0                 7.9          39.1
+$4,468.2            $3,694.9              $670.0               $10.1      $8,843.2
+*   borrowings include commercial paper and other short-term debt.
+
+**   includes interest on fixed and floating-rate term debt. interest on floating-rate debt is based on the applicable market rates at december 31, 2014.
+
+33
+total cash commitments for borrowings and interest on term debt are $8.36 billion and were related to the financial services segment. as described in note i of the consolidated financial statements, borrowings consist primarily of term notes and commercial paper issued by the financial services segment. the company expects to fund its maturing financial services debt obligations principally from funds provided by collections from customers on loans and lease contracts, as well as from the proceeds of commercial paper and medium-term note borrowings. purchase obligations are the companys contractual commitments to acquire future production inventory and capital equipment. other obligations include deferred cash compensation.
+the companys other commitments include the following at december 31, 2014:
+commitment expiration
+($ in millions)                within 1 year             1-3 years             3-5 years           more than           total
+5 years loan and lease commitments            $769.6                                                                          $769.6
+residual value guarantees              228.9                $279.9                $104.9           $15.4               629.1
+letters of credit                       17.1                   1.6                    .2           .1                   19.0
+$1,015.6                $281.5                $105.1           $15.5            $1,417.7
+loan and lease commitments are for funding new retail loan and lease contracts. residual value guarantees represent the companys commitment to acquire trucks at a guaranteed value if the customer decides to return the truck at a specified date in the future.
+impact of environmental matters:
+the company, its competitors and industry in general are subject to various domestic and foreign requirements relating to the environment. the company believes its policies, practices and procedures are designed to prevent unreasonable risk of environmental damage and that its handling, use and disposal of hazardous or toxic substances have been in accordance with environmental laws and regulations enacted at the time such use and disposal occurred.
+the company is involved in various stages of investigations and cleanup actions in different countries related to environmental matters. in certain of these matters, the company has been designated as a potentially responsible party by domestic and foreign environmental agencies. the company has provided an accrual for the estimated costs to investigate and complete cleanup actions where it is probable that the company will incur such costs in the future. expenditures related to environmental activities in the years ended december 31, 2014, 2013 and 2012 were $1.2 million, $2.3 million and $1.7 million, respectively. management expects that these matters will not have a significant effect on the companys consolidated cash flow, liquidity or financial condition.
+critical accounting policies:
+the companys significant accounting policies are disclosed in note a of the consolidated financial statements. in the preparation of the companys financial statements, in accordance with u.s. generally accepted accounting principles, management uses estimates and makes judgments and assumptions that affect asset and liability values and the amounts reported as income and expense during the periods presented. the following are accounting policies which, in the opinion of management, are particularly sensitive and which, if actual results are different from estimates used by management, may have a material impact on the financial statements.
+operating leases trucks sold pursuant to agreements accounted for as operating leases are disclosed in note e of the consolidated financial statements. in determining its estimate of the residual value of such vehicles, the company considers the length of the lease term, the truck model, the expected usage of the truck and anticipated market demand. operating lease terms generally range from three to five years. the resulting residual values on operating leases generally range between 30% and 50% of original equipment cost. if the sales price of the trucks at the end of the term of the agreement differs from the companys estimated residual value, a gain or loss will result.
+34
+future market conditions, changes in government regulations and other factors outside the companys control could impact the ultimate sales price of trucks returned under these contracts. residual values are reviewed regularly and adjusted if market conditions warrant. a decrease in the estimated equipment residual values would increase annual depreciation expense over the remaining lease term.
+during 2014, 2013 and 2012, market values on equipment returning upon operating lease maturity were generally higher than the residual values on the equipment, resulting in a decrease in depreciation expense of $10.6 million, $4.4 million and $5.0 million, respectively.
+at december 31, 2014, the aggregate residual value of equipment on operating leases in the financial services segment and residual value guarantee on trucks accounted for as operating leases in the truck segment was $1.91 billion. a 10% decrease in used truck values worldwide, expected to persist over the remaining maturities of the companys operating leases, would reduce residual value estimates and result in the company recording an average of approximately $47.8 million of additional depreciation per year.
+allowance for credit losses the allowance for credit losses related to the companys loans and finance leases is disclosed in note d of the consolidated financial statements. the company has developed a systematic methodology for determining the allowance for credit losses for its two portfolio segments, retail and wholesale. the retail segment consists of retail loans and direct and sales-type finance leases, net of unearned interest. the wholesale segment consists of truck inventory financing loans to dealers that are collateralized by trucks and other collateral. the wholesale segment generally has less risk than the retail segment. wholesale receivables generally are shorter in duration than retail receivables, and the company requires monthly reporting of the wholesale dealers financial condition, conducts periodic audits of the trucks being financed and in many cases, obtains personal guarantees or other security such as dealership assets. in determining the allowance for credit losses, retail loans and finance leases are evaluated together since they relate to a similar customer base, their contractual terms require regular payment of principal and interest, generally over 36 to 60 months, and they are secured by the same type of collateral. the allowance for credit losses consists of both specific and general reserves.
+the company individually evaluates certain finance receivables for impairment. finance receivables that are evaluated individually for impairment consist of all wholesale accounts and certain large retail accounts with past due balances or otherwise determined to be at a higher risk of loss. a finance receivable is impaired if it is considered probable the company will be unable to collect all contractual interest and principal payments as scheduled. in addition, all retail loans and leases which have been classified as tdrs and all customer accounts over 90 days past due are considered impaired. generally, impaired accounts are on non-accrual status. impaired accounts classified as tdrs which have been performing for 90 consecutive days are placed on accrual status if it is deemed probable that the company will collect all principal and interest payments.
+impaired receivables are generally considered collateral dependent. large balance retail and all wholesale impaired receivables are individually evaluated to determine the appropriate reserve for losses. the determination of reserves for large balance impaired receivables considers the fair value of the associated collateral. when the underlying collateral fair value exceeds the companys recorded investment, no reserve is recorded. small balance impaired receivables with similar risk characteristics are evaluated as a separate pool to determine the appropriate reserve for losses using the historical loss information discussed below.
+for finance receivables that are not individually impaired, the company collectively evaluates and determines the general allowance for credit losses for both retail and wholesale receivables based on historical loss information, using past due account data and current market conditions. information used includes assumptions regarding the likelihood of collecting current and past due accounts, repossession rates, the recovery rate on the underlying collateral based on used truck values and other pledged collateral or recourse. the company has developed a range of loss estimates for each of its country portfolios based on historical experience, taking into account loss frequency and severity in both strong and weak truck market conditions. a projection is made of the range of estimated credit losses inherent in the portfolio from which an amount is determined as probable based on current market conditions and other factors impacting the creditworthiness of the companys borrowers and their ability to repay. after determining the appropriate level of the allowance for credit losses, a provision for losses on finance receivables is charged to income as necessary to reflect managements estimate of incurred credit losses, net of recoveries, inherent in the portfolio.
+35
+the adequacy of the allowance is evaluated quarterly based on the most recent past due account information and current market conditions. as accounts become past due, the likelihood that they will not be fully collected increases. the companys experience indicates the probability of not fully collecting past due accounts ranges between 20% and 80%. over the past three years, the companys year-end 30+ days past due accounts have ranged between .5% and .6% of loan and lease receivables. historically, a 100 basis point increase in the 30+ days past due percentage has resulted in an increase in credit losses of 5 to 30 basis points of receivables. past dues were .5% at december 31, 2014. if past dues were 100 basis points higher or 1.5% as of december 31, 2014, the companys estimate of credit losses would likely have increased by a range of $5 to $25 million depending on the extent of the past dues, the estimated value of the collateral as compared to amounts owed and general economic factors.
+product warranty product warranty is disclosed in note h of the consolidated financial statements. the expenses related to product warranty are estimated and recorded at the time products are sold based on historical and current data and reasonable expectations for the future regarding the frequency and cost of warranty claims, net of recoveries. management takes actions to minimize warranty costs through quality-improvement programs; however, actual claim costs incurred could materially differ from the estimated amounts and require adjustments to the reserve. historically those adjustments have not been material. over the past three years, warranty expense as a percentage of truck, parts and other net sales and revenues has ranged between 1.2% and 1.6%. if the 2014 warranty expense had been .2% higher as a percentage of net sales and revenues in 2014, warranty expense would have increased by approximately $36 million.
+pension benefits employee benefits are disclosed in note l of the consolidated financial statements. the companys accounting for employee pension benefit costs and obligations is based on management assumptions about the future used by actuaries to estimate net costs and liabilities. these assumptions include discount rates, long-term rates of return on plan assets, inflation rates, retirement rates, mortality rates and other factors. management bases these assumptions on historical results, the current environment and reasonable estimates of future events.
+the discount rate for pension benefits is based on market interest rates of high-quality corporate bonds with a maturity profile that matches the timing of the projected benefit payments of the plans. changes in the discount rate affect the valuation of the plan benefits obligation and funded status of the plans. the long-term rate of return on plan assets is based on projected returns for each asset class and relative weighting of those asset classes in the plans.
+because differences between actual results and the assumptions for returns on plan assets, retirement rates and mortality rates are accumulated and amortized into expense over future periods, management does not believe these differences or a typical percentage change in these assumptions worldwide would have a material effect on its financial results in the next year. the most significant assumption which could negatively affect pension expense is a decrease in the discount rate. if the discount rate was to decrease .5%, 2014 net pension expense would increase to $76.2 million from $53.1 million and the projected benefit obligation would increase $219.6 million to $2.6 billion from $2.4 billion.
+income taxes income taxes are disclosed in note m of the consolidated financial statements. the company calculates income tax expense on pre-tax income based on current tax law. deferred tax assets and liabilities are recorded for future tax consequences on temporary differences between recorded amounts in the financial statements and their respective tax basis. the determination of income tax expense requires management estimates and involves judgment regarding indefinitely reinvested foreign earnings, jurisdictional mix of earnings and future outcomes regarding tax law issues included in tax returns. the company updates its assumptions on all of these factors each quarter as well as new information on tax laws and differences between estimated taxes and actual returns when filed. if the companys assessment of these matters changes, the effect is accounted for in earnings in the period the change is made.
+36
+forward-looking statements:
+this report contains forward-looking statements within the meaning of the private securities litigation reform act of 1995. forward-looking statements include statements relating to future results of operations or financial position and any other statement that does not relate to any historical or current fact. such statements are based on currently available operating, financial and other information and are subject to risks and uncertainties that may affect actual results. risks and uncertainties include, but are not limited to: a significant decline in industry sales; competitive pressures; reduced market share; reduced availability of or higher prices for fuel; increased safety, emissions, or other regulations resulting in higher costs and/or sales restrictions; currency or commodity price fluctuations; lower used truck prices; insufficient or under-utilization of manufacturing capacity; supplier interruptions; insufficient liquidity in the capital markets; fluctuations in interest rates; changes in the levels of the financial services segment new business volume due to unit fluctuations in new paccar truck sales or reduced market shares; changes affecting the profitability of truck owners and operators; price changes impacting truck sales prices and residual values; insufficient supplier capacity or access to raw materials; labor disruptions; shortages of commercial truck drivers; increased warranty costs or litigation; or legislative and governmental regulations. a more detailed description of these and other risks is included under the heading part 1, item 1a, risk factors in the companys annual report on form 10-k for the year ended december 31, 2014.
+37

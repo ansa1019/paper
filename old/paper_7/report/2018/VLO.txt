@@ -1,0 +1,664 @@
+item 7. management's discussion and analysis of financial condition and results of operations the following review of our results of operations and financial condition should be read in conjunction with item 1a, "risk factors," and item 8, "financial statements and supplementary data," included in this report.
+cautionary statement for the purpose of safe harbor provisions of the private securities litigation reform act of 1995
+this report, including without limitation our disclosures below under the heading "overview and outlook," includes forward-looking statements within the meaning of section 27a of the securities act of 1933 and section 21e of the securities exchange act of 1934. you can identify our forward-looking statements by the words "anticipate," "believe," "expect," "plan," "intend," "scheduled," "estimate," "project," "projection," "predict," "budget," "forecast," "goal," "guidance," "target," "could," "would," "should," "will," "may," and similar expressions.
+these forward-looking statements include, among other things, statements regarding:
+•   future refining segment margins, including gasoline and distillate margins;
+•   future ethanol segment margins;
+•   expectations regarding feedstock costs, including crude oil differentials, and operating expenses;
+•   anticipated levels of crude oil and refined petroleum product inventories;
+•   our anticipated level of capital investments, including deferred costs for refinery turnarounds and catalyst, capital expenditures for environmental and other purposes, and joint venture investments, and the effect of those capital investments on our results of operations;
+•   anticipated trends in the supply of and demand for crude oil and other feedstocks and refined petroleum products in the regions where we operate, as well as globally;
+•   expectations regarding environmental, tax, and other regulatory initiatives; and
+•   the effect of general economic and other conditions on refining, ethanol, and midstream industry fundamentals.
+we based our forward-looking statements on our current expectations, estimates, and projections about ourselves and our industry. we caution that these statements are not guarantees of future performance and involve risks, uncertainties, and assumptions that we cannot predict. in addition, we based many of these forward-looking statements on assumptions about future events that may prove to be inaccurate. accordingly, our actual results may differ materially from the future performance that we have expressed or forecast in the forward-looking statements. differences between actual results and any future performance suggested in these forward-looking statements could result from a variety of factors, including the following:
+•   acts of terrorism aimed at either our facilities or other facilities that could impair our ability to produce or transport refined petroleum products or receive feedstocks;
+•   political and economic conditions in nations that produce crude oil or consume refined petroleum products;
+•   demand for, and supplies of, refined petroleum products such as gasoline, diesel, jet fuel, petrochemicals, and ethanol;
+•   demand for, and supplies of, crude oil and other feedstocks;
+•   the ability of the members of the organization of petroleum exporting countries to agree on and to maintain crude oil price and production controls;
+•   the level of consumer demand, including seasonal fluctuations;
+25
+•   refinery overcapacity or undercapacity;
+•   our ability to successfully integrate any acquired businesses into our operations;
+•   the actions taken by competitors, including both pricing and adjustments to refining capacity in response to market conditions;
+•   the level of competitors' imports into markets that we supply;
+•   accidents, unscheduled shutdowns, or other catastrophes affecting our refineries, machinery, pipelines, equipment, and information systems, or those of our suppliers or customers;
+•   changes in the cost or availability of transportation for feedstocks and refined petroleum products;
+•   the price, availability, and acceptance of alternative fuels and alternative-fuel vehicles;
+•   the levels of government subsidies for alternative fuels;
+•   the volatility in the market price of biofuel credits (primarily rins needed to comply with the rfs) and ghg emission credits needed to comply with the requirements of various ghg emission programs;
+•   delay of, cancellation of, or failure to implement planned capital projects and realize the various assumptions and benefits projected for such projects or cost overruns in constructing such planned capital projects;
+•   earthquakes, hurricanes, tornadoes, and irregular weather, which can unforeseeably affect the price or availability of natural gas, crude oil, grain and other feedstocks, and refined petroleum products and ethanol;
+•   rulings, judgments, or settlements in litigation or other legal or regulatory matters, including unexpected environmental remediation costs, in excess of any reserves or insurance coverage;
+•   legislative or regulatory action, including the introduction or enactment of legislation or rulemakings by governmental authorities, including tariffs and tax and environmental regulations, such as those implemented under the california cap-and-trade system (also known as ab 32) and similar programs, and the u.s. epa's regulation of ghgs, which may adversely affect our business or operations;
+•   changes in the credit ratings assigned to our debt securities and trade credit;
+•   changes in currency exchange rates, including the value of the canadian dollar, the pound sterling, the euro, the mexican peso, and the peruvian sol relative to the u.s. dollar;
+•   overall economic conditions, including the stability and liquidity of financial markets; and
+•   other factors generally described in the "risk factors" section included in item 1a, "risk factors" in this report.
+any one of these factors, or a combination of these factors, could materially affect our future results of operations and whether any forward-looking statements ultimately prove to be accurate. our forward-looking statements are not guarantees of future performance, and actual results and future performance may differ materially from those suggested in any forward-looking statements. we do not intend to update these statements unless we are required by the securities laws to do so.
+all subsequent written and oral forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the foregoing. we undertake no obligation to publicly release any revisions to any such forward-looking statements that may be made to reflect events or circumstances after the date of this report or to reflect the occurrence of unanticipated events.
+this report includes references to financial measures that are not defined under u.s. generally accepted accounting principles (gaap). these non-gaap financial measures include adjusted net income attributable to valero stockholders, adjusted operating income (including adjusted operating income for each of our reportable segments), and refining and ethanol segment margin. we have included these non-gaap financial measures to help facilitate the comparison of operating results between years. see the accompanying financial tables in "results of operations" and note (h) to the accompanying tables for reconciliations of
+26
+these non-gaap financial measures to the most directly comparable u.s. gaap financial measures. also in note (h), we disclose the reasons why we believe our use of the non-gaap financial measures provides useful information.
+overview and outlook overview for 2018, we reported net income attributable to valero stockholders of $3.1 billion compared to $4.1 billion for 2017, which represents a decrease of $943 million. this decrease is primarily due to a $1.9 billion tax benefit in 2017 resulting from tax reform, which is discussed in note 15 of notes to consolidated financial statements, partially offset by a $1.0 billion increase in income before income tax expense. the increase in income before income tax expense is primarily due to higher operating income between the years as described below.
+operating income was $4.6 billion for 2018 compared to $3.6 billion for 2017, which represents an increase of $1.0 billion. excluding the adjustments to operating income reflected in the tables on page 32, adjusted operating income increased by $931 million in 2018 compared to 2017.
+the $931 million increase in adjusted operating income is primarily due to the following:
+•   refining segment. refining segment adjusted operating income increased $961 million primarily due to improved distillate margins, favorable crude oil discounts, and lower costs of biofuel credits, partially offset by lower gasoline margins. this is more fully described on pages 36 through 37.
+•   ethanol segment. ethanol segment operating income decreased by $90 million primarily due to lower ethanol prices and higher corn prices, partially offset by higher corn related co-products prices. this is more fully described on pages 37 through 38.
+•   vlp segment. vlp segment adjusted operating income increased by $50 million primarily due to incremental revenues, partially offset by higher cost of sales, generated from transportation and terminaling services associated with a terminal and a product pipeline system acquired by vlp in november 2017 that were formerly a part of the refining segment. this is more fully described on page 38.
+•   corporate and eliminations. adjusted corporate and eliminations decreased by $10 million primarily due to expenses in 2017 associated with the termination of the acquisition of certain assets from plains all american pipeline, l.p. (plains). this is more fully described on page 38.
+additional details and analysis for the changes in operating income and adjusted operating income for our reportable business segments and other components of net income and adjusted net income attributable to valero stockholders, including a reconciliation of non-gaap financial measures used in this overview to their most comparable measures reported under u.s. gaap, are provided below under "results of operations".
+27
+outlook below are several factors that have impacted or may impact our results of operations during the first quarter of 2019:
+•   refining and ethanol margins are expected to remain near current levels.
+•   medium and heavy sour crude oil discounts are expected to remain weaker than their five-year averages as supplies of sour crude oils available in the market remain suppressed.
+•   sweet crude oil discounts are expected to remain near current levels as export demand remains strong and freight costs continue to rise. u.s. inland sweet crude oil discounts are also expected to remain wide with higher production and limited pipeline capacity to transport crude oil out of the permian basin and other producing regions in the u.s.
+•   our refining operations in the u.k. could be adversely affected by brexit, which is currently scheduled to occur on march 29, 2019. the u.k. and the european union have yet to finalize the terms of brexit, and the u.k.'s exit from the european union without an agreement on an overall structure for an ongoing relationship with the european union could result in the imposition of border controls and customs duties on trade that could negatively impact the operations of our pembroke refinery. while we do not believe that brexit will have a material impact on us, we are taking steps to minimize the impact of possible delays on importing certain materials critical to our refining operations. the ultimate effect of brexit will depend on the specific terms of any agreement reached by the u.k. and the european union. see item 1a "risk factors"-changes in the u.k.'s economic and other relationships with the european union could adversely affect us.
+results of operations the following tables highlight our results of operations, our operating performance, and market reference prices that directly impact our operations. in addition, these tables include financial measures that are not defined under u.s. gaap and represent non-gaap financial measures. these non-gaap financial measures are reconciled to their most comparable u.s. gaap financial measures and include adjusted net income attributable to valero stockholders, adjusted operating income, and refining and ethanol segment margin. in note (h) to these tables, we disclose the reasons why we believe our use of non-gaap financial measures provides useful information.
+on january 10, 2019, we completed our acquisition of all the outstanding publicly held common units of vlp pursuant to the merger agreement with vlp as defined and discussed in note 2 of notes to consolidated financial statements. upon completion of the merger transaction, vlp became an indirect wholly owned subsidiary of valero.
+28
+2018 compared to 2017
+financial highlights by segment and total company
+(millions of dollars)
+year ended december 31, 2018
+refining              ethanol       vlp                        corporate                 total and eliminations revenues:
+revenues from external customers                                                                               $113,601               $3,428            $-                         $4                 $117,033
+intersegment revenues                                                                                                14                  210                546                  (770      )                 -
+total revenues                                                                                                  113,615                3,638                546                  (766      )           117,033
+cost of sales:
+cost of materials and other (a)                                                                                 102,489                3,008            -                        (765      )           104,732
+operating expenses (excluding depreciation and amortization expense reflected below)                              4,099                  470                125                    (4      )             4,690
+depreciation and amortization expense                                                                             1,863                   78                 76                     -                    2,017
+total cost of sales                                                                                             108,451                3,556                201                  (769      )           111,439
+other operating expenses                                                                                             45                    -            -                           -                       45
+general and administrative expenses (excluding depreciation and amortization expense reflected below) (b)             -                    -            -                         925                      925
+depreciation and amortization expense                                                                                 -                    -            -                          52                       52
+operating income by segment                                                                                      $5,119                  $82            $345                    $(974      )             4,572
+other income, net (c)                                                                                                                                                                                      130
+interest and debt expense, net of capitalized interest                                                                                                                                                    (470   )
+income before income tax expense                                                                                                                                                                         4,232
+income tax expense (d) (e)                                                                                                                                                                                 879
+net income                                                                                                                                                                                               3,353
+less: net income attributable to noncontrolling interests (a)                                                                                                                                              231
+net income attributable to valero energy corporation stockholders                                                                                                                                       $3,122
+________________
+see note references on pages 45 through 48.
+29
+financial highlights by segment and total company (continued)
+(millions of dollars)
+year ended december 31, 2017
+refining              ethanol               vlp                corporate               total and eliminations revenues:
+revenues from external customers                                                                          $90,651               $3,324                 $-                    $5                $93,980
+intersegment revenues                                                                                           6                  176                452                  (634      )               -
+total revenues                                                                                             90,657                3,500                452                  (629      )          93,980
+cost of sales:
+cost of materials and other                                                                                80,865                2,804                  -                  (632      )          83,037
+operating expenses (excluding depreciation and amortization expense reflected below)                        3,959                  443                104                    (2      )           4,504
+depreciation and amortization expense                                                                       1,800                   81                 53                     -                  1,934
+total cost of sales                                                                                        86,624                3,328                157                  (634      )          89,475
+other operating expenses                                                                                       58                    -                  3                     -                     61
+general and administrative expenses (excluding depreciation and amortization expense reflected below)           -                    -                  -                   829                    829
+depreciation and amortization expense                                                                           -                    -                  -                    52                     52
+operating income by segment                                                                                $3,975                 $172               $292                 $(876      )           3,563
+other income, net                                                                                                                                                                                  112
+interest and debt expense, net of capitalized interest                                                                                                                                            (468   )
+income before income tax expense                                                                                                                                                                 3,207
+income tax benefit (d) (e)                                                                                                                                                                        (949   )
+net income                                                                                                                                                                                       4,156
+less: net income attributable to noncontrolling interests                                                                                                                                           91
+net income attributable tovalero energy corporation stockholders                                                                                                                                $4,065
+________________
+see note references on pages 45 through 48.
+30
+financial highlights by segment and total company (continued)
+(millions of dollars)
+year ended december 31,
+2018                                                                                                                                                                                      2017
+reconciliation of net income attributable to valero energy corporation stockholders to adjusted net income attributable to valero energy corporation stockholders (h)
+net income attributable to valero energy corporation stockholders                                                                                                          $3,122               $4,065
+exclude adjustments:
+blender's tax credit attributable to valero energy corporation stockholders (a)                                                                                                90               -
+income tax expense related to the blender's tax credit                                                                                                                        (11     )         -
+blender's tax credit attributable to valero energy corporation stockholders,net of taxes                                                                                       79               -
+texas city refinery fire expenses                                                                                                                                             (17     )         -
+income tax benefit related to texas city refinery fire expenses                                                                                                                 4               -
+texas city refinery fire expenses, net of taxes                                                                                                                               (13     )         -
+environmental reserve adjustments (b)                                                                                                                                        (108     )         -
+income tax benefit related to the environmental reserve adjustments                                                                                                            24               -
+environmental reserve adjustments, net of taxes                                                                                                                               (84     )         -
+loss on early redemption of debt (c)                                                                                                                                          (38     )         -
+income tax benefit related to the loss on early redemption of debt                                                                                                              9               -
+loss on early redemption of debt, net of taxes                                                                                                                                (29     )         -
+income tax benefit from tax reform (d)                                                                                                                                         12               1,862
+total adjustments                                                                                                                                                             (35     )         1,862
+adjusted net income attributable to valero energy corporation stockholders                                                                                                 $3,157               $2,203
+________________
+see note references on pages 45 through 48.
+31
+financial highlights by segment and total company (continued)
+(millions of dollars)
+year ended december 31, 2018
+refining       ethanol            vlp               corporate                        total and eliminations reconciliation of operating income to adjusted operating income (h)
+operating income by segment                                              $5,119            $82                $345              $(974         )             $4,572
+exclude:
+blender's tax credit (a)                                                    170            -                  -                 -                    170
+other operating expenses                                                    (45    )       -                  -                 -                              (45   )
+environmental reserve adjustments (b)                                         -            -                  -                 (108          )               (108   )
+adjusted operating income                                                $4,994            $82                $345              $(866         )             $4,555
+year ended december 31, 2017
+refining       ethanol                    vlp       corporate                        total and eliminations reconciliation of operating income to adjusted operating income (h)
+operating income by segment                                              $3,975            $172                  $292           $(876         )             $3,563
+exclude:
+other operating expenses                                                    (58    )       -                       (3   )       -                              (61   )
+adjusted operating income                                                $4,033            $172                  $295           $(876         )             $3,624
+________________
+see note references on pages 45 through 48.
+32
+refining segment operating highlights
+(millions of dollars, except per barrel amounts)
+year ended december 31,
+2018                                                                                                                                            2017                change throughput volumes (thousand barrels per day (bpd))
+feedstocks:
+heavy sour crude oil                                                                                                  469                   469                     -
+medium/light sour crude oil                                                                                           418                   458                   (40    )
+sweet crude oil                                                                                                     1,410                 1,323                    87
+residuals                                                                                                             232                   219                    13
+other feedstocks                                                                                                      127                   148                   (21    )
+total feedstocks                                                                                                    2,656                 2,617                    39
+blendstocks and other                                                                                                 330                   323                     7
+total throughput volumes                                                                                            2,986                 2,940                    46
+yields (thousand bpd)
+gasolines and blendstocks                                                                                           1,443                 1,423                    20
+distillates                                                                                                         1,133                 1,127                     6
+other products (i)                                                                                                    449                   428                    21
+total yields                                                                                                        3,025                 2,978                    47
+operating statistics (j)
+refining segment margin (h)                                                                                       $10,956                $9,792                $1,164
+adjusted refining segment operating income(see page 32) (h)                                                        $4,994                $4,033                  $961
+throughput volumes (thousand bpd)                                                                                   2,986                 2,940                    46
+refining segment margin per barrel of throughput                                                                   $10.05                 $9.12                 $0.93
+less:
+operating expenses (excluding depreciation and amortization expense reflected below) per barrel of throughput        3.76                  3.69                  0.07
+depreciation and amortization expense per barrel of throughput                                                       1.71                  1.67                  0.04
+adjusted refining segment operating income per barrel of throughput                                                 $4.58                 $3.76                 $0.82
+_______________
+see note references on pages 45 through 48.
+33
+ethanol segment operating highlights
+(millions of dollars, except per gallon amounts)
+year ended december 31,
+2018                                                                                                                                        2017        change operating statistics (j)
+ethanol segment margin (h)                                                                                         $630                $696             $(66        )
+ethanol segment operating income(see page 32)                                                                       $82                $172             $(90        )
+production volumes (thousand gallons per day)                                                                     4,109               3,972                   137
+ethanol segment margin per gallon of production                                                                   $0.42               $0.48             $(0.06      )
+less:
+operating expenses (excluding depreciation and amortization expense reflected below) per gallon of production      0.31                0.31             -
+depreciation and amortization expense per gallon of production                                                     0.06                0.05                  0.01
+ethanol segment operating income per gallon of production                                                         $0.05               $0.12             $(0.07      )
+vlp segment operating highlights
+(millions of dollars, except per barrel amounts)
+year ended december 31,
+2018                                                                                   2017                change operating statistics (j)
+pipeline transportation revenue                               $124                $101                   $23
+terminaling revenue                                            415                 348                    67
+storage and other revenue                                        7                   3                     4
+total vlp segment revenues                                    $546                $452                   $94
+pipeline transportation throughput (thousand bpd)            1,092                 964                   128
+pipeline transportation revenue per barrel of throughput     $0.31               $0.29                 $0.02
+terminaling throughput (thousand bpd)                        3,594               2,889                   705
+terminaling revenue per barrel of throughput                 $0.32               $0.33                $(0.01    )
+_______________
+see note references on pages 45 through 48.
+34
+average market reference prices and differentials
+(dollars per barrel, except as noted)
+year ended december 31,
+2018                                                                                              2017                change feedstocks brent crude oil                                                      $71.62                $54.82                $16.80
+brent less west texas intermediate (wti) crude oil                     6.71                  3.92                  2.79
+brent less alaska north slope (ans) crude oil                          0.31                  0.26                  0.05
+brent less louisiana light sweet (lls) crude oil                       1.72                  0.69                  1.03
+brent less argus sour crude index (asci) crude oil                     5.20                  4.18                  1.02
+brent less maya crude oil                                              9.22                  7.74                  1.48
+lls crude oil                                                         69.90                 54.13                 15.77
+lls less asci crude oil                                                3.48                  3.49                 (0.01    )
+lls less maya crude oil                                                7.50                  7.05                  0.45
+wti crude oil                                                         64.91                 50.90                 14.01
+natural gas (dollars per million british thermal units (mmbtu))        3.23                  2.98                  0.25
+products u.s. gulf coast:
+cbob gasoline less brent                                               4.81                 10.50                 (5.69    )
+ultra-low-sulfur diesel less brent                                    14.02                 13.26                  0.76
+propylene less brent                                                  (2.86    )             0.48                 (3.34    )
+cbob gasoline less lls                                                 6.53                 11.19                 (4.66    )
+ultra-low-sulfur diesel less lls                                      15.74                 13.95                  1.79
+propylene less lls                                                    (1.14    )             1.17                 (2.31    )
+u.s. mid-continent:
+cbob gasoline less wti                                                13.70                 15.65                 (1.95    )
+ultra-low-sulfur diesel less wti                                      22.82                 18.50                  4.32
+north atlantic:
+cbob gasoline less brent                                               7.59                 12.57                 (4.98    )
+ultra-low-sulfur diesel less brent                                    16.29                 14.75                  1.54
+u.s. west coast:
+carbob 87 gasoline less ans                                           13.05                 18.12                 (5.07    )
+carb diesel less ans                                                  18.13                 17.11                  1.02
+carbob 87 gasoline less wti                                           19.45                 21.78                 (2.33    )
+carb diesel less wti                                                  24.53                 20.77                  3.76
+new york harbor corn crush (dollars per gallon)                        0.15                  0.26                 (0.11    )
+35
+total company, corporate, and other revenues increased $23.1 billion in 2018 compared to 2017 primarily due to increases in refined petroleum product prices associated with sales made by our refining segment. this improvement in revenues was partially offset by higher cost of sales of $22 billion primarily due to increases in crude oil and other feedstock costs, and an increase of $96 million in general and administrative expenses (excluding depreciation and amortization expense), resulting in an increase in operating income of $1.0 billion in 2018 compared to 2017.
+excluding the adjustments to operating income reflected in the tables on page 32, adjusted operating income increased by $931 million in 2018 compared to 2017. details regarding the $931 million increase in adjusted operating income between the years are discussed by segment below.
+other income, net increased $18 million in 2018 compared to 2017 primarily due to higher equity in earnings associated with our diamond pipeline joint venture of $39 million and higher interest income of $29 million, partially offset by a $38 million charge from the early redemption of debt as described in note (c) to the accompanying tables (see page 45).
+income tax expense increased $1.8 billion in 2018 compared to 2017 primarily due to the effect from a $1.9 billion income tax benefit in 2017 resulting from tax reform, which is described in note 15 of notes to consolidated financial statements. excluding the income tax adjustments reflected in the table on page 31 from both years, the effective tax rate for 2018 was 22 percent compared to 28 percent for 2017. the decrease in our effective tax rate is primarily due to the reduction in the u.s. statutory income tax rate from 35 percent to 21 percent effective january 1, 2018 as a result of tax reform.
+net income attributable to noncontrolling interests increased $140 million in 2018 compared to 2017 primarily due to higher earnings associated with dgd, our consolidated joint venture, which includes a benefit of $80 million for the blender's tax credit, as described in note (a) to the accompanying tables (see page 45).
+refining segment results refining segment revenues increased $23.0 billion in 2018 compared to 2017 primarily due to increases in refined petroleum product prices. this improvement in refining segment revenues was partially offset by higher cost of sales of $21.8 billion due primarily to increases in crude oil and other feedstock costs, resulting in an increase in refining segment operating income of $1.1 billion in 2018 compared to 2017.
+excluding the adjustments to refining segment operating income reflected in the tables on page 32, refining segment adjusted operating income increased by $961 million in 2018 compared to 2017. the components of this increase, along with reasons for the changes in these components, are outlined below.
+refining segment margin, as defined in note (h) to the accompanying tables (see page 46), increased $1.2 billion in 2018 compared to 2017, primarily due to the following:
+•   increase in distillate margins. we experienced improved distillate margins throughout all of our regions in 2018 compared to 2017. for example, the brent-based benchmark reference margin for u.s. gulf coast ultra-low-sulfur diesel was $14.02 per barrel for 2018 compared to $13.26 per barrel for 2017, representing a favorable increase of $0.76 per barrel. another example is the wti-based benchmark reference margin for u.s. mid-continent ultra-low-sulfur diesel that was $22.82 per barrel for 2018 compared to $18.50 per barrel for 2017, representing a favorable increase of $4.32 per barrel. we estimate that the increase in distillate margins per barrel in 2018 compared to 2017 had a favorable impact to our refining segment margin of approximately $1.3 billion.
+36
+•   higher discounts on crude oils. the market prices for refined petroleum products generally track the price of brent crude oil, which is a benchmark sweet crude oil, and we benefit when we process crude oils that are priced at a discount to brent crude oil. we benefitted from processing these types of crude oils in 2018 and that benefit improved compared to 2017. for example, wti crude oil, a light sweet crude oil, sold at a discount to brent of $6.71 per barrel for 2018 compared to a discount of $3.92 per barrel for 2017, representing a favorable increase of $2.79 per barrel. another example is maya crude oil, a sour crude oil processed in our u.s. gulf coast region, which sold at a discount to brent of $9.22 per barrel for 2018 compared to $7.74 per barrel for 2017, representing a favorable increase of $1.48 per barrel. we estimate that the increase in the discounts for crude oils that we processed during 2018 compared to 2017 had a favorable impact to our refining segment margin of approximately $561 million.
+•   lower costs of biofuel credits. as described in note 20 of notes to consolidated financial statements, we purchase biofuel credits in order to meet our biofuel blending obligation under various government and regulatory compliance programs. the cost of these credits (primarily rins in the u.s.) was $536 million in 2018 compared to $942 million in 2017, a decrease of $406 million.
+•   higher throughput volumes. refining segment throughput volumes increased by 46,000 bpd in 2018. we estimate that the increase in refining throughput volumes had a positive impact on our refining segment margin of approximately $153 million.
+•   decrease in gasoline margins. we experienced a decrease in gasoline margins throughout all of our regions in 2018 compared to 2017. for example, the brent-based benchmark reference margin for u.s. gulf coast cbob gasoline was $4.81 per barrel for 2018 compared to $10.50 per barrel for 2017, representing an unfavorable decrease of $5.69 per barrel. another example is the ans-based benchmark reference margin for u.s. west coast carbob 87 gasoline, which was $13.05 per barrel for 2018 compared to $18.12 per barrel for 2017, representing an unfavorable decrease of $5.07 per barrel. we estimate that the decrease in gasoline margins per barrel in 2018 compared to 2017 had an unfavorable impact to our refining segment margin of approximately $1.3 billion.
+refining segment operating expenses (excluding depreciation and amortization expense) increased $140 million primarily due to higher employee-related expenses of $33 million, an increase in energy costs driven by higher natural gas prices ($3.23 per mmbtu in 2018 compared to $2.98 per mmbtu in 2017) of $28 million, higher chemicals and catalyst costs of $24 million, the effect from a favorable insurance settlement of $20 million in 2017 for our mckee refinery, and higher maintenance expense of $12 million.
+refining segment depreciation and amortization expense associated with our cost of sales increased $63 million due to an increase in refinery turnaround amortization expense of $41 million primarily due to costs incurred in the latter part of 2017 and early 2018 in connection with significant turnaround projects at our corpus christi and mckee refineries, along with the write-off of assets that were idled or demolished in 2018 of $15 million.
+ethanol segment results ethanol segment revenues increased $138 million in 2018 compared to 2017 primarily due to an increase in ethanol sales volumes and increases in corn related co-product prices along with the revenue contribution associated with three ethanol plants acquired from green plains, inc. (green plains) on november 15, 2018, which is described in note 2 of notes to consolidated financial statements. this increase is partially offset by lower ethanol prices. this improvement in ethanol segment revenue was more than offset by higher cost of sales of $228 million primarily due to higher corn prices, resulting in a decrease in ethanol segment
+37
+operating income of $90 million in 2018 compared to 2017. the components of this decrease, along with reasons for the changes in these components, are outlined below.
+ethanol segment margin, as defined in note (h) to the accompanying tables (see page 46), decreased $66 million in 2018 compared to 2017, primarily due to the following:
+•   lower ethanol prices. ethanol prices were lower in 2018 compared to 2017 primarily due to an increase in production. for example, the new york harbor ethanol price was $1.48 per gallon for 2018 compared to $1.56 per gallon for 2017, representing an unfavorable decrease of $0.08 per gallon. we estimate that the decrease in the price of ethanol had an unfavorable impact to our ethanol segment margin of approximately $159 million.
+•   higher corn prices. corn prices were higher in 2018 compared to 2017. for example, the chicago board of trade (cbot) corn price was $3.68 per bushel for 2018 compared to $3.59 per bushel for 2017, representing an unfavorable increase of $0.09 per bushel. we estimate that the increase in the price of corn had an unfavorable impact to our ethanol segment margin of approximately $36 million.
+•   higher co-product prices. an increase in protein values, as compared to soybean meal, had a favorable effect on the prices received for the corn related co-products that we produced. we estimate the increase in corn related co-product prices had a favorable impact to our ethanol segment margin of approximately $101 million.
+•   higher production volumes. ethanol segment margin was favorably impacted by increased production volumes of 137,000 gallons per day in 2018 compared to 2017 primarily due to reliability improvements at our ethanol plants and the additional production volumes associated with the three plants acquired from green plains in november 2018. we estimate that the increase in production volumes had a favorable impact to our ethanol segment margin of approximately $26 million.
+ethanol segment operating expenses (excluding depreciation and amortization expense) increased $27 million primarily due to costs to operate the three plants acquired from green plains in november 2018 of $14 million, coupled with higher chemicals and catalysts expenses of $8 million.
+vlp segment results vlp segment revenues increased $94 million in 2018 compared to 2017 primarily due to $75 million of incremental revenues generated from transportation and terminaling services associated with the port arthur terminal and the parkway pipeline acquired by vlp in november 2017 that were formerly a part of the refining segment. the increase in vlp segment revenues was partially offset by higher cost of sales of $44 million primarily due to the costs to operate the acquired terminal and pipeline, resulting in an increase in vlp segment operating income of $53 million in 2018 compared to 2017. excluding the adjustment reflected in the table on page 32, vlp adjusted operating income increased $50 million.
+corporate and eliminations corporate and eliminations, which consists primarily of general and administrative expenses and related depreciation and amortization expense, increased by $98 million in 2018 compared to 2017. excluding the environmental reserve adjustments of $108 million from 2018 reflected in the table on page 32, adjusted corporate and eliminations decreased by $10 million in 2018 primarily due to the effect from expenses incurred in 2017 associated with the termination of the acquisition of certain assets from plains.
+38
+2017 compared to 2016
+financial highlights by segment and total company
+(millions of dollars)
+year ended december 31, 2017
+refining              ethanol               vlp                corporate               total and eliminations revenues:
+revenues from external customers                                                                          $90,651               $3,324                 $-                    $5                $93,980
+intersegment revenues                                                                                           6                  176                452                  (634      )               -
+total revenues                                                                                             90,657                3,500                452                  (629      )          93,980
+cost of sales:
+cost of materials and other                                                                                80,865                2,804                  -                  (632      )          83,037
+operating expenses (excluding depreciation and amortization expense reflected below)                        3,959                  443                104                    (2      )           4,504
+depreciation and amortization expense                                                                       1,800                   81                 53                     -                  1,934
+total cost of sales                                                                                        86,624                3,328                157                  (634      )          89,475
+other operating expenses                                                                                       58                    -                  3                     -                     61
+general and administrative expenses (excluding depreciation and amortization expense reflected below)           -                    -                  -                   829                    829
+depreciation and amortization expense                                                                           -                    -                  -                    52                     52
+operating income by segment                                                                                $3,975                 $172               $292                 $(876      )           3,563
+other income, net                                                                                                                                                                                  112
+interest and debt expense, net of capitalized interest                                                                                                                                            (468   )
+income before income tax expense                                                                                                                                                                 3,207
+income tax expense (benefit) (d) (e)                                                                                                                                                              (949   )
+net income                                                                                                                                                                                       4,156
+less: net income attributable to noncontrolling interests                                                                                                                                           91
+net income attributable tovalero energy corporation stockholders                                                                                                                                $4,065
+________________
+see note references on pages 45 through 48.
+39
+financial highlights by segment and total company (continued)
+(millions of dollars)
+year ended december 31, 2016
+refining              ethanol       vlp               corporate                        total and eliminations revenues:
+revenues from external customers                                                                          $71,968               $3,691            $-                $-                         $75,659
+intersegment revenues                                                                                           -                  210                363           (573          )                  -
+total revenues                                                                                             71,968                3,901                363           (573          )             75,659
+cost of sales:
+cost of materials and other                                                                                63,405                3,130            -                 (573          )             65,962
+operating expenses (excluding depreciation and amortization expense reflected below)                        3,740                  415                 96           -                            4,251
+depreciation and amortization expense                                                                       1,734                   66                 46           -                            1,846
+lower of cost or market inventory valuationadjustment (f)                                                    (697    )             (50    )       -                 -                             (747   )
+total cost of sales                                                                                        68,182                3,561                142           (573          )             71,312
+general and administrative expenses (excluding depreciation and amortization expense reflected below)           -                    -            -                         709                    709
+depreciation and amortization expense                                                                           -                    -            -                          48                     48
+asset impairment loss (g)                                                                                      56                    -            -                 -                               56
+operating income by segment                                                                                $3,730                 $340            $221              $(757         )              3,534
+other income, net                                                                                                                                                                                   94
+interest and debt expense, net of capitalized interest                                                                                                                                            (446   )
+income before income tax expense                                                                                                                                                                 3,182
+income tax expense (g)                                                                                                                                                                             765
+net income                                                                                                                                                                                       2,417
+less: net income attributable to noncontrollinginterests                                                                                                                                           128
+net income attributable tovalero energy corporation stockholders                                                                                                                                $2,289
+________________
+see note references on pages 45 through 48.
+40
+financial highlights by segment and total company (continued)
+(millions of dollars)
+year ended december 31,
+2017                                                                                                                                                                                                       2016
+reconciliation of net income attributable to valero energy corporation stockholders to adjusted net income attributable to valero energy corporation stockholders (h)
+net income attributable to valero energy corporation stockholders                                                                                                       $4,065                     $2,289
+exclude adjustments:
+lower of cost or market inventory valuation adjustment (f)                                                                                                              -                             747
+income tax expense related to the lower of cost or market inventory valuation adjustment                                                                                -                            (168     )
+lower of cost or market inventory valuation adjustment, net of taxes                                                                                                    -                             579
+asset impairment loss (g)                                                                                                                                               -                             (56     )
+income tax benefit on aruba disposition (g)                                                                                                                             -                              42
+income tax benefit from tax reform (d) (e)                                                                                                                              1,862                           -
+total adjustments                                                                                                                                                       1,862                         565
+adjusted net income attributable to valero energy corporation stockholders                                                                                              $2,203                     $1,724
+year ended december 31, 2017
+refining       ethanol                    vlp       corporate                        total and eliminations reconciliation of operating income to adjusted operating income (h)
+operating income by segment                                              $3,975            $172                  $292           $(876         )             $3,563
+exclude:
+other operating expenses                                                    (58    )       -                       (3   )       -                              (61   )
+adjusted operating income                                                $4,033            $172                  $295           $(876         )             $3,624
+year ended december 31, 2016
+refining       ethanol            vlp               corporate                        total and eliminations reconciliation of operating income to adjusted operating income (h)
+operating income by segment                                              $3,730            $340               $221              $(757         )             $3,534
+exclude:
+lower of cost or market inventory valuationadjustment (f)                   697        50                     -                 -                    747
+asset impairment loss (g)                                                   (56    )       -                  -                 -                              (56   )
+adjusted operating income                                                $3,089            $290               $221              $(757         )             $2,843
+_______________
+see note references on pages 45 through 48.
+41
+refining segment operating highlights
+(millions of dollars, except per barrel amounts)
+year ended december 31,
+2017                                                                                                                                            2016                change throughput volumes (thousand bpd)
+feedstocks:
+heavy sour crude oil                                                                                                  469                   396                    73
+medium/light sour crude oil                                                                                           458                   526                   (68    )
+sweet crude oil                                                                                                     1,323                 1,193                   130
+residuals                                                                                                             219                   272                   (53    )
+other feedstocks                                                                                                      148                   152                    (4    )
+total feedstocks                                                                                                    2,617                 2,539                    78
+blendstocks and other                                                                                                 323                   316                     7
+total throughput volumes                                                                                            2,940                 2,855                    85
+yields (thousand bpd)
+gasolines and blendstocks                                                                                           1,423                 1,404                    19
+distillates                                                                                                         1,127                 1,066                    61
+other products (i)                                                                                                    428                   421                     7
+total yields                                                                                                        2,978                 2,891                    87
+operating statistics (j)
+refining segment margin (h)                                                                                        $9,792                $8,563                $1,229
+adjusted refining segment operating income (see page 41) (h)                                                       $4,033                $3,089                  $944
+throughput volumes (thousand bpd)                                                                                   2,940                 2,855                    85
+refining segment margin per barrel of throughput                                                                    $9.12                 $8.20                 $0.92
+less:
+operating expenses (excluding depreciation and amortization expense reflected below) per barrel of throughput        3.69                  3.58                  0.11
+depreciation and amortization expense per barrel of throughput                                                       1.67                  1.66                  0.01
+adjusted refining segment operating income per barrel of throughput                                                 $3.76                 $2.96                 $0.80
+_______________
+see note references on pages 45 through 48.
+42
+ethanol segment operating highlights
+(millions of dollars, except per gallon amounts)
+year ended december 31,
+2017                                                                                                                                        2016        change operating statistics (j)
+ethanol segment margin (h)                                                                                         $696                $771             $(75        )
+adjusted ethanol segment operating income(see page 41) (h)                                                         $172                $290             $(118       )
+production volumes (thousand gallons per day)                                                                     3,972               3,842                   130
+ethanol segment margin per gallon of production                                                                   $0.48               $0.55             $(0.07      )
+less:
+operating expenses (excluding depreciation and amortization expense reflected below) per gallon of production      0.31                0.30                  0.01
+depreciation and amortization expense per gallon of production                                                     0.05                0.04                  0.01
+adjusted ethanol segment operating incomeper gallon of production                                                 $0.12               $0.21             $(0.09      )
+vlp segment operating highlights
+(millions of dollars, except per barrel amounts)
+year ended december 31,
+2017                                                                                   2016                change operating statistics (j)
+pipeline transportation revenue                               $101                 $78                   $23
+terminaling revenue                                            348                 284                    64
+storage and other revenue                                        3                   1                     2
+total vlp segment revenues                                    $452                $363                   $89
+pipeline transportation throughput (thousand bpd)              964                 829                   135
+pipeline transportation revenue per barrel of throughput     $0.29               $0.26                 $0.03
+terminaling throughput (thousand bpd)                        2,889               2,265                   624
+terminaling revenue per barrel of throughput                 $0.33               $0.34                $(0.01    )
+_______________
+see note references on pages 45 through 48.
+43
+average market reference prices and differentials
+(dollars per barrel, except as noted)
+year ended december 31,
+2017                                                                              2016              change feedstocks brent crude oil                                      $54.82                $45.02               $9.80
+brent less wti crude oil                               3.92                  1.83                2.09
+brent less ans crude oil                               0.26                  1.25               (0.99    )
+brent less lls crude oil                               0.69                  0.15                0.54
+brent less asci crude oil                              4.18                  5.18               (1.00    )
+brent less maya crude oil                              7.74                  8.63               (0.89    )
+lls crude oil                                         54.13                 44.87                9.26
+lls less asci crude oil                                3.49                  5.03               (1.54    )
+lls less maya crude oil                                7.05                  8.48               (1.43    )
+wti crude oil                                         50.90                 43.19                7.71
+natural gas (dollars per mmbtu)                        2.98                  2.46                0.52
+products u.s. gulf coast:
+cbob gasoline less brent                              10.50                  9.17                1.33
+ultra-low-sulfur diesel less brent                    13.26                 10.21                3.05
+propylene less brent                                   0.48                 (6.68    )           7.16
+cbob gasoline less lls                                11.19                  9.32                1.87
+ultra-low-sulfur diesel less lls                      13.95                 10.36                3.59
+propylene less lls                                     1.17                 (6.53    )           7.70
+u.s. mid-continent:
+cbob gasoline less wti                                15.65                 11.82                3.83
+ultra-low-sulfur diesel less wti                      18.50                 13.03                5.47
+north atlantic:
+cbob gasoline less brent                              12.57                 11.99                0.58
+ultra-low-sulfur diesel less brent                    14.75                 11.57                3.18
+u.s. west coast:
+carbob 87 gasoline less ans                           18.12                 17.04                1.08
+carb diesel less ans                                  17.11                 14.52                2.59
+carbob 87 gasoline less wti                           21.78                 17.62                4.16
+carb diesel less wti                                  20.77                 15.10                5.67
+new york harbor corn crush (dollars per gallon)        0.26                  0.30               (0.04    )
+44
+the following notes relate to references on pages 29 through 34 and pages 39 through 43.
+(a)   cost of materials and other for the year ended december 31, 2018 includes a benefit of $170 million for the biodiesel blender's tax credit attributable to volumes blended during 2017. the benefit was recognized in february 2018 because the legislation authorizing the credit was passed and signed into law in that month. the $170 million pre-tax benefit is included in the refining segment and includes $80 million attributable to noncontrolling interest and $90 million attributable to valero energy corporation stockholders.
+(b)   general and administrative expenses (excluding depreciation and amortization expense) for the year ended december 31, 2018 includes a charge of $108 million for an environmental reserve adjustment associated with certain non-operating sites.
+(c)   other income, net for the year ended december 31, 2018 includes a $38 million charge from the early redemption of $750 million of our 9.375 percent senior notes due march 15, 2019.
+(d)   on december 22, 2017, tax reform was enacted, resulting in the remeasurement of our u.s. deferred taxes and the recognition of a liability for taxes on the deemed repatriation of our foreign earnings and profits. in addition, tax reform lowered the u.s. statutory income tax rate from 35 percent to 21 percent, beginning january 1, 2018. under u.s. gaap we are required to recognize the effect of tax reform in the period of enactment. as a result, we recognized a $1.9 billion income tax benefit in december 2017, which represented our initial estimate of the impact of tax reform in accordance with staff accounting bulletin no. 118 (sab 118). we finalized our estimates in december 2018 and have recorded an additional benefit of $12 million for the year ended december 31, 2018.
+(e)   excluding the income tax benefits discussed in note (d) from both years and the other adjustments to income tax reflected in the table on page 31 from 2018, the effective tax rates for the years ended december 31, 2018 and 2017 were 22 percent and 28 percent, respectively. the decrease in the effective rate is primarily due to the decline in the u.s. statutory income tax rate from 35 percent to 21 percent as a result of tax reform (see note (d)).
+(f)   in accordance with u.s. gaap, we are required to state our inventories at the lower of cost or market. when the market price of our inventory falls below cost, we record a lower of cost or market inventory valuation adjustment to write down the value to market. in subsequent periods, the value of our inventory is reassessed and a lower of cost or market inventory valuation adjustment is recorded to reflect the net change in the lower of cost or market inventory valuation reserve between the periods. as of december 31, 2018 and december 31, 2017, the market price of our inventory was above cost; therefore we did not have a lower of cost or market inventory valuation reserve as of those dates. during the year ended december 31, 2016, we recorded a change in our inventory valuation reserve that was established on december 31, 2015, resulting in a noncash benefit of $747 million, of which $697 million and $50 million were attributable to our refining segment and ethanol segment, respectively.
+(g)   effective october 1, 2016 we (i) transferred ownership of all our assets in aruba, other than certain hydrocarbon inventories and working capital, to refineria di aruba n.v. (rda), an entity wholly-owned by the government of aruba (goa), (ii) settled our obligations under various agreements with the goa, including agreements that required us to dismantle our leasehold improvements under certain conditions, and (iii) sold the working capital of our aruba operations, including hydrocarbon inventories, to the goa, citgo aruba refining n.v. (car), and citgo petroleum corporation (together with car and certain other affiliates, collectively, citgo). we refer to this transaction as the "aruba disposition."
+in june 2016, we recognized an asset impairment loss of $56 million representing all of the remaining carrying value of the long-lived assets of our crude oil and refined petroleum products terminal and transshipment facility in aruba (collectively, the aruba terminal). we recognized the impairment loss at that time because we concluded that it was more likely than not that we would ultimately transfer ownership of these assets to the goa as a result of agreements entered into in june 2016 between the goa and citgo for the goa's lease of those assets to citgo.
+45
+in september 2016 and in connection with the aruba disposition, our u.s. subsidiaries cancelled all outstanding debt obligations owed to them by our aruba subsidiaries, which resulted in the recognition by us of an income tax benefit of $42 million during the year ended december 31, 2016.
+(h)   we use certain financial measures (as noted below) that are not defined under u.s. gaap and are considered to be non-gaap measures.
+we have defined these non-gaap measures and believe they are useful to the external users of our financial statements, including industry analysts, investors, lenders, and rating agencies. we believe these measures are useful to assess our ongoing financial performance because, when reconciled to their most comparable u.s. gaap measures, they provide improved comparability between periods through the exclusion of certain items that we believe are not indicative of our core operating performance and that may obscure our underlying business results and trends. these non-gaap measures should not be considered as alternatives to their most comparable u.s. gaap measures nor should they be considered in isolation or as a substitute for an analysis of our results of operations as reported under u.s. gaap. in addition, these non-gaap measures may not be comparable to similarly titled measures used by other companies because we may define them differently, which diminishes the utility of these measures.
+non-gaap measures are as follows:
+◦   adjusted net income attributable to valero energy corporation stockholders is defined as net income attributable to valero energy corporation stockholders excluding the items noted below, along with their related income tax effect. we have excluded these items because we believe that they are not indicative of our core operating performance and that their exclusion results in an important measure of our ongoing financial performance to better assess our underlying business results and trends. the basis for our belief with respect to each excluded item is provided below.
+-   blender's tax credit attributable to valero energy corporation stockholders - the blender's tax credit is attributable to volumes blended during 2017 and is not related to 2018 activities, as described in note (a).
+-   lower of cost or market inventory valuation adjustment - the noncash benefit recorded during 2016 to adjust our inventory valuation reserve, as described in note (f).
+-   asset impairment loss - the impairment loss of $56 million in 2016 associated with the aruba disposition, as described in note (g).
+-   texas city refinery fire expenses - the costs incurred to respond to and assess the damage caused by the fire that occurred at the texas city refinery on april 19, 2018 are specific to that event and are not ongoing costs incurred in our operations.
+-   environmental reserve adjustments - the environmental reserve adjustments are attributable to sites that were shut down by prior owners and subsequently acquired by us (referred to by us as non-operating sites), as described in note (b).
+-   loss on early redemption of debt - the penalty and other expenses incurred in connection with the early redemption of our 9.375 percent senior notes due march 15, 2019 (see note (c)) are not associated with the ongoing costs of our borrowing and financing activities.
+-   income tax benefit from tax reform - income tax benefit from tax reform (see note (d)) is associated with changes in u.s. tax legislation and is not indicative of our core performance.
+-   income tax benefit from aruba disposition - the income tax benefit in 2016 resulting from the cancellation of outstanding debt obligations associated with the aruba disposition, as described in note (g).
+◦   refining margin is defined as refining operating income excluding the blender's tax credit, the lower of cost or market inventory valuation adjustment, the asset impairment loss, operating expenses (excluding depreciation and amortization expense), other operating expenses, and depreciation and amortization expense, as reflected in the table below.
+◦   ethanol margin is defined as ethanol operating income excluding the lower of cost or market inventory valuation adjustment, operating expenses (excluding depreciation and amortization expense), and depreciation and amortization expense, as reflected in the table below.
+46
+year ended december 31,
+2018                                                                                                     2017                  2016
+reconciliation of refining segment operating income to refining margin operating income                                                            $5,119                $3,975                $3,730
+add back:
+blender's tax credit (a)                                                      (170    )                -                     -
+lower of cost or market inventory valuation adjustment (f)                       -                     -                  (697    )
+asset impairment loss (g)                                                        -                     -                    56
+operating expenses (excluding depreciation and amortization expense)         4,099                 3,959                 3,740
+depreciation and amortization expense                                        1,863                 1,800                 1,734
+other operating expenses                                                        45                    58                     -
+refining margin                                                            $10,956                $9,792                $8,563
+year ended december 31,
+2018                                                                                               2017                2016
+reconciliation of ethanol segment operating income to ethanol margin operating income                                                           $82                $172                $340
+add back:
+lower of cost or market inventory valuation adjustment (f)                   -                   -                 (50    )
+operating expenses (excluding depreciation and amortization expense)       470                 443                 415
+depreciation and amortization expense                                       78                  81                  66
+ethanol margin                                                            $630                $696                $771
+◦   adjusted refining operating income is defined as refining segment operating income excluding the blender's tax credit, lower of cost or market inventory valuation adjustment, asset impairment loss, and other operating expenses.
+◦   adjusted ethanol operating income is defined as ethanol segment operating income excluding the lower of cost or market inventory valuation adjustment.
+◦   adjusted vlp operating income is defined as vlp segment operating income excluding other operating expenses.
+◦   adjusted corporate and eliminations is defined as corporate and eliminations excluding the environmental reserve adjustments associated with certain non-operating sites (see note (b)).
+(i)   other products primarily include petrochemicals, gas oils, no. 6 fuel oil, petroleum coke, sulfur, and asphalt.
+(j)   valero uses certain operating statistics (as noted below) to evaluate performance between comparable periods. different companies may calculate them in different ways.
+refining segment margin per barrel of throughput and adjusted refining segment operating income per barrel of throughput represents refining segment margin and adjusted refining segment operating income (each as defined in note (h) above) divided by the respective throughput volumes. ethanol segment margin per gallon of production and adjusted ethanol segment operating income per gallon of production represent ethanol segment margin and
+47
+adjusted ethanol segment operating income (each as defined in note (h) above) divided by production volumes. pipeline transportation revenue per barrel of throughput and terminaling revenue per barrel of throughput represent pipeline transportation revenue and terminaling revenue for our vlp segment divided by pipeline transportation throughput and terminaling throughput volumes, respectively. throughput and production volumes are calculated by multiplying production throughput and production volumes per day (as provided in the accompanying tables) by the number of days in the applicable period.
+total company, corporate, and other revenues increased $18.3 billion in 2017 compared to 2016 primarily due to increases in refined petroleum products prices associated with sales made by our refining segment. this improvement in revenues was mostly offset by higher cost of sales of $18.2 billion primarily due to increases in crude oil and other feedstock costs, and an increase of $120 million in general and administrative expenses (excluding depreciation and amortization expense), resulting in an increase in operating income of $29 million in 2017 compared to 2016.
+excluding the adjustments to operating income reflected in the tables on page 41, adjusted operating income increased by $781 million in 2017 compared to 2016. details regarding the $781 million increase in adjusted operating income between the years are discussed by segment below.
+income tax expense decreased $1.7 billion in 2017 compared to 2016 primarily due to the effect from a $1.9 billion income tax benefit in 2017 resulting from tax reform, which is described in note 15 of notes to consolidated financial statements. excluding the income tax adjustments reflected in the table on page 41 from both years, the effective tax rate for 2017 was 28 percent compared to 26 percent for 2016. the effective tax rates are lower than the u.s. statutory rate of 35 percent that was in effect through december 31, 2017, primarily because income from our international operations was taxed at statutory rates that were lower than in the u.s. the effective tax rate for 2016 was lower than the effective tax rate for 2017 due to a benefit in 2016 of $35 million resulting from the favorable resolution of an income tax audit.
+refining segment results refining segment revenues increased $18.7 billion in 2017 compared to 2016 primarily due to increases in refined petroleum product prices. this improvement in refining segment revenues was partially offset by higher cost of sales of $18.4 million primarily due to increases in crude oil and other feedstock costs, resulting in an increase in operating income of $245 million in 2017 compared to 2016.
+excluding the adjustments to refining segment operating income reflected in the tables on page 41, refining segment adjusted operating income increased by $944 million in 2017 compared to 2016. the components of this increase, along with the reasons for the changes in these components, are outlined below.
+refining segment margin, as defined in note (h) to the accompanying tables (see page 46), increased $1.2 billion, primarily due to the following:
+•   increase in distillate margins. we experienced improved distillate margins throughout all our regions in 2017 compared to 2016. for example, the brent-based benchmark reference margin for u.s. gulf coast ultra-low-sulfur diesel was $13.26 per barrel for 2017 compared to $10.21 per barrel for 2016, representing a favorable increase of $3.05 per barrel. another example is the wti-based benchmark reference margin for u.s. mid-continent ultra-low-sulfur diesel that was $18.50 per barrel for 2017 compared to $13.03 per barrel for 2016, representing a favorable increase of $5.47 per barrel. we estimate that the increase in distillate margins per barrel in 2017 compared to 2016 had a favorable impact to our refining segment margin of approximately $1.2 billion.
+48
+•   increase in gasoline margins. we also experienced improved gasoline margins throughout all our regions in 2017 compared to 2016. for example, the wti-based benchmark reference margin for u.s. mid-continent cbob gasoline was $15.65 per barrel for 2017 compared to $11.82 per barrel for 2016, representing a favorable increase of $3.83 per barrel. another example is the brent-based reference margin for u.s. gulf coast cbob gasoline, which was $10.50 per barrel for 2017 compared to $9.17 per barrel for 2016, representing a favorable increase of $1.33 per barrel. we estimate that the increase in gasoline margins per barrel in 2017 compared to 2016 had a favorable impact to our refining segment margin of approximately $577 million.
+•   higher throughput volumes. refining segment throughput volumes increased by 85,000 bpd in 2017. we estimate that the increase in refining throughput volumes had a positive impact on our refining segment margin of approximately $283 million.
+•   lower discounts on sour crude oils. the market prices for refined petroleum products generally track the price of brent crude oil, which is a benchmark sweet crude oil, and we benefit when we process sour crude oils that are priced at a discount to brent crude oil. while we benefitted from processing these sour crude oils in 2017, that benefit declined compared to 2016. for example, asci crude oil processed in our u.s. gulf coast region sold at a discount to brent of $4.18 per barrel for 2017 compared to a discount of $5.18 per barrel for 2016, representing an unfavorable decrease of $1.00 per barrel. another example is maya crude oil which sold at a discount to brent of $7.74 per barrel for 2017 compared to $8.63 per barrel for 2016, representing an unfavorable decrease of $0.89 per barrel. we estimate that the reduction in discounts for sour crude oils that we processed in 2017 had an unfavorable impact to our refining segment margin of approximately $305 million.
+•   lower discounts on other feedstocks. in addition to crude oil, we utilize other feedstocks such as residuals, in certain of our refining processes. we benefit when we process these other feedstocks that are priced at a discount to brent crude oil. while we benefitted from processing these types of feedstocks in 2017, that benefit declined compared to 2016. we estimate that the reduction in the discounts for the other feedstocks that we processed in 2017 had an unfavorable impact to our refining segment margin of approximately $203 million.
+•   higher costs of biofuel credits. as described in note 20 of notes to consolidated financial statements, we purchase biofuel credits in order to meet our biofuel blending obligation under various government and regulatory compliance programs. the cost of these credits (primarily rins in the u.s.) was $942 million in 2017 compared to $749 million in 2016, an increase of $193 million.
+•   increase in charges from vlp. charges from the vlp segment for transportation and terminaling services increased $89 million in 2017 compared to 2016 primarily due to additional services provided by terminals and a product pipeline system acquired by vlp in 2017 and 2016 that were formerly a part of the refining segment, as well as an undivided interest in crude system assets acquired by vlp in 2017. details regarding the increase in charges from vlp are discussed in the vlp segment analysis below.
+refining segment operating expenses (excluding depreciation and amortization expense) increased $219 million primarily due to an increase in energy costs driven by higher natural gas prices ($2.98 per mmbtu for 2017 compared to $2.46 per mmbtu for 2016).
+refining segment depreciation and amortization expense associated with our cost of sales increased $66 million due to an increase in refinery turnaround and catalyst amortization expense primarily due to
+49
+costs incurred in the latter part of 2016 in connection with significant turnaround projects at our port arthur and texas city refineries.
+ethanol segment results ethanol segment revenues decreased $401 million in 2017 compared to 2016 primarily due to lower ethanol and corn related co-product prices. this decline in ethanol segment revenue was partially offset by lower cost of sales of $233 million primarily due to lower corn prices, resulting in a decrease in ethanol segment operating income of $168 million in 2017 compared to 2016.
+excluding the adjustment reflected in the table on page 41, ethanol segment adjusted operating income was $172 million for 2017 compared to $290 million for 2016, a decrease of $118 million. the components of this decrease, along with the reasons for the changes in these components, are outlined below.
+ethanol segment margin, as defined in note (h) to the accompanying tables (see page 46), decreased $75 million in 2017 compared to 2016 primarily due to the following:
+•   lower ethanol prices. ethanol prices were lower in 2017 compared to 2016 primarily due to higher industry production, which resulted in higher domestic inventories. for example, the new york harbor ethanol price was $1.56 per gallon for 2017 compared to $1.60 per gallon for 2016. we estimate that the decrease in the price of ethanol had an unfavorable impact to our ethanol segment margin of approximately $73 million.
+•   lower co-product prices. a decrease in export demand for corn related co-products, primarily distiller's grains, had an unfavorable effect on the prices we received. we estimate that the decrease in the price for corn related co-products had an unfavorable impact to our ethanol segment margin of approximately $52 million.
+•   lower corn prices. despite a slight increase in the cbot corn price from $3.58 per bushel for 2016 to $3.59 per bushel for 2017, we acquired corn at lower prices due to favorable location differentials, resulting in a decrease in the price we paid for corn in 2017 compared to 2016. we estimate that the decrease in the price we paid for corn had a favorable impact to our ethanol segment margin of approximately $25 million.
+•   higher production volumes. ethanol segment margin was favorably impacted by increased production volumes of 130,000 gallons per day in 2017 compared to 2016 primarily due to reliability improvements. we estimate that the increase in production volumes had a favorable impact to our ethanol segment margin of approximately $25 million.
+ethanol segment operating expenses (excluding depreciation and amortization expense) increased $28 million primarily due to an increase in energy costs driven by higher natural gas prices ($2.98 per mmbtu for 2017 compared to $2.46 per mmbtu for 2016).
+ethanol segment depreciation and amortization expense associated with our cost of sales increased $15 million primarily due to the write-off of assets that were idled in 2017.
+vlp segment results vlp segment revenues increased $89 million in 2017 compared to 2016 primarily due to $61 million of incremental revenues generated from transportation and terminaling services associated with the port arthur terminal and the parkway pipeline acquired by vlp in 2017 and the mckee, meraux, and three rivers
+50
+terminals acquired by vlp in 2016 that were formerly a part of the refining segment. in addition, incremental revenues of $10 million were generated from an undivided interest in the red river crude system acquired in january 2017. the increase in vlp segment revenues was partially offset by higher cost of sales of $15 million primarily due to the costs to operate the acquired terminals, pipeline and crude system, resulting in an increase in vlp segment operating income of $71 million in 2017 compared to 2016. excluding the adjustment reflected in the table on page 41, vlp adjusted operating income increased $74 million.
+corporate and eliminations corporate and eliminations, which consists primarily of general and administrative expenses and related depreciation and amortization expense, increased $119 million in 2017 compared to 2016 primarily due to higher employee related costs of $50 million, an increase in legal and environmental reserves of $21 million, expenses associated with the termination of certain assets from plains of $16 million, and an increase in charitable contributions of $10 million.
+liquidity and capital resources overview we believe that we have sufficient funds from operations and from borrowings under our credit facilities to fund our ongoing operating requirements and other commitments. we expect that, to the extent necessary, we can raise additional funds from time to time through equity or debt financings in the public and private capital markets or the arrangement of additional credit facilities. however, there can be no assurances regarding the availability of any future financings or additional credit facilities or whether such financings or additional credit facilities can be made available on terms that are acceptable to us.
+our liquidity consisted of the following as of december 31, 2018 (in millions):
+available borrowing capacity from committed facilities:
+valero revolver                                                  $2,943
+canadian revolver                                                   107
+accounts receivable sales facility                                1,200
+letter of credit facility                                           100
+total available borrowing capacity                                4,350
+cash and cash equivalents(a)                                      2,747
+total liquidity                                                  $7,097
+___________________
+(a)   excludes $235 million of cash and cash equivalents related to our variable interest entities (vies) that is available for use only by our vies.
+information about our outstanding borrowings, letters of credit issued, and availability under our credit facilities is reflected in note 9 of notes to consolidated financial statements.
+51
+cash flows summary components of our cash flows are set forth below (in millions):
+year ended december 31,
+2018                                                                                   2017   2016
+cash flows provided by (used in):
+operating activities                                      $4,371                $5,482                $4,820
+investing activities                                      (3,928    )           (2,382    )           (2,006    )
+financing activities                                      (3,168    )           (2,272    )           (2,012    )
+effect of foreign exchange rate changes on cash             (143    )              206                  (100    )
+net increase (decrease) in cash and cash equivalents     $(2,868    )           $1,034                  $702
+cash flows for the year ended december 31, 2018
+our operations generated $4.4 billion of cash in 2018, driven primarily by net income of $3.4 billion and noncash charges to income of $2.3 billion, partially offset by a negative change in working capital of $1.3 billion. noncash charges included $2.1 billion of depreciation and amortization expense and $203 million of deferred income tax expense. see "results of operations" for further discussion of our operations. the change in our working capital is detailed in note 18 of notes to consolidated financial statements. the use of cash resulting from the $1.3 billion change in working capital was mainly due to:
+•   an increase in receivables resulting from an increase in sales volumes, partially offset by a decrease in commodity prices;
+•   an increase in inventory primarily due to higher inventory levels;
+•   a decrease in income taxes payable primarily resulting from (i) $527 million of payments in early 2018 related to 2017 tax liabilities and (ii) $181 million of payments in late 2018 that will be applied to 2019 tax liabilities;
+•   a decrease in accrued expenses mainly due to the timing of payments on our environmental compliance program obligations; partially offset by
+•   an increase in accounts payable due to an increase in crude oil and other feedstock volumes purchased, partially offset by a decrease in commodity prices.
+the $4.4 billion of cash generated by our operations, along with (i) $1.3 billion in proceeds from debt issuances and borrowings and $109 million in proceeds from borrowings of certain vies (as discussed in note 9 of notes to consolidated financial statements) and (ii) $2.9 billion from available cash on hand, were used mainly to:
+•   fund $2.7 billion in capital investments, which include capital expenditures, deferred turnaround and catalyst costs, and investments in joint ventures;
+•   fund (i) $468 million for the peru acquisition (as defined and discussed in note 2 of notes to consolidated financial statements) in may 2018; (ii) $320 million for the acquisition of three ethanol plants in november 2018; and (iii) $88 million for other minor acquisitions;
+•   fund $124 million of capital expenditures of certain vies;
+•   acquire undivided interests in pipeline and terminal assets for $212 million;
+•   redeem our 9.375 percent senior notes due march 15, 2019 for $787 million (or 104.9 percent of stated value);
+•   make payments on debt and capital lease obligations of $435 million, of which $410 million related to the repayment of all outstanding borrowings under vlp's $750 million senior unsecured revolving credit facility (the vlp revolver);
+52
+•   retire $137 million of debt assumed in connection with the peru acquisition;
+•   purchase common stock for treasury of $1.7 billion;
+•   pay common stock dividends of $1.4 billion; and
+•   pay distributions to noncontrolling interests of $116 million.
+cash flows for the year ended december 31, 2017
+our operations generated $5.5 billion of cash in 2017. net income of $4.2 billion, net of the $1.9 billion noncash benefit from tax reform and other noncash charges of $2.1 billion, and a positive change in working capital of $1.3 billion were the primary drivers of the cash generated by our operations in 2017. other noncash charges included $2.0 billion of depreciation and amortization expense. see "results of operations" for further discussion of our operations. the tax reform benefit and the change in our working capital are detailed in notes 15 and 18, respectively, of notes to consolidated financial statements. the source of cash resulting from the $1.3 billion change in working capital was mainly due to:
+•   an increase in accounts payable primarily as a result of an increase in commodity prices; and
+•   an increase in income taxes payable resulting from deferring the payment of our fourth quarter 2017 estimated taxes to january 2018, as allowed by tax relief authorization from the irs; partially offset by
+•   an increase in receivables primarily as a result of an increase in commodity prices; and
+•   an increase in inventory due to higher volumes held combined with an increase in commodity prices.
+the $5.5 billion of cash generated by our operations, along with borrowings of $380 million under the vlp revolver as discussed in note 9 of notes to consolidated financial statements, were used mainly to:
+•   fund $2.3 billion in capital investments, which include capital expenditures, deferred turnaround and catalyst costs, and investments in joint ventures;
+•   acquire an undivided interest in crude system assets for $72 million;
+•   purchase common stock for treasury of $1.4 billion;
+•   pay common stock dividends of $1.2 billion;
+•   pay distributions to noncontrolling interests of $67 million; and
+•   increase available cash on hand by $1.0 billion.
+cash flows for the year ended december 31, 2016
+our operations generated $4.8 billion of cash in 2016, driven primarily by net income of $2.4 billion, net noncash charges to income of $1.4 billion, and a positive change in working capital of $976 million. noncash charges included $1.9 billion of depreciation and amortization expense, $56 million for the asset impairment loss associated with our aruba terminal, and $230 million of deferred income tax expense, partially offset by a benefit of $747 million from a lower of cost or market inventory valuation adjustment. see "results of operations" for further discussion of our operations. the change in our working capital is detailed in note 18 of notes to consolidated financial statements. the source of cash resulting from the $976 million change in working capital was mainly due to:
+•   an increase in accounts payable primarily as a result of higher commodity prices;
+•   a reduction of our inventories; and
+•   a reduction in prepaid expenses and other related to income taxes receivable due to utilization in 2016 of our 2015 overpayment of taxes; partially offset by
+•   an increase in receivables primarily as a result of higher commodity prices.
+53
+the $4.8 billion of cash generated by our operations, along with $2.2 billion in proceeds from debt issuances and borrowings (as discussed in note 9 of notes to consolidated financial statements), were used mainly to:
+•   fund $2.0 billion in capital investments, which include capital expenditures, deferred turnaround and catalyst costs, and investments in joint ventures;
+•   redeem our 6.125 percent senior notes due june 15, 2017 for $778 million (or 103.70 percent of stated value) and our 7.2 percent senior notes due october 15, 2017 for $213 million (or 106.27 percent of stated value);
+•   make payments on debt and capital lease obligations of $525 million, of which $494 million related to borrowings under the vlp revolver, $9 million related to capital lease obligations, and $22 million related to other debt;
+•   pay off a long-term liability of $137 million owed to a joint venture partner for an owner-method joint venture investment;
+•   purchase common stock for treasury of $1.3 billion;
+•   pay common stock dividends of $1.1 billion;
+•   pay distributions to noncontrolling interests of $65 million; and
+•   increase available cash on hand by $702 million.
+capital investments we define capital investments as capital expenditures for purchases of, additions to, and improvements in our property, plant, and equipment; turnaround and catalyst costs; and investments in joint ventures. capital expenditures include the capital expenditures of our consolidated subsidiaries and consolidated vies in which we hold an ownership interest.
+our operations, especially those of our refining segment, are highly capital intensive. each of our refineries comprises a large base of property assets, consisting of a series of interconnected, highly integrated and interdependent crude oil processing facilities and supporting logistical infrastructure (units), and these units are improved continuously. the cost of improvements, which consist of the addition of new units and betterments of existing units, can be significant. we have historically acquired our refineries at amounts significantly below their replacement costs, whereas our improvements are made at full replacement value. as such, the costs for improving our refinery assets increase over time and are significant in relation to the amounts we paid to acquire our refineries. we plan for these improvements by developing a multi-year capital program that is updated and revised based on changing internal and external factors.
+we make improvements to our refineries in order to maintain and enhance their operating reliability, to meet environmental obligations with respect to reducing emissions and removing prohibited elements from the products we produce, or to enhance their profitability. reliability and environmental improvements generally do not increase the throughput capacities of our refineries. improvements that enhance refinery profitability may increase throughput capacity, but many of these improvements allow our refineries to process different types of crude oil and to refine crude oil into products with higher market values. therefore, many of our improvements do not increase throughput capacity significantly.
+for both 2019 and 2020, we expect to incur approximately $2.5 billion for capital investments, consisting of approximately 60 percent for sustaining capital and 40 percent for growth strategies. however, we continuously evaluate our capital budget and make changes as conditions warrant. this capital investment estimate excludes potential strategic acquisitions, including acquisitions of undivided interests.
+54
+in addition to our capital investments noted above, we separately reflect in our statements of cash flows the capital expenditures of certain vies that we consolidate even though we do not hold an ownership interest in them. these expenditures are not included in our $2.5 billion estimate of capital investments for 2019 or 2020. see note 12 of notes to consolidated financial statements for a description of our vies.
+other matters impacting liquidity and capital resources merger with vlp on january 10, 2019, we completed our acquisition of all of the outstanding publicly held common units of vlp pursuant to the merger transaction with vlp. upon completion of the merger transaction, each outstanding publicly held common unit was converted into the right to receive $42.25 per common unit in cash without any interest thereon, and all such publicly traded common units were automatically canceled and ceased to exist. upon completion of the merger transaction, we paid aggregate merger consideration of $950 million, which was funded with available cash on hand. see note 2 of notes to consolidated financial statements for a discussion of the merger transaction.
+stock purchase programs on january 23, 2018, our board of directors authorized the 2018 program, which authorized our purchase of up to an additional $2.5 billion of our outstanding common stock with no expiration date. this authorization was in addition to the remaining amount available under a $2.5 billion program authorized under the 2016 program. during the fourth quarter of 2018, we completed our purchases under the 2016 program. as of december 31, 2018, we had $2.2 billion remaining available for purchase under the 2018 program. we have no obligation to make purchases under this program.
+pension plan funding we plan to contribute approximately $35 million to our pension plans and $21 million to our other postretirement benefit plans during 2019. see note 13 of notes to consolidated financial statements for a discussion of our employee benefit plans.
+environmental matters our operations are subject to extensive environmental regulations by governmental authorities relating to the discharge of materials into the environment, waste management, pollution prevention measures, ghg emissions, and characteristics and composition of gasolines and distillates. because environmental laws and regulations are becoming more complex and stringent and new environmental laws and regulations are continuously being enacted or proposed, the level of future expenditures required for environmental matters could increase in the future. in addition, any major upgrades in any of our operating facilities could require material additional expenditures to comply with environmental laws and regulations. see notes 8 and 10 of notes to consolidated financial statements for a discussion of our environmental matters.
+tax matters the irs has ongoing audits related to our u.s. federal income tax returns from 2010 through 2015. we have received revenue agent reports in connection with the 2010 and 2011 combined audit. we have made significant progress in resolving this audit, which we believe will be settled within the next 12 months. upon settlement, we anticipate receiving a refund; therefore, we have a receivable of $336 million associated with this audit as of december 31, 2018. we do not expect to have a significant change to our uncertain tax positions upon the settlement of our ongoing audits, and we believe that the ultimate settlement of our audits will not be material to our financial position, results of operations, or liquidity.
+55
+cash held by our international subsidiaries in conjunction with our implementation of the provisions under tax reform, as described in note 15 of notes to consolidated financial statements, we recorded a liability of $740 million for the estimated u.s. federal tax due on the deemed repatriation of the accumulated earnings and profits of our international subsidiaries not previously distributed to us, and we will pay this liability over the eight-year period permitted by the provisions under tax reform. because of the deemed repatriation of these accumulated earnings and profits, there are no longer any u.s. federal income tax consequences associated with the repatriation of any of the $2.4 billion of cash and cash equivalents held by our international subsidiaries as of december 31, 2018. however, certain countries in which our international subsidiaries are organized impose withholding taxes on cash distributed outside of those countries. we have accrued for withholding taxes on the portion of the cash held by one of our international subsidiaries that we have deemed not to be permanently reinvested in our operations in that country. the remaining cash held by that subsidiary, as well as our other international subsidiaries, will be permanently reinvested in our operations in those countries.
+concentration of customers our operations have a concentration of customers in the refining industry and customers who are refined petroleum product wholesalers and retailers. these concentrations of customers may impact our overall exposure to credit risk, either positively or negatively, in that these customers may be similarly affected by changes in economic or other conditions. however, we believe that our portfolio of accounts receivable is sufficiently diversified to the extent necessary to minimize potential credit risk. historically, we have not had any significant problems collecting our accounts receivable.
+off-balance sheet arrangements we have not entered into any transactions, agreements, or other contractual arrangements that would result in off-balance sheet liabilities.
+contractual obligations our contractual obligations as of december 31, 2018 are summarized below (in millions).
+payments due by year
+2019                                                                 2020                2021                2022                2023            thereafter           total debt and capitallease obligations (a)        $283                $920                 $77                 $69                 $85              $8,431            $9,865
+operating lease obligations                   359                 245                 178                 146                 123       514                       1,565
+purchase obligations                       14,853               2,309               1,630               1,407               1,320               4,333            25,852
+other long-term liabilities                     -                 249                 232                 235                 261               1,890             2,867
+total                                     $15,495              $3,723              $2,117              $1,857              $1,789             $15,168           $40,149
+______________________________
+(a)   debt obligations exclude amounts related to unamortized discounts and debt issuance costs. capital lease obligations include related interest expense.
+debt and capital lease obligations our debt and capital lease obligations are described in note 9 of notes to consolidated financial statements.
+56
+our debt and financing agreements do not have rating agency triggers that would automatically require us to post additional collateral. however, in the event of certain downgrades of our senior unsecured debt by the ratings agencies, the cost of borrowings under some of our bank credit facilities and other arrangements would increase. all of our ratings on our senior unsecured debt as of december 31, 2018 are at or above investment grade level as follows:
+rating rating agency                            valero                       vlp moody's investors service                baa2 (stable outlook)        baa3 (no outlook)
+standard &amp; poor's ratings services   bbb (stable outlook)         bbb- (no outlook)
+fitch ratings                            bbb (stable outlook)         bbb- (no outlook)
+in january 2019, after the completion of the merger transaction as described in note 2 of notes to consolidated financial statements, each of the rating agencies upgraded its rating of vlp's senior unsecured debt to our rating. the rating change follows the full and unconditional guarantee by us of vlp's senior notes.
+we cannot provide assurance that these ratings will remain in effect for any given period of time or that one or more of these ratings will not be lowered or withdrawn entirely by a rating agency. we note that these credit ratings are not recommendations to buy, sell, or hold our securities. each rating should be evaluated independently of any other rating. any future reduction below investment grade or withdrawal of one or more of our credit ratings could have a material adverse impact on our ability to obtain short- and long-term financing and the cost of such financings.
+operating lease obligations our long-term operating lease commitments include leases for land and office facilities; time charters for ocean-going tankers and coastal vessels; railcars; facilities and equipment related to industrial gases and power used in our operations; machinery and equipment used in our refining and ethanol operations; and various facilities and equipment used in the storage, transportation, production, and sale of refinery feedstock, refined petroleum product and corn inventories. operating lease obligations include all operating leases that have initial or remaining noncancelable terms in excess of one year, and are not reduced by minimum rentals to be received by us under subleases.
+purchase obligations a purchase obligation is an enforceable and legally binding agreement to purchase goods or services that specifies significant terms, including (i) fixed or minimum quantities to be purchased, (ii) fixed, minimum, or variable price provisions, and (iii) the approximate timing of the transaction. we have various purchase obligations under certain crude oil and other feedstock supply arrangements, industrial gas supply arrangements (such as hydrogen supply arrangements), natural gas supply arrangements, and various throughput, transportation and terminaling agreements. we enter into these contracts to ensure an adequate supply of feedstock and utilities and adequate storage capacity to operate our refineries and ethanol plants. substantially all of our purchase obligations are based on market prices or adjustments based on market indices. certain of these purchase obligations include fixed or minimum volume requirements, while others are based on our usage requirements. the purchase obligation amounts shown in the preceding table include both short- and long-term obligations and are based on (i) fixed or minimum quantities to be purchased and (ii) fixed or estimated prices to be paid based on current market conditions.
+57
+other long-term liabilities our other long-term liabilities are described in note 8 of notes to consolidated financial statements. for purposes of reflecting amounts for other long-term liabilities in the preceding table, we made our best estimate of expected payments for each type of liability based on information available as of december 31, 2018.
+new accounting pronouncements as discussed in note 1 of notes to consolidated financial statements, certain new financial accounting pronouncements became effective january 1, 2019, or will become effective in the future. the effect on our financial statements upon adoption of these pronouncements is discussed in the above-referenced note.
+critical accounting policies involving critical accounting estimates the preparation of financial statements in accordance with u.s. gaap requires us to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. actual results could differ from those estimates. the following summary provides further information about our critical accounting policies that involve critical accounting estimates, and should be read in conjunction with note 1 of notes to consolidated financial statements, which summarizes our significant accounting policies. the following accounting policies involve estimates that are considered critical due to the level of subjectivity and judgment involved, as well as the impact on our financial position and results of operations. we believe that all of our estimates are reasonable. unless otherwise noted, estimates of the sensitivity to earnings that would result from changes in the assumptions used in determining our estimates is not practicable due to the number of assumptions and contingencies involved, and the wide range of possible outcomes.
+environmental matters our operations are subject to extensive environmental regulations by governmental authorities relating primarily to the discharge of materials into the environment, waste management, and pollution prevention measures. future legislative action and regulatory initiatives could result in changes to required operating permits, additional remedial actions, or increased capital expenditures and operating costs that cannot be assessed with certainty at this time.
+accruals for environmental liabilities are based on best estimates of probable undiscounted future costs over a 20-year time period using currently available technology and applying current regulations, as well as our own internal environmental policies. however, environmental liabilities are difficult to assess and estimate due to uncertainties related to the magnitude of possible remediation, the timing of such remediation, and the determination of our obligation in proportion to other parties. such estimates are subject to change due to many factors, including the identification of new sites requiring remediation, changes in environmental laws and regulations and their interpretation, additional information related to the extent and nature of remediation efforts, and potential improvements in remediation technologies.
+the amount of our accruals for environmental matters as of december 31, 2018 and 2017 are included in note 8 of notes to consolidated financial statements.
+unrecognized tax benefits we take tax positions in our tax returns from time to time that may not be ultimately allowed by the relevant taxing authority. when we take such positions, we evaluate the likelihood of sustaining those positions and determine the amount of tax benefit arising from such positions, if any, that should be recognized in our financial statements. tax benefits not recognized by us are recorded as a liability in our balance sheets and
+58
+that liability represents our potential future obligation to the taxing authorities if the tax position is not sustained.
+the evaluation of tax positions and the determination of the benefit arising from such positions that are recognized in our financial statements requires us to make significant judgments and estimates based on an analysis of complex tax laws and regulations and related interpretations. these judgments and estimates are subject to change due to many factors, including the progress of ongoing tax audits, case law, and changes in legislation.
+our unrecognized tax benefits as of december 31, 2018 and 2017, along with other information about our unrecognized tax benefits, are included in note 15 of notes to consolidated financial statements.
+pension and other postretirement benefit obligations we have significant pension and other postretirement benefit liabilities and costs that are developed from actuarial valuations. inherent in these valuations are key assumptions including discount rates, expected return on plan assets, future compensation increases, and health care cost trend rates. these assumptions are disclosed and described in note 13 of notes to consolidated financial statements. changes in these assumptions are primarily influenced by factors outside of our control. for example, the discount rate assumption represents a yield curve comprised of various long-term bonds that have an average rating of double-a when averaging all available ratings by the recognized rating agencies, while the expected return on plan assets is based on a compounded return calculated assuming an asset allocation that is representative of the asset mix in our pension plans. to determine the expected return on plan assets, we utilized a forward-looking model of asset returns. the historical geometric average return over the 10 years prior to december 31, 2018 was 9.38 percent. the actual return on assets for the years ended december 31, 2018, 2017, and 2016 was (5.53) percent, 19.31 percent, and 7.77 percent, respectively. these assumptions can have a significant effect on the amounts reported in our financial statements. the following sensitivity analysis shows the effects on the projected benefit obligation as of december 31, 2018 and net periodic benefit cost for the year ending december 31, 2019 (in millions):
+pension benefits      otherpostretirementbenefits increase in projected benefit obligation resulting from:
+discount rate decrease of 0.25%                                     $104              $8
+compensation rate increase of 0.25%                                   12              n/a increase in expense resulting from:
+discount rate decrease of 0.25%                                        9           1
+expected return on plan assets decrease of 0.25%                       6              n/a compensation rate increase of 0.25%                                    3              n/a our net periodic benefit cost is determined using the spot-rate approach. under this approach, our net periodic benefit cost is impacted by the spot rates of the corporate bond yield curve used to calculate our liability discount rate. if the yield curve were to flatten entirely and our liability discount rate remained unchanged, our net periodic benefit cost would increase by $10 million for pension benefits and $1 million for other postretirement benefits in 2019.
+see note 13 of notes to consolidated financial statements for a discussion of our pension and other postretirement benefit obligations.
+59
+inventory valuation the cost of our inventories is principally determined under the last-in, first-out (lifo) method using the dollar-value lifo approach. our lifo inventories are carried at the lower of cost or market value and our non-lifo inventories are carried at the lower of cost or net realizable value. the market value of our lifo inventories is determined based on the net realizable value of the inventories.
+we compare the market value of inventories to their cost on an aggregate basis, excluding materials and supplies. in determining the market value of our inventories, we assume our refinery and ethanol feedstocks are converted into refined petroleum products, which requires us to make estimates regarding the refined petroleum products expected to be produced from those feedstocks and the conversion costs required to convert those feedstocks into refined petroleum products. we also estimate the usual and customary transportation costs required to move the inventory from our refineries and ethanol plants to the appropriate points of sale. we then apply an estimated selling price to our inventories. if the aggregate market value is less than cost, we recognize a loss for the difference in our statements of income.
+the lower of cost or market inventory valuation adjustment for the year ended december 31, 2016 is discussed in note 5 of notes to consolidated financial statements.

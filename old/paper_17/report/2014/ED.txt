@@ -1,0 +1,779 @@
+item 1a:   risk factors
+
+information in any item of this report as to which reference is made in this item 1a is incorporated by reference herein. the use of such terms as see or refer to shall be deemed to incorporate at the place such term is used the information to which such reference is made.
+the companies businesses are influenced by many factors that are difficult to predict, and that involve uncertainties that may materially affect actual operating results, cash flows and financial condition.
+the companies have established an enterprise risk management program to identify, assess, manage and monitor its major business risks based on established criteria for the severity of an event, the likelihood of its occurrence, and the programs in place to control the event or reduce the impact. the companies major risks include:
+regulatory/compliance risks:
+the companies are extensively regulated and are subject to penalties.    the companies operations require numerous permits, approvals and certificates from various federal, state and local governmental agencies. state utility regulators may seek to impose substantial penalties on the utilities for violations of state utility laws, regulations or orders. in addition, the utilities rate plans usually include penalties for failing to meet certain operating and customer satisfaction standards. see note b to the financial statements in item 8. ferc has the authority to impose penalties on the utilities and the competitive energy businesses, which could be substantial, for violations of the federal power act, the natural gas act or related rules, including reliability and cyber security rules. environmental agencies may seek penalties for failure to comply with laws, regulations or permits. the companies may also be subject to penalties from other regulatory agencies. the companies may be subject to new laws, regulations, or other requirements or the revision or reinterpretation of such requirements, which could
+32   con edison annual report 2014
+adversely affect the companies. in april 2014, the nyspsc instituted its rev proceeding to improve system efficiency and reliability, encourage renewable energy resources, support distributed energy resources and empower customer choice. see utility regulation and environmental matters  climate change and other federal, state and local environmental provisions in item 1 and application of critical accounting policies in item 7.
+the utilities rate plans may not provide a reasonable return.    the utilities have rate plans approved by state utility regulators that limit the rates they can charge their customers. the rates are generally designed for, but do not guarantee, the recovery of the utilities cost of service (including a return on equity). see utility regulation  state utility regulation, rate plans in item 1 and rate plans in note b to the financial statements in item 8. rates usually may not be changed during the specified terms of the rate plans other than to recover energy costs and limited other exceptions. the utilities actual costs may exceed levels provided for such costs in the rate plans. state utility regulators can initiate proceedings to prohibit the utilities from recovering from their customers the cost of service (including energy costs) that the regulators determine to have been imprudently incurred (see other regulatory matters in note b to the financial statements in item 8). the utilities have from time to time entered into settlement agreements to resolve various prudence proceedings.
+the companies may be adversely affected by changes to the utilities rate plans.    the utilities rate plans typically require action by regulators at their expiration dates, which may include approval of new plans with different provisions. the need to recover from customers increasing costs, taxes or state-mandated assessments or surcharges could adversely affect the utilities opportunity to obtain new rate plans that provide a reasonable rate of return and continue important provisions of current rate plans. the utilities current new york electric and gas rate plans include revenue decoupling mechanisms and their new york electric, gas and steam rate plans include provisions for the recovery of energy costs and reconciliation of the actual amount of pension and other postretirement, environmental and certain other costs to amounts reflected in rates. in february 2014, the nyspsc adopted a joint proposal with respect to ceconys rates for electric, gas and steam delivery service in 2014 and 2015 (and, for gas and steam delivery service, 2016). see rate plans in note b to the financial statements in item 8.
+the intentional misconduct of employees or contractors could adversely affect the companies.    the violation of laws or regulations by employees or contractors for personal gain may result from contract and procurement fraud, extortion, bribe acceptance, fraudulent related-party transactions and serious breaches of corporate policy or standards of business conduct. such intentional misconduct by employees or contractors could result in substantial liability, higher costs and increased regulatory requirements. see employees in item 1 and other regulatory matters in note b to the financial statements in item 8.
+operations risks:
+the failure of, or damage to, the companies facilities could adversely affect the companies.    the utilities provide electricity, gas and steam service using energy facilities, many of which are located either in, or close to, densely populated public places. see the description of the utilities facilities in item 1. a failure of, or damage to, these facilities, or an error in the operation or maintenance of these facilities, could result in bodily injury or death, property damage, the release of hazardous substances or extended service interruptions. a natural disaster such as a major storm, a heat wave or hurricane could damage our facilities and the utilities may experience more severe consequences from attempting to operate during and after such events. the utilities response to such events may be perceived to be below customer expectations. the utilities could be required to pay substantial amounts that may not be covered by the utilities insurance policies to repair or replace their facilities, compensate others for injury or death or other damage, and settle any proceedings initiated by state utility regulators or other regulatory agencies. the occurrence of such events could also adversely affect the cost and availability of insurance. see other regulatory matters in note b and manhattan steam main rupture and manhattan explosion and fire in note h to the financial statements in item 8. changes to laws, regulations or judicial doctrines could further expand the utilities liability for service interruptions. see utility regulation  state utility regulation in item 1.
+a cyber attack could adversely affect the companies.    the utilities and other operators of critical energy infrastructure may face a heightened risk of cyber attack. in the event of a cyber attack that the companies were unable to defend against or mitigate, the utilities and the competitive energy businesses could have their operations disrupted, financial and other information systems impaired, property damaged and customer and employee information stolen; experience substantial loss of revenues, response costs and other financial loss; and be subject to increased regulation, litigation and damage to their reputation. the companies have experienced cyber attacks, although none of the attacks had a material impact on the companies.
+environmental risks:
+the companies are exposed to risks from the environmental consequences of their operations.    the companies are exposed to risks relating to climate change and related matters. see environmental matters  climate change in item 1. cecony may also be impacted by regulations requiring reductions in air emissions. see environmental matters  other con edison annual report 2014   33
+federal, state and local environmental provisions, air quality in item 1. in addition, the utilities are responsible for hazardous substances, such as asbestos, pcbs and coal tar, that have been used or produced in the course of the utilities operations and are present on properties or in facilities and equipment currently or previously owned by them. see environmental matters in item 1 and note g to the financial statements in item 8. the companies could be adversely affected if a causal relationship between electric and magnetic fields and adverse health effects were to be established.
+financial and market risks:
+a disruption in the wholesale energy markets or failure by an energy supplier could adversely affect the companies.    almost all the electricity and gas the utilities sell to their full-service customers is purchased through the wholesale energy markets or pursuant to contracts with energy suppliers. see the description of the utilities energy supply in item 1. con edisons competitive energy businesses also depend on wholesale energy markets to supply electricity to their customers. see competitive energy businesses in item 1. a disruption in the wholesale energy markets or a failure on the part of the companies energy suppliers or operators of energy delivery systems that connect to the utilities energy facilities could adversely affect the companies ability to meet their customers energy needs and adversely affect the companies. in addition, see financial and commodity market risks in item 7 (which information is incorporated herein by reference).
+the companies have substantial unfunded pension and other postretirement benefit liabilities.    the utilities have substantial unfunded pension and other postretirement benefit liabilities. the utilities expect to make substantial contributions to their pension and other postretirement benefit plans. significant declines in the market values of the investments held to fund pension and other postretirement benefits could trigger substantial funding requirements under governmental regulations. see application of critical accounting policies  accounting for pensions and other postretirement benefits and financial and commodity market risks, in item 7 and notes e and f to the financial statements in item 8.
+con edisons ability to pay dividends or interest depends on dividends from its subsidiaries.    con edisons ability to pay dividends on its common stock or interest on its external borrowings depends primarily on the dividends and other distributions it receives from its subsidiaries. the dividends that the utilities may pay to con edison are limited by the nyspsc to not more than 100 percent of their respective income available for dividends calculated on a two-year rolling average basis, with certain exceptions. see dividends in note c to the financial statements in item 8.
+the companies require access to capital markets to satisfy funding requirements.    the utilities estimate that their construction expenditures will exceed $8 billion over the next three years. the utilities use internally-generated funds, equity contributions from con edison, if any, and external borrowings to fund the construction expenditures. the competitive energy businesses are investing in renewable generation and energy infrastructure projects that may require funds in excess of those produced in the businesses. con edison expects to finance its capital requirements primarily through internally generated funds and the sale of its securities. changes in financial market conditions or in the companies credit ratings could adversely affect their ability to raise new capital and the cost thereof. see capital requirements and resources in item 1.
+other risks:
+the companies strategies may not be effective to address changes in the external business environment.    the failure to identify, plan and execute strategies to address changes in the external business environment could have a material adverse impact on the companies. con edison seeks to provide shareholder value through continued dividend growth, supported by earnings growth in regulated utilities and contracted assets. changes to public policy, regulation, tax policy, customer behavior or technology could significantly impact the value of the utilities energy delivery facilities and the competitive energy businesses renewable and energy infrastructure projects. such changes could also affect the companies opportunities to make additional investments in such assets and the potential return on the investments. see utility regulation  state utility regulation  reforming the energy vision proceeding and competition in item 1.
+the companies also face other risks that are beyond their control.    the companies results of operations can be affected by circumstances or events that are beyond their control. weather directly influences the demand for electricity, gas and steam service, and can affect the price of energy commodities. terrorist or other physical attacks or acts of war could damage company facilities. economic conditions can affect customers demand and ability to pay for service, which could adversely affect the companies.
+item 7:   managements discussion and analysis of financial condition and results of operations
+
+this combined managements discussion and analysis of financial condition and results of operations relates to the consolidated financial statements included in this report of two separate registrants: con edison and cecony and should be read in conjunction with the financial statements and the notes thereto. as used in this report, the term the companies refers to con edison and cecony. cecony is a subsidiary of con edison and, as such, information in this managements discussion and analysis about cecony applies to con edison.
+information in any item of this report referred to in this discussion and analysis is incorporated by reference herein. the use of terms such as see or refer to shall be deemed to incorporate by reference into this discussion and analysis the information to which reference is made.
+corporate overview con edisons principal business operations are those of the utilities. con edison also owns competitive energy businesses. see the utilities and competitive energy businesses in item 1, and segment financial information in note n to the financial statements in item 8 and results of operations, below. in addition, in 2014 con edison formed a subsidiary to invest in a transmission company. see con edison transmission in item 1. certain financial data of con edisons businesses are presented below:
+twelve months ended                                      at december 31, 2014                            december 31,
+2014
+(millions of dollars,                          operating                            net income for                                  assets except percentages)                             revenues                              common stock cecony                           $10,786              83   %            $1,058                  97    %        $39,637                  90   %
+o&amp;r                              892               7   %                60                   5    %          2,837                   6   %
+total utilities                   11,678              90   %             1,118                 102    %         42,474                  96   %
+con edison solutions(a)            1,059               8   %               (77    )             (7   )%            250                   1   %
+con edison energy(a)                 133               1   %                17                   2    %            117                   -   %
+con edison development(b)             42               1   %                43                   4    %            658                   1   %
+other(c)                               7               -   %                (9    )             (1   )%            809                   2   %
+total con edison                 $12,919             100   %            $1,092                 100    %        $44,308                 100   %
+(a)   net income from the competitive energy businesses for the twelve months ended december 31, 2014 includes $(73) million of net after-tax mark-to-market (losses)/gains (con edison solutions,
+$(76) million and con edison energy, $3 million).
+
+(b)   includes an after-tax gain on sale of solar electric production projects of $26 million (see note q to the financial statements in item 8) and an after-tax charge of $1 million relating to the lease in/lease out (lilo) transactions (see lease in/lease out transactions in note j to the financial statements in item 8) for the twelve months ended december 31, 2014.
+
+(c)   other includes parent company and consolidation adjustments.
+
+results of operations net income for common stock and earnings per share for the years ended december 31, 2014, 2013 and 2012 were as follows:
+(millions of dollars)                                                     net income for                                                       earnings common stock                                                      per share
+2014                2013                2012                2014                 2013                 2012
+cecony                                    $1,058              $1,020              $1,014                $3.61                $3.48                $3.46
+o&amp;r                                       60                  65                  64                 0.20                 0.22                 0.22
+competitive energy businesses(a)             (17   )             (23   )              76                (0.05   )            (0.08   )             0.26
+other(b)                                      (9   )               -                 (16   )            (0.03   )                -                (0.06   )
+con edison(c)                             $1,092              $1,062              $1,138                $3.73                $3.62                $3.88
+(a)                             includes an after-tax gain on sale of solar electric production projects of $26 million (see note q to the financial statements in item 8) in 2014. includes an after-tax charge of $1 million and $95 million or $0.32 a share relating to the lilo transactions (see lease in/lease out transactions in note j to the financial statements in item 8) in 2014 and 2013, respectively. also includes a tax benefit of $15 million or
+$0.05 a share resulting from the acceptance by the internal revenue service (irs) of the companys claim for manufacturing tax deductions in 2013. also includes $(73) million or $(0.25) a share, $45 million or $0.14 a share and $40 million or
+$0.13 a share of net after-tax mark-to-market (losses)/gains in 2014, 2013 and 2012, respectively.
+
+(b)   other includes parent company and consolidation adjustments. for 2013, also includes $16 million of certain income tax benefits and related interest.
+
+(c)   earnings per share on a diluted basis were $3.71 a share, $3.61 a share and $3.86 a share in 2014, 2013 and 2012, respectively.
+
+the companies results of operations for 2014, as compared with 2013, and for 2013, as compared with 2012, reflect changes in the utilities rate plans and the weather impact on its steam delivery service. the rate plans provide for revenues to cover expected increases in certain other operations and maintenance expenses and depreciation, reflecting primarily the impact of higher utility plant balances. the results of operations also include the gain on sale of solar electric production projects, the impact of lilo transactions and the net mark-to-market effects of the competitive energy businesses.
+con edison annual report 2014   41
+managements   discussion and analysis of financial condition and results of operations  continued
+
+the following table presents the estimated effect on earnings per share and net income for common stock for 2014 as compared with 2013, and 2013 as compared with 2012, resulting from these and other major factors:
+2014 vs. 2013                                     2013 vs. 2012
+earnings per                  net income          earnings per                  net income share                  for common                 share                  for common stock                                             stock
+(millions of                                      (millions of dollars)                                          dollars)
+cecony(a)
+changes in rate plans                                   $0.43                        $125                $(0.07    )                   $(21   )
+weather impact on steam revenues                         0.03                          10                  0.10                          30
+other operations and maintenance expenses               (0.28    )                    (83   )              0.11                          32
+depreciation and amortization                           (0.09    )                    (27   )             (0.11    )                    (31   )
+other                                                    0.04                          13                 (0.01    )                     (4   )
+total cecony                                             0.13                          38                  0.02                           6
+o&amp;r(a)
+changes in rate plans                                    0.04                          11                  0.04                          11
+other operations and maintenance expenses               (0.03    )                    (10   )             (0.02    )                     (7   )
+other                                                   (0.03    )                     (6   )             (0.02    )                     (3   )
+total o&amp;r                                           (0.02    )                     (5   )                 -                           1
+competitive energy businesses revenues less energy costs                              (0.34    )                   (100   )             (0.10    )                    (30   )
+net interest expense                                     0.29                          86                 (0.27    )                    (80   )
+other                                                    0.08                          20                  0.03                          11
+total competitive energy businesses(b)                   0.03                           6                 (0.34    )                    (99   )
+other, including parent company expenses(c)             (0.03    )                     (9   )              0.06                          16
+total variations                                        $0.11                         $30                $(0.26    )                   $(76   )
+(a)                                under the revenue decoupling mechanisms in the utilities new york electric and gas rate plans and the weather-normalization clause applicable to their gas businesses, revenues are generally not affected by changes in delivery volumes from levels assumed when rates were approved. under the rate plans, pension and other postretirement costs and certain other costs are reconciled to amounts reflected in rates for such costs. in general, the utilities recover on a current basis the fuel, gas purchased for resale and purchased power costs they incur in supplying energy to their full-service customers (see recoverable energy costs in note a and rate plans in note b to the financial statements in item 8). accordingly, such costs do not generally affect the companies results of operations.
+
+(b)   these variations include the gain on sale of solar electric production projects, the impact of the lilo transactions, the manufacturing tax deduction and the net mark-to-market effects shown in note (a) in the results of operations table above.
+
+(c)   the variation for the year ended december 31, 2013, as compared to the 2012 period, reflects certain income tax benefits and related interest in 2013 for con edison (parent company), $16
+million or $0.06 a share.
+
+the companies other operations and maintenance expenses for the years ending december 31, 2014, 2013 and 2012 were as follows:
+(millions of dollars)                             2014                  2013                  2012
+cecony operations                                                 $1,384                $1,313                $1,312
+pensions and other postretirement benefits                    467                   485                   519
+health care and other benefits                                149                   133                   156
+regulatory fees and assessments(a)                            533                   517                   517
+other                                                         340                   287                   284
+total cecony                                                2,873                 2,735                 2,788
+o&amp;r                                                       318                   302                   291
+competitive energy businesses                                 108                   105                   107
+other(b)                                                       (5   )                (5   )                (4   )
+total other operations and maintenance expenses            $3,294                $3,137                $3,182
+(a)   includes demand side management, system benefit charges and public service law 18a assessments which are collected in revenues.
+
+(b)   includes parent company and consolidation adjustments.
+
+42   con edison annual report 2014
+managements   discussion and analysis of financial condition and results of operations  continued
+
+con edisons principal business segments are ceconys regulated utility activities, o&rs regulated utility activities and con edisons competitive energy businesses. ceconys principal business segments are its regulated electric, gas and steam utility activities. a discussion of the results of operations by principal business segment for the years ended december 31, 2014, 2013 and 2012 follows. for additional business segment financial information, see note n to the financial statements in item 8.
+year ended december 31, 2014 compared with year ended december 31, 2013
+the companies results of operations in 2014 compared with 2013 were:
+cecony                                     o&amp;r                               competitive energy                                    other(a)                                 con edison(b)
+businesses
+(millions of dollars)                                    increases               increases           increases               increases            increases                   increases           increases               increases           increases                 increases
+(decreases)             (decreases)         (decreases)             (decreases)          (decreases)                 (decreases)         (decreases)             (decreases)         (decreases)               (decreases)
+amount                 percent              amount                 percent               amount                     percent              amount                 percent              amount                   percent operating revenues                                            $356                     3.4   %             $59                     7.1   %             $148                        13.5   %              $2                    40.0   %            $565                       4.6   %
+purchased power                                                 70                     3.5                  21                     9.7                  227                        26.4                   -                   -                     318                      10.3
+fuel                                                           (35   )               (10.9   )               -                       -                    -                           -                   -                   -                     (35    )                (10.9   )
+gas purchased for resale                                        77                    14.5                  12                    15.8                   88                       large                  (1   )               large                 176                      27.7
+other operations and maintenance                               138                     5.0                  16                     5.3                    3                         2.9                   -                   -                     157                       5.0
+depreciation and amortization                                   45                     4.8                   5                     8.9                   (4     )                 (17.4   )               1                   large                  47                       4.6
+taxes, other than income taxes                                 (18   )                (1.0   )              (2   )                (3.2   )                2                        11.8                   -                   -                     (18    )                 (0.9   )
+gain on sale of solar electric production projects               -                       -                   -                       -                   45                           -                   -                   -                      45                         -
+operating income (loss)                                         79                     3.8                   7                     5.8                 (123     )                 large                   2                   large                 (35    )                 (1.6   )
+other income less deductions                                    10                   large                   2                   large                   20                       large                  (3   )               large                  29                     large net interest expense                                            16                     3.1                  (2   )                (5.4   )             (143     )                 large                   1                     3.8                (128    )                (17.8   )
+income before income tax expense                                73                     4.7                  11                    13.1                   40                        62.5                  (2   )               (9.1    )             122                       7.9
+income tax expense                                              35                     6.7                  16                    84.2                   34                        82.9                   7                    31.8                  92                      19.3
+net income for common stock                                    $38                     3.7   %             $(5   )                (7.7   )%              $6                        26.1   %             $(9   )               large                 $30                       2.8   %
+(a)   includes parent company and consolidation adjustments.
+
+(b)   represents the consolidated financial results of con edison and its businesses.
+
+cecony twelve months ended                                                twelve months ended december 31, 2014                                                  december 31, 2013
+(millions of dollars)                  electric                 gas             steam          2014       electric                 gas             steam          2013     2014-2013
+total                                                              total     variation operating revenues                       $8,437              $1,721              $628       $10,786         $8,131              $1,616              $683       $10,430          $356
+purchased power                           2,036                   -                55         2,091          1,974                   -                47         2,021            70
+fuel                                        180                   -               105           285            174                   -               146           320           (35   )
+gas purchased for resale                      -                 609                 -           609              -                 532                 -           532            77
+other operations and maintenance          2,270                 418               185         2,873          2,180                 351               204         2,735           138
+depreciation and amortization               781                 132                78           991            749                 130                67           946            45
+taxes, other than income taxes            1,458                 248                92         1,798          1,459                 241               116         1,816           (18   )
+operating income                         $1,712                $314              $113        $2,139         $1,595                $362              $103        $2,060           $79
+con edison annual report 2014   43
+managements   discussion and analysis of financial condition and results of operations  continued
+
+electric ceconys results of electric operations for the year ended december 31, 2014 compared with the year ended december 31, 2013 is as follows:
+twelve months ended
+(millions of dollars)                 december 31,                  december 31,     variation
+2014                          2013
+operating revenues                          $8,437                        $8,131          $306
+purchased power                              2,036                         1,974            62
+fuel                                           180                           174             6
+other operations and maintenance             2,270                         2,180            90
+depreciation and amortization                  781                           749            32
+taxes, other than income taxes               1,458                         1,459            (1   )
+electric operating income                   $1,712                        $1,595          $117
+ceconys electric sales and deliveries in 2014 compared with 2013 were:
+millions of kwhs delivered                                                                                                                                             revenues in millions(a)
+twelve months ended                                                                                                           twelve months ended description                              december 31,                  december 31,              variation             percent                  december 31,                  december 31,             variation                percent
+2014                          2013                                            variation                        2014                          2013                                    variation residential/religious(b)                           9,868                        10,273                  (405   )              (3.9   )%               $2,847                        $2,773                   $74                    2.7   %
+commercial/industrial                              9,834                         9,776           58                    0.6                             2,176                         2,013                   163                    8.1
+energy choice customers                           26,221                        26,574                  (353   )              (1.3   )                 2,646                         2,683                   (37   )               (1.4   )
+nypa, municipal agency and other sales            10,380                        10,295           85                    0.8                               625                           615                    10                    1.6
+other operating revenues(c)                            -                             -                     -                     -                       143                            47                    96                  large total                                             56,303                        56,918                  (615   )              (1.1   )%(d)            $8,437                        $8,131                  $306                    3.8   %
+(a)   revenues from electric sales are subject to a revenue decoupling mechanism, as a result of which delivery revenues generally are not affected by changes in delivery volumes from levels assumed when rates were approved.
+
+(b)   residential/religious generally includes single-family dwellings, individual apartments in multi-family dwellings, religious organizations and certain other not-for-profit organizations.
+
+(c)   other electric operating revenues generally reflect changes in regulatory assets and liabilities in accordance with the revenue decoupling mechanism and other provisions of the companys rate plans. see note b to the financial statements in item 8.
+
+(d)   after adjusting for variations, principally weather and billing days, electric delivery volumes in ceconys service area decreased 0.1 percent in 2014 compared with 2013.
+
+operating revenues increased $306 million in 2014 compared with 2013 due primarily to higher revenues from the electric rate plan ($215 million), higher purchased power ($62 million) and fuel expenses ($6 million).
+purchased power expenses increased $62 million in 2014 compared with 2013 due to an increase in unit costs ($56 million) and purchased volumes ($6 million).
+fuel expenses increased $6 million in 2014 compared with 2013 due to higher unit costs ($34 million), offset by lower sendout volumes from the companys electric generating facilities ($28 million).
+other operations and maintenance expenses increased $90 million due primarily to higher costs for the support and protection of company underground facilities to accommodate new york city municipal projects ($25 million), higher costs for injuries and damages ($24 million), an increase in healthcare costs ($12 million) and an increase in the surcharges for assessments and fees that are collected in revenues from customers ($11 million).
+depreciation and amortization increased $32 million due primarily to higher electric utility plant balances.
+taxes, other than income taxes decreased $1 million principally due to a sales and use tax refund, offset in part by higher property taxes.
+44   con edison annual report 2014
+managements discussion and analysis of financial condition and results of operations  continued gas ceconys results of gas operations for the year ended december 31, 2014 compared with the year ended december 31, 2013 is as follows:
+twelve months ended
+(millions of dollars)                 december 31,                  december 31,     variation
+2014                          2013
+operating revenues                          $1,721                        $1,616          $105
+gas purchased for resale                       609                           532            77
+other operations and maintenance               418                           351            67
+depreciation and amortization                  132                           130             2
+taxes, other than income taxes                 248                           241             7
+gas operating income                          $314                          $362          $(48   )
+ceconys gas sales and deliveries, excluding off-system sales, in 2014 compared with 2013 were:
+thousands of dt delivered                                                                                                                                                revenues in millions(a)
+twelve months ended                                                                                                             twelve months ended description                           december 31,                   december 31,               variation                   percent            december 31,                  december 31,             variation                percent
+2014                           2013                                                 variation                    2014                          2013                                    variation residential                                     46,661                         38,872                   7,789                  20.0     %              $782                          $720                   $62                    8.6   %
+general                                         28,969                         28,135           834                             3.0                     359                           339                    20                    5.9
+firm transportation                             68,731                         61,139                   7,592                  12.4                     453                           414                    39                    9.4
+total firm sales and transportation            144,361                        128,146                  16,215                  12.7   (b)             1,594                         1,473                   121                    8.2
+interruptible sales(c)                          10,498                         10,900                    (402   )              (3.7     )                91                            69                    22                   31.9
+nypa                                            47,548                         48,682                  (1,134   )              (2.3     )                 2                             2                     -                      -
+generation plants                               82,146                         62,764                  19,382                  30.9                      30                            26                     4                   15.4
+other                                           22,866                         24,615                  (1,749   )              (7.1     )                40                            45                    (5   )              (11.1   )
+other operating revenues(d)                          -                              -                       -                     -                     (36     )                       1                   (37   )              large total                                          307,419                        275,107                  32,312                  11.7     %            $1,721                        $1,616                  $105                    6.5   %
+(a)   revenues from gas sales are subject to a weather normalization clause and a revenue decoupling mechanism as a result of which delivery revenues are generally not affected by changes in delivery volumes from levels assumed when rates were approved.
+
+(b)   after adjusting for variations, principally weather and billing days, firm gas sales and transportation volumes in the companys service area increased 8.0 percent in 2014 compared with 2013, reflecting primarily higher oil-to-gas conversions and transfers to firm service.
+
+(c)   includes 6,057 and 5,362 thousands of dt for 2014 and 2013, respectively, which are also reflected in firm transportation and other.
+
+(d)   other gas operating revenues generally reflect changes in regulatory assets and liabilities in accordance with the companys rate plans. see note b to the financial statements in item 8.
+
+operating revenues increased $105 million in 2014 compared with 2013 due primarily to an increase in gas purchased for resale expenses ($77 million) and higher revenues from the gas rate plan ($31 million).
+gas purchased for resale increased $77 million in 2014 compared with 2013 due to higher unit costs ($67 million) and sendout volumes ($10 million).
+other operations and maintenance expenses increased $67 million due primarily to higher operating costs attributable to emergency response ($25 million), higher pension costs ($10 million), an increase in the surcharges for assessments and fees that are collected in revenues from customers ($8 million), higher costs for injuries and damages ($4 million) and higher healthcare costs ($2 million).
+depreciation and amortization increased $2 million due primarily to higher gas utility plant balances.
+taxes, other than income taxes increased $7 million principally due to higher state and local revenue taxes and property taxes, offset in part by a sales and use tax refund.
+con edison annual report 2014   45
+managements discussion and analysis of financial condition and results of operations  continued steam ceconys results of steam operations for the year ended december 31, 2014 compared with the year ended december 31, 2013 is as follows:
+twelve months ended
+(millions of dollars)                 december 31,                  december 31,     variation
+2014                          2013
+operating revenues                            $628                          $683          $(55   )
+purchased power                                 55                            47             8
+fuel                                           105                           146           (41   )
+other operations and maintenance               185                           204           (19   )
+depreciation and amortization                   78                            67            11
+taxes, other than income taxes                  92                           116           (24   )
+steam operating income                        $113                          $103           $10
+ceconys steam sales and deliveries in 2014 compared with 2013 were:
+millions of pounds delivered                                                                                                                                                 revenues in millions twelve months ended                                                                                                               twelve months ended description                   december 31,                  december 31,                   variation                 percent             december 31,                  december 31,           variation             percent
+2014                          2013                                                   variation                     2014                          2013                                 variation general                       594                           547                                   47                     8.6      %               $30                           $31           $(1           )              (3.2   )%
+apartment house                        6,574                         6,181                       393                     6.4                      180                           187                  (7     )              (3.7   )
+annual power                           15,848                        15,195                      653                     4.3                      469                           491                  (22    )              (4.5   )
+other operating revenues(a)            -                             -                             -                       -                      (51     )                     (26   )              (25    )       96.2
+total                                  23,016                        21,923                    1,093                     5.0   %(b)              $628                          $683           $(55          )              (8.0   )%
+(a)   other steam operating revenues generally reflect changes in regulatory assets and liabilities in accordance with the companys rate plans. see note b to the financial statements in item 8.
+
+(b)   after adjusting for variations, principally weather and billing days, steam sales and deliveries increased 1.8 percent in 2014 compared with 2013, reflecting higher average normalized use per customer.
+
+operating revenues decreased $55 million in 2014 compared with 2013 due primarily to lower fuel expenses ($41 million) and lower revenues from the steam rate plans ($38 million), offset in part by the weather impact on revenues ($17 million) and higher purchased power costs ($8 million).
+purchased power expenses increased $8 million in 2014 compared with 2013 due to an increase in unit costs ($7 million) and purchased volumes ($1 million).
+fuel expenses decreased $41 million in 2014 compared with 2013 due to lower unit costs ($44 million), offset by higher sendout volumes ($3 million).
+other operations and maintenance expenses decreased $19 million due primarily to the absence in 2014 of certain previously deferred pension costs that were recognized in 2013 under ceconys steam rate plan.
+depreciation and amortization increased $11 million due to higher steam utility plant balances.
+taxes, other than income taxes decreased $24 million principally due to lower property taxes and sales and use tax refund.
+46   con edison annual report 2014
+managements discussion and analysis of financial condition and results of operations  continued taxes, other than income taxes at $1.8 billion, taxes other than income taxes remain one of ceconys largest operating expenses. the principal components of, and variations in, taxes other than income taxes were:
+(millions of dollars)                               2014                   2013                  increase/
+(decrease)
+property taxes                                             $1,406                 $1,408         $(2             )
+state and local taxes related to revenue receipts             332                    328         4
+payroll taxes                                                  65                     63         2
+other taxes                                                    (5   )(a)              17                 (22     )
+total                                                      $1,798    (b)          $1,816   (b)   $(18            )
+(a)   includes a sales and use tax refund of $15 million.
+
+(b)   including sales tax on customers bills, total taxes other than income taxes, billed to customers in 2014 and 2013 were $2,267 million and $2,255 million, respectively.
+
+other income (deductions)
+other income (deductions) increased $10 million in 2014 compared with 2013 due primarily to the gain on sale of certain non-utility property.
+net interest expense net interest expense increased $16 million in 2014 compared with 2013 due primarily to higher interest charges on long-term debt in 2014.
+income tax expense income taxes increased $35 million in 2014 compared with 2013 due primarily to higher income before income tax expense ($29 million) and higher amortization of new york states metropolitan transportation authority business tax ($6 million).
+o&r twelve months ended                             twelve months ended december 31, 2014                               december 31, 2013
+(millions of dollars)                 electric                     gas      2014      electric                     gas      2013     2014-2013
+total                                           total     variation operating revenues                        $680                    $212      $892          $628                    $205      $833           $59
+purchased power                            238                       -       238           217                       -       217            21
+gas purchased for resale                     -                      88        88             -                      76        76            12
+other operations and maintenance           251                      67       318           238                      64       302            16
+depreciation and amortization               46                      15        61            41                      15        56             5
+taxes, other than income taxes              43                      17        60            45                      17        62            (2   )
+operating income                          $102                     $25      $127           $87                     $33      $120            $7
+electric o&rs results of electric operations for the year ended december 31, 2014 compared with the year ended december 31, 2013 is as follows:
+twelve months ended
+(millions of dollars)                 december 31,                  december 31,     variation
+2014                          2013
+operating revenues                            $680                          $628           $52
+purchased power                                238                           217            21
+other operations and maintenance               251                           238            13
+depreciation and amortization                   46                            41             5
+taxes, other than income taxes                  43                            45            (2   )
+electric operating income                     $102                           $87           $15
+con edison annual report 2014   47
+managements discussion and analysis of financial condition and results of operations  continued o&rs electric sales and deliveries in 2014 compared with 2013 were:
+millions of kwhs delivered                                                                                                                                             revenues in millions(a)
+twelve months ended                                                                                                           twelve months ended description                   december 31,                  december 31,              variation             percent                  december 31,                  december 31,             variation                percent
+2014                          2013                                            variation                        2014                          2013                                    variation residential/religious(b)                1,515                         1,580                   (65   )              (4.1   )%                 $307                          $287                   $20                    7.0   %
+commercial/industrial         812                           871                               (59   )              (6.8   )                   136                           129                     7                    5.4
+energy choice customers                 3,240                         3,166           74                    2.3                               207                           192                    15                    7.8
+public authorities            102                           104                                (2   )              (1.9   )                    12                            11                     1                    9.1
+other operating revenues(c)                 -                             -                     -                     -                        18                             9                     9                  large total                                   5,669                         5,721                   (52   )              (0.9   )%(d)              $680                          $628                   $52                    8.3   %
+(a)           o&amp;rs new york electric delivery revenues are subject to a revenue decoupling mechanism, as a result of which delivery revenues are generally not affected by changes in delivery volumes from levels assumed when rates were approved. o&amp;rs electric sales in new jersey and pennsylvania are not subject to a decoupling mechanism, and as a result, changes in such volumes do impact revenues.
+
+(b)   residential/religious generally includes single-family dwellings, individual apartments in multi-family dwellings, religious organizations and certain other not-for-profit organizations.
+
+(c)   other electric operating revenues generally reflect changes in regulatory assets and liabilities in accordance with the companys electric rate plan. see note b to the financial statements in item 8.
+
+(d)   after adjusting for weather and other variations, electric delivery volumes in o&amp;rs service area increased.0.2 percent in 2014 compared with 2013.
+
+operating revenues increased $52 million in 2014 compared with 2013 due primarily to higher purchased power expenses ($21 million) and higher revenues from the new york electric rate plan ($17 million).
+purchased power expenses increased $21 million in 2014 compared with 2013 due to an increase in unit costs ($26 million), offset by a decrease in purchased volumes ($5 million).
+other operations and maintenance expenses increased $13 million due primarily to an increase in surcharges for assessments and fees that are collected in revenues from customers ($5 million), increase in storm costs ($3 million) and higher healthcare costs ($1 million).
+depreciation and amortization increased $5 million due primarily to higher electric utility plant balances.
+taxes, other than income taxes decreased $2 million principally due to lower state revenue taxes.
+gas o&rs results of gas operations for the year ended december 31, 2014 compared with the year ended december 31, 2013 is as follows:
+twelve months ended
+(millions of dollars)                 december 31,                  december 31,     variation
+2014                          2013
+operating revenues                            $212                          $205            $7
+gas purchased for resale                        88                            76            12
+other operations and maintenance                67                            64             3
+depreciation and amortization                   15                            15             -
+taxes, other than income taxes                  17                            17             -
+gas operating income                           $25                           $33           $(8   )
+48   con edison annual report 2014
+managements discussion and analysis of financial condition and results of operations  continued o&rs gas sales and deliveries, excluding off-system sales, in 2014 compared with 2013 were:
+thousands of dt delivered                                                                                                                                              revenues in millions(a)
+twelve months ended                                                                                                           twelve months ended description                           december 31,                  december 31,                 variation                percent            december 31,                  december 31,             variation                percent
+2014                          2013                                                variation                    2014                          2013                                    variation residential                                     7,786                         7,253                    533                    7.3     %              $101                           $97                    $4                    4.1   %
+general                                         1,743                         1,555                    188                   12.1                      20                            18                     2                   11.1
+firm transportation                            12,592                        12,062                    530                    4.4                      75                            77                    (2   )               (2.6   )
+total firm sales and transportation            22,121                        20,870                  1,251                    6.0   (b)               196                           192                     4                    2.1
+interruptible sales                             4,216                         4,118                     98                    2.4                       2                             3                    (1   )              (33.3   )
+generation plants                     70                            19                                  51                  large                       1                             -                     1                  large other                                 945                           885                                 60                    6.8                       -                             -                     -                      -
+other gas revenues                                  -                             -                      -                      -                      13                            10                     3                   30.0
+total                                          27,352                        25,892                  1,460                    5.6                    $212                          $205                    $7                    3.4   %
+(a)   revenues from new york gas sales are subject to a weather normalization clause and a revenue decoupling mechanism as a result of which delivery revenues are generally not affected by changes in delivery volumes from levels assumed when rates were approved.
+
+(b)   after adjusting for weather and other variations, total firm sales and transportation volumes increased 1.9 percent in 2014 compared with 2013.
+
+operating revenues increased $7 million in 2014 compared with 2013 due primarily to the increase in gas purchased for resale ($12 million).
+gas purchased for resale increased $12 million in 2014 compared with 2013 due to an increase in unit costs ($6 million) and purchased volumes ($6 million).
+other operations and maintenance expenses increased $3 million due primarily to an increase in surcharges for assessments and fees that are collected in revenues from customers.
+taxes, other than income taxes taxes, other than income taxes, decreased $2 million in 2014 compared with 2013. the principal components of taxes, other than income taxes, were:
+(millions of dollars)                               2014              2013              increase/
+(decrease)
+property taxes                                            $44               $43         $1
+state and local taxes related to revenue receipts           9                12                 (3      )
+payroll taxes                                               7                 7                 -
+total                                                     $60   (a)         $62   (a)   $(2             )
+(a)   including sales tax on customers bills, total taxes other than income taxes, billed to customers in 2014 and 2013 were $86 million and $87 million, respectively.
+
+other income (deductions)
+other income (deductions) increased $2 million in 2014 compared with 2013 due primarily to higher interest accrued on storm reserves in 2014.
+net interest expense net interest expense decreased $2 million in 2014 compared with 2013 reflecting primarily changes to accrued interest resulting from adjustments to prior year federal income tax returns in 2013.
+income tax expense income taxes increased $16 million in 2014 compared with 2013 due primarily to higher income before income tax expense ($5 million), higher amortization of new york states metropolitan transportation authority business tax ($3 million) and changes in estimates of accumulated deferred income taxes in 2013 ($6 million).
+con edison annual report 2014   49
+managements discussion and analysis of financial condition and results of operations  continued competitive energy businesses the competitive energy businesses results of operations for the year ended december 31, 2014 compared with the year ended december 31, 2013 is as follows:
+twelve months ended
+(millions of dollars)                                     december 31,                  december 31,     variation
+2014                          2013
+operating revenues                                              $1,244                        $1,096          $148
+purchased power                                                  1,088                           861           227
+gas purchased for resale                                           115                            27            88
+other operations and maintenance                                   108                           105             3
+depreciation and amortization                                       19                            23            (4   )
+taxes, other than income taxes                                      19                            17             2
+(gain) on sale of solar electric production projects               (45     )                       -           (45   )
+operating income (loss)                                           $(60     )                     $63         $(123   )
+operating revenues increased $148 million in 2014 compared with 2013, due primarily to higher wholesale and electric retail revenues ($125 million), and the impact of the lilo transactions ($27 million, see lease in/lease out transactions in note j to the financial statements in item 8). wholesale revenues increased $80 million in 2014 as compared to 2013 due to higher sales volume. electric retail revenues increased $45 million, due to higher unit prices ($64 million), offset by lower sales volumes ($19 million). solar revenues decreased $14 million in 2014 as compared with 2013 primarily due to con edison developments sale of 50 percent of its membership interest in ced california holdings financing i, llc (california solar  see note q to the financial statements in item 8). net mark-to-market values decreased $202 million in 2014 as compared with 2013, of which $206 million in losses are reflected in purchased power expenses and $4 million in gains are reflected in revenues. other revenues increased $6 million in 2014 as compared with 2013, due primarily to higher energy services revenues.
+purchased power expenses increased $227 million in 2014 compared with 2013 due primarily to changes in mark-to-market losses ($206 million) and higher unit prices ($64 million), offset by lower volumes ($43 million).
+gas purchased for resale increased $88 million due primarily to higher volumes.
+other operations and maintenance expenses increased $3 million due primarily to an increase in solar electric production projects in operation during 2014.
+depreciation and maintenance expense decreased $4 million due to con edison developments sale of 50 percent of its membership interest in california solar (see note q to the financial statements in item 8).
+taxes, other than income taxes increased $2 million due to an increase in sales and use taxes, property taxes and gross receipts tax.
+gain on sale of solar electric production projects was $45 million reflecting con edison developments sale of 50 percent of its membership interest in california solar (see note q to the financial statements in item 8).
+other income (deductions)
+other income (deductions) increased $20 million in 2014 compared to 2013 primarily reflecting income from con edison developments solar investments that are accounted for under the equity method.
+net interest expense net interest expense decreased $143 million in 2014 compared to 2013 due primarily to the impact of the lilo transactions. see lease in/lease out transactions in note j to the financial statements in item 8.
+income tax expense income taxes increased $34 million in 2014 compared with 2013 due primarily to higher income before income tax expense ($17 million) and a tax benefit in 2013 resulting from the acceptance by the irs of the companys claim for manufacturing tax deductions ($15 million).
+other for con edison, other also includes inter-company eliminations relating to operating revenues and operating expenses.
+50   con edison annual report 2014
+managements discussion and analysis of financial condition and results of operations  continued year ended december 31, 2013 compared with year ended december 31, 2012
+the companies results of operations in 2013 compared with 2012 were:
+cecony                                     o&amp;r       competitive energy                                                            other(a)                                 con edison(b)
+businesses
+(millions of dollars)                       increases               increases           increases               increases       increases                   increases                increases               increases           increases                 increases
+(decreases)             (decreases)         (decreases)             (decreases)       (decreases)                 (decreases)            (decreases)             (decreases)         (decreases)               (decreases)
+amount                 percent              amount                 percent       amount                      percent                     amount                 percent              amount                   percent operating revenues                               $243                     2.4   %             $38                     4.8   %   $(117             )                 (9.6    )%              $2                    28.6   %            $166                       1.4   %
+purchased power                                    53                     2.7                  19                     9.6                 (89     )                 (9.4    )                -                   -                     (17    )                 (0.5   )
+fuel                                               10                     3.2                   -                       -                   -                       -                        -                   -                      10                       3.2
+gas purchased for resale                          145                    37.5                   7                    10.1       22                                  large                    -                   -                     174                      37.7
+other operations and maintenance                  (53   )                (1.9   )              11                     3.8                  (2     )                 (1.9    )               (1   )               (25.0   )             (45    )                 (1.4   )
+depreciation and amortization                      52                     5.8                   3                     5.7       15                                  large                   (1   )               large                  69                       7.2
+taxes, other than income taxes                     69                     3.9                   1                     1.6                  (1     )                 (5.6    )                1                   large                  70                       3.8
+operating income                                  (33   )                (1.6   )              (3   )                (2.4   )             (62     )                 (49.6   )                3                   large                 (95    )                 (4.1   )
+other income less deductions                        3                   large                  (1   )               (50.0   )   4                                   large                    1                    50.0                   7                     large net interest expense                              (24   )                (4.4   )               7                    23.3       134                                 large                   (2   )               (7.1    )             115                      19.0
+income before income tax expense                   (6   )                (0.4   )             (11   )               (11.6   )            (192     )                 large                    6                    21.4                (203    )                (11.7   )
+income tax expense                                 (9   )                (1.7   )             (12   )               (38.7   )             (93     )                 large                  (10   )               (83.3   )            (124    )                (20.7   )
+net income                                          3                     0.3                   1                     1.6                 (99     )                 large                   16                   large                 (79    )                 (6.9   )
+preferred stock dividend requirements              (3   )               large                   -                       -                   -                       -                        -                   -                      (3    )                large net income for common stock                        $6                     0.6   %              $1                     1.6   %   $(99              )                 large                  $16                   large                $(76    )                 (6.7   )%
+(a)   includes parent company and consolidation adjustments.
+
+(b)   represents the consolidated financial results of con edison and its businesses.
+
+cecony twelve months ended                                                twelve months ended december 31, 2013                                                  december 31, 2012
+(millions of dollars)                  electric                 gas             steam          2013       electric                 gas             steam          2012         2013-
+total                                                              total          2012
+variation operating revenues                       $8,131              $1,616              $683       $10,430         $8,176              $1,415              $596       $10,187          $243
+purchased power                           1,974                   -                47         2,021          1,938                   -                30         1,968            53
+fuel                                        174                   -               146           320            159                   -               151           310            10
+gas purchased for resale                      -                 532                 -           532              -                 387                 -           387           145
+other operations and maintenance          2,180                 351               204         2,735          2,273                 330               185         2,788           (53   )
+depreciation and amortization               749                 130                67           946            710                 120                64           894            52
+taxes, other than income taxes            1,459                 241               116         1,816          1,403                 232               112         1,747            69
+operating income                         $1,595                $362              $103        $2,060         $1,693                $346               $54        $2,093          $(33   )
+con edison annual report 2014   51
+managements discussion and analysis of financial condition and results of operations  continued electric ceconys results of electric operations for the year ended december 31, 2013 compared with the year ended december 31, 2012 is as follows:
+twelve months ended
+(millions of dollars)                 december 31,                  december 31,     variation
+2013                          2012
+operating revenues                          $8,131                        $8,176          $(45   )
+purchased power                              1,974                         1,938            36
+fuel                                           174                           159            15
+other operations and maintenance             2,180                         2,273           (93   )
+depreciation and amortization                  749                           710            39
+taxes, other than income taxes               1,459                         1,403            56
+electric operating income                   $1,595                        $1,693          $(98   )
+ceconys electric sales and deliveries in 2013 compared with 2012 were:
+millions of kwhs delivered                                                                                                                                             revenues in millions(a)
+twelve months ended                                                                                                           twelve months ended description                              december 31,                  december 31,              variation             percent                  december 31,                  december 31,           variation             percent
+2013                          2012                                            variation                        2013                          2012                                 variation residential/religious(b)                          10,273                        10,718                  (445   )              (4.2   )%               $2,773                        $2,749           $24                   0.9            %
+commercial/industrial                              9,776                         9,848                   (72   )              (0.7   )                 2,013                         1,971           42                    2.1
+energy choice customers                           26,574                        25,990           584                   2.2                             2,683                         2,750                   (67   )               (2.4   )
+nypa, municipal agency and other sales            10,295                        10,645                  (350   )              (3.3   )                   615                           617                    (2   )               (0.3   )
+other operating revenues(c)                            -                             -                     -                     -                        47                            89                   (42   )              (47.2   )
+total                                             56,918                        57,201                  (283   )              (0.5   )%(d)            $8,131                        $8,176           $(45          )               (0.6   )%
+(a)   revenues from electric sales are subject to a revenue decoupling mechanism, as a result of which delivery revenues generally are not affected by changes in delivery volumes from levels assumed when rates were approved.
+
+(b)   residential/religious generally includes single-family dwellings, individual apartments in multi-family dwellings, religious organizations and certain other not-for-profit organizations.
+
+(c)   other electric operating revenues generally reflect changes in regulatory assets and liabilities in accordance with the revenue decoupling mechanism and other provisions of the companys rate plans. see note b to the financial statements in item 8.
+
+(d)   after adjusting for variations, principally weather and billing days, electric delivery volumes in ceconys service area decreased 1.3 percent in 2013 compared with 2012.
+
+operating revenues decreased $45 million in 2013 compared with 2012 due primarily to lower revenues from the electric rate plan and other regulatory matters ($128 million, which includes a decrease of $76 million reflecting the use of certain regulatory liabilities in 2012 to offset a temporary surcharge under the electric rate plan), offset by higher purchased power ($36 million) and fuel expenses ($15 million).
+purchased power expenses increased $36 million in 2013 compared with 2012 due to an increase in unit costs ($77 million), offset by a decrease in purchased volumes ($41 million).
+fuel expenses increased $15 million in 2013 compared with 2012 due to higher unit costs ($10 million) and sendout volumes from the companys electric generating facilities ($5 million).
+other operations and maintenance expenses decreased $93 million primarily reflecting a decrease in pension costs ($45 million) in 2013 as compared to 2012 when certain pension costs that were deferred from earlier periods were recognized under the electric rate plan and lower healthcare costs ($11 million).
+depreciation and amortization increased $39 million due primarily to higher electric utility plant balances.
+taxes, other than income taxes increased $56 million principally due to higher property taxes.
+52   con edison annual report 2014
+managements discussion and analysis of financial condition and results of operations  continued gas ceconys results of gas operations for the year ended december 31, 2013 compared with the year ended december 31, 2012 is as follows:
+twelve months ended
+(millions of dollars)                 december 31,                  december 31,     variation
+2013                          2012
+operating revenues                          $1,616                        $1,415          $201
+gas purchased for resale                       532                           387           145
+other operations and maintenance               351                           330            21
+depreciation and amortization                  130                           120            10
+taxes, other than income taxes                 241                           232             9
+gas operating income                          $362                          $346           $16
+ceconys gas sales and deliveries, excluding off-system sales, in 2013 compared with 2012 were:
+thousands of dt delivered                                                                                                                                                  revenues in millions(a)
+twelve months ended                                                                                                               twelve months ended description                           december 31,                   december 31,               variation                     percent            december 31,                  december 31,             variation                percent
+2013                           2012                                                   variation                    2013                          2012                                    variation residential                                     38,872                         33,457                    5,415                   16.2     %              $720                          $607                  $113                   18.6   %
+general                                         28,135                         24,138                    3,997                   16.6                     339                           282                    57                   20.2
+firm transportation                             61,139                         52,860                    8,279                   15.7                     414                           380                    34                    8.9
+total firm sales and transportation            128,146                        110,455                   17,691                   16.0   (b)             1,473                         1,269                   204                   16.1
+interruptible sales(c)                          10,900                          5,961                    4,939                   82.9                      69                            39                    30                   76.9
+nypa                                            48,682                         48,107           575                               1.2                       2                             2                     -                      -
+generation plants                               62,764                         85,827                  (23,063   )              (26.9     )                26                            32                    (6   )              (18.8   )
+other                                           24,615                         22,259                    2,356                   10.6                      45                            36                     9                   25.0
+other operating revenues(d)                          -                              -                        -                      -                       1                            37                   (36   )              (97.3   )
+total                                          275,107                        272,609                    2,498                    0.9     %            $1,616                        $1,415                  $201                   14.2   %
+(a)   revenues from gas sales are subject to a weather normalization clause and a revenue decoupling mechanism as a result of which delivery revenues are generally not affected by changes in delivery volumes from levels assumed when rates were approved.
+
+(b)   after adjusting for variations, principally weather and billing days, firm gas sales and transportation volumes in the companys service area increased 4.6 percent in 2013 compared with 2012.
+
+(c)   includes 5,362 and 563 thousands of dt for 2013 and 2012, respectively, which are also reflected in firm transportation and other.
+
+(d)   other gas operating revenues generally reflect changes in regulatory assets and liabilities in accordance with the companys rate plans. see note b to the financial statements in item 8.
+
+operating revenues increased $201 million in 2013 compared with 2012 due primarily to an increase in gas purchased for resale expenses ($145 million) and higher revenues from the gas rate plan and other regulatory matters ($62 million).
+gas purchased for resale increased $145 million in 2013 compared with 2012 due to higher sendout volumes ($91 million) and unit costs ($54 million).
+other operations and maintenance expenses increased $21 million due primarily to an increase in the surcharges for assessments and fees that are collected in revenues from customers ($29 million), offset in part by lower pension costs ($6 million) and healthcare costs ($3 million).
+depreciation and amortization increased $10 million due primarily to higher gas utility plant balances.
+taxes, other than income taxes increased $9 million principally due to higher local revenue taxes and property taxes.
+con edison annual report 2014   53
+managements discussion and analysis of financial condition and results of operations  continued steam ceconys results of steam operations for the year ended december 31, 2013 compared with the year ended december 31, 2012 is as follows:
+twelve months ended
+(millions of dollars)                 december 31,                  december 31,     variation
+2013                          2012
+operating revenues                            $683                          $596           $87
+purchased power                                 47                            30            17
+fuel                                           146                           151            (5   )
+other operations and maintenance               204                           185            19
+depreciation and amortization                   67                            64             3
+taxes, other than income taxes                 116                           112             4
+steam operating income                        $103                           $54           $49
+ceconys steam sales and deliveries in 2013 compared with 2012 were:
+millions of pounds delivered                                                                                                                                                 revenues in millions twelve months ended                                                                                                               twelve months ended description                   december 31,                  december 31,                variation                    percent             december 31,                  december 31,             variation               percent
+2013                          2012                                                   variation                     2013                          2012                                   variation general                       547                           425                         122                             28.7      %               $31                           $25                    $6                  24.0   %
+apartment house                        6,181                         5,240              941                             18.0                      187                           158                    29                  18.4
+annual power                           15,195                        14,076                    1,119                     7.9                      491                           429                    62                  14.5
+other operating revenues(a)            -                             -                             -                       -                      (26     )                     (16   )               (10   )              62.5
+total                                  21,923                        19,741                    2,182                    11.1   %(b)              $683                          $596                   $87                  14.6   %
+(a)   other steam operating revenues generally reflect changes in regulatory assets and liabilities in accordance with the companys rate plans. see note b to the financial statements in item 8.
+
+(b)   after adjusting for variations, principally weather and billing days, steam sales and deliveries decreased 2.2 percent in 2013 compared with 2012, reflecting lower average normalized use per customer.
+
+operating revenues increased $87 million in 2013 compared with 2012 due primarily to the weather impact on revenues ($50 million), the net change in rates under steam rate plans and other regulatory matters ($32 million) and higher purchased power ($17 million), offset by lower fuel expenses ($5 million).
+purchased power expenses increased $17 million in 2013 compared with 2012 due to an increase in purchased volumes ($11 million) and unit costs ($6 million).
+fuel expenses decreased $5 million in 2013 compared with 2012 due to lower unit costs ($14 million), offset by higher sendout volumes ($9 million).
+other operations and maintenance expense increased $19 million due primarily to higher pension expense ($17 million).
+depreciation and amortization increased $3 million due to higher steam utility plant balances.
+taxes, other than income taxes increased $4 million principally due to higher property taxes.
+taxes, other than income taxes at over $1.8 billion, taxes other than income taxes remain one of ceconys largest operating expenses. the principal components of, and variations in, taxes other than income taxes were:
+(millions of dollars)                               2013                  2012                      increase/
+(decrease)
+property taxes                                             $1,408                $1,351                   $57   (a)
+state and local taxes related to revenue receipts             328                   318                    10
+payroll taxes                                                  63                    66                    (3     )
+other taxes                                                    17                    12                     5
+total                                                      $1,816   (b)          $1,747   (b)             $69
+(a)   property taxes increased $57 million reflecting primarily higher capital investments.
+
+(b)   including sales tax on customers bills, total taxes other than income taxes, billed to customers in 2013 and 2012 were $2,255 million and $2,185 million, respectively.
+
+54   con edison annual report 2014
+managements discussion and analysis of financial condition and results of operations  continued net interest expense net interest expense decreased $24 million in 2013 compared with 2012 due primarily to lower interest charges on long-term debt and lower accrued interest as a result of certain federal income tax benefits. see note l to the financial statements in item 8.
+income tax expense income taxes decreased $9 million in 2013 compared with 2012 due primarily to income tax benefits recognized in 2013 upon completion of irs audits of the companies federal income tax returns for the tax years 1998 through 2011.
+preferred stock dividend requirements preferred stock dividend requirements decreased $3 million in 2013 compared with 2012 due to the companys redemption, in may 2012, of all of its outstanding shares of $5 cumulative preferred stock and cumulative preferred stock ($100 par value).
+o&r twelve months ended                             twelve months ended december 31, 2013                               december 31, 2012
+(millions of dollars)                 electric                     gas      2013      electric                     gas      2012     2013-2012
+total                                           total     variation operating revenues                        $628                    $205      $833          $592                    $203      $795           $38
+purchased power                            217                       -       217           198                       -       198            19
+gas purchased for resale                     -                      76        76             -                      69        69             7
+other operations and maintenance           238                      64       302           227                      64       291            11
+depreciation and amortization               41                      15        56            38                      15        53             3
+taxes, other than income taxes              45                      17        62            46                      15        61             1
+operating income                           $87                     $33      $120           $83                     $40      $123           $(3   )
+electric o&rs results of electric operations for the year ended december 31, 2013 compared with the year ended december 31, 2012 is as follows:
+twelve months ended
+(millions of dollars)                 december 31,                  december 31,     variation
+2013                          2012
+operating revenues                            $628                          $592           $36
+purchased power                                217                           198            19
+other operations and maintenance               238                           227            11
+depreciation and amortization                   41                            38             3
+taxes, other than income taxes                  45                            46            (1   )
+electric operating income                      $87                           $83            $4
+con edison annual report 2014   55
+managements discussion and analysis of financial condition and results of operations  continued o&rs electric sales and deliveries in 2013 compared with 2012 were:
+millions of kwhs delivered                                                                                                                                            revenues in millions(a)
+twelve months ended                                                                                                           twelve months ended description                   december 31,                  december 31,              variation             percent                  december 31,                  december 31,             variation               percent
+2013                          2012                                            variation                        2013                          2012                                   variation residential/religious(b)                1,580                         1,632                   (52   )              (3.2   )%                 $287                          $272                   $15                   5.5   %
+commercial/industrial         871                           945                               (74   )              (7.8   )                   129                           123                     6                   4.9
+energy choice customers                 3,166                         3,040           126                   4.1                               192                           178                    14                   7.9
+public authorities            104                           114                               (10   )              (8.8   )                    11                            10                     1                  10.0
+other operating revenues(c)                 -                             -                     -                     -                         9                             9                     -                     -
+total                                   5,721                         5,731                   (10   )              (0.2   )%(d)              $628                          $592                   $36                   6.1   %
+(a)           o&amp;rs new york electric delivery revenues are subject to a revenue decoupling mechanism, as a result of which delivery revenues are generally not affected by changes in delivery volumes from levels assumed when rates were approved. o&amp;rs electric sales in new jersey and pennsylvania are not subject to a decoupling mechanism, and as a result, changes in such volumes do impact revenues.
+
+(b)   residential/religious generally includes single-family dwellings, individual apartments in multi-family dwellings, religious organizations and certain other not-for-profit organizations.
+
+(c)   other electric operating revenues generally reflect changes in regulatory assets and liabilities in accordance with the companys electric rate plan. see note b to the financial statements in item 8.
+
+(d)   after adjusting for weather and other variations, electric delivery volumes in o&amp;rs service area decreased 0.8 percent in 2013 compared with 2012.
+
+operating revenues increased $36 million in 2013 compared with 2012 due primarily to higher purchased power expenses ($19 million) and higher revenues from the new york electric rate plan ($14 million).
+purchased power expenses increased $19 million in 2013 compared with 2012 due to an increase in unit costs ($31 million), offset by a decrease in purchased volumes ($12 million).
+other operations and maintenance expenses increased $11 million due primarily to changes in storm costs ($5 million) and an increase in surcharges for assessments and fees that are collected in revenues from customers ($4 million).
+depreciation and amortization increased $3 million due primarily to higher electric utility plant balances.
+taxes, other than income taxes decreased $1 million principally due to lower property taxes.
+gas o&rs results of gas operations for the year ended december 31, 2013 compared with the year ended december 31, 2012 is as follows:
+twelve months ended
+(millions of dollars)                 december 31,                  december 31,     variation
+2013                          2012
+operating revenues                            $205                          $203            $2
+gas purchased for resale                        76                            69             7
+other operations and maintenance                64                            64             -
+depreciation and amortization                   15                            15             -
+taxes, other than income taxes                  17                            15             2
+gas operating income                           $33                           $40           $(7   )
+56   con edison annual report 2014
+managements discussion and analysis of financial condition and results of operations  continued o&rs gas sales and deliveries, excluding off-system sales, in 2013 compared with 2012 were:
+thousands of dt delivered                                                                                                                                             revenues in millions(a)
+twelve months ended                                                                                                          twelve months ended description                           december 31,                  december 31,                 variation               percent            december 31,                  december 31,             variation                percent
+2013                          2012                                               variation                    2013                          2012                                    variation residential                                     7,253                         6,291                    962                  15.3     %               $97                           $88                    $9                   10.2   %
+general                                         1,555                         1,248                    307                  24.6                      18                            15                     3                   20.0
+firm transportation                            12,062                        10,505                  1,557                  14.8                      77                            76                     1                    1.3
+total firm sales and transportation            20,870                        18,044                  2,826                  15.7   (b)               192                           179                    13                    7.3
+interruptible sales                             4,118                         4,326                   (208   )              (4.8     )                 3                             4                    (1   )              (25.0   )
+generation plants                     19                            15                                   4                  26.7                       -                             -                     -                      -
+other                                 885                           793                                 92                  11.6                       -                             -                     -                      -
+other gas revenues                                  -                             -                      -                     -                      10                            20                   (10   )              (50.0   )
+total                                          25,892                        23,178                  2,714                  11.7     %              $205                          $203                    $2                    1.0   %
+(a)   revenues from new york gas sales are subject to a weather normalization clause and a revenue decoupling mechanism as a result of which delivery revenues are generally not affected by changes in delivery volumes from levels assumed when rates were approved.
+
+(b)   after adjusting for weather and other variations, total firm sales and transportation volumes increased 0.2 percent in 2013 compared with 2012.
+
+operating revenues increased $2 million in 2013 compared with 2012 due primarily to the increase in gas purchased for resale in 2013 ($7 million), offset in part by the gas rate plan.
+gas purchased for resale increased $7 million in 2013 compared with 2012 due to an increase in purchased volumes ($23 million), offset by a decrease in unit costs ($16 million).
+taxes other than income taxes increased $2 million principally due to higher property taxes.
+taxes, other than income taxes taxes, other than income taxes, increased $1 million in 2013 compared with 2012. the principal components of taxes, other than income taxes, were:
+(millions of dollars)                               2013              2012                  increase/
+(decrease)
+property taxes                                            $43               $41                    $2
+state and local taxes related to revenue receipts          12                13                    (1   )
+payroll taxes                                               7                 6                     1
+other taxes                                                 -                 1                    (1   )
+total                                                     $62   (a)         $61   (a)              $1
+(a)   including sales tax on customers bills, total taxes other than income taxes, billed to customers in 2013 and 2012 were $87 million and $80 million, respectively.
+
+other income (deductions)
+other income (deductions) decreased $1 million in 2013 compared with 2012.
+net interest expense net interest expense increased $7 million in 2013 compared with 2012 reflecting changes to accrued interest resulting from adjustments to prior year federal income tax returns.
+income tax expense income taxes decreased $12 million in 2013 compared with 2012 due primarily to changes in estimates of accumulated deferred income taxes.
+con edison annual report 2014   57
+managements discussion and analysis of financial condition and results of operations  continued competitive energy businesses the competitive energy businesses results of operations for the year ended december 31, 2013 compared with the year ended december 31, 2012 is as follows:
+twelve months ended
+(millions of dollars)                 december 31,                  december 31,   variation
+2013                          2012
+operating revenues                          $1,096                        $1,213   $(117         )
+purchased power                                861                           950           (89   )
+gas purchased for resale                        27                             5   22
+other operations and maintenance               105                           107            (2   )
+depreciation and amortization                   23                             8   15
+taxes, other than income taxes                  17                            18            (1   )
+operating income                               $63                          $125   $(62          )
+operating revenues decreased $117 million in 2013 compared with 2012, due primarily to lower electric retail and wholesale revenues ($156 million), and the impact of the termination of the lilo transactions ($27 million, see lease in/lease out transactions in note j to the financial statements in item 8). electric retail revenues decreased $99 million, due to lower sales volume ($138 million), offset by higher unit prices ($39 million). wholesale revenues decreased $57 million in 2013 as compared with 2012, due to lower sales volumes. solar revenues increased $38 million in 2013 compared with 2012 reflecting an increase in solar electric production projects in service. net mark-to-market values increased $6 million in 2013 as compared with 2012, of which $14 million in gains are reflected in revenues and $8 million in losses are reflected in purchased power expenses. other revenues increased $14 million in 2013 as compared with 2012, due primarily to higher other wholesale revenues.
+purchased power expenses decreased $89 million in 2013 compared with 2012 due primarily to lower volumes ($180 million), offset by higher unit prices ($83 million) and changes in mark-to-market values ($8 million).
+gas purchased for resale increased $22 million due primarily to higher volumes.
+depreciation and amortization increased $15 million due to higher non-utility plant balances.
+net interest expense net interest expense increased $134 million in 2013 compared to 2012 due primarily to the impact of the lilo transactions. see lease in/lease out transactions in note j to the financial statements in item 8.
+income tax expense income taxes decreased $93 million in 2013 compared with 2012 due primarily to lower income before income tax expense and a tax benefit resulting from the acceptance by the irs of the companys claim for manufacturing tax deductions.
+other for con edison, other also includes inter-company eliminations relating to operating revenues and operating expenses.
+liquidity and capital resources the companies liquidity reflects cash flows from operating, investing and financing activities, as shown on their respective consolidated statement of cash flows and as discussed below.
+the principal factors affecting con edisons liquidity are its investments in the utilities, the dividends it pays to its shareholders and the dividends it receives from the utilities and cash flows from financing activities discussed below.
+the principal factors affecting ceconys liquidity are its cash flows from operating activities, cash used in investing activities (including construction expenditures), the dividends it pays to con edison and cash flows from financing activities discussed below.
+the companies generally maintain minimal cash balances and use short-term borrowings to meet their working capital needs and other cash requirements. the companies repay their short-term borrowings using funds from long-term financings and operating activities. the utilities cost of capital, including working capital, is reflected in the rates they charge to their customers.
+58   con edison annual report 2014
+managements discussion and analysis of financial condition and results of operations  continued each of the companies believes that it will be able to meet its reasonably likely short-term and long-term cash requirements. see the companies require access to capital markets to satisfy funding requirements and the companies also face other risks that are beyond their control in item 1a, and capital requirements and resources in item 1.
+changes in the companies cash and temporary cash investments resulting from operating, investing and financing activities for the years ended december 31, 2014, 2013 and 2012 are summarized as follows:
+con edison
+(millions of dollars)            2014                   2013                      variance       2012                      variance
+2014 vs.                                 2013 vs.
+2013                                     2012
+operating activities                       $2,831                 $2,552              $279                 $2,599              $(47   )
+investing activities                       (2,759   )             (2,659   )          (100   )             (2,523   )          (136   )
+financing activities                          (47   )                387              (434   )               (330   )           717
+net change                                     25                    280              (255   )               (254   )           534
+balance at beginning of period                674                    394               280                    648              (254   )
+balance at end of period                     $699                   $674               $25                   $394              $280
+cecony
+(millions of dollars)            2014                   2013                      variance       2012                      variance
+2014 vs.                                 2013 vs.
+2013                                     2012
+operating activities                       $2,430                 $2,643             $(213   )             $2,346              $297
+investing activities                       (2,304   )             (2,417   )           113                 (1,958   )          (459   )
+financing activities                         (114   )                 54              (168   )               (407   )           461
+net change                                     12                    280              (268   )                (19   )           299
+balance at beginning of period                633                    353               280                    372               (19   )
+balance at end of period                     $645                   $633               $12                   $353              $280
+cash flows from operating activities the utilities cash flows from operating activities reflect principally their energy sales and deliveries and cost of operations. the volume of energy sales and deliveries is affected primarily by factors external to the utilities, such as growth of customer demand, weather, market prices for energy, economic conditions and measures that promote energy efficiency. under the revenue decoupling mechanisms in the utilities new york electric and gas rate plans, changes in delivery volumes from levels assumed when rates were approved may affect the timing of cash flows but generally not net income. see note b to the financial statements in item 8. the prices at which the utilities provide energy to their customers are determined in accordance with their rate plans. in general, changes in the utilities cost of purchased power, fuel and gas may affect the timing of cash flows but not net income because the costs are recovered in accordance with rate plans. see recoverable energy costs in note a to the financial statements in item 8.
+the companies cash flows from operating activities also reflect income tax payments. cash paid by con edison for income taxes, net of any refunds received was $633 million, $69 million and $46 million in 2014, 2013 and 2012, respectively (including $748 million, $163 million and $62 million for cecony in 2014, 2013 and 2012, respectively). the companies had no current federal income tax liabilities for 2012 due primarily to deduction for costs incurred in connection with superstorm sandy and deductions under the bonus depreciation provisions of the federal tax code. the american taxpayer relief act of 2012 has extended bonus depreciation provisions to assets placed in service before january 2014 (or, for certain types of assets, january 2015). in december 2014, president obama signed into law the tax increase prevention act of 2014 which extended bonus depreciation for another year through december 31, 2014. as a result, con edison is requesting a refund of $224 million of 2014 estimated federal tax payments (including $128 million attributable to cecony). see note l to the financial statements in item 8.
+net income is the result of cash and non-cash (or accrual) transactions. only cash transactions affect the companies cash flows from operating activities. principal non-cash charges or credits include depreciation, deferred income tax expense and amortizations of certain regulatory assets and liabilities. non-cash charges or credits may also be accrued under the revenue decoupling and cost reconciliation mechanisms in the utilities new york electric and gas rate plans. see rate plans  cecony electric and gas and o&r  electric and gas in note b to the financial statements in item 8.
+net cash flows from operating activities in 2014 for con edison and cecony were $279 million higher and $213 million lower, respectively, than in 2013. the increase in net cash flows for con edison reflects primarily the decreased pension contributions ($303 million) in 2014. the decrease in net cash for cecony reflects higher income tax payments ($585 million) in 2014, offset in part by decreased pension contributions ($286 million) in 2014. the companies contributed $584 million and $887 million (of which $544 million and $830 million was contributed by cecony) to the pension plan during 2014 and 2013, respectively.
+net cash flows from operating activities in 2013 for con edison and cecony were $47 million lower and $297 million higher, respectively, than in 2012. the decrease in net cash flows for con edison reflects a special deposit the company made with federal and state tax agencies relating primarily to the lilo transactions. see lease in/lease out transactions in note j to con edison annual report 2014   59
+managements discussion and analysis of financial condition and results of operations  continued the financial statements in item 8. the increase in net cash for cecony reflects receipt of a property tax refund from the city of new york.
+the change in net cash flows also reflects the timing of payments for and recovery of energy costs. this timing is reflected within changes to accounts receivable  customers, recoverable energy costs and accounts payable balances.
+the changes in regulatory assets principally reflect changes in deferred pension costs in accordance with the accounting rules for retirement benefits. see notes a, b and e to the financial statements in item 8.
+cash flows used in investing activities net cash flows used in investing activities for con edison and cecony were $100 million higher and $113 million lower, respectively, in 2014 than in 2013. for con edison, the change reflects primarily the proceeds from the termination of the lilo transactions in 2013 ($200 million) and increased investments in renewable electric production projects ($108 million), offset by proceeds from sale relating to its solar electric production projects in 2014 ($108 million, see note q to the financial statements in item 8). in addition, the changes for con edison and cecony reflect decreased utility construction expenditures in 2014.
+net cash flows used in investing activities for con edison and cecony were $136 million and $459 million higher, respectively, in 2013 than in 2012. the changes for con edison and cecony reflect increased utility construction expenditures in 2013. in addition, for con edison, the change reflects increased non-utility construction expenditures, offset by receipt of grants related to solar electric production projects, decreased investments in solar electric production projects and the proceeds from the termination of the lilo transactions. see lease in/lease out transactions in note j to the financial statements in item 8.
+cash flows used in financing activities net cash flows used in financing activities in 2014 for con edison and cecony were $434 million and $168 million higher, respectively, than in 2013. net cash flows from financing activities in 2013 for con edison and cecony were $717 million and $461 million higher, respectively, than in 2012.
+net cash flows from financing activities during the years ended december 31, 2014, 2013 and 2012 reflect the following cecony transactions:
+2014
+   issued $850 million of 4.45 percent 30-year debentures, $250 million of 3.30 percent 10-year debentures and $750 million of 4.625 percent 40-year debentures, the net proceeds from the sale of which were used to repay short-term borrowings and for other general corporate purposes;
+
+   redeemed at maturity $200 million of 4.70 percent 10-year debentures; and
+
+   redeemed at maturity $275 million of 5.55 percent 5-year debentures.
+
+2013
+   issued $700 million of 3.95 percent 30-year debentures, the net proceeds from the sale of which were used to repay short-term borrowings and for other general corporate purposes;
+
+   redeemed at maturity $500 million of 4.875 percent 10-year debentures; and
+
+   redeemed at maturity $200 million of 3.85 percent 10-year debentures.
+
+2012
+   issued $400 million 4.20 percent 30-year debentures, $239 million of the net proceeds from the sale of which were used to redeem all outstanding shares of its $5 cumulative preferred stock and cumulative preferred stock ($100 par value); and
+
+   redeemed at maturity $300 million 5.625 percent 10-year debentures.
+
+o&r had no issuances of long-term debt in 2014, 2013 and 2012.
+in 2013, a con edison development subsidiary issued $219 million aggregate principal amount of 4.78 percent senior notes secured by certain of the companys california solar electric production projects. the notes have a weighted average life of 15 years and final maturity of 2037. in 2014, the company sold a 50 percent interest in the subsidiary. see note q to the financial statements in item 8.
+cash flows from financing activities of the companies also reflect commercial paper issuance. the commercial paper amounts outstanding at december 31, 2014, 2013 and 2012 and the average daily balances for 2014, 2013 and 2012 for con edison and cecony were as follows:
+2014                                          2013                                          2012
+(millions of                             out-              daily                       out-              daily                 out-              daily dollars, except                      standing            average                   standing            average             standing            average weighted average              at dec ember 31                               at dec ember 31                                  at dec yield)                                                                                                                     ember 31
+con edison                               $801               $899                     $1,451               $901                 $539               $144
+cecony                                   $451               $765                     $1,210               $598                 $421               $123
+weighted average yield                    0.4   %            0.2   %                    0.2   %            0.3   %              0.3   %            0.3   %
+60   con edison annual report 2014
+managements discussion and analysis of financial condition and results of operations  continued common stock issuances and external borrowings are sources of liquidity that could be affected by changes in credit ratings, financial performance and capital market conditions. for information about the companies credit ratings and certain financial ratios, see capital requirements and resources in item 1.
+capital requirements and resources for information about capital requirements, contractual obligations and capital resources, see capital requirements and resources in item 1.
+other changes in assets and liabilities the following table shows changes in certain assets and liabilities at december 31, 2014, compared with december 31, 2013.
+(millions of dollars)                                                         con edison                cecony
+2014 vs. 2013         2014 vs. 2013
+variance              variance assets regulatory asset  unrecognized pension and other postretirement costs            $2,116                $1,999
+investments                                                                          355                    24
+income taxes receivable                                                              224                     -
+non-utility property, less accumulated depreciation                                 (217   )                 1
+special deposits                                                                    (319   )              $(84   )
+liabilities pension and retiree benefits                                                      $2,187                $2,040
+deferred income taxes and investment tax credits                                     610                   425
+accrued taxes                                                                       (404   )                 -
+regulatory asset for unrecognized pension and other postretirement costs and liability for pension and retiree benefits the increase in the regulatory asset for unrecognized pension and other postretirement costs and the liability for pension and retiree benefits reflects the final actuarial valuation of the pension and other retiree benefit plans as measured at december 31, 2014, in accordance with the accounting rules for retirement benefits. the change in the regulatory asset also reflects the years amortization of accounting costs. the change in the liability for pension and retiree benefits reflects in part contributions to the plans made by the utilities in 2014. see notes b, e and f to the financial statements in item 8.
+investments and non-utility property, less accumulated depreciation the increase in investments and decrease in non-utility property, less accumulated depreciation for con edison primarily reflect the purchase and sale of interests in solar electric production projects. see note q to the financial statements in item 8.
+income taxes receivable the increase in income taxes receivable for con edison reflects the refund request filed with the irs in january 2015. see note l to the financial statements in item 8.
+special deposits and accrued taxes the decreases in con edisons special deposits and accrued taxes reflect applying the deposits made in 2013 against the federal and state tax liabilities in 2014 that primarily related to settling the lilo transactions. see lease in/lease out transactions in note j to the financial statements in item 8.
+deferred income taxes and investment tax credits the increase in the liability for deferred income taxes and investment tax credits reflects primarily the timing of the deduction of expenditures for utility plant which resulted in amounts being collected from customers to pay income taxes in advance of when the income tax payments will be required. for con edison, the increase also reflects the accelerated deductions for expenditures and investment tax credits primarily related to its renewable electric production projects.
+off-balance sheet arrangements the companies have interests in a number of non-consolidated variable interest entities (vies) that are accounted for under the equity method. aside from the guarantees issued by con edison development discussed below, none of the companies interests in vies meet the sec definition of off-balance sheet arrangements. for information regarding the companies vies, see note q to the financial statements in item 8.
+con edison development issued two guarantees ($63 million maximum and $31 million maximum) on behalf of two entities in which it acquired a 50 percent interest in july 2013 and march 2014, respectively (see guarantees in note h to the financial statements in item 8). the entities were formed to develop, construct and operate solar electric production facilities with a cumulative capacity of 400 mw (ac). the guarantees were issued in connection with the construction of the solar electric production facilities. con edison development is not the primary beneficiary of these entities since the power to direct the activities that most significantly impact the economics of the facilities is shared equally between con edison development and a third party. no payments have been made nor are any expected to be made under the guarantees.
+regulatory matters for information about the utilities rate plans and other regulatory matters affecting the companies, see utility regulation in item 1 and note b to the financial statements in item 8.
+con edison annual report 2014   61
+managements discussion and analysis of financial condition and results of operations  continued risk factors the companies businesses are influenced by many factors that are difficult to predict, and that involve uncertainties that may materially affect actual operating results, cash flows and financial condition. see risk factors in item 1a.
+application of critical accounting policies the companies financial statements reflect the application of their accounting policies, which conform to accounting principles generally accepted in the united states of america. the companies critical accounting policies include industry-specific accounting applicable to regulated public utilities and accounting for pensions and other postretirement benefits, contingencies, long-lived assets, derivative instruments, goodwill and leases.
+accounting for regulated public utilities the utilities are subject to the accounting rules for regulated operations and the accounting requirements of the ferc and the state public utility regulatory commissions having jurisdiction.
+the accounting rules for regulated operations specify the economic effects that result from the causal relationship of costs and revenues in the rate-regulated environment and how these effects are to be accounted for by a regulated enterprise. revenues intended to cover some costs may be recorded either before or after the costs are incurred. if regulation provides assurance that incurred costs will be recovered in the future, these costs would be recorded as deferred charges or regulatory assets under the accounting rules for regulated operations. if revenues are recorded for costs that are expected to be incurred in the future, these revenues would be recorded as deferred credits or regulatory liabilities under the accounting rules for regulated operations.
+the utilities principal regulatory assets and liabilities are listed in note b to the financial statements in item 8. the utilities are each receiving or being credited with a return on all regulatory assets for which a cash outflow has been made. the utilities are each paying or being charged with a return on all regulatory liabilities for which a cash inflow has been received. the regulatory assets and liabilities will be recovered from customers, or applied for customer benefit, in accordance with rate provisions approved by the applicable public utility regulatory commission.
+in the event that regulatory assets of the utilities were no longer probable of recovery, as required by the accounting rules for regulated operations, these regulatory assets would be charged to earnings. at december 31, 2014, the regulatory assets for con edison and cecony were $9,304 million and $8,613 million, respectively.
+accounting for pensions and other postretirement benefits the utilities provide pensions and other postretirement benefits to substantially all of their employees and retirees. con edisons competitive energy businesses also provide such benefits to certain of their employees. the companies account for these benefits in accordance with the accounting rules for retirement benefits. in addition, the utilities apply the accounting rules for regulated operations to account for the regulatory treatment of these obligations (which, as described in note b to the financial statements in item 8, reconciles the amounts reflected in rates for the costs of the benefit to the costs actually incurred). in applying these accounting policies, the companies have made critical estimates related to actuarial assumptions, including assumptions of expected returns on plan assets, discount rates, health care cost trends and future compensation. see notes a, e and f to the financial statements in item 8 for information about the companies pension and other postretirement benefits, the actuarial assumptions, actual performance, amortization of investment and other actuarial gains and losses and calculated plan costs for 2014, 2013 and 2012.
+the discount rate for determining the present value of future period benefit payments is determined using a model to match the durations of highly-rated (aa or higher by either moodys or s&p) corporate bonds with the projected stream of benefit payments.
+in determining the health care cost trend rate, the companies review actual recent cost trends and projected future trends.
+the cost of pension and other postretirement benefits in future periods will depend on actual returns on plan assets, assumptions for future periods, contributions and benefit experience. con edisons and ceconys current estimates for 2015 are increases, compared with 2014, in their pension and other postretirement benefits costs of $148 million and $141 million, respectively.
+62   con edison annual report 2014
+managements discussion and analysis of financial condition and results of operations  continued the following table illustrates the effect on 2015 pension and other postretirement costs of changing the critical actuarial assumptions, while holding all other actuarial assumptions constant:
+actuarial assumption                            change in          pension   other                             total assumption                    postretirement benefits
+(millions of dollars)
+increase in accounting cost:
+discount rate con edison                                          (0.25   %)         $63   $3                                  $66
+cecony                                              (0.25   %)         $59   $2                                  $61
+expected return on plan assets con edison                                          (0.25   %)         $27   $2                                  $29
+cecony                                              (0.25   %)         $26   $2                                  $28
+health care trend rate con edison                                           1.00    %          $-   $(5                         )       $(5   )
+cecony                                               1.00    %          $-   $(9                         )       $(9   )
+increase in projected benefit obligation:
+discount rate con edison                                          (0.25   %)        $609   $41                                $650
+cecony                                              (0.25   %)        $573   $33                                $606
+health care trend rate con edison                                           1.00    %          $-   $(21                        )      $(21   )
+cecony                                               1.00    %          $-   $(43                        )      $(43   )
+a 5.0 percentage point variation in the actual annual return in 2015, as compared with the expected annual asset return of 7.80 percent, would change pension and other postretirement benefit costs for con edison and cecony by approximately $22 million and $20 million, respectively, in 2016.
+pension benefits are provided through a pension plan maintained by con edison to which cecony, o&r and the competitive energy businesses make contributions for their participating employees. pension accounting by the utilities includes an allocation of plan assets.
+the companies policy is to fund their pension and other postretirement benefit accounting costs to the extent tax deductible, and for the utilities, to the extent these costs are recovered under their rate plans. the companies were not required to make cash contributions to the pension plan in 2014 under funding regulations and tax laws. however, cecony and o&r made discretionary contributions to the pension plan in 2014 of $535 million and $43 million, respectively. in 2015, cecony and o&r expect to make contributions to the pension plan of $703 million and $53 million, respectively. see expected contributions in notes e and f to the financial statements in item 8.
+accounting for contingencies the accounting rules for contingencies apply to an existing condition, situation or set of circumstances involving uncertainty as to possible loss that will ultimately be resolved when one or more future events occur or fail to occur. known material contingencies, which are described in the notes to the financial statements, include certain regulatory matters (note b), the utilities responsibility for hazardous substances, such as asbestos, pcbs and coal tar that have been used or generated in the course of operations (note g); and other contingencies (note h). in accordance with the accounting rules, the companies have accrued estimates of losses relating to the contingencies as to which loss is probable and can be reasonably estimated and no liability has been accrued for contingencies as to which loss is not probable or cannot be reasonably estimated.
+the utilities generally recover costs for asbestos lawsuits, workers compensation and environmental remediation pursuant to their current rate plans. changes during the terms of the rate plans to the amounts accrued for these contingencies would not impact earnings.
+accounting for long-lived assets the accounting rules for property, plant and equipment require that certain long-lived assets must be tested for recoverability whenever events or changes in circumstances indicate their carrying amounts may not be recoverable. the carrying amount of a long-lived asset is deemed not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset. under the accounting rules, an impairment loss is recognized if the carrying amount is not recoverable from such cash flows, and exceeds its fair value, which approximates market value.
+accounting for goodwill in accordance with the accounting rules for goodwill and intangible assets, con edison is required to test goodwill for impairment annually. see note k to the financial statements in item 8. goodwill is tested for impairment using a two-step approach. the first step of the goodwill impairment test compares the estimated fair value of a reporting unit with its carrying value, including goodwill. if the estimated fair value of a reporting unit exceeds its carrying value, goodwill of the reporting unit is considered not impaired. if the carrying value exceeds the estimated fair value of the reporting unit, the second step is performed to measure the amount of impairment loss, if any. the second step requires a calculation of the implied fair value of goodwill.
+goodwill was $429 million at december 31, 2014, which consists of $406 million related to the o&r merger and $23 million related to two energy services companies acquired by con edison solutions and a gas storage company acquired by con edison development. the most recent tests, which were con edison annual report 2014   63
+managements discussion and analysis of financial condition and results of operations  continued performed during 2014, did not require any second-step assessment and did not result in any impairment. the companys most significant assumptions surrounding the goodwill impairment tests relate to the estimates of reporting unit fair values. the company estimated fair values based primarily on discounted cash flows and on market values for a proxy group of companies. estimates of future cash flows, projected growth rates and discount rates inherent in the cash flow estimates for the energy services companies and gas storage company may vary significantly from actual results, which could result in a future impairment of goodwill.
+accounting for derivative instruments the companies apply the accounting rules for derivatives and hedging to their derivative financial instruments. the companies use derivative financial instruments to hedge market price fluctuations in related underlying transactions for the physical purchase and sale of electricity and gas and interest rate risk on certain debt securities. the utilities are permitted by their respective regulators to reflect in rates all reasonably incurred gains and losses on these instruments. see financial and commodity market risks below and note o to the financial statements in item 8.
+where the companies are required to make mark-to-market estimates pursuant to the accounting rules, the estimates of gains and losses at a particular period end do not reflect the end results of particular transactions, and will most likely not reflect the actual gain or loss at the conclusion of a transaction. substantially all of the estimated gains or losses are based on prices supplied by external sources such as the fair value of exchange-traded futures and options and the fair value of positions for which price quotations are available through or derived from brokers or other market sources.
+accounting for leases the companies apply the accounting rules for leases and other related pronouncements to their leasing transactions. in accordance with the accounting rules, con edison accounted for con edison developments two lease in/lease out or lilo transactions as leveraged leases. at december 31, 2012, the companys investment in these leases, net of non-recourse debt, was carried as a single amount in con edisons consolidated balance sheet included in item 8. in 2013, a court disallowed tax losses claimed by con edison relating to con edison developments lilo transactions and the company subsequently terminated the transactions, resulting in charges to earnings of $95 million (after taxes of $63 million) and $1 million in 2013 and 2014, respectively. the transactions did not impact earnings in 2012. see notes j and l to the financial statements in item 8.
+financial and commodity market risks the companies are subject to various risks and uncertainties associated with financial and commodity markets. the most significant market risks include interest rate risk, commodity price risk, credit risk and investment risk.
+interest rate risk the interest rate risk relates primarily to variable rate debt and to new debt financing needed to fund capital requirements, including the construction expenditures of the utilities and maturing debt securities. con edison and its businesses manage interest rate risk through the issuance of mostly fixed-rate debt with varying maturities and through opportunistic refinancing of debt. con edison and cecony estimate that at december 31, 2014, a 10 percent variation in interest rates applicable to its variable rate debt would not result in material changes in annual interest expense. under ceconys current gas, steam and electric rate plans, variations in actual variable rate tax-exempt debt interest expense are reconciled to levels reflected in rates. under o&rs current new york rate plans, variations in actual tax-exempt (and under the gas rate plan, taxable) long-term debt interest expense are reconciled to the level set in rates.
+commodity price risk con edisons commodity price risk relates primarily to the purchase and sale of electricity, gas and related derivative instruments. the utilities and con edisons competitive energy businesses apply risk management strategies to mitigate their related exposures. see note o to the financial statements in item 8.
+con edison estimates that, as of december 31, 2014, a 10 percent decline in market prices would result in a decline in fair value of $53 million for the derivative instruments used by the utilities to hedge purchases of electricity and gas, of which $47 million is for cecony and $6 million is for o&r. con edison expects that any such change in fair value would be largely offset by directionally opposite changes in the cost of the electricity and gas purchased. in accordance with provisions approved by state regulators, the utilities generally recover from customers the costs they incur for energy purchased for their customers, including gains and losses on certain derivative instruments used to hedge energy purchased and related costs. see recoverable energy costs in note a to the financial statements in item 8.
+con edisons competitive energy businesses use a value-at-risk (var) model to assess the market price risk of their portfolio of electricity and gas commodity fixed-price purchase and sales commitments, physical forward contracts, generating assets and commodity derivative instruments. var represents the potential change in fair value of the portfolio due to changes in market prices, for a specified time period and confidence level. these
+64   con edison annual report 2014
+managements discussion and analysis of financial condition and results of operations  continued businesses estimate var across their portfolio using a delta-normal variance/covariance model with a 95 percent confidence level. since the var calculation involves complex methodologies and estimates and assumptions that are based on past experience, it is not necessarily indicative of future results. var for the portfolio, assuming a one-day holding period, for the years ended december 31, 2014 and 2013, respectively, was as follows:
+95% confidence level, one-day holding   2014                  2013
+period
+(millions of dollars)
+average for the period                             $1                      $1
+high                                                7                       1
+low                                                 -                       -
+the competitive energy businesses compare the measured var results against performance due to actual prices and stress test the portfolio each quarter using an assumed 30 percent price change from forecast. the stress test includes an assessment of the impact of volume changes on the portfolio because the businesses generally commit to sell their customers their actual requirements, an amount which is estimated when the sales commitments are made. the businesses limit the volume of commodity derivative instruments entered into relative to their estimated sale commitments to maintain net market price exposures to their estimated sale commitments within a certain percentage of maximum and minimum exposures.
+credit risk the companies are exposed to credit risk related to transactions entered into primarily for the various energy supply and hedging activities by the utilities and the competitive energy businesses. see credit exposure in note o to the financial statements in item 8.
+investment risk the companies investment risk relates to the investment of plan assets for their pension and other postretirement benefit plans. see application of critical accounting policies  accounting for pensions and other postretirement benefits, above and notes e and f to the financial statements in item 8. the companies current investment policy for pension plan assets includes investment targets of 58 percent equities and 42 percent fixed income and other securities. at december 31, 2014, the pension plan investments consisted of 58 percent equity and 42 percent fixed income and other securities.
+environmental matters for information concerning climate change, environmental sustainability, potential liabilities arising from laws and regulations protecting the environment and other environmental matters, see environmental matters in item 1 and note g to the financial statements in item 8.
+impact of inflation the companies are affected by the decline in the purchasing power of the dollar caused by inflation. regulation permits the utilities to recover through depreciation only the historical cost of their plant assets even though in an inflationary economy the cost to replace the assets upon their retirement will substantially exceed historical costs. the impact is, however, partially offset by the repayment of the companies long-term debt in dollars of lesser value than the dollars originally borrowed.
+material contingencies for information concerning potential liabilities arising from the companies material contingencies, see application of critical accounting policies  accounting for contingencies, above, and notes b, g and h to the financial statements in item 8.

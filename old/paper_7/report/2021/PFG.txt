@@ -1,0 +1,927 @@
+management's discussion and analysis of financial condition and results of operations" in our annual report on form 10-k for the year ended december 31, 2020.
+forward-looking information our narrative analysis below contains forward-looking statements intended to enhance the reader's ability to assess our future financial performance. forward-looking statements include, but are not limited to, statements that represent our beliefs concerning future operations, strategies, financial results or other developments, and contain words and phrases such as "anticipate," "believe," "plan," "estimate," "expect," "intend" and similar expressions. forward-looking statements are made based upon management's current expectations and beliefs concerning future developments and their potential effects on us. such forward-looking statements are not guarantees of future performance.
+actual results may differ materially from those included in the forward-looking statements as a result of risks and uncertainties. those risks and uncertainties include, but are not limited to, the risk factors listed in item 1a. "risk factors."
+overview we provide financial products and services through the following reportable segments:
+●   retirement and income solutions;
+
+●   principal global investors;
+
+●   principal international and
+
+●   u.s. insurance solutions.
+
+we also have a corporate segment, which consists of the assets and activities that have not been allocated to any other segment. see item 1. "business" for a description of our reportable segments.
+recent event reinsurance transaction see item 1. "business," for information about the reinsurance transaction and item 1a. "risk factors," for information on risks associated with the reinsurance transaction.
+economic factors and trends positive market performance led to an increase in account values in our retirement and income solutions segment in 2021. since account values is the base by which this business generates revenues, market performance volatility may impact our revenues in future quarters.
+positive market performance led to an increase in aum managed by our principal global investors segment in 2021. since aum is the base by which this business generates revenues, market performance volatility may impact our revenues in future quarters. also included in revenues are borrower fees, transaction fees and performance fees, which can fluctuate between years.
+in our principal international segment, local currency aum is a key indicator of earnings growth. while local currency aum increased due to favorable market performance and positive net cash flow, the impacts were negatively impacted by foreign currency fluctuations.
+45
+in our u.s. insurance solutions segment, premium and fee growth is a key indicator of earnings growth. higher levels of unemployment may impact new sales in our businesses and reduce in-group growth in our specialty benefits insurance business in the short-term.
+see item 1a. "risk factors," for information on risks associated with the covid-19 pandemic and the resulting financial market impacts.
+profitability our profitability depends in large part upon our:
+●   amount of aum;
+
+●   ability to manage the difference between the investment income we earn and the interest we credit to policyholders;
+
+●   ability to generate fee revenues by providing trust and custody,administrative and investment management services;
+
+●   ability to price our insurance products at a level that enables us to earn a margin over the cost of providing benefits and the related expenses;
+
+●   ability to manage our investment portfolio to maximize investment returns and minimize risks such as interest rate changes or defaults or impairments of invested assets;
+
+●   ability to effectively hedge fluctuations in foreign currency to u.s. dollar exchange rates on certain transactions and
+
+●   ability to manage our operating expenses.
+
+critical accounting policies and estimates the increasing complexity of the business environment and applicable authoritative accounting guidance requires us to closely monitor our accounting policies. our significant accounting policies are described in item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 1, nature of operations and significant accounting policies." we have identified critical accounting policies that are complex and require significant judgment and estimates about matters that are inherently uncertain. a summary of our critical accounting policies is intended to enhance the reader's ability to assess our financial condition and results of operations and the potential volatility due to changes in estimates and changes in guidance. the identification, selection and disclosure of critical accounting estimates and policies have been discussed with the audit committee of the board of directors.
+valuation and allowance for credit loss of fixed income investments fixed maturities. fixed maturities include bonds, asset-backed securities ("abs"), redeemable preferred stock and certain non-redeemable preferred securities. we classify our fixed maturities as either afs or trading and, accordingly, carry them at fair value in the consolidated statements of financial position. volatility in net income can result from changes in fair value of fixed maturities classified as trading. volatility in other comprehensive income can result from changes in fair value of fixed maturities classified as afs.
+we measure the fair value of our financial assets and liabilities based on assumptions used by market participants in pricing the asset or liability, which may include inherent risk, restrictions on the sale or use of an asset, or nonperformance risk, including our own credit risk. for additional details concerning the methodologies, assumptions and inputs utilized see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 14, fair value measurements" under the caption, "determination of fair value."
+46
+the fair values of our public fixed maturities are primarily based on market prices from third party pricing vendors. we have regular interactions with these vendors to ensure we understand their pricing methodologies and to confirm they are utilizing observable market information. in addition, 9% of our invested asset portfolio as of december 31, 2021, was invested in privately placed fixed maturities with no readily available market quotes to determine the fair market value. the majority of these assets are valued using a matrix pricing valuation approach that utilizes observable market inputs. in the matrix approach, securities are grouped into pricing categories that vary by sector, rating and average life. each pricing category is assigned a risk spread based on observable public market data. the expected cash flows of the security are then discounted back at the current treasury curve plus the appropriate risk spread. although the matrix valuation approach provides a fair valuation of each pricing category, the valuation of an individual security within each pricing category may be impacted by company specific factors. this excludes privately placed securities subject to rule 144a of the securities act of 1933 that are primarily based on market prices from third party pricing vendors, similar to public fixed maturities.
+if we are unable to price a fixed maturity security using prices from third party pricing vendors or other sources specific to the asset class, we may obtain a broker quote or utilize an internal pricing model specific to the asset utilizing relevant market information, to the extent available and where at least one significant unobservable input is utilized. these are reflected in level 3 in the fair value hierarchy and can include fixed maturities across all asset classes. as of december 31, 2021, approximately 1% of our total fixed maturities were level 3 securities valued using internal pricing models. see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 14, fair value measurements" for further discussion.
+the $2,299.2 million decrease in net unrealized gains from u.s. investment operations for the year ended december 31, 2021, can be attributed to an approximate 51 basis point increase in interest rates, partially offset by tightening of credit spreads. for additional information about interest rate risk see item 7a. "quantitative and qualitative disclosures about market risk."
+we have a process in place to identify fixed maturity securities that could potentially require an allowance for credit loss. this process involves monitoring market events that could impact issuers' credit ratings, business climate, management changes, litigation and government actions and other similar factors. this process also involves monitoring late payments, pricing levels, downgrades by rating agencies, key financial ratios, financial statements, revenue forecasts and cash flow projections as indicators of credit issues.
+each reporting period, all securities in an unrealized loss position are reviewed to determine whether a decline in value is due to credit. relevant facts and circumstances considered include: (1) the extent the fair value is below cost; (2) the reasons for the decline in value; (3) the financial position and access to capital of the issuer, including the current and future impact of any specific events and (4) for structured securities, the adequacy of the expected cash flows. to the extent we determine an unrealized loss is due to credit, an allowance for credit loss is recognized through a reduction to net income. see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 4, investments" under the caption, "allowance for credit loss" for further discussion.
+a number of significant risks and uncertainties are inherent in the process of monitoring credit losses and determining the allowance for credit loss. these risks and uncertainties include: (1) the risk that our assessment of an issuer's ability to meet all of its contractual obligations will change based on changes in the credit characteristics of that issuer; (2) the risk that the economic outlook will be worse than expected or have more of an impact on the issuer than anticipated; (3) the risk that our investment professionals are making decisions based on fraudulent or misstated information in the financial statements provided by issuers and (4) the risk that new information obtained by us or changes in other facts and circumstances lead us to change our intent to not sell the security prior to recovery of its amortized cost. any of these situations could result in a charge to net income in a future period. as of december 31, 2021, we had $17,603.9 million in afs fixed maturities with gross unrealized losses totaling $406.4 million. included in the gross unrealized losses are losses attributable to both movements in market interest rates as well as movement in credit spreads.
+prior to the implementation of authoritative guidance in 2020, fixed maturities classified as afs were subject to impairment reviews. to the extent we determined a security was deemed to be other than temporarily impaired, an impairment loss was recognized. see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 4, investments" under the caption, "other-than-temporary impairments" for further discussion.
+mortgage loans. mortgage loans consist primarily of commercial mortgage loans on real estate. commercial mortgage loans on real estate are generally reported at cost adjusted for amortization of premiums and accrual of discounts, computed using the interest method and net of valuation allowances. we establish a valuation allowance for the risk of credit losses inherent in our mortgage loans, which is maintained at a level believed adequate by management to absorb estimated expected credit losses. the valuation allowance is based on amortized cost excluding accrued interest receivable and includes reserves for pools of financing receivables with similar risk characteristics. amounts on loans deemed to be uncollectible are charged off and removed from the valuation allowance. the change in the valuation allowance provision is included in net realized capital gains (losses) on our consolidated statements of operations.
+47
+prior to the implementation of authoritative guidance in 2020, the valuation allowance for mortgage loans was based on either individual or collective evaluation. for more detailed information concerning mortgage loan valuation allowances, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 4, investments" under the caption, "financing receivables valuation allowance."
+derivatives we use derivatives primarily to hedge or reduce exposure to market risks. the fair values of exchange-traded derivatives are determined through quoted market prices. exchange-traded derivatives include futures that are settled daily, which reduces their fair value in the consolidated statements of financial position. the fair values of privately negotiated contracts, which are usually referred to as over-the-counter ("otc") derivatives, that are cleared through centralized clearinghouses are determined through market prices published by the clearinghouses. variation margin associated with otc cleared derivatives is settled daily, which reduces their fair value in the consolidated statements of financial position. the fair values of non-cleared otc derivatives are determined using either pricing valuation models that utilize market observable inputs or broker quotes. on an absolute fair value basis as of december 31, 2021, the majority of our otc derivative assets and liabilities were valued using pricing valuation models using market observable data with less than 1% using broker quotes. see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 14, fair value measurements" for further discussion. the fair values of our derivative instruments can be impacted by changes in interest rates, foreign exchange rates, credit spreads, equity indices and volatility, as well as other contributing factors. for additional information see item 7a. "quantitative and qualitative disclosures about market risk."
+we also issue certain annuity, universal life and other contracts that include embedded derivatives that have been bifurcated from the host contract. they are valued using a combination of historical data and actuarial judgment. see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 14, fair value measurements" for further discussion. we include our assumption for own nonperformance risk in the valuation of these embedded derivatives. as our credit spreads widen or tighten, the fair value of the embedded derivative liabilities decrease or increase, leading to an increase or decrease in net income. if the current market credit spreads reflecting our own creditworthiness move to zero (tighten), the reduction to net income would be approximately $176.4 million, net of dac and income taxes, based on december 31, 2021, reported amounts. in addition, the policyholder behavior assumptions used in the valuation of embedded derivatives include risk margins, which increase the fair value of the embedded derivative liabilities.
+the accounting for derivatives is complex and interpretations of the applicable accounting standards continue to evolve. judgment is applied in determining the availability and application of hedge accounting designations and the appropriate accounting treatment. judgment and estimates are used to determine the fair value of some of our derivatives. volatility in net income can result from changes in fair value of derivatives that do not qualify or are not designated for hedge accounting and changes in fair value of embedded derivatives.
+deferred acquisition costs and other actuarial balances incremental direct costs of contract acquisition as well as certain costs directly related to acquisition activities (underwriting, policy issuance and processing, medical and inspection and sales force contract selling) for the successful acquisition of new and renewal insurance policies and investment contract business are capitalized to the extent recoverable. maintenance costs and acquisition costs that are not deferrable are charged to net income as incurred.
+amortization based on estimated gross profits. dac for universal life-type insurance contracts and certain investment contracts are generally amortized over the expected lifetime of the contracts in relation to estimated gross profits ("egps"). in addition to dac, the following actuarial balances are also amortized in relation to egps.
+●   sales inducement asset - sales inducements are amounts that are credited to the contractholder's account balance as an inducement to purchase the contract. like dac, the cost of the sales inducement is capitalized and amortized over the expected life of the contract, in proportion to egps.
+
+●   unearned revenue liability - an unearned revenue liability is established when we collect fees or other policyholder assessments that represent compensation for services to be provided in future periods. these revenues are deferred and then amortized over the expected life of the contract, in proportion to egps.
+
+●   reinsurance asset or liability - for universal-life type products that are reinsured, a reinsurance asset or liability is established to spread the expected net reinsurance costs or profits in proportion to the egps on the underlying business.
+
+48
+we also have additional benefit reserves that are established for annuity or universal life-type contracts that provide benefit features that are expected to produce gains in early years followed by losses in later years. the liabilities are accrued in relation to estimated contract assessments, and they are based on assumptions and methodologies similar to those used in the calculation of egps. for more information, see "insurance reserves ."
+key assumptions used in the calculation of egps include mortality, lapses, equity returns, general account investment yields and expenses as well as the change in our liability for certain guarantees and the difference between actual and expected reinsurance premiums and recoveries, depending on the nature of the contract. our general account investment yield assumption reflects our long-term projections of interest rates and net realized capital gains (losses). we develop an estimate of egps at issue and each valuation date. as actual experience and market conditions emerge, the gross profits may vary from those expected either in magnitude or timing, in which case a true-up of actuarial balances occurs as a charge or credit to current net income. in addition, we are required to revise our assumptions regarding future experience if actual experience or other evidence suggests that earlier estimates should be revised; we refer to this as unlocking. both actions, reflecting actual experience and market conditions and changing future estimates, can change both the current amount and the future amortization pattern of the dac asset and related actuarial balances.
+for individual variable universal life insurance, individual variable annuities and group annuities that have separate account u.s. equity investment options, we utilize a mean reversion methodology (reversion to the mean assumption), a common industry practice, to determine the future domestic equity market growth rate assumption used for the calculation of egps. if actual annualized u.s. equity market performance varies from our 8% long-term assumption, we assume different performance levels in the short-term such that the weighted average return is equal to the long-term assumption over the mean reversion period. however, our mean reversion process generally limits assumed returns to a range of 4-12% during the mean reversion period. for additional details concerning methods of dac amortization see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 1, nature of operations and significant accounting policies" under the caption, "deferred acquisition costs."
+internal replacements. we review policies for modifications that result in the exchange of an existing contract for a new contract. if the new contract is determined to be an internal replacement that is substantially changed from the replaced contract, any unamortized dac and related actuarial balances are written off and acquisition costs related to the new contract are capitalized as appropriate. if the new contract is substantially unchanged from the replaced contract, we continue to amortize the existing dac and related actuarial balances.
+recoverability. dac and sales inducement assets are subject to recoverability testing at the time of policy issue and loss recognition testing on an annual basis, or when an event occurs that may warrant loss recognition. if loss recognition or impairment is necessary, the asset balances are written off to the extent it is determined that future policy premiums and investment income or gross profits are not adequate to cover the balances.
+actuarial assumption updates. we periodically review and update actuarial assumptions that are inputs to the models for dac and other actuarial balances and make model refinements as necessary. for more information see "transactions affecting comparability of results of operations - actuarial assumption updates."
+sensitivities. as of december 31, 2021, the net balance of dac and related actuarial balances, excluding balances affected by changes in other comprehensive income ("oci"), was a $298.1 million liability. we perform sensitivity analyses to assess the impact that certain assumptions have on these balances. the following table shows the estimated immediate impact of various assumption changes on our dac and related actuarial balances.
+
+estimated impact to net income (1)
+(in millions)
+reducing the future separate account equity return assumption by 1%                           $(10)
+reducing the long-term general account fixed income investment yield assumption by 0.5%                   (60)
+(1)   reflects the net increase (decrease) impact on net income of changes to the dac asset, sales inducement asset, unearned revenue liability, reinsurance asset or liability, additional benefit reserves and related taxes. includes the impact on net income of changes in dac and related actuarial balances for our equity method subsidiaries. the dac and related actuarial balances of the equity method subsidiaries are not included in the total dac and related actuarial balances listed above as they are not fully consolidated.
+
+49
+goodwill and other intangible assets goodwill and other intangible assets with indefinite lives are not amortized. intangibles with finite lives are amortized over their estimated useful lives. we formally conduct our annual goodwill and other intangible asset impairment testing during the third quarter or more frequently if events or circumstances change that would more-likely-than-not create an impairment. goodwill is tested at the reporting unit level, which is one level below the operating segment.
+the operating segments and associated reporting units at which we perform our testing are as follows:
+●   retirement and income solutions: retirement and income solutions - fee and retirement and income solutions - spread
+
+●   principal global investors: equity investments, fixed income investments, real estate and other alternative investments, mutual funds complex
+
+●   principal international: latin america and asia
+
+●   u.s. insurance solutions: specialty benefits insurance and individual life insurance
+
+●   corporate: corporate subsidiaries
+
+annual goodwill impairment testing consists of qualitative or quantitative assessments. in the qualitative assessment, we assess relevant events and circumstances that could affect the significant inputs used to determine the fair value of the reporting unit. if when reviewing the qualitative factors it is determined it is more-likely-than-not that the fair value of a reporting unit is less than its carrying amount, a quantitative impairment test is performed.
+the determination of fair value for our reporting units is primarily based on an income approach whereby we use discounted cash flows for each reporting unit. we apply significant judgment to our discounted cash flow models when determining the estimated fair value of our reporting units. the valuation methodologies utilized are subject to key judgments and assumptions that are sensitive to change. estimates of fair value are inherently uncertain and represent only management's reasonable expectation regarding future developments. these estimates and the judgments and assumptions upon which the estimates are based will in all likelihood differ in some responses from actual future results.
+the key inputs, judgments and assumptions necessary in determining estimated fair value include:
+●   weighted average cost of capital
+
+●   long-term growth rate
+
+●   corporate income tax rate
+
+●   aum growth rate
+
+●   net revenue growth rate
+
+●   business margins on aum and net revenue
+
+for reporting units that performed a qualitative test of goodwill, we concluded the estimated fair values of all such reporting units were in excess of their carrying values and, therefore, goodwill was not impaired. for reporting units that performed a quantitative test of goodwill, the estimated fair values of all such reporting units were in excess of their carrying values and, therefore, goodwill was not impaired. we did not record material impairments of other intangibles for the year ended december 31, 2021.
+for information about our goodwill and other intangible assets, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 1, nature of operations and significant accounting policies," and "note 2, goodwill and other intangible assets."
+sensitivities. in connection with our annual impairment testing process, we performed a sensitivity analysis for goodwill impairment with respect to each of our reporting units and determined that a hypothetical 10% decline in the fair value would not result in an impairment of goodwill for any reporting unit. we cannot predict certain future events that might adversely affect the reported value of goodwill and other intangible assets that totaled $1,627.6 million and $1,600.6 million, respectively, as of december 31, 2021. such events include, but are not limited to, strategic decisions made in response to economic and competitive conditions, the impact of the economic environment on our customer base, interest rate movements, declines in the equity markets, the legal environment in which the businesses operate or a material negative change in our relationships with significant customers.
+50
+insurance reserves reserves are liabilities representing estimates of the amounts that will come due, at some point in the future, to or on behalf of our policyholders. u.s. gaap, allowing for some degree of managerial judgment, provides guidance for establishing reserves.
+future policy benefits and claims include reserves for individual traditional and group life insurance, disability, medical and long-term care insurance and individual and group annuities that provide periodic income payments. these reserves are computed using assumptions of mortality, morbidity, lapse, investment performance and expense. these assumptions are based on our experience, industry results, emerging trends and future expectations. for long-duration insurance contracts, once these assumptions are made for a given policy or group of policies, they will not be changed over the life of the policy. however, significant changes in experience or assumptions may require us to provide for expected future losses on a product by establishing premium deficiency reserves. premium deficiency reserves may also be established for short-duration contracts to provide for expected future losses. our reserve levels are reviewed throughout the year using internal analysis including, among other things, experience studies, claim development analysis and annual loss recognition analysis. to the extent experience indicates potential loss recognition, we recognize losses on certain lines of business. the ultimate accuracy of the assumptions on these long-tailed insurance products cannot be determined until the obligation of the entire block of business on which the assumptions were made is extinguished. short-term variances of actual results from the assumptions used in the computation of the reserves are reflected in current period net income and can impact quarter-to-quarter net income.
+future policy benefits and claims also include reserves for incurred but unreported disability, medical, dental, vision, critical illness, accident and life insurance claims. we recognize claims costs in the period the service was provided to our policyholders. however, claims costs incurred in a particular period are not known with certainty until after we receive, process and pay the claims. we determine the amount of this liability using actuarial methods based on historical claim payment patterns as well as emerging cost trends, where applicable, to determine our estimate of claim liabilities. we also look back to assess how our prior periods' estimates developed. to the extent appropriate, changes in such development are recorded as a change to current period claim expense. historically, the amount of the claim reserve adjustment made in subsequent reporting periods for prior period estimates have been within a reasonable range given our normal claim fluctuations.
+future policy benefits and claims also include benefit reserves that are established for annuity or universal life-type contracts that provide benefit features that are expected to produce gains in early years followed by losses in later years. the liabilities are accrued in relation to estimated contract assessments.
+we periodically review and update actuarial assumptions that are used to compute reserves. for more information see "transactions affecting comparability of results of operations - actuarial assumption updates."
+benefit plans the reported expense and liability associated with pension and opeb plans requires the use of assumptions. numerous assumptions are made regarding the discount rate, expected long-term rate of return on plan assets, turnover, expected compensation increases, health care claim costs, health care cost trends, retirement rates and mortality. the discount rate and the expected return on plan assets have the most significant impact on the level of expense.
+the assumed discount rate is determined by projecting future benefit payments inherent in the projected benefit obligation and discounting those cash flows using a spot yield curve for high quality corporate bonds. our assumed discount rates were 2.75% for our pension plans and 2.50% for our opeb plans as of december 31, 2021. typically, a 0.25% decrease in the discount rate would increase the pension benefits projected benefit obligation by approximately $151.2 million and decrease the net periodic pension cost ("nppc") by approximately $0.9 million. typically, a 0.25% decrease in the discount rate would increase the opeb accumulated postretirement benefit obligation by approximately $2.2 million and would have a nominal impact on the net periodic benefit cost ("npbc"). typically, a 0.25% increase in the discount rate would result in decreases in benefit obligations and changes in expenses at a level generally commensurate with those noted above.
+51
+the assumed long-term rate of return on plan assets is set at the long-term rate expected to be earned based on the long-term investment policy of the plans and the various classes of the invested funds. historical and future expected returns of multiple asset classes were analyzed to develop a risk-free real rate of return and risk premiums for each asset class. the overall long-term rate for each asset class was developed by combining a long-term inflation component, the real risk-free rate of return and the associated risk premium. a weighted average rate was developed based on long-term returns for each asset class, the plan's target asset allocation policy and the tax structure of the trusts. for the 2021 nppc and 2021 npbc, a 5.55% and 4.25% weighted average long-term rate of return was used, respectively. for the 2022 nppc and 2022 npbc, a 5.20% and 4.25% weighted average long-term rate of return assumption, respectively, will be used. typically, a 0.25% decrease in the assumed long-term rate of return would increase the nppc by approximately $8.6 million and the npbc by approximately $0.3 million. typically, a 0.25% increase in this rate would result in a decrease to expense at the same levels. the assumed return on plan assets is based on the fair market value of plan assets as of december 31, 2021.
+the compensation increase assumption is generally set at a rate consistent with current and expected long-term compensation and salary policy, including inflation.
+for pension costs, actuarial gains and losses are amortized using a straight-line amortization method over the average remaining service period of plan participants, which is approximately 10 years. for opeb costs, actuarial gains and losses are amortized using a straight-line amortization method over the average future lifetime of the remaining covered group of retirees, which is approximately 15 years. the qualified pension plan does not utilize the allowable corridor, while the nonqualified pension plan and opeb plans utilize the 10% corridor. prior service costs are amortized on a weighted average basis over approximately 6 years for pension costs and 6 years for opeb costs. see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 11, employee and agent benefits" for further discussion.
+income taxes we provide for income taxes based on our estimate of the liability for taxes due. our tax accounting represents management's best estimate of various events and transactions, such as completion of tax audits or establishment of, or changes to, a valuation allowance associated with certain deferred tax assets, which could affect our estimates and effective income tax rate in a particular quarter or annual period. deferred tax liabilities and assets are determined based on the difference between the financial statement and tax bases of assets and liabilities using enacted tax rates expected to be in effect during the years in which the basis differences reverse. we are required to evaluate the recoverability of our deferred tax assets each quarter and establish a valuation allowance, if necessary, to reduce our deferred tax assets to an amount that is more-likely-than-not to be realizable. in determining the need for a valuation allowance, we consider many factors, including future reversals of existing taxable temporary differences, future taxable income exclusive of reversing temporary differences and carryforwards, taxable income in prior carryback years and implementation of any feasible and prudent tax planning strategies management would employ to realize the tax benefit.
+deferred income taxes (including federal, state and foreign withholding) have not been provided on approximately $912.8 million of accumulated but undistributed earnings from operations of foreign subsidiaries as of december 31, 2021. we do not record deferred income taxes on foreign earnings not expected to be distributed to the u.s. we apply an exception to the general rule, which under u.s. gaap otherwise requires the recording of deferred income taxes on the anticipated repatriation of foreign earnings as recognized for financial reporting purposes. the exception permits us to not record a deferred income tax liability on foreign earnings we expect to be indefinitely reinvested in our foreign operations. the related deferred income taxes will be recorded in the period it becomes apparent we can no longer positively assert some or all the undistributed earnings will remain invested into the foreseeable future.
+inherent in the provision for income taxes are estimates and our expectations regarding the deductibility of certain items, the timing of income and expense recognition, future performance and the current or future realization of operating losses, capital losses and certain tax credits. we regularly evaluate the capital needs of our domestic and foreign operations considering all available information, including operating and capital plans, regulatory capital requirements, parent company financing and cash flow needs, as well as tax laws applicable to our domestic and foreign subsidiaries. in the event these estimates differ from our prior estimates due to the receipt of new information, we may be required to significantly change the provision for income taxes recorded in the consolidated financial statements. any such change could significantly affect the amounts reported in the consolidated financial statements in the year these estimates change. a significant decline in value of financial assets could lead to establishment of a valuation allowance on deferred tax assets having an adverse effect on current and future results. in management's judgment, total deferred income tax assets are more-likely-than-not to be realized.
+52
+in addition, the amount of income taxes paid is subject to audits in the u.s. as well as various state and foreign jurisdictions. tax benefits are recognized for book purposes when the more-likely-than-not threshold is met with regard to the validity of an uncertain tax position. once this threshold is met, for each uncertain tax position we recognize in earnings the largest amount of benefit that is greater than 50% likely of being realized upon ultimate settlement with the internal revenue service or other income taxing authorities for audits ongoing or not yet commenced.
+we had $12.7 million of current income tax receivables associated with outstanding audit issues as of december 31, 2021. we believe there are adequate defenses against, or sufficient provisions for, the contested issues, but final resolution of contested issues could take several years while legal remedies are pursued. consequently, we do not anticipate the ultimate resolution of audits ongoing or not yet commenced to have a material impact on our net income.
+see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 10, income taxes" for further discussion.
+transactions affecting comparability of results of operations actuarial assumption updates we periodically review and update actuarial assumptions that are inputs to the models for dac and other actuarial balances and make model refinements as necessary. assumption updates and model refinements made during the third quarter resulted in an unlocking of dac and other actuarial balances that decreased consolidated net income attributable to principal financial group, inc. by $14.2 million and $118.2 million for the years ended december 31, 2021 and 2020, respectively.
+the following table presents the increase (decrease) to pre-tax operating earnings for each segment.
+
+for the year ended december 31,
+2021                       2020
+(in millions)
+retirement and income solutions       $(67.3)                    $70.1
+principal international                        -                 2.7
+u.s. insurance solutions              34.6                                (215.1)
+the individual life insurance business actuarial assumption updates and model refinements affected several line items within our income statement. the following table presents the increase (decrease) to the individual life insurance income statement line items.
+
+for the year ended december 31,
+2021               2020
+(in millions)
+pre-tax operating earnings                     $32.1                   $(215.1)
+fees and other revenues                              (10.0)                22.4
+benefits, claims and settlement expenses             (13.0)               154.1
+dividends to policyholders                                -                 1.1
+operating expenses                                   (29.1)                82.3
+other factors affecting comparability fluctuations in foreign currency to u.s. dollar exchange rates fluctuations in foreign currency to u.s. dollar exchange rates for locations in which we have operations can affect reported financial results. in years when foreign currencies weaken against the u.s. dollar, translating foreign currencies into u.s. dollars results in fewer u.s. dollars to be reported. when foreign currencies strengthen, translating foreign currencies into u.s. dollars results in more u.s. dollars to be reported.
+foreign currency exchange rate fluctuations create variances in our financial statement line items. the most significant impact occurs within our principal international segment where pre-tax operating earnings were positively impacted $11.0 million for the year ended december 31, 2021, as a result of fluctuations in foreign currency to u.s. dollar exchange rates. this impact was calculated by comparing (a) the difference between current year results and prior year results to (b) the difference between current year results and prior year results translated using current year exchange rates for both periods. we use this approach to calculate the impact of exchange rates on all revenue and expense line items. for a discussion of our approaches to managing foreign currency exchange rate risk, see item 7a. "quantitative and qualitative disclosures about market risk - foreign currency risk."
+53
+effects of inflation the impact of inflation has not had a material effect on our annual consolidated results of operations over the past two years. however, we may be materially affected by inflation in the future.
+variable investment income variable investment income includes certain types of investment returns such as prepayment fees and income (loss) from certain elements of our other alternative asset classes, including results of value-add real estate sales activity. due to its unpredictable nature, variable investment income may or may not be material to our financial results for a given reporting period and may create variances when comparing different reporting periods. for additional information, see "investment results."
+recent accounting changes for recent accounting changes, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 1, nature of operations and significant accounting policies" under the caption, "recent accounting pronouncements."
+results of operations the following table presents summary consolidated financial information for the years indicated:
+
+for the year ended december 31, increase
+2021                                  2020               (decrease)
+(in millions)
+revenues:
+premiums and other considerations                                       $4,841.5               $6,037.4               $(1,195.9)
+fees and other revenues                                                  5,012.6                4,511.1                    501.5
+net investment income                                                    4,406.1                3,890.6                    515.5
+net realized capital gains                                                   2.5                  302.6                  (300.1)
+total revenues                                                          14,262.7               14,741.7                  (479.0)
+expenses:
+benefits, claims and settlement expenses                                 7,097.0                8,281.5                (1,184.5)
+dividends to policyholders                                                  94.8                  120.2                   (25.4)
+operating expenses                                                       4,987.3                4,646.5                    340.8
+total expenses                                                          12,179.1               13,048.2                  (869.1)
+income before income taxes                                               2,083.6                1,693.5                    390.1
+income taxes                                                               326.2                  265.0                     61.2
+net income                                                               1,757.4                1,428.5                    328.9
+net income attributable to noncontrolling interest                          46.8                   32.7                     14.1
+net income attributable to principal financial group, inc.              $1,710.6               $1,395.8                   $314.8
+year ended december 31, 2021 compared to year ended december 31, 2020
+net income attributable to principal financial group, inc.
+net income attributable to principal financial group, inc. increased primarily due to a $274.9 million after-tax increase in variable investment income and a $104.0 million less unfavorable impact of actuarial assumption updates and model refinements in 2021 compared to 2020.
+total revenues premiums decreased $1,337.4 million for the retirement and income solutions segment primarily due to lower sales of single premium group and individual annuities with life contingencies. the single premium group annuity product, which is typically used to fund defined benefit plan terminations, can generate large premiums from very few customers and therefore premiums tend to vary from period to period.
+54
+fees and other revenues increased for the principal global investors segment primarily due to $215.7 million higher management fee revenue as a result of increased average aum and a $46.1 million increase in performance fee revenue primarily in our real estate business. fees and other revenues increased $158.9 million for the retirement and income solutions segment primarily related to higher fees stemming from an increase in mean account values, which resulted from continued growth in the equity markets.
+for net investment income and net realized capital gains (losses) variance information, see "investments - investment results" under the captions "net investment income" and "net realized capital gains (losses)," respectively.
+total expenses benefits, claims and settlement expenses decreased $1,449.3 million for the retirement and income solutions segment primarily due to a lower increase in reserves, stemming from lower sales of single premium group and individual annuities with life contingencies. benefits, claims and settlement expenses increased for the principal international segment primarily due to $155.5 million higher inflation-based interest crediting rates to customers and $21.7 million foreign currency tailwinds.
+operating expenses increased for the retirement and income solutions segment primarily due to a $77.2 million impact from growth in the business and a $46.9 million increase due to variable compensation expense. operating expenses increased for the principal global investors segment primarily due to a $40.4 million increase in variable compensation expense, a $23.5 million increase in variable expenses related to increased aum and a $14.3 million increase in non-variable staff costs. operating expenses increased for the corporate segment primarily due to a $39.7 million increase in compensation costs, excluding pension and opeb expenses, largely due to an increase in incentive compensation, a $17.8 million increase in amounts credited to employee accounts in a nonqualified defined contribution pension plan and a $12.7 million increase in strategic initiatives funded by the corporate segment.
+income taxes the effective income tax rate was 16% for both the years ended december 31, 2021 and 2020. see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 10, income taxes" under the caption, "effective income tax rate" for further discussion.
+results of operations by segment for results of operations by segment see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 16, segment information."
+retirement and income solutions segment retirement and income solutions trends several key factors impact revenue and earnings growth in the retirement and income solutions segment. these factors include: the ability of our distribution channels to generate new sales and retain existing business; pricing decisions that take account of competitive conditions, persistency, investment returns, mortality trends, and operating expense levels; investment management performance; equity market returns and interest rate changes. profitability ultimately depends on our ability to price products and invest assets at a level that enables us to earn a margin over the cost of providing benefits and the expense of acquiring and administering those products.
+net revenue is a key metric used to understand retirement and income solutions earnings growth. net revenue is defined as operating revenues less benefits, claims and settlement expenses less dividends to policyholders. net revenue from retirement and income solutions - fee is largely fee based and is impacted by changes in the equity markets and interest rates. net revenue from retirement and income solutions - spread is primarily driven by the difference between investment income earned on the underlying general account assets and the interest rate credited to the contracts.
+55
+the following table presents the retirement and income solutions segment net revenue for the years indicated:
+
+for the year ended december 31, increase
+2021              2020                    (decrease)
+(in millions)
+retirement and income solutions - fee          $2,037.9           $1,987.7           $50.2
+retirement and income solutions - spread       928.1              664.8              263.3
+total retirement and income solutions          $2,966.0           $2,652.5           $313.5
+retirement and income solutions segment summary financial data the following table presents certain summary financial data relating to the retirement and income solutions segment for the years indicated:
+
+for the year ended december 31, increase
+2021                                2020        (decrease)
+(in millions)
+operating revenues:
+premiums and other considerations                                                    $1,883.6              $3,221.0              $(1,337.4)
+fees and other revenues                                                                     1,897.6               1,739.7        157.9
+net investment income                                                                       2,728.8               2,542.8        186.0
+total operating revenues                                                                    6,510.0               7,503.5                (993.5)
+expenses:
+benefits, claims and settlement expenses, including dividends to policyholders              3,544.0               4,851.0                (1,307.0)
+operating expenses                                                                          1,824.8               1,685.6        139.2
+total expenses                                                                              5,368.8               6,536.6                (1,167.8)
+pre-tax operating earnings                                                           $1,141.2              $966.9                $174.3
+year ended december 31, 2021 compared to year ended december 31, 2020
+pre-tax operating earnings pre-tax operating earnings decreased in our fee business primarily due to a $104.1 million impact associated with actuarial assumption updates and model refinements, which were unfavorable in 2021 versus favorable in 2020, and a $97.0 million increase in operating expenses, which is described below. the decrease in our fee business pre-tax operating earnings was partially offset by a $158.2 million increase related to higher fees stemming from an increase in mean account values, which resulted from continued growth in the equity markets. pre-tax operating earnings increased in our spread business primarily due to a $211.4 million increase in variable investment income.
+net revenue net revenue increased in our fee business primarily due to a $158.2 million increase related to higher fees stemming from an increase in mean account values, which resulted from continued growth in the equity markets, and a $14.1 million increase in variable investment income. these increases were largely offset by a $131.2 million impact associated with actuarial assumption updates and model refinements, which were unfavorable in 2021 versus favorable in 2020. net revenue increased in our spread business primarily due to a $211.4 million increase in variable investment income and a $53.5 million increase primarily due to covid-19 related reserve gains.
+operating expenses operating expenses increased in our fee business due to a $77.2 million impact from growth in the business and a $46.9 million increase due to variable compensation expense. these increases were partially offset by a $27.1 million impact associated with actuarial assumption updates and model refinements, which were favorable in 2021 versus unfavorable in 2020. operating expenses increased in our spread business primarily due to a $24.4 million favorable impact associated with actuarial assumption updates and model refinements in 2020.
+56
+principal global investors segment principal global investors trends our overall aum increased $44.4 billion in 2021 driven by positive market returns. we continue to expand our global presence and believe we are well positioned to capture changing market conditions and client needs.
+the following table provides a summary of aum managed by principal global investors by the business area that sourced or generated the aum. principal global investors sourced represents institutional and fund platform aum sourced by principal global investors' distribution teams. general account represents general account assets of domestic insurance companies and other balance sheet assets. other affiliated sources represents aum sourced by other pfg businesses (e.g., separate account assets).
+
+december 31, 2021          december 31, 2020
+(in billions)
+principal global investors sourced                    $275.9                     $244.7
+general account                                         98.1                      101.2
+other affiliated sources                               172.5                      156.2
+total aum                                             $546.5                     $502.1
+principal global investors segment summary financial data aum is the base by which we generate management fee revenues. market performance and net cash flow are the two main drivers of aum growth. market performance reflects equity, fixed income, real estate and other alternative investment performance. net cash flow reflects client deposits and withdrawals. the fee levels on these client deposits and withdrawals are increasingly becoming the more important factor to revenue growth and will vary widely based on business and/or product mix.
+the following table presents the aum rollforward for assets managed by principal global investors for the periods indicated:
+
+for the year ended december 31,
+2021                           2020
+(in billions)
+aum, beginning of period            $502.1              $458.6
+net cash flow                        (0.5)                 2.0
+investment performance                53.3                44.0
+operations disposed (1)              (1.2)               (1.0)
+other (2)                            (7.2)               (1.5)
+aum, end of period                  $546.5              $502.1
+(1)   reflects the outflow of assets managed for the retail investment and retirement business in india that we exited in 2021. during 2020, we closed the credit fund managed by the finisterre emerging market debt team and we made the decision to close our large cap strategy managed by columbus circle investors.
+
+(2)   2021 includes the removal of $4.7 billion of aum due to an internal definition change relating to aum and aua.
+
+the following table presents certain summary financial data relating to the principal global investors segment for the years indicated:
+
+for the year ended december 31, increase
+2021                 2020                       (decrease)
+(in millions)
+operating revenues:
+fees and other revenues                                                  $1,824.1              $1,533.5              $290.6
+net investment income                                                    3.9                   5.6                           (1.7)
+total operating revenues                                                        1,828.0               1,539.1        288.9
+expenses:
+total expenses                                                                  1,113.6               1,020.0        93.6
+pre‐tax operating earnings attributable to noncontrolling interest       6.0                   6.2                           (0.2)
+pre‐tax operating earnings                                               $708.4                $512.9                $195.5
+57
+year ended december 31, 2021 compared to year ended december 31, 2020
+pre-tax operating earnings pre-tax operating earnings increased primarily due to $215.7 million higher management fee revenue as a result of increased average aum and a $46.1 million increase in performance fee revenue primarily in our real estate business. this was partially offset by a $40.4 million increase in variable compensation expense.
+principal international segment principal international trends our principal international businesses focus on locations with growing middle classes, favorable demographics and increasing long-term savings, ideally with voluntary or mandatory pension markets. with variations depending upon the specific location, we have targeted these markets for sales of retirement and related products and services, including mutual funds, asset management, income annuities and life insurance accumulation products to businesses and individuals.
+we have pursued our international strategy through a combination of acquisitions, start-up operations and joint ventures, which require infusions of capital consistent with our strategy of long-term growth and profitability.
+principal international segment summary financial data aum is generally a key indicator of earnings growth for the segment, as aum is the base by which we can generate local currency profits. the cuprum business in chile differs in that the majority of fees are collected with each deposit by the mandatory retirement customers, based on a capped salary level, as opposed to asset levels. net customer cash flow and market performance are the two main drivers of local currency aum growth. net customer cash flow reflects our ability to attract and retain client deposits. market performance reflects the investment returns on our underlying aum. our financial results are also impacted by fluctuations of the foreign currency to u.s. dollar exchange rates for the locations in which we have business. aum of our foreign subsidiaries is translated into u.s. dollar equivalents at the end of the reporting period using the spot foreign exchange rates. revenue and expenses for our foreign subsidiaries are translated into u.s. dollar equivalents at the average foreign exchange rates for the reporting period.
+the following table presents the principal international segment aum rollforward for the years indicated:
+
+for the year ended december 31,
+2021                             2020
+(in billions)
+aum, beginning of period             $165.2               $169.7
+net cash flow                           2.0                  4.2
+investment performance                  4.3                  9.0
+effect of exchange rates             (13.7)               (14.2)
+operations disposed (1)               (1.2)                    -
+other (2)                             (4.5)                (3.5)
+aum, end of period                   $152.1               $165.2
+(1)   during 2021, we exited our retail investment and retirement business in india.
+
+(2)   includes cuprum hardship withdrawals in chile of $2.8 billion and $2.7 billion for the years ended december 31, 2021 and 2020, respectively. 2021 also includes the removal of $1.7 billion of distribution only aum since it has no impact on the principal international segment's future management fee revenues.
+
+net revenue is a key metric used to understand the earnings growth for the principal international segment. the following table presents the net revenue of the principal international segment for the years indicated:
+
+for the year ended december 31, increase
+2021            2020                  (decrease)
+(in millions)
+net revenue       $778.6           $664.2           $114.4
+58
+the following table presents certain summary financial data relating to the principal international segment for the years indicated:
+
+for the year ended december 31, increase
+2021                 2020           (decrease)
+(in millions)
+operating revenues:
+premiums and other considerations                                               $127.5               $156.6              $(29.1)
+fees and other revenues                                                          496.8                444.8                 52.0
+net investment income                                                            727.5                495.4                232.1
+total operating revenues                                                       1,351.8              1,096.8                255.0
+expenses:
+benefits, claims and settlement expenses                                         573.2                432.6                140.6
+operating expenses                                                               465.6                418.0                 47.6
+total expenses                                                                 1,038.8                850.6                188.2
+pre‐tax operating earnings attributable to noncontrolling interest                 4.0                  2.6                  1.4
+pre‐tax operating earnings                                                      $309.0               $243.6                $65.4
+year ended december 31, 2021 compared to year ended december 31, 2020
+pre-tax operating earnings pre-tax operating earnings increased in latin america primarily due to $49.1 million favorable variable interest income in chile, $15.1 million higher earnings from our equity method investments in brazil and $7.1 million foreign currency tailwinds.
+net revenue net revenue increased in latin america primarily due to $49.1 million favorable variable interest income in chile, $18.6 million foreign currency tailwinds and $15.1 million higher earnings from our equity method investments in brazil. net revenue increased $20.5 million in asia primarily due to continued growth in the business.
+u.s. insurance solutions segment u.s. insurance solutions segment summary financial data premium and fees are a key metric for growth in the u.s. insurance solutions segment. we receive premiums on our specialty benefits insurance products as well as our traditional life insurance products. fees are generated from our specialty benefits fee-for-service products as well as our universal life, variable universal life and indexed universal life insurance products. we use several reinsurance programs to help manage the mortality and morbidity risk. premium and fees are reported net of reinsurance premiums.
+the following table presents the u.s. insurance solutions segment premium and fees for the years indicated:
+
+for the year ended december 31, increase
+2021             2020                       (decrease)
+(in millions)
+premium and fees:
+specialty benefits insurance       $2,530.3              $2,364.8              $165.5
+individual life insurance                 1,253.8               1,227.5        26.3
+59
+the following table presents certain summary financial data relating to the u.s. insurance solutions segment for the years indicated:
+
+for the year ended december 31, increase
+2021                  2020            (decrease)
+(in millions)
+operating revenues:
+premiums and other considerations                        $2,830.4              $2,659.8                $170.6
+fees and other revenues (1)                                 953.5                 932.3                  21.2
+net investment income                                       982.7                 888.1                  94.6
+total operating revenues                                  4,766.6               4,480.2                 286.4
+expenses:
+benefits, claims and settlement expenses (1)              3,028.6               2,904.5                 124.1
+dividends to policyholders (1)                               94.6                 119.9                (25.3)
+operating expenses (1)                                    1,172.6               1,215.9                (43.3)
+total expenses                                            4,295.8               4,240.3                  55.5
+pre‐tax operating earnings (1)                             $470.8                $239.9                $230.9
+(1)   for further details related to the impact associated with actuarial assumption updates and model refinements on results for 2021 and 2020, see "transactions affecting comparability of results of operations - actuarial assumption updates."
+
+year ended december 31, 2021 compared to year ended december 31, 2020
+pre-tax operating earnings pre-tax operating earnings decreased in our specialty benefits insurance business due to a $105.4 million impact related to covid-19, which was unfavorable in 2021 compared to favorable in 2020, primarily due to temporary dental and vision office closures in 2020. this decrease was partially offset by $44.4 million in lower non-covid-19 claims and $18.7 million in higher net investment income. pre-tax operating earnings in our individual life insurance business increased $266.9 million primarily due to the impact associated with actuarial assumption updates and model refinements, which were favorable in 2021 compared to unfavorable in 2020.
+operating revenues premium and fees in our specialty benefits insurance business increased $129.7 million from growth in the business and $35.8 million from dental premium credits associated with covid-19 that lowered premiums and fees in the prior year. premium and fees in our individual life insurance business increased $62.6 million from growth in the business, offset by $36.3 million due to the impact associated with actuarial assumption updates and model refinements, which were unfavorable in 2021 compared to favorable in 2020.
+net investment income increased $61.2 million from higher variable investment income and $15.4 million from growth in average invested assets.
+total expenses benefits claims and settlement expenses in our specialty benefits insurance business increased $141.2 million from unfavorable covid-19 impacts in 2021 compared to favorable in 2020 and $81.8 million from growth in the business. these increases were partially offset by $44.4 million in lower non-covid-19 claims. benefits, claims and settlement expenses in our individual life insurance business decreased $170.1 million due to the impact associated with actuarial assumption updates and model refinements, which were favorable in 2021 compared to unfavorable in 2020. this decrease was partially offset by $46.7 million higher covid-19 related impacts, $37.8 million due to growth in the business and $20.9 million in higher non-covid-19 claims.
+dividends to policyholders in our individual life insurance business decreased $18.3 million due to the normal decline in the closed block business and $7.0 million due to a decrease in the policyholder dividend obligation resulting from higher claims.
+operating expenses in our specialty benefits business increased $44.1 million primarily due to growth in the business. operating expenses in our individual life insurance business decreased $119.8 million due to the impact associated with actuarial assumption updates and model refinements, which were favorable in 2021 compared to unfavorable in 2020, partially offset by $19.1 million due to growth in business.
+60
+corporate segment corporate segment summary financial data the following table presents certain summary financial data relating to the corporate segment for the years indicated:
+
+for the year ended december 31, increase
+2021          2020                    (decrease)
+(in millions)
+operating revenues:
+total operating revenues                                                 $1.8               $(39.7)            $41.5
+expenses:
+total expenses                                                           346.3              269.0              77.3
+pre‐tax operating earnings attributable to noncontrolling interest       23.5               17.7               5.8
+pre‐tax operating losses                                                 $(368.0)           $(326.4)           $(41.6)
+year ended december 31, 2021 compared to year ended december 31, 2020
+pre-tax operating losses pre-tax operating losses increased primarily due to expense increases, including a $39.7 million increase in compensation costs, excluding pension and opeb expenses, largely due to an increase in incentive compensation and a $12.7 million increase in strategic initiatives funded by the corporate segment.
+liquidity and capital resources liquidity and capital resources represent the overall strength of a company and its ability to generate strong cash flows, borrow funds at a competitive rate and raise new capital to meet operating and growth needs. we are in a strong capital and liquidity position as we face the uncertain, volatile and potentially material adverse economic disruptions to our business brought on by the covid-19 pandemic. we are monitoring our liquidity closely and feel confident in our ability to meet all long-term obligations to customers, policyholders and debt holders. our sources of strength include our laddered long-term debt maturities with the next maturity occurring september 2022, access to revolving credit facility and contingent funding arrangements, a strong risk-based capital position and our available cash and liquid assets. the combination of these financial levers will enable us to manage through this period of economic volatility. our legal entity structure has an impact on our ability to meet cash flow needs as an organization. following is a simplified organizational structure.
+liquidity our liquidity requirements have been and will continue to be met by funds from consolidated operations as well as the issuance of commercial paper, common stock, debt or other capital securities and borrowings from credit facilities. we believe the cash flows from these sources are sufficient to satisfy the current liquidity requirements of our operations, including reasonably foreseeable contingencies.
+61
+we maintain a level of cash and securities which, combined with expected cash inflows from investments and operations, we believe to be adequate to meet anticipated short-term and long-term payment obligations. we will continue our prudent capital management practice of regularly exploring options available to us to maximize capital flexibility, including accessing the capital markets and careful attention to and management of expenses.
+we perform rigorous liquidity stress testing to ensure our asset portfolio includes sufficient high quality liquid assets that could be utilized to bolster our liquidity position under increasingly stressed market conditions. these assets could be utilized as collateral for secured borrowing transactions with various third parties or by selling the securities in the open market if needed.
+we also manage liquidity risk by limiting the sales of liabilities with features such as puts or other options that can be exercised at inopportune times. for example, as of december 31, 2021, approximately $13.6 billion, or 99%, of our institutional guaranteed investment contracts and funding agreements cannot be redeemed by contractholders prior to maturity. our individual annuity liabilities also contain surrender charges and other provisions limiting early surrenders.
+the following table summarizes the withdrawal characteristics of our domestic general account investment contracts as of december 31, 2021.
+
+contractholder funds           percentage
+(in millions)
+not subject to discretionary withdrawal                       $14,887.5                            42.4   %
+subject to discretionary withdrawal with adjustments:
+specified surrender charges                                                   9,548.4              27.1
+market value adjustments                                                      5,734.3              16.3
+subject to discretionary withdrawal without adjustments                       5,009.2              14.2
+total domestic investment contracts                           $35,179.4                           100.0   %
+universal life insurance and certain traditional life insurance policies are also subject to discretionary withdrawals by policyholders. however, life insurance policies tend to be less susceptible to withdrawal than our investment contracts because policyholders may be subject to a new underwriting process in order to obtain a new life insurance policy. in addition, our life insurance liabilities include surrender charges to discourage early surrenders.
+we had the following short-term credit facilities with various financial institutions as of december 31, 2021:
+
+financing                                                              amount obligor/applicant                                                                              structure                       maturity            capacity           outstanding (3)
+(in millions)
+pfg, pfs and principal life as co‐borrowers (1)                                                credit facility                 november 2023       $600.0             $-
+pfg, pfs, principal life and principal financial services v (uk) ltd as co‐borrowers (1)       credit facility                 november 2023       200.0                        -
+principal international chile (2)                                                              unsecured lines of credit                           145.6              79.8
+total                                                                                                                                              $945.6             $79.8
+(1)   the credit facility is supported by eighteen banks.
+
+(2)   the unsecured lines of credit can be used for repurchase agreements or other borrowings. each line has a maturity of less than one year.
+
+(3)   the amount outstanding is reported in short-term debt on the consolidated statements of financial position.
+
+the revolving credit facilities are committed and available for general corporate purposes. these credit facilities also provide 100% back-stop support for our commercial paper program, of which we had no outstanding balances as of december 31, 2021 and december 31, 2020. most of the banks supporting the credit facilities have other relationships with us. due to the financial strength and the strong relationships we have with these providers, we are comfortable we have very low risk the financial institutions would be unable or unwilling to fund these facilities.
+62
+the holding companies: pfg and pfs. the principal sources of funds available to our parent holding company, pfg, are dividends from subsidiaries as well as its ability to borrow funds at competitive rates and raise capital to meet operating and growth needs. these funds are used by pfg to meet its obligations, which include the payment of dividends on common stock, debt service and the repurchase of stock. the declaration and payment of common stock dividends is subject to the discretion of our board of directors ("board") and will depend on our overall financial condition, results of operations, capital levels, cash requirements, future prospects, receipt of dividends or other distributions from principal life (as described below), risk management considerations and other factors deemed relevant by the board. no significant restrictions limit the payment of dividends by pfg, except those generally applicable to corporations incorporated in delaware.
+dividends or other distributions from principal life, our primary subsidiary, are limited by iowa law. under iowa law, principal life may pay dividends or make other distributions only from the earned surplus arising from its business and must receive the prior approval of the commissioner of insurance of the state of iowa (the "commissioner") to pay stockholder dividends or make any other distribution if such distribution would exceed certain statutory limitations. iowa law gives the commissioner discretion to disapprove requests for distributions in excess of these limitations. extraordinary dividends include those made, together with dividends and other distributions, within the preceding twelve months that exceed the greater of (i) 10% of statutory policyholder surplus as of the previous year-end or (ii) the statutory net gain from operations from the previous calendar year, not to exceed earned surplus. based on statutory results for the year ended december 31, 2021, the ordinary stockholder dividend limitation for principal life is approximately $961.7 million in 2022.
+total stockholder dividends paid by principal life to its parent in 2021 were $1,250.0 million, $950.0 million of which was extraordinary and approved by the commissioner. as of december 31, 2021, we had $2,424.0 million of cash and liquid assets held in our holding companies and other subsidiaries, which is available for corporate purposes. this includes assets in excess of targeted statutory capital ratios and immediate working capital needs. corporate balances held in foreign holding companies meet the indefinite reinvestment exception (see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 10, income taxes").
+in 2020, total stockholder dividends paid by principal life to its parent were $650.0 million, all of which was extraordinary and approved by the commissioner.
+operations. our primary consolidated cash flow sources are premiums from insurance products, pension and annuity deposits, asset management fee revenues, administrative services fee revenues, income from investments and proceeds from the sales or maturity of investments. cash outflows consist primarily of payment of benefits to policyholders and beneficiaries, income and other taxes, current operating expenses, payment of dividends to policyholders, payments in connection with investments acquired, payments made to acquire subsidiaries, payments relating to policy and contract surrenders, withdrawals, policy loans, interest payments and repayment of short-term debt and long-term debt. our investment strategies are generally intended to provide adequate funds to pay benefits without forced sales of investments. for a discussion of our investment objectives and strategies, see "investments."
+cash flows. cash flow activity, as reported in our consolidated statements of cash flows, provides relevant information regarding our sources and uses of cash. the following discussion of our operating, investing and financing portions of the cash flows excludes cash flows attributable to the separate accounts.
+net cash provided by operating activities was $3,218.8 million and $3,738.6 million for the years ended december 31, 2021 and 2020, respectively. our insurance business typically generates positive cash flows from operating activities, as premiums collected from our insurance products and income received from our investments exceed acquisition costs, benefits paid, redemptions and operating expenses. these positive cash flows are then invested to support the obligations of our insurance and investment products and required capital supporting these products. our cash flows from operating activities are affected by the timing of premiums, fees and investment income received and benefits and expenses paid. the decrease in cash provided by operating activities was primarily due to fluctuations in receivables and payables associated with the timing of settlements in 2021 as compared to 2020. additionally, increases in net income were offset in part by proceeds from real estate sold in 2020 with no corresponding activity in 2021.
+net cash used in investing activities was $5,658.1 million and $5,025.8 million for the years ended december 31, 2021 and 2020, respectively. the increase in cash used in investing activities was primarily due to increased net purchases of mortgage loans and lower chile direct financing lease maturities in in 2021 as compared to 2020. the increase was partially offset by lower net purchases of available-for-sale securities in 2021 as compared to 2020.
+63
+net cash provided by financing activities was $1,921.5 million and $1,621.1 million for the years ended december 31, 2021 and 2020, respectively. the increase in cash provided by financing activities was primarily due to increased banking operation deposits due to a new bank sweep product launched in the third quarter of 2021 associated with the acquired business. this increase was partially offset by lower net investment contract deposits in 2021 as compared to 2020, increased treasury stock acquisitions in 2021 as compared to 2020 and proceeds from long-term debt issued in 2020 with no corresponding activity in 2021.
+guarantors and issuers of guaranteed securities. pfg has issued certain notes pursuant to transactions registered under the securities act of 1933. such notes include all currently outstanding senior notes and junior subordinated notes, which are subordinated to all our senior debt (collectively, the "registered notes"). for additional information on the senior notes and junior subordinated notes, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 9, debt."
+pfs, a wholly owned subsidiary of pfg, has guaranteed each of the registered notes on a full and unconditional basis. the full and unconditional guarantees require pfs to satisfy the obligations of the guaranteed security immediately, if and when pfg has failed to make a scheduled payment thereunder. if pfs does not make such payment, any holder of the guaranteed security may immediately bring suit directly against pfs for payment of amounts due and payable. no other subsidiary of pfg has guaranteed any of the registered notes.
+summary financial information is presented below on a combined basis for pfg and pfs (the "obligor group") and transactions between the obligor group have been eliminated. the summary financial information excludes subsidiaries that are not issuers or guarantors. any investments by the obligor group in other subsidiaries have been excluded.
+
+december 31, 2021          december 31, 2020
+(in millions)
+summary statements of financial position information:
+total investments                                                      $1,338.2                   $1,254.9
+cash and cash equivalents                                                 516.4                      661.6
+goodwill                                                                  618.5                      618.5
+other intangibles                                                         475.5                      503.6
+other assets                                                              385.7                      457.8
+due from non-obligor subsidiaries                                         208.2                      169.5
+total assets                                                            3,593.8                    3,757.3
+long-term debt                                                          4,226.1                    4,223.3
+other liabilities                                                         563.6                      806.7
+due to non-obligor subsidiaries                                           904.7                      843.4
+total liabilities                                                       5,741.2                    5,904.7
+
+for the year ended           for the year ended december 31, 2021            december 31, 2020
+(in millions)
+summary statements of operations information:
+total revenues                                      $223.7                       $396.2
+total expenses                                      649.7                        731.7
+net loss                                                        (335.3)                      (243.6)
+shelf registration. on april 29, 2020, our shelf registration statement was filed with the sec and became effective. the shelf registration replaced the shelf registration that had been in effect since may 2017. under our current shelf registration, we have the ability to issue, in unlimited amounts, unsecured senior debt securities or subordinated debt securities, junior subordinated debt, preferred stock, common stock, warrants, depositary shares, purchase contracts and purchase units of pfg. our wholly owned subsidiary, pfs, may guarantee, fully and unconditionally or otherwise, our obligations with respect to any non-convertible securities, other than common stock, described in the shelf registration. for information on senior notes issued from our shelf registration, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 9, debt."
+short-term debt. for short-term debt information, see "liquidity" and item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 9, debt."
+long-term debt. on june 12, 2020, we issued $500.0 million of senior notes at a discount. on august 3, 2020, we issued an additional $100.0 million of senior notes at a premium. the proceeds from these notes were used for general corporate purposes. see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 9, debt" for further information.
+64
+contingent funding agreements for senior debt issuance. for information on the contingent funding agreements, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 9, debt" under the caption "contingent funding agreements for senior debt issuance."
+stockholders' equity. proceeds from the issuance of our common stock were $86.7 million and $42.8 million in 2021 and 2020, respectively.
+the following table summarizes our return of capital to common stockholders.
+
+for the year ended december 31,
+2021              2020
+(in millions)
+dividends to stockholders                             $654.1            $614.5
+repurchase of common stock (1)                         937.2             307.0
+total cash returned to common stockholders          $1,591.3            $921.5
+number of shares repurchased (1)                        14.6               5.9
+(1)   includes common stock utilized to execute certain stock incentive awards and shares purchased as part of publicly announced programs.
+
+see item 1. "business" for information about the reinsurance transaction and additional transactions designed to improve the capital efficiency of the in-force u.s. individual life insurance business announced in january 2022. deployable proceeds will be returned to shareholders through share repurchases. our board authorized a $1.6 billion increase to our june 2021 share repurchase program authorization. see item 5. "market for registrant's common equity, related stockholder matters and issuer purchases of equity securities" for information about our share repurchase authorizations. for additional stockholders' equity information, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 13, stockholders' equity."
+capitalization the following table summarizes our capital structure:
+
+december 31, 2021           december 31, 2020
+($ in millions)
+debt:
+short‐term debt                                      $79.8                       $84.7
+long‐term debt                                                   4,280.2                     4,279.2
+total debt                                                       4,360.0                     4,363.9
+total stockholders' equity attributable to pfg                  16,069.4                    16,558.9
+total capitalization                                 $20,429.4                   $20,922.8
+debt to equity                                       27                      %   26                    %
+debt to capitalization                               21                      %   21                    %
+pension and opeb plan funding we have defined benefit pension plans covering substantially all of our u.s. employees and certain agents. see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 11, employee and agent benefits" for a complete discussion of these plans and their effect on the consolidated financial statements.
+we report the net funded status of our pension and opeb plans in the consolidated statements of financial position. the net funded status represents the difference between the fair value of plan assets and the projected benefit obligation for pension and opeb plans. the measurement of the net funded status can vary based upon the fluctuations in the fair value of the plan assets and the actuarial assumptions used for the plans as discussed below. the net underfunded status of the pension and opeb obligation was $609.1 million pre-tax and $164.1 million pre-tax as of december 31, 2021 and 2020, respectively. nonqualified pension plan assets are not included as part of the funding status mentioned above. the nonqualified pension plan assets are held in rabbi trusts for the benefit of all nonqualified plan participants. the assets held in a rabbi trust are available to satisfy the claims of general creditors only in the event of bankruptcy. therefore, these assets are fully consolidated in our consolidated statements of financial position and are not reflected in our funded status as they do not qualify as plan assets under u.s. gaap. the market value of assets held in these trusts was $386.3 million and $394.8 million as of december 31, 2021 and 2020, respectively.
+65
+our funding policy for the qualified pension plan is to fund the plan annually in an amount at least equal to the minimum annual contributions required under erisa and, generally, not greater than the maximum amount that can be deducted for u.s. federal income tax purposes. we do not anticipate contributions will be needed in 2022 to satisfy the minimum funding requirements of erisa for our qualified pension plan. we are unable to estimate the amount that may be contributed, but it is possible that we may fund the plans in 2022 up to $75.0 million. this includes funding for both our qualified and nonqualified pension plans. we do not anticipate contributing to our opeb plans in 2022.
+effective january 1, 2021, $656.5 million of assets in excess of the expected liability to cover the postretirement medical benefits for retirees were re-designated for non-retiree benefits. the elections were made pursuant to plan provisions which provide for assets in excess of 125% of expected liabilities to fund other benefits covered under the plans.
+contractual obligations and contractual commitments we have contractual obligations identified within item 8. "financial statements and supplementary data, notes to consolidated financial statements; note 8, insurance liabilities, note 9, debt and note 12, contingencies, guarantees, indemnifications and leases." as of december 31, 2021, we had no unique material cash requirements from known contractual and other obligations.
+we have made commitments to fund certain limited partnerships and other funds in which we are not the general partner or investment manager. as of december 31, 2021, the amount of unfunded commitments was $757.6 million. we are only required to fund additional equity under these commitments when called upon to do so by the partnership or fund; therefore, these commitments are not liabilities on our consolidated statements of financial position.
+off-balance sheet arrangements variable interest entities. we have relationships with various types of special purpose entities and other entities where we have a variable interest as described in item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 3, variable interest entities." we have made commitments to fund certain limited partnerships, as previously discussed in "contractual obligations and contractual commitments", some of which are classified as unconsolidated variable interest entities.
+guarantees and indemnifications. as of december 31, 2021, no significant changes to guarantees and indemnifications have occurred since december 31, 2020. for guarantee and indemnification information, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 12, contingencies, guarantees, indemnifications and leases" under the caption, "guarantees and indemnifications."
+financial strength and credit ratings our ratings are influenced by the relative ratings of our peers/competitors as well as many other factors including our operating and financial performance, capital levels, asset quality, liquidity, asset/liability management, overall portfolio mix, financial leverage (i.e., debt), risk exposures, operating leverage and other factors.
+in january 2022, moody's affirmed the 'a1' financial strength ratings of principal life and principal national life insurance company ("pnlic"). moody's also affirmed pfg's senior unsecured debt at 'baa1', which is guaranteed by pfs. the outlook for pfg, principal life and its affiliates has been changed to 'stable' from 'positive'. the rating action follows the announcement of the reinsurance transaction. the outlook revision reflects positive credit attributes offset by the introduction of counterparty risk and uncertainty with pfg's operations in chile.
+in december 2021, a.m. best revised its u.s. life and annuity outlook to 'stable' from 'negative'.
+in june 2021, fitch affirmed the 'aa-' financial strength ratings of principal life and pnlic. fitch also affirmed pfg's senior unsecured debt at 'a-'. the outlook on all ratings was revised from 'negative' to 'stable'. the rating affirmation and revision of the outlook follows our announcement of the results of the strategic review.
+in june 2021, s&p affirmed the financial strength rating of principal life and pnlic at 'a+'. s&p also affirmed the issuer credit ratings of pfg and pfs at 'a-'. the outlook on all ratings changed from 'negative' to 'stable'. the rating affirmation and revision of the outlook follows our announcement of the result of the strategic review.
+in may 2021, fitch and moody's revised their u.s. life insurance industry outlooks to 'stable' from 'negative'. s&p continues to have a 'stable' industry outlook.
+66
+in february 2021, a.m. best affirmed the financial strength ratings of principal life and pnlic at 'a+'. concurrently, a.m. best affirmed the long-term issuer credit ratings at 'aa'. the outlook remains 'stable' for all credit ratings. the affirmation reflects the strength of our consolidated statement of financial position as well as our strong operating performance, favorable business profile and very strong enterprise risk management.
+the following table summarizes our significant financial strength and debt ratings from the major independent rating organizations. a rating is not a recommendation to buy, sell or hold securities. such a rating may be subject to revision or withdrawal at any time by the assigning rating agency. each rating should be evaluated independently of any other rating.
+
+a.m. best       fitch       moody's       s&amp;p principal financial group senior unsecured debt                           a               a-          baa1          a-
+junior subordinated debt                        a-                          baa2          bbb long-term issuer default rating                                 a principal life insurance company insurer financial strength                      a+              aa-         a1            a+
+issuer credit rating                            aa commercial paper                                amb-1+                      p-1           a-1+
+principal national life insurance company insurer financial strength                      a+              aa-         a1            a+
+impacts of income taxes for income tax information, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 10, income taxes."
+fair value measurement fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (an exit price). the fair value hierarchy prioritizes the inputs to valuation techniques used to measure fair value into three levels. the fair value hierarchy gives the highest priority (level 1) to unadjusted quoted prices in active markets for identical assets or liabilities and gives the lowest priority (level 3) to unobservable inputs. the level in the fair value hierarchy within which the fair value measurement in its entirety falls is determined based on the lowest level input that is significant to the fair value measurement in its entirety considering factors specific to the asset or liability. see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 14, fair value measurements" for further details, including a reconciliation of changes in level 3 fair value measurements.
+as of december 31, 2021, 46% of our net assets (liabilities) were level 1, 53% were level 2 and 1% were level 3. excluding separate account assets as of december 31, 2021, 4% of our net assets (liabilities) were level 1, 95% were level 2 and 1% were level 3.
+as of december 31, 2020, 41% of our net assets (liabilities) were level 1, 56% were level 2 and 3% were level 3. excluding separate account assets as of december 31, 2020, 3% of our net assets (liabilities) were level 1, 97% were level 2 and 0% were level 3.
+changes in level 3 fair value measurements net assets (liabilities) measured at fair value on a recurring basis using significant unobservable inputs (level 3) as of december 31, 2021, were $1,672.2 million as compared to $8,812.6 million as of december 31, 2020. the decrease was primarily related to net sales in our separate account assets due to the restructure of certain separate account real estate assets into a partnership entity that is carried at nav.
+investments we had total consolidated assets as of december 31, 2021, of $304,657.2 million, of which $108,905.9 million were invested assets. the rest of our total consolidated assets are comprised primarily of separate account assets for which we do not bear investment risk; therefore, the discussion and financial information below does not include such assets.
+67
+overall composition of invested assets invested assets as of december 31, 2021, were predominantly high quality and broadly diversified across asset class, individual credit, industry and geographic location. asset allocation is determined based on cash flow and the risk/return requirements of our products. as shown in the following table, the major categories of invested assets are fixed maturities and commercial mortgage loans.
+
+december 31, 2021                             december 31, 2020
+carrying amount              % of total       carrying amount              % of total
+($ in millions)
+fixed maturities:
+public                                $49,964.1                            46   %   $51,966.5                            49   %
+private                                          28,612.6                  26                  27,275.9                  26
+equity securities                                 2,347.2                   2                   2,013.4                   2
+mortgage loans:
+commercial                                       16,350.8                  15                  15,398.4                  14
+residential                                       3,317.9                   3                   1,944.6                   2
+real estate held for sale             88.7                                  -       2.0                                   -
+real estate held for investment                   1,986.7                   2                   1,795.3                   2
+policy loans                          759.6                                 1       784.0                                 1
+other investments                                 5,478.3                   5                   5,126.8                   4
+total invested assets                           108,905.9                 100   %             106,306.9                 100   %
+cash and cash equivalents                         2,332.0                                       2,849.8
+total invested assets and cash        $111,237.9                                    $109,156.7
+investment results net investment income the following table presents the yield and investment income, excluding net realized capital gains and losses, for our invested assets for the years indicated. we calculate annualized yields using a simple average of asset classes at the beginning and end of the reporting period. the yields for available-for-sale fixed maturities are calculated using amortized cost. all other yields are calculated using carrying amounts.
+
+for the year ended december 31,
+2021                               2020                 increase (decrease)
+yield                amount        yield                amount        yield                 amount
+($ in millions)
+fixed maturities                      3.9    %         $2,785.6          3.9    %         $2,679.2            -      %          $106.4
+equity securities                     2.6                  57.7          3.2                  62.8        (0.6)                  (5.1)
+mortgage loans - commercial           4.1                 653.5          4.2                 643.6        (0.1)                    9.9
+mortgage loans - residential          5.2                 136.7          4.7                  81.1          0.5                   55.6
+real estate                          10.0                 194.4         10.3                 180.8        (0.3)                   13.6
+policy loans                          5.0                  38.8          5.3                  41.6        (0.3)                  (2.8)
+cash and cash equivalents             0.2                   4.3          0.6                  17.4        (0.4)                 (13.1)
+other investments                    12.3                 650.2          6.0                 294.7          6.3                  355.5
+total                                 4.4               4,521.2          4.1               4,001.2          0.3                  520.0
+investment expenses                 (0.1)               (115.1)        (0.1)               (110.6)            -                  (4.5)
+net investment income                 4.3    %         $4,406.1          4.0    %         $3,890.6          0.3      %          $515.5
+year ended december 31, 2021 compared to year ended december 31, 2020
+net investment income increased primarily due to favorable u.s. market performance on certain alternative investments, higher bond prepayments included in variable investment income and higher inflation-based investment returns on our latin america average invested assets and cash.
+68
+net realized capital gains (losses)
+the following table presents the contributors to net realized capital gains and losses for the years indicated.
+
+for the year ended december 31, increase
+2021                             2020        (decrease)
+(in millions)
+fixed maturities, available-for-sale - credit losses, including credit sales (1)       $(45.2)              $(62.2)             $17.0
+commercial mortgage loans ̶ credit losses                                                      (1.3)              (13.9)        12.6
+other ̶ credit gains                                                                   7.7                         (1.5)        9.2
+fixed maturities, available-for-sale and trading - noncredit                           7.9                  122.7                       (114.8)
+derivatives and related hedge activities (2)                                                 (114.5)        114.9                       (229.4)
+other gains                                                                            147.9                142.6               5.3
+net realized capital gains (losses) (3)                                                $2.5                 $302.6              $(300.1)
+(1)   includes credit sales, adjustments to the credit loss valuation allowance, write-offs and recoveries on available-for-sale securities.
+
+(2)   includes fixed maturities, trading net gains (losses) of $(5.8) million and $5.5 million for the years ended december 31, 2021 and 2020, respectively, which are a component of the gmwb embedded derivative hedging program net realized capital gains (losses) reflected in this line.
+
+(3)   net realized capital gains (losses) can be volatile due to credit losses from invested assets, mark-to-market adjustments of certain invested assets and our decision to sell invested assets.
+
+year ended december 31, 2021 compared to year ended december 31, 2020
+net realized capital gains decreased primarily due to derivatives and related hedge losses in 2021 compared to gains in 2020 on currency derivatives not designated as hedging instruments due to changes in exchange rates and from decreased gains on interest rate swaps not designated as hedging instruments due to changes in interest rates. additionally, decreased gains were seen in fixed maturities, available-for-sale and trading - noncredit due to noncredit gains related to portfolio rebalancing in 2020 and lower mark-to-market gains on trading fixed maturities.
+u.s. investment operations of our invested assets, $101,945.6 million were held by our u.s. operations as of december 31, 2021. our u.s. invested assets are managed primarily by our principal global investors segment. our investment committee, appointed by our board, is responsible for establishing investment policies and monitoring risk limits and tolerances. our primary investment objective is to maximize after-tax returns consistent with acceptable risk parameters. we seek to protect customers' benefits by optimizing the risk/return relationship on an ongoing basis, through asset/liability matching, reducing credit risk, avoiding high levels of investments that may be redeemed by the issuer, maintaining sufficiently liquid investments and avoiding undue asset concentrations through diversification. we are exposed to two primary sources of investment risk:
+●   credit risk, relating to the uncertainty associated with the continued ability of an obligor to make timely payments of principal and interest and
+
+●   interest rate risk, relating to the market price and/or cash flow variability associated with changes in market yield curves.
+
+our ability to manage credit risk is essential to our business and our profitability. we devote considerable resources to the credit analysis of each new investment. we manage credit risk through industry, issuer and asset class diversification.
+a dedicated committee, comprised of senior investment professional staff members, approves the credit rating for the fixed maturities we purchase. we have teams of security analysts, organized by industry and asset class, that analyze and monitor these investments. investments held in the portfolio are monitored on a continuous basis with a formal review annually or more frequently if material events affect the issuer. the analysis includes both fundamental and technical factors. the fundamental analysis encompasses both quantitative and qualitative analysis of the issuer. the qualitative analysis includes an assessment of both accounting and management aggressiveness of the issuer. in addition, technical indicators such as stock price volatility and credit default swap levels are monitored. we regularly review our investments to determine whether we should re-rate them, employing the following criteria:
+●   material changes in the issuer's revenues, margins, capital structure or collateral values;
+
+●   significant management or organizational changes;
+
+69
+●   significant changes regarding the issuer's industry;
+
+●   debt service coverage or cash flow ratios that fall below industry-specific thresholds;
+
+●   violation of financial covenants and
+
+●   other business factors that relate to the issuer.
+
+we purchase credit default swaps to hedge certain credit exposures in our investment portfolio. we economically hedged credit exposure in our portfolio by purchasing credit default swaps with a notional amount of $145.0 million and $125.0 million as of december 31, 2021 and december 31, 2020, respectively. we sell credit default swaps to offer credit protection to investors when entering into synthetic replicating transactions. when selling credit protection, if there is an event of default by the referenced name, we are obligated to pay the counterparty the referenced amount of the contract and receive in return the referenced security. for further information on credit derivatives sold, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 5, derivative financial instruments" under the caption, "credit derivatives sold."
+our use of derivatives exposes us to counterparty risk, or the risk that the counterparty fails to perform the terms of the derivative contract. we actively manage this risk by:
+●   obtaining approval of all new counterparties by the investment committee;
+
+●   establishing exposure limits that take into account non-derivative exposure we have with the counterparty as well as derivative exposure;
+
+●   performing similar credit analysis prior to approval on each derivatives counterparty that we do when lending money on a long-term basis;
+
+●   diversifying our risk across numerous approved counterparties;
+
+●   implementing credit support annex (collateral) agreements ("csas") for over-the-counter derivative transactions or similar agreements with a majority of our counterparties to further limit counterparty exposures, which provide for netting of exposures;
+
+●   limiting exposure to a credit or better for over-the-counter derivative counterparties without csas;
+
+●   conducting stress-test analysis to determine the maximum exposure created during the life of a prospective transaction;
+
+●   daily monitoring of counterparty credit ratings, exposures and associated collateral levels and
+
+●   trading mandatorily cleared contracts through centralized clearinghouses.
+
+we manage our exposure on a net basis, whereby we net positive and negative exposures for each counterparty with agreements in place. for further information on derivative exposure, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 4, investments" under the caption, "balance sheet offsetting."
+a dedicated risk management team is responsible for centralized monitoring of the commercial mortgage loan portfolio. we apply a variety of guidelines to minimize credit risk in our commercial mortgage loan portfolio. when considering new commercial mortgage loans, we review the cash flow fundamentals of the property, make a physical assessment of the underlying commercial real estate, conduct a comprehensive market analysis and compare against industry lending practices. we use a proprietary risk rating model to evaluate all new and substantially all existing loans within the portfolio. the proprietary risk model is designed to stress projected cash flows under simulated economic and market downturns. our lending guidelines are typically 75% or less loan-to-value ratio and a debt service coverage ratio of at least 1.2 times. we analyze investments outside of these guidelines based on cash flow quality, tenancy and other factors. the following table presents loan-to-value and debt service coverage ratios for our brick and mortar commercial mortgage loans:
+
+weighted average loan‐to‐value ratio                       debt service coverage ratio december 31, 2021                  december 31, 2020       december 31, 2021               december 31, 2020
+new mortgages               50                      %              49                  %   3.2x                            2.5x entire mortgage portfolio   46                      %              49                  %   2.5x                            2.5x we also seek to manage call or prepayment risk arising from changes in interest rates. we assess and price for call or prepayment risks in all of our investments and monitor these risks in accordance with asset/liability management policies.
+70
+the amortized cost and weighted average yield, calculated using amortized cost, of non-structured fixed maturity securities that will be callable at the option of the issuer, excluding securities with a make-whole provision, were $5,072.3 million and 3.9%, respectively, as of december 31, 2021, and $9,372.5 million and 4.0%, respectively, as of december 31, 2020. in addition, the amortized cost and weighted average yield of rmbs, residential collateralized mortgage obligations, and asset-backed securities - home equity with material prepayment risk were $7,131.1 million and 2.2%, respectively, as of december 31, 2021, and $6,122.7 million and 3.0%, respectively, as of december 31, 2020.
+our investment decisions and objectives are a function of the underlying risks and product profiles of each primary business operation. in addition, we diversify our product portfolio offerings to include products that contain features that will protect us against fluctuations in interest rates. those features include adjustable crediting rates, policy surrender charges and market value adjustments on liquidations. for further information on our management of interest rate risk, see item 7a. "quantitative and qualitative disclosures about market risk - interest rate risk."
+overall composition of u.s. invested assets as shown in the following table, the major categories of u.s. invested assets are fixed maturities and commercial mortgage loans. the following discussion analyzes the composition of u.s. invested assets, but excludes invested assets of the separate accounts.
+
+december 31, 2021                             december 31, 2020
+carrying amount              % of total       carrying amount             % of total
+($ in millions)
+fixed maturities:
+public                                $46,975.5                            46   %   $47,818.3                           49   %
+private                                          28,577.9                  28                 27,228.8                  28
+equity securities                                 1,051.5                   1       545.8                                1
+mortgage loans:
+commercial                                       15,920.1                  16                 14,952.3                  15
+residential                                       2,942.6                   3                  1,511.0                   1
+real estate held for sale             74.2                         -                1.2                                  -
+real estate held for investment                   1,986.4                   2                  1,794.9                   2
+policy loans                          745.7                                 1       764.1                                1
+other investments                                 3,671.7                   3                  3,214.7                   3
+total invested assets                           101,945.6                 100   %             97,831.1                 100   %
+cash and cash equivalents                         2,074.8                                      2,607.2
+total invested assets and cash        $104,020.4                                    $100,438.3
+fixed maturities fixed maturities include bonds, abs, redeemable preferred stock and certain non-redeemable preferred securities. included in the privately placed category as of december 31, 2021 and december 31, 2020, were $18.3 billion and $18.6 billion, respectively, of securities subject to certain holding periods and resale restrictions pursuant to rule 144a of the securities act of 1933.
+fixed maturities were diversified by category of issuer, as shown in the following table for the years indicated.
+
+december 31, 2021                                  december 31, 2020
+carrying amount             percent of total       carrying amount             percent of total
+($ in millions)
+u.s. government and agencies                              $2,067.1                                   3   %   $2,086.1                                   3   %
+non-u.s. governments                                      949.5                                      1       950.3                                      1
+states and political subdivisions                                    9,289.9                        12                  9,156.5                        12
+corporate - public                                                  23,042.1                        31                 24,944.6                        33
+corporate - private                                                 20,251.8                        27                 18,706.0                        25
+residential mortgage-backed pass-through securities                  3,262.7                         4                  3,165.0                         4
+commercial mortgage-backed securities                                5,556.1                         7                  4,936.9                         7
+residential collateralized mortgage obligations                      3,834.8                         5                  3,053.2                         4
+asset-backed securities                                              7,299.4                        10                  8,048.5                        11
+total fixed maturities                                    $75,553.4                                100   %   $75,047.1                                100   %
+71
+we believe it is desirable to hold residential mortgage-backed pass-through securities due to their credit quality and liquidity as well as portfolio diversification characteristics. our portfolio is comprised of government national mortgage association, federal national mortgage association and federal home loan mortgage corporation pass-through securities. in addition, our residential collateralized mortgage obligation portfolio offers structural features that allow cash flows to be matched to our liabilities.
+we purchase cmbs to diversify the overall credit risks of the fixed maturities portfolio and to provide attractive returns. the primary risks in holding cmbs are structural and credit risks. structural risks include the security's priority in the issuer's capital structure, the adequacy of and ability to realize proceeds from the collateral and the potential for prepayments. credit risks involve collateral and issuer/servicer risk where collateral and servicer performance may deteriorate. cmbs are predominantly comprised of large pool securitizations that are diverse by property type, borrower and geographic dispersion. the risks to any cmbs deal are determined by the credit quality of the underlying loans and how those loans perform over time. another key risk is the vintage of the underlying loans and the state of the markets during a particular vintage.
+similar to cmbs, we purchase abs for diversification and to provide attractive returns. the primary risks in holding abs are also structural and credit risks, which are similar to those noted above for cmbs. our abs portfolio is diversified by type of asset, issuer, and vintage. we actively monitor holdings of abs to recognize adverse changes in the risk profile of each security. prepayments in the abs portfolio are, in general, insensitive to changes in interest rates or are insulated from such changes by call protection features. in the event we are subject to prepayment risk, we monitor the factors that impact the level of prepayment and prepayment speed for those abs. in addition, we hold a diverse class of securities, which limits our exposure to any one security.
+the international exposure held in our u.s. operation's fixed maturities portfolio was 16% of total fixed maturities as of both december 31, 2021, and december 31, 2020. it is comprised of corporate and foreign government fixed maturities. the following table presents the carrying amount of our international exposure for our u.s. operation's fixed maturities portfolio for the years indicated.
+
+december 31, 2021          december 31, 2020
+(in millions)
+european union, excluding uk                  $2,876.6                   $3,015.5
+united kingdom                                 2,079.0                    2,135.7
+australia/new zealand                          2,060.3                    2,106.6
+latin america                                  1,578.6                    1,502.0
+asia-pacific                                   1,364.3                    1,372.1
+middle east and africa                           920.7                      907.5
+europe, non-european union                       713.7                      849.5
+other (1)                                        253.7                      224.8
+total                                        $11,846.9                  $12,113.7
+(1)   includes exposure from one country and various supranational organizations as of december 31, 2021 and two countries and various supranational organizations as of december 31, 2020.
+
+international fixed maturities exposure is determined by the country of risk of the obligor entity. all international fixed maturities held by our u.s. operations are either denominated in u.s. dollars or have been swapped into u.s. dollar equivalents. our international investments are analyzed internally by country and industry credit investment professionals. we control concentrations using issuer and country level exposure benchmarks, which are based on the credit quality of the issuer and the country. our investment policy limits total international fixed maturities investments and we are within those internal limits. exposure to canada is not included in our international exposure. as of december 31, 2021 and december 31, 2020, our investments in canada totaled $1,839.5 million and $2,037.9 million, respectively.
+72
+fixed maturities credit concentrations. one aspect of managing credit risk is through industry, issuer and asset class diversification. our credit concentrations are managed to established limits. the following table presents our top ten exposures as of december 31, 2021.
+
+amortized cost
+(in millions)
+berkshire hathaway inc.                      $288.1
+nextera energy, inc                           224.2
+comcast corporation                           223.4
+bank of america corporation                   219.0
+duke energy corporation                       217.4
+sempra energy                                 214.5
+jpmorgan chase &amp; co.                      211.7
+emirate of abu dhabi                          210.8
+the walt disney company                       208.1
+wells fargo &amp; company                     205.2
+total top ten exposures                    $2,222.4
+fixed maturities valuation and credit quality. valuation techniques for the fixed maturities portfolio vary by security type and the availability of market data. the use of different pricing techniques and their assumptions could produce different financial results. see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 14, fair value measurements" for further details regarding our pricing methodology. once prices are determined, they are reviewed by pricing analysts for reasonableness based on asset class and observable market data. investment analysts who are familiar with specific securities review prices for reasonableness through direct interaction with external sources, review of recent trade activity or use of internal models. all fixed maturities placed on the "watch list" are periodically analyzed by investment analysts. these analysts periodically meet with the chief investment officer and the portfolio managers to determine reasonableness of the analysts' prices. the valuation of bonds for which a credit loss exists and there is no quoted price is typically based on relative value analysis and the present value of the future cash flows expected to be received. although we believe these values reasonably reflect the fair value of those securities, the key assumptions about risk premiums, performance of underlying collateral (if any) and other market factors involve qualitative and unobservable inputs.
+the securities valuation office ("svo") of the naic monitors the bond investments of insurers for regulatory capital and reporting purposes and, when required, assigns securities to one of six categories referred to as naic designations. although naic designations are not produced to aid the investment decision making process, naic designations may serve as a reasonable proxy for nationally recognized statistical rating organizations' ("nrsro") credit ratings for certain bonds. for most corporate bonds, naic designations 1 and 2 include bonds generally considered investment grade by such rating organizations. bonds are considered investment grade when rated ''baa3'' or higher by moody's, or ''bbb-'' or higher by s&p. naic designations 3 through 6 include bonds generally referred to as below investment grade. bonds are considered below investment grade when rated ''ba1'' or lower by moody's, or ''bb+'' or lower by s&p.
+for loan-backed and structured securities, as defined by the naic, the naic designation is not always a reasonable indication of an nrsro rating as described below. for cmbs and non-agency rmbs, blackrock solutions undertakes the modeling of those naic designations. this may result in a final designation being higher or lower than the nrsro credit rating.
+the following table presents our total fixed maturities by naic designation as of the years indicated as well as the percentage, based on fair value, that each designation comprises.
+
+december 31, 2021                                              december 31, 2020
+percent of                                                     percent of amortized              carrying               carrying         amortized              carrying               carrying naic designation             cost                   amount                 amount           cost                   amount                 amount
+($ in millions)
+1                            $46,117.2              $49,166.2                      65   %   $44,265.2              $48,772.3                      65   %
+2                                   20,140.8               22,094.8                29              19,106.8               21,827.8                29
+3                                    3,909.7                4,016.5                 6               3,720.5                3,910.5                 5
+4                            245.2                  242.2                  -                524.3                  513.6                           1
+5                            34.4                   28.9                   -                19.9                   17.1                   -
+6                            3.6                    4.8                    -                10.3                   5.8                    -
+total fixed maturities       $70,450.9              $75,553.4                     100   %   $67,647.0              $75,047.1                     100   %
+73
+fixed maturities included 49 securities with an amortized cost of $352.6 million, gross gains of $1.9 million, gross losses of $0.7 million and a carrying amount of $353.8 million as of december 31, 2021, that were still pending a review and assignment of a designation by the svo. due to the timing of when fixed maturities are purchased, legal documents are filed and the review by the svo is completed, we will always have securities in our portfolio that are unrated over a reporting period. in these instances, an equivalent designation is assigned based on our fixed income analyst's assessment.
+commercial mortgage-backed securities. as of december 31, 2021, based on amortized cost, 95% of our cmbs portfolio had an naic designation of 1.
+the following table presents our exposure by credit quality based on naic designations for our cmbs portfolio as of the years indicated.
+
+december 31, 2021                     december 31, 2020
+amortized            carrying         amortized            carrying naic designation              cost              amount              cost              amount
+(in millions)
+1                         $5,169.9            $5,285.8          $4,148.4            $4,315.3
+2                            169.5               176.3             114.5               122.7
+3                             84.2                87.4             378.7               403.8
+4                              5.1                 5.3              87.3                90.5
+5                                -                   -               4.4                 2.9
+6                              1.6                 1.3               3.2                 1.7
+total (1)                 $5,430.3            $5,556.1          $4,736.5            $4,936.9
+(1)   the cmbs portfolio included agency cmbs with a $405.5 million amortized cost and a $410.3 million carrying amount as of december 31, 2021, and a $285.3 million amortized cost and a $297.3 million carrying amount as of december 31, 2020.
+
+fixed maturities watch list. we monitor any decline in the credit quality of fixed maturities through the designation of "problem securities," "potential problem securities" and "restructured securities". we define problem securities in our fixed maturity portfolio as securities: (i) with principal and/or interest payments in default or where default is perceived to be imminent in the near term, or (ii) issued by a company that went into bankruptcy subsequent to the acquisition of such securities. we define potential problem securities in our fixed maturity portfolio as securities included on an internal "watch list" for which management has concerns as to the ability of the issuer to comply with the present debt payment terms and which may result in the security becoming a problem or being restructured. the decision whether to classify a performing fixed maturity security as a potential problem involves significant subjective judgments by our management as to the likely future industry conditions and developments with respect to the issuer. we define restructured securities in our fixed maturity portfolio as securities where a concession has been granted to the borrower related to the borrower's financial difficulties that would not have otherwise been considered. we determine that restructures should occur in those instances where greater economic value will be realized under the new terms than through liquidation or other disposition and may involve a change in contractual cash flows. if the present value of the restructured cash flows is less than the current cost of the asset being restructured, a realized capital loss is recorded in net income and a new cost basis is established.
+the following table presents the total carrying amount of our fixed maturities portfolio, as well as its problem, potential problem and restructured fixed maturities for the years indicated.
+
+december 31, 2021           december 31, 2020
+($ in millions)
+total fixed maturities (public and private)                                                                               $75,553.4                   $75,047.1
+problem fixed maturities (1)                                                                                                  $20.5                       $31.7
+potential problem fixed maturities                                                                                              5.7                        72.6
+total problem, potential problem and restructured fixed maturities                                                            $26.2                      $104.3
+total problem, potential problem and restructured fixed maturities as a percent of total fixed maturities                      0.03     %                  0.14   %
+(1)   the problem fixed maturities carrying amount is net of the credit loss valuation allowance.
+
+74
+fixed maturities credit losses. each reporting period, a group of individuals including the chief investment officer, our portfolio managers, the assigned analysts and representatives from investment accounting review all securities to determine whether a credit loss exists. the analysis focuses on each issuer's ability to service its debts in a timely fashion. formal documentation of the analysis and our decision is prepared and approved by management. for additional details regarding our process to identify and evaluate securities with credit losses, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 4, investments" under the caption "allowance for credit loss."
+we would not consider a security with unrealized losses to have a decline in value due to credit when it is not our intent to sell the security, it is not more likely than not that we would be required to sell the security before recovery of the amortized cost, which may be maturity, and we expect to recover the amortized cost basis. however, we do sell securities under certain circumstances, such as when we have evidence of a change in the issuer's creditworthiness, when we anticipate poor relative future performance of securities, when a change in regulatory requirements modifies what constitutes a permissible investment or the maximum level of investments held or when there is an increase in capital requirements or a change in risk weights of debt securities. sales generate both gains and losses.
+a number of significant risks and uncertainties are inherent in the process of monitoring credit losses and determining the allowance for credit loss. these risks and uncertainties include: (1) the risk that our assessment of an issuer's ability to meet all of its contractual obligations will change based on changes in the credit characteristics of that issuer, (2) the risk that the economic outlook will be worse than expected or have more of an impact on the issuer than anticipated, (3) the risk that our investment professionals are making decisions based on fraudulent or misstated information in the financial statements provided by issuers and (4) the risk that new information obtained by us or changes in other facts and circumstances lead us to change our intent to not sell the security prior to recovery of its amortized cost. any of these situations could result in a charge to net income in a future period.
+the net realized loss relating to the change in the allowance for credit loss and credit related sales of fixed maturities was $34.7 million and $61.9 million for the years ended december 31, 2021 and 2020, respectively.
+75
+fixed maturities available-for-sale the following tables present our fixed maturities available-for-sale by industry category, as of the years indicated.
+
+december 31, 2021
+gross               gross       allowance amortized            unrealized          unrealized       for credit                 carrying cost                 gains              losses       loss                         amount
+(in millions)
+finance - banking                                                    $4,746.3                $333.3               $15.2       $-                         $5,064.4
+finance - brokerage                                                     798.8                  78.9                 5.6               -                     872.1
+finance - finance companies                                             524.9                  24.8                 0.7               -                     549.0
+finance - financial other                                               987.4                  36.5                 1.1               -                   1,022.8
+finance - insurance                                                   2,845.8                 400.5                 6.7               -                   3,239.6
+finance - real estate investment trusts ("reits")                     2,260.1                 148.0                 4.8               -                   2,403.3
+industrial - basic industry                                           1,794.6                 170.7                 3.5               -                   1,961.8
+industrial - capital goods                                            2,299.1                 205.6                 8.8               -                   2,495.9
+industrial - communications                                           3,140.3                 407.0                10.6               -                   3,536.7
+industrial - consumer cyclical                                        1,905.8                  99.8                11.3               -                   1,994.3
+industrial - consumer non-cyclical                                    4,684.6                 500.7                13.8               -                   5,171.5
+industrial - energy                                                   2,669.8                 335.6                 7.1               -                   2,998.3
+industrial - other                                                      760.6                  44.5                 0.7               -                     804.4
+industrial - technology                                               2,629.8                 207.2                 9.6       4.5                         2,822.9
+industrial - transportation                                           2,119.5                 193.3                 2.7               -                   2,310.1
+utility - electric                                                    3,970.7                 434.2                18.2               -                   4,386.7
+utility - natural gas                                                   644.6                  72.4                 2.8               -                     714.2
+utility - other                                                         447.7                  29.8                 4.2               -                     473.3
+government guaranteed                                                   256.1                  39.5                 0.1               -                     295.5
+total corporate securities                                           39,486.5               3,762.3               127.5       4.5                        43,116.8
+residential mortgage-backed pass-through securities                   3,113.1                  59.0                26.8               -                   3,145.3
+commercial mortgage-backed securities                                 5,404.7                 157.0                30.9       0.3                         5,530.5
+residential collateralized mortgage obligations                       3,781.5                  92.4                39.1               -                   3,834.8
+asset-backed securities - home equity (1)                               119.1                  12.0                 0.1       0.1                           130.9
+asset-backed securities - all other                                   3,585.7                  26.7                19.2               -                   3,593.2
+collateralized debt obligations - credit                                 16.8                     -                 5.1               -                      11.7
+collateralized debt obligations - cmbs                                      -                   0.9                   -               -                       0.9
+collateralized debt obligations - loans                               3,547.9                   3.6                 4.5               -                   3,547.0
+total mortgage-backed and other asset-backed securities              19,568.8                 351.6               125.7       0.4                        19,794.3
+u.s. government and agencies                                          1,957.7                 146.3                37.4               -                   2,066.6
+states and political subdivisions                                     8,272.0               1,029.0                16.6               -                   9,284.4
+non-u.s. governments                                                    821.6                 127.5                 2.1               -                     947.0
+total fixed maturities, available-for-sale                          $70,106.6              $5,416.7              $309.3       $4.9                      $75,209.1
+(1)   this exposure is all related to sub-prime mortgage loans.
+
+76
+
+december 31, 2020
+gross               gross       allowance amortized            unrealized          unrealized       for credit          carrying cost                 gains              losses       loss                amount
+(in millions)
+finance - banking                                                    $4,924.8                $535.5               $12.5       $-                  $5,447.8
+finance - brokerage                                                     760.5                 100.6                 0.1               -                     861.0
+finance - finance companies                                             469.7                  22.1                 7.5               -                     484.3
+finance - financial other                                               420.9                  28.3                   -               -                     449.2
+finance - insurance                                                   2,670.4                 512.0                 0.1               -                   3,182.3
+finance - reits                                                       2,147.7                 231.4                 0.3               -                   2,378.8
+industrial - basic industry                                           1,871.7                 252.1                   -               -                   2,123.8
+industrial - capital goods                                            2,305.3                 279.3                 2.9               -                   2,581.7
+industrial - communications                                           3,129.7                 559.6                 2.7               -                   3,686.6
+industrial - consumer cyclical                                        1,897.9                 187.9                 3.7               -                   2,082.1
+industrial - consumer non-cyclical                                    4,467.5                 721.2                 1.3               -                   5,187.4
+industrial - energy                                                   2,873.1                 433.4                14.2               -                   3,292.3
+industrial - other                                                      677.0                  77.5                 0.6               -                     753.9
+industrial - technology                                               2,180.3                 293.8                 2.4               -                   2,471.7
+industrial - transportation                                           2,175.9                 298.4                12.6               -                   2,461.7
+utility - electric                                                    4,005.4                 649.4                 2.9               -                   4,651.9
+utility - natural gas                                                   615.1                 110.4                   -               -                     725.5
+utility - other                                                         384.8                  50.0                   -               -                     434.8
+government guaranteed                                                   193.3                  43.7                   -               -                     237.0
+total corporate securities                                           38,171.0               5,386.6                63.8               -                  43,493.8
+residential mortgage-backed pass-through securities                   2,845.7                 129.0                 0.2               -                   2,974.5
+commercial mortgage-backed securities                                 4,709.4                 240.0                35.3       4.3                         4,909.8
+residential collateralized mortgage obligations                       2,905.7                 149.4                 2.7               -                   3,052.4
+asset-backed securities - home equity (1)                               180.0                  15.4                 0.8               -                     194.6
+asset-backed securities - all other                                   3,745.3                  78.3                26.4               -                   3,797.2
+collateralized debt obligations - credit                                 16.8                     -                 5.1               -                      11.7
+collateralized debt obligations - cmbs                                      -                   0.7                   -               -                       0.7
+collateralized debt obligations - loans                               4,029.1                   8.0                19.8       2.2                         4,015.1
+total mortgage-backed and other asset-backed securities              18,432.0                 620.8                90.3       6.5                        18,956.0
+u.s. government and agencies                                          1,870.1                 226.0                10.5               -                   2,085.6
+states and political subdivisions                                     7,990.3               1,174.1                12.6               -                   9,151.8
+non-u.s. governments                                                    771.4                 176.3                   -               -                     947.7
+total fixed maturities, available-for-sale                          $67,234.8              $7,583.8              $177.2       $6.5                $74,634.9
+(1)   this exposure is all related to sub-prime mortgage loans.
+
+of the $309.3 million in gross unrealized losses as of december 31, 2021, $0.6 million in losses were attributed to securities scheduled to mature in one year or less, $14.6 million attributed to securities scheduled to mature between one to five years, $65.5 million attributed to securities scheduled to mature between five to ten years, $102.9 million attributed to securities scheduled to mature after ten years and $125.7 million related to mortgage-backed and other abs that are not classified by maturity year. as of december 31, 2021, we were in a $5,107.4 million net unrealized gain position as compared to a $7,406.6 million net unrealized gain position as of december 31, 2020. the $2,299.2 million decrease in net unrealized gains for the year ended december 31, 2021, can be attributed to an approximate 51 basis points increase in interest rates, partially offset by tightening of credit spreads.
+fixed maturities available-for-sale unrealized losses. we believe our long-term fixed maturities portfolio is well diversified among industry types and between publicly traded and privately placed securities. each year, we direct the majority of our net cash inflows into investment grade fixed maturities. our current policy is to limit the percentage of fixed maturities invested in below investment grade assets to 15%.
+we invest in privately placed fixed maturities to enhance the overall value of the portfolio, increase diversification and obtain higher yields than are possible with comparable quality public market securities. generally, private placements provide broader access to management information, strengthened negotiated protective covenants, call protection features and, where applicable, a higher level of collateral. they are, however, generally not freely tradable because of restrictions imposed by u.s. federal and state securities laws and illiquid trading markets.
+77
+the following table presents our fixed maturities available-for-sale by investment grade and below investment grade as of the years indicated.
+
+december 31, 2021                                                                                         december 31, 2020
+gross                 gross               allowance                                                       gross                 gross               allowance amortized             unrealized            unrealized          for credit          carrying              amortized             unrealized            unrealized          for credit          carrying cost                  gains                 losses              loss                amount                cost                  gains                 losses              loss                amount
+(in millions)
+investment grade:
+public                                           $41,401.6             $4,000.6              $179.3              $0.2                $45,222.7             $40,025.5             $5,504.9              $58.8               $0.2                $45,471.4
+private                                                 24,557.3               1,276.7       94.8                        -                  25,739.2              22,951.9               1,855.2       71.7                        1.3                24,734.1
+below investment grade:
+public                                                  1,428.4        90.8                  8.9                         -                  1,510.3               1,912.8        127.3                 19.0                        -                  2,021.1
+private                                                 2,719.3        48.6                  26.3                4.7                        2,736.9               2,344.6        96.4                  27.7                        5.0                2,408.3
+total fixed maturities, available-for-sale       $70,106.6             $5,416.7              $309.3              $4.9                $75,209.1             $67,234.8             $7,583.8              $177.2              $6.5                $74,634.9
+the following tables present the carrying amount and the gross unrealized losses on our fixed maturities available-for-sale for which an allowance for credit loss has not been recorded by grade and aging category as of december 31, 2021 and december 31, 2020, respectively.
+
+december 31, 2021
+public                                   private                                  total gross                                    gross                                    gross carrying             unrealized          carrying             unrealized          carrying             unrealized amount               losses              amount               losses              amount               losses
+(in millions)
+investment grade:
+three months or less                                $3,093.0             $20.9               $3,289.2             $16.7               $6,382.2             $37.6
+greater than three to six months                           2,419.1       44.9                       2,242.1       29.8                       4,661.2       74.7
+greater than six to nine months                     42.2                 0.9                 262.5                2.4                 304.7                3.3
+greater than nine to twelve months                         1,479.4       55.1                824.8                24.7                       2,304.2       79.8
+greater than twelve to twenty-four months           748.0                50.0                514.2                15.4                       1,262.2       65.4
+greater than twenty-four to thirty-six months       45.0                 2.1                 4.9                  0.1                 49.9                 2.2
+greater than thirty-six months                      61.8                 5.2                 163.1                5.7                 224.9                10.9
+total fixed maturities, available-for-sale          $7,888.5             $179.1              $7,300.8             $94.8               $15,189.3            $273.9
+
+december 31, 2021
+public                                private                               total gross                                 gross                                 gross carrying          unrealized          carrying          unrealized          carrying          unrealized amount            losses              amount            losses              amount            losses
+(in millions)
+below investment grade:
+three months or less                                $96.5             $2.6                $604.3            $2.2                $700.8            $4.8
+greater than three to six months                    81.2              2.0                 450.7             5.1                 531.9             7.1
+greater than six to nine months                     7.4               0.3                 31.3              1.2                 38.7              1.5
+greater than nine to twelve months                  6.5               0.7                 122.6             3.4                 129.1             4.1
+greater than twelve to twenty-four months           18.3              1.1                 128.7             6.9                 147.0             8.0
+greater than twenty-four to thirty-six months       25.8              0.4                 10.4              1.6                 36.2              2.0
+greater than thirty-six months                      12.5              1.8                 13.3              5.5                 25.8              7.3
+total fixed maturities, available-for-sale          $248.2            $8.9                $1,361.3          $25.9               $1,609.5          $34.8
+78
+
+december 31, 2021
+problem, potential                       all other fixed problem and restructured                 maturity securities                     total gross                                   gross                                 gross carrying             unrealized          carrying            unrealized          carrying          unrealized amount               losses              amount              losses              amount            losses
+(in millions)
+estimated fair value had declined and remained below amortized cost by 20% or more:
+three months or less                                                                      $2.6                 $0.7                $2.6                $0.9                $5.2              $1.6
+greater than three to six months                                                          1.6                  0.5                 3.5                 1.1                 5.1               1.6
+greater than six to nine months                                                                  -                     -           0.3                 0.3                 0.3               0.3
+greater than nine to twelve months                                                               -                     -                  0.1                  0.3                0.1                0.3
+greater than twelve months                                                                0.2                  0.3                 15.1                6.7                 15.3              7.0
+total fixed maturities, available-for-sale                                                $4.4                 $1.5                $21.6               $9.3                $26.0             $10.8
+
+december 31, 2020
+public                                private                                  total gross                                    gross                                    gross carrying          unrealized          carrying             unrealized          carrying             unrealized amount            losses              amount               losses              amount               losses
+(in millions)
+investment grade:
+three months or less                                $641.2            $6.3                $573.0               $4.5                $1,214.2             $10.8
+greater than three to six months                    490.8             12.8                414.4                5.1                 905.2                17.9
+greater than six to nine months                     119.7             4.5                 92.2                 5.1                 211.9                9.6
+greater than nine to twelve months                  849.2             21.4                       1,944.7       38.9                       2,793.9       60.3
+greater than twelve to twenty-four months           67.7              2.9                 144.7                1.1                 212.4                4.0
+greater than twenty-four to thirty-six months       27.4              2.9                 693.3                5.5                 720.7                8.4
+greater than thirty-six months                      85.0              8.0                 85.9                 11.2                170.9                19.2
+total fixed maturities, available-for-sale          $2,281.0          $58.8               $3,948.2             $71.4               $6,229.2             $130.2
+
+december 31, 2020
+public                                private                               total gross                                 gross                                 gross carrying          unrealized          carrying          unrealized          carrying          unrealized amount            losses              amount            losses              amount            losses
+(in millions)
+below investment grade:
+three months or less                                $10.2             $0.1                $75.6             $0.2                $85.8             $0.3
+greater than three to six months                    29.9              0.1                 81.8              1.5                 111.7             1.6
+greater than six to nine months                     7.6               0.5                        -                  -           7.6               0.5
+greater than nine to twelve months                  212.7             13.0                348.5             13.8                561.2             26.8
+greater than twelve to twenty-four months           23.2              3.8                 13.4              1.6                 36.6              5.4
+greater than twenty-four to thirty-six months       8.5               1.2                 62.0              1.9                 70.5              3.1
+greater than thirty-six months                      5.8               0.3                 16.8              6.3                 22.6              6.6
+total fixed maturities, available-for-sale          $297.9            $19.0               $598.1            $25.3               $896.0            $44.3
+
+december 31, 2020
+problem, potential                       all other fixed problem and restructured                 maturity securities                     total gross                                   gross                                 gross carrying             unrealized          carrying            unrealized          carrying          unrealized amount               losses              amount              losses              amount            losses
+(in millions)
+estimated fair value had declined and remained below amortized cost by 20% or more:
+three months or less                                                                      $-                   $-                  $26.5               $9.0                $26.5             $9.0
+greater than three to six months                                                                 -                     -           12.3                3.6                 12.3              3.6
+greater than six to nine months                                                           1.6                  0.4                 0.1                 0.3                 1.7               0.7
+greater than nine to twelve months                                                               -                     -                  19.6                 8.6                19.6               8.6
+greater than twelve months                                                                0.1                  0.4                 11.7                5.2                 11.8              5.6
+total fixed maturities, available-for-sale                                                $1.7                 $0.8                $70.2               $26.7               $71.9             $27.5
+79
+mortgage loans mortgage loans consist of commercial mortgage loans on real estate and residential mortgage loans. for further details about residential mortgage loans, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 4, investments" under the caption, "financing receivables."
+commercial mortgage loans. we generally report commercial mortgage loans on real estate at cost adjusted for amortization of premiums and accrual of discounts, computed using the interest method and net of valuation allowances.
+commercial mortgage loans play an important role in our investment strategy by:
+●   providing strong risk-adjusted relative value in comparison to other investment alternatives;
+
+●   enhancing total returns and
+
+●   providing strategic portfolio diversification.
+
+as a result, we have focused on constructing a high quality portfolio of mortgages. our portfolio is generally comprised of mortgages originated with conservative loan-to-value ratios, high debt service coverages and general purpose property types with a strong credit tenancy.
+our commercial mortgage loan portfolio consists primarily of non-recourse, fixed rate mortgages on fully or near fully leased properties. the mortgage portfolio is comprised primarily of office properties, apartments, well anchored retail properties and general-purpose industrial properties.
+our commercial mortgage loan portfolio is diversified by geography and specific collateral property type. commercial mortgage lending in the state of california accounted for 23% and 22% of our commercial mortgage loan portfolio before valuation allowance as of december 31, 2021 and december 31, 2020, respectively. we are, therefore, exposed to potential losses resulting from the risk of catastrophes, such as earthquakes, that may affect the region. like other lenders, we generally do not require earthquake insurance for properties on which we make commercial mortgage loans. with respect to california properties, however, we obtain an engineering report specific to each property. the report assesses the building's design specifications, whether it has been upgraded to meet seismic building codes and the maximum loss that is likely to result from a variety of different seismic events. we also obtain a report that assesses, by building and geographic fault lines, the amount of loss our commercial mortgage loan portfolio might suffer under a variety of seismic events.
+the typical borrower in our commercial mortgage loan portfolio is a single purpose entity or single asset entity. as of december 31, 2021 and december 31, 2020, the total number of commercial mortgage loans outstanding were 750 and 753, of which 41% and 44% were for loans with principal balances less than $10.0 million as of december 31, 2021 and december 31, 2020, respectively. the average loan size of our commercial mortgage portfolio was $21.3 million and $19.9 million as of december 31, 2021 and december 31, 2020, respectively.
+commercial mortgage loan credit monitoring. for further details on monitoring and management of our commercial mortgage loan portfolio, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 4, investments" under the caption, "financing receivables credit monitoring."
+we categorize loans that are 60 days or more delinquent, loans in process of foreclosure and loans with borrowers or credit tenants in bankruptcy that are delinquent as "problem" loans. we categorize loans that are delinquent less than 60 days where the default is expected to be cured and loans with borrowers or credit tenants in bankruptcy that are current as "potential problem" loans. the decision whether to classify a loan delinquent less than 60 days as a potential problem involves significant subjective judgments by management as to the likely future economic conditions and developments with respect to the borrower. we categorize loans for which the original note rate has been reduced below market and loans for which the principal has been reduced as "restructured" loans. we also consider loans that are refinanced more than one year beyond the original maturity or call date at below market rates as restructured.
+we had one problem commercial mortgage loan with a carrying amount of $8.8 million for which we also had a valuation allowance of $8.8 million as of december 31, 2021. we did not have problem, potential problem and restructured commercial mortgage loans as of december 31, 2020.
+commercial mortgage loan valuation allowance. we establish the commercial mortgage loan valuation allowance at levels considered adequate to absorb estimated expected credit losses within the portfolio. for further details on the commercial mortgage loan valuation allowance, see item 8. "financial statements and supplementary data, notes to consolidated financial statements, note 4, investments" under the caption, "financing receivables valuation allowance."
+80
+real estate real estate consists primarily of commercial equity real estate. as of december 31, 2021 and december 31, 2020, the carrying amount of our equity real estate investment was $2,060.6 million and $1,796.1 million, respectively. our commercial equity real estate is held in the form of wholly owned real estate, real estate acquired upon foreclosure of commercial mortgage loans and majority owned interests in real estate joint ventures.
+equity real estate is categorized as either "real estate held for investment" or "real estate held for sale." real estate held for investment totaled $1,986.4 million and $1,794.9 million as of december 31, 2021 and december 31, 2020, respectively. the carrying value of real estate held for investment is generally adjusted for impairments whenever events or changes in circumstances indicate the carrying amount of the asset may not be recoverable. such impairment adjustments are recorded as net realized capital losses in our consolidated results of operations. impairment adjustments recorded for the year ended december 31, 2020, were $0.5 million. no such impairment adjustments were recorded for the year ended december 31, 2021.
+the carrying amount of real estate held for sale was $74.2 million and $1.2 million as of december 31, 2021 and december 31, 2020, respectively. once we identify a real estate property to be sold and it is probable that it will be sold, we classify the property as held for sale. we establish a valuation allowance subject to periodic revisions, if necessary, to adjust the carrying value of the property to reflect the lower of its current carrying value or the fair value, less associated selling costs. the valuation allowance did not change for the year ended december 31, 2021 or for the year ended december 31, 2020.
+we use research, both internal and external, to recommend appropriate product and geographic allocations and changes to the equity real estate portfolio. we monitor product, geographic and industry diversification separately and together to determine the most appropriate mix.
+equity real estate is distributed across geographic regions of the country. as of december 31, 2021, our largest equity real estate portfolio concentration was in the pacific (42%) region of the united states. by property type, our largest concentrations were in apartments (41%) and industrial (25%) as of december 31, 2021.
+other investments our other investments totaled $3,671.7 million as of december 31, 2021, compared to $3,214.7 million as of december 31, 2020. other investments include interests in unconsolidated entities, which include real estate properties owned jointly with venture partners and operated by the partners; sponsored investment funds; the cash surrender value of company owned and trust owned life insurance; derivative assets and other investments.
+81
+international investment operations of our invested assets, $6,960.3 million were held by our principal international segment as of december 31, 2021. the assets are primarily managed by the local principal international affiliate. due to the regulatory constraints in each location, each company maintains its own investment policies. as shown in the following table, the major category of international invested assets is fixed maturities. the following table excludes invested assets of the separate accounts.
+
+december 31, 2021                      december 31, 2020
+carrying         percent                 carrying          percent amount         of total                  amount          of total
+($ in millions)
+fixed maturities:
+public                                                      $2,988.6                43     %         $4,148.2                49   %
+private                                                         34.7                1                    47.1                 1
+equity securities                                            1,295.7                19                1,467.6                17
+mortgage loans:
+commercial                                                     430.7                6                   446.1                 5
+residential                                                    375.3                5                   433.6                 5
+real estate held for sale                                       14.5                -                     0.8          -
+real estate held for investment                                  0.3                -                     0.4          -
+policy loans                                                    13.9                -                    19.9          -
+other investments:
+direct financing leases                                        609.5                9                   710.7                 8
+investment in unconsolidated operating entities                849.9                12                  808.3                10
+derivative assets and other investments                        347.2                5                   393.1                 5
+total invested assets                                        6,960.3                100    %          8,475.8               100   %
+cash and cash equivalents                                      257.2                                    242.6
+total invested assets and cash                              $7,217.5                                 $8,718.4
+regulations in certain locations require investment in the funds we manage. these required regulatory investments are classified as equity securities within our consolidated statements of financial position, with all mark-to-market changes reflected in net investment income. our investment is primarily dictated by client activity and all investment performance is retained by us.
+item 7a. quantitative and qualitative disclosures about market risk 

@@ -1,0 +1,163 @@
+item 7.   management's discussion and analysis of financial condition and results of operations.
+
+overview we design, make and sell semiconductors to electronics designers and manufacturers all over the world. our business model is designed around the following four sustainable competitive advantages, that we believe, in combination, put us in a unique class of companies:
+•   a strong foundation of manufacturing and technology. we invest in manufacturing technologies and do most of our manufacturing in-house. this strategic decision to directly control our manufacturing helps ensure a consistent supply of products for our customers and also allows us to invest in technology that differentiates the features of our products. we have focused on creating a competitive manufacturing cost advantage by increasing factory loadings of our advanced analog 300-millimeter wafers, which have about a 40 percent cost advantage per unpackaged chip over 200-millimeter wafers. 300-millimeter wafers will support the majority of our analog growth going forward. additionally, we keep our manufacturing costs low by using mature assets acquired ahead of demand when their prices are most attractive.
+
+•   broad portfolio of differentiated analog and embedded processing semiconductors. our customers need multiple chips for their systems. the breadth of our portfolio means we can solve more of these needs than our competitors, which gives us access to more customers and the opportunity to sell more products and generate more revenue per customer system. we invest more than $1 billion each year to develop new products for our portfolio, which includes tens of thousands of products.
+
+•   broadest reach of market channels. customers often begin their initial product selection process and design-in journey on our website, and the breadth of our portfolio attracts more customers to our website than any of our competitors. our web presence, combined with our global sales force that is also greater in size than those of our competitors, are advantages that give us unique access to about 100,000 customers designing ti semiconductors into their end products.
+
+•   diversity and longevity of our products, markets and customer positions. together, the attributes above result in diverse and long-lived positions that deliver high terminal value to our shareholders. because of the breadth of our portfolio, we are not dependent on any single product, and because of the breadth of our markets we are not dependent on any single application or customer. some of our products generate revenue for decades, which strengthens the return on our investments.
+
+our strategic focus, and where we invest the majority of our resources, is on analog and embedded processing, with a particular emphasis on designing and selling those products into the industrial and automotive markets, which we believe represent the best growth opportunities. analog and embedded processing products sold into industrial and automotive markets provide long product life cycles, intrinsic diversity, and less capital-intensive manufacturing, which we believe offer stability, profitability and strong cash generation. this business model is the foundation of our capital management strategy, which is based on our belief that free cash flow growth, especially on a per share basis, is important for maximizing shareholder value over the long term. we also believe that free cash flow will be valued only if it is productively invested in the business or returned to shareholders.
+the combined effect of these sustainable competitive advantages is that over time we have gained market share in analog and embedded processing and have grown free cash flow. our business model puts us in a unique class of companies with the ability to grow, generate cash, and return that cash to shareholders.
+management's discussion and analysis of financial condition and results of operations (md&a) should be read in conjunction with the financial statements and the related notes that appear elsewhere in this document. in the following discussion of our results of operations:
+•   our segments represent groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates resources and measures results. see note 1 to the financial statements for more information regarding our segments.
+
+•   all dollar amounts in the tables are stated in millions of u.s. dollars.
+
+•   when we discuss our results:
+
+o   unless otherwise noted, changes in our revenue are attributable to changes in customer demand, which are evidenced by fluctuations in shipment volumes.
+
+o   new products tend not to have a significant impact on our revenue in any given period because we sell such a large number of products.
+
+17
+o   from time to time, our revenue and gross profit are affected by changes in demand for higher-priced or lower-priced products, which we refer to as changes in the "mix" of products shipped.
+
+o   because we own much of our manufacturing capacity, a significant portion of our operating cost is fixed. when factory loadings decrease, our fixed costs are spread over reduced output and, absent other circumstances, our profit margins decrease. conversely, as factory loadings increase, our fixed costs are spread over increased output and, absent other circumstances, our profit margins increase. increases and decreases in factory loadings tend to correspond to increases and decreases in demand.
+
+o   over time, we have been allocating resources from areas like manufacturing support and sg&amp;a into r&amp;d activities.
+
+•   the recently enacted u.s. tax cuts and jobs act (the tax act) will reduce our annual operating tax rate, which does not include discrete tax items, from 31 percent in 2017 to an ongoing rate of about 18 percent starting in 2019, comprehending the benefits of exports and having manufacturing, r&amp;d and intellectual property in the united states. in 2018, our annual operating tax rate is expected to be about 23 percent, 5 percentage points higher, primarily due to a transitional non-cash expense. for an explanation of the term "annual operating tax rate," see the non-gaap financial information section after the liquidity and capital resources section.
+
+•   in the first quarter of 2017, we adopted asu 2017-07 related to certain pension and other retiree benefit costs. we applied the new standard on a full retrospective basis for all periods presented in the consolidated statements of income, which have been recast as a result. see note 2 to the financial statements for more details.
+
+•   as of january 1, 2017, we no longer recognize royalties as revenue; instead, they are recorded as oi&amp;e. we continue to receive royalties from arrangements involving license rights to our patent portfolio. although we expect royalties to continue for many years, they are of decreasing significance to our core operations.
+
+results of operations we continued to perform well in 2017, reflecting our focus on analog and embedded processing, with a particular emphasis on the industrial and automotive markets. these products serve highly diverse markets with thousands of applications and have long-term growth opportunities. in 2017, analog and embedded processing represented 90 percent of revenue. gross margin of 64.3 percent reflected the quality of our product portfolio, as well as the efficiency of our manufacturing strategy.
+our focus on analog and embedded processing allows us to generate strong cash flow from operations. our cash flow from operations of $5.36 billion underscored the strength of our business model. free cash flow was $4.67 billion and represented 31.2 percent of revenue, up from 30.5 percent a year ago. during 2017, we returned $4.66 billion to shareholders through a combination of stock repurchases and dividends, consistent with our strategy to return all of our free cash flow to shareholders. our dividends represented 45 percent of free cash flow, underscoring their sustainability. free cash flow is a non-gaap financial measure. see the non-gaap financial information section.
+details of financial results - 2017 compared with 2016
+revenue of $14.96 billion was up $1.59 billion, or 12 percent, due to higher revenue from analog and embedded processing.
+gross profit of $9.61 billion was up $1.36 billion, or 16 percent, primarily due to higher revenue. as a percentage of revenue, gross profit increased to 64.3 percent from 61.8 percent.
+operating expenses (r&d and sg&a) were $3.20 billion compared with $3.10 billion, as we continued our ongoing allocation of resources to r&d activities.
+acquisition charges of $318 million were non-cash. see note 13 to the financial statements.
+restructuring charges/other was a charge of $11 million compared with a credit of $15 million in 2016. these amounts are included in other for segment reporting purposes. see note 3 to the financial statements.
+operating profit was $6.08 billion, or 40.7 percent of revenue, compared with $4.86 billion, or 36.3 percent of revenue.
+oi&e was $75 million of income compared with $155 million in 2016. see note 13 to the financial statements.
+18
+our provision for income taxes was $2.40 billion compared with $1.34 billion. the increase was due to the enactment of the tax act and, to a lesser extent, higher income before income taxes. our effective tax rate, which includes discrete tax items, was 39 percent in 2017 and 27 percent in 2016. this change was due to tax adjustments made in 2017 as a result of the tax act. see note 6 to the financial statements for a reconciliation of the u.s. statutory income tax rate to the effective tax rate.
+net income was $3.68
+billion compared with $3.60 billion. eps was $3.61 compared with $3.48.
+segment results - 2017 compared with 2016
+analog (includes power, signal chain and high volume product lines)
+2017                     2016                 change
+
+revenue                             $        9,900           $        8,536                 16   %
+operating profit                             4,468                    3,416                 31   %
+operating profit % of revenue                 45.1   %                 40.0   %
+analog revenue increased due to power and signal chain. high volume also grew, but to a lesser extent. operating profit increased primarily due to higher revenue and associated gross profit.
+embedded processing (includes connected microcontrollers and processors product lines)
+2017                     2016                 change
+
+revenue                             $        3,498           $        3,023                 16   %
+operating profit                             1,143                      817                 40   %
+operating profit % of revenue                 32.7   %                 27.0   %
+embedded processing revenue increased due to growth in both product lines, led by processors. operating profit increased primarily due to higher revenue and associated gross profit.
+other (includes dlp® products, calculators and custom asic products)
+2017                     2016                  change
+
+revenue                                                              $        1,563           $        1,811                 (14   )%
+operating profit *                                                              472                      622                 (24   )%
+operating profit % of revenue                                                  30.2   %                 34.3   %
+* includes acquisition charges and restructuring charges/other other revenue declined $248 million primarily due to custom asic products and the move of royalties from revenue to oi&e, which began in the first quarter of 2017. operating profit decreased $150 million.
+details of financial results - 2016 compared with 2015
+revenue of $13.37 billion was up $370 million, or 3 percent, from 2015 due to higher revenue from embedded processing and analog.
+gross profit was $8.26 billion, an increase of $682 million, or 9 percent, due to lower manufacturing costs and, to a lesser extent, higher revenue. gross profit margin was 61.8 percent compared with 58.3 percent.
+operating expenses were $1.36 billion for r&d and $1.74 billion for sg&a. r&d expense increased $89 million, or 7 percent, due to a combination of our allocation of resources into r&d activities and higher compensation-related costs. sg&a expense increased $14 million, primarily due to higher compensation-related costs.
+acquisition charges associated with our 2011 acquisition of national semiconductor were $319 million compared with $329 million. these non-cash charges resulted from the amortization of intangible assets. see note 13 to the financial statements.
+19
+restructuring charges/other was a credit of $15 million, which included a gain on the sale of intellectual property of $40 million that was partially offset by $25 million related to restructuring charges. this compared with a credit of $71 million in 2015, which included gains on sales of assets of $83 million that were partially offset by $12 million related to restructuring charges and other credits. these amounts are included in other for segment reporting purposes. see note 3 to the financial statements.
+operating profit was $4.86 billion, or 36.3 percent of revenue, compared with $4.32 billion, or 33.2 percent of revenue.
+oi&e was $155 million of income compared with $16 million of expense. the increase is due to income of $188 million from settlements related to intellectual property infringement.
+our income tax provision was $1.34 billion compared with $1.23 billion. the increase was primarily due to higher income before income taxes, partially offset by a tax benefit for stock compensation. our annual operating tax rates, which do not include discrete tax items, were 30 percent in 2016 and 29 percent in 2015. our effective tax rates were 27 percent in 2016 and 29 percent in 2015.
+net income was $3.60 billion, an increase of $609 million, or 20 percent. eps was $3.48 compared with $2.82. eps benefited $0.13 in 2016 due to the adoption of a stock compensation accounting standard.
+segment results - 2016 compared with 2015
+analog
+2016                     2015                 change
+
+revenue                             $        8,536           $        8,339                  2   %
+operating profit                             3,416                    3,077                 11   %
+operating profit % of revenue                 40.0   %                 36.9   %
+analog revenue increased due to power and signal chain, while high volume declined. operating profit increased due to higher gross profit, which benefited from lower manufacturing costs.
+embedded processing
+2016                     2015                 change
+
+revenue                             $        3,023           $        2,787                  8   %
+operating profit                               817                      611                 34   %
+operating profit % of revenue                 27.0   %                 21.9   %
+embedded processing revenue increased due to processors and, to a lesser extent, connected microcontrollers. processors revenue increased due to the mix of products shipped. operating profit increased primarily due to higher revenue and associated gross profit.
+other
+2016                     2015                 change
+
+revenue                                                              $        1,811           $        1,874                 (3   )%
+operating profit *                                                              622                      634                 (2   )%
+operating profit % of revenue                                                  34.3   %                 33.8   %
+* includes acquisition charges and restructuring charges/other other revenue decreased due to, in declining order, royalties, custom asic products and calculators. this decrease was partially offset by growth in dlp products. operating profit decreased $12 million.
+financial condition at the end of 2017, total cash (cash and cash equivalents plus short-term investments) was $4.47 billion, an increase of $979 million from the end of 2016.
+accounts receivable were $1.28 billion at the end of 2017, an increase of $11 million compared with the end of 2016. days sales outstanding at the end of 2017 were 31 compared with 33 at the end of 2016.
+20
+inventory was $1.96 billion at the end of 2017, an increase of $167 million from the end of 2016. days of inventory at the end of 2017 were 134 compared with 126 at the end of 2016.
+liquidity and capital resources our primary source of liquidity is cash flow from operations. additional sources of liquidity are cash and cash equivalents, short-term investments and a variable rate, revolving credit facility. cash flows from operating activities for 2017 was $5.36 billion, an increase of $749 million from 2016 that was driven by an increase in income before income taxes.
+our revolving credit facility is with a consortium of investment-grade banks and allows us to borrow up to $2 billion until march 2022. this credit facility also serves as support for the issuance of commercial paper. as of december 31, 2017, our credit facility was undrawn, and we had no commercial paper outstanding.
+in 2017, investing activities used $1.13 billion compared with $650 million in 2016. for 2017, capital expenditures were $695 million compared with $531 million in 2016. capital expenditures in both periods were primarily for semiconductor manufacturing equipment. in 2017, we had purchases of short-term investments, net of sales, that used cash of $460 million compared with $113 million in 2016. in 2017, we received $40 million from asset sales compared with none in 2016.
+in 2017, financing activities used $3.73 billion compared with $3.81 billion in 2016. in 2017, we received net proceeds of $1.10 billion from the issuance of fixed-rate, long-term debt and repaid $625 million of maturing debt. in 2016, we received net proceeds of $499 million from the issuance of fixed-rate, long-term debt and repaid $1.00 billion of maturing debt. dividends paid in 2017 were $2.10 billion compared with $1.65 billion in 2016. during 2017, the quarterly dividend increased to $0.62 from $0.50 per share, resulting in an annualized dividend payment of $2.48 per share. during 2016, we increased our quarterly dividend to $0.50 from $0.38 per share. in 2017, we used $2.56 billion to repurchase 30.6 million shares of our common stock. this compared with $2.13 billion used in 2016 to repurchase 35.5 million shares. in 2017, employee exercises of stock options provided cash proceeds of $483 million compared with $472 million in 2016.
+we had $1.66 billion of cash and cash equivalents and $2.81 billion of short-term investments as of december 31, 2017, with our u.s. entities owning about 80 percent of these amounts combined at the end of 2017. we believe we have the necessary financial resources and operating plans to fund our working capital needs, capital expenditures, dividend and debt-related payments, and other business requirements for at least the next 12 months.
+in 2017, we recorded a provisional tax liability of $690 million on indefinitely reinvested earnings of our non-u.s. subsidiaries related to the enactment of the tax act. this amount will be paid over eight years and is not expected to have a significant impact on our liquidity.
+21
+non-gaap financial information this md&a includes references to free cash flow and ratios based on that measure. these are financial measures that were not prepared in accordance with generally accepted accounting principles in the united states (gaap). free cash flow was calculated by subtracting capital expenditures from the most directly comparable gaap measure, cash flows from operating activities (also referred to as cash flow from operations).
+we believe that free cash flow and the associated ratios provide insight into our liquidity, our cash-generating capability and the amount of cash potentially available to return to shareholders, as well as insight into our financial performance. these non-gaap measures are supplemental to the comparable gaap measures.
+reconciliation to the most directly comparable gaap-based measures is provided in the table below.
+for years ended december 31,
+
+2017                                                                               2016                         2015
+cash flow from operations (gaap)                           $          5,363             $          4,614             $          4,397
+capital expenditures                                                   (695    )                    (531    )                    (551   )
+free cash flow (non-gaap)                                  $          4,668             $          4,083             $          3,846
+revenue                                                    $         14,961             $         13,370             $         13,000
+cash flow from operations as a percent of revenue (gaap)        35.8           %             34.5           %             33.8          %
+free cash flow as a percent of revenue (non-gaap)               31.2           %             30.5           %             29.6          %
+this md&a also includes references to an annual operating tax rate, a non-gaap term we use to describe the estimated annual effective tax rate, a gaap measure that by definition does not include discrete tax items. we believe the term annual operating tax rate more clearly communicates that discrete tax items are excluded from such rate. the term also helps differentiate from the effective tax rate, which includes discrete tax items. no adjustments are made to the estimated annual effective tax rate when using the term annual operating tax rate.
+long-term contractual obligations payments due by period
+
+contractual obligations                       2018                      2019/2020                 2021/2022                 thereafter                total long-term debt (a)                                $         581         $           1,385         $           1,133         $           1,385         $       4,484
+purchase commitments (b)                                    391                       601                        67               35                          1,094
+tax on indefinitely reinvested earnings (c)                  55                       110                       110               415                     690
+operating leases (d)                                         68                        94                        53               56                      271
+deferred compensation plans (e)                              15                        49                        51               112                     227
+total (f)                                         $       1,110         $           2,239         $           1,414         $           2,003         $       6,766
+(a)   includes the related interest payments and amounts classified as the current portion of long-term debt, specifically obligations that will mature within 12 months.
+
+(b)   includes payments for software licenses and contractual arrangements with suppliers where there is a fixed, non-cancellable payment schedule or minimum payments due with a reduced delivery schedule. excluded from the table are cancellable arrangements.
+
+(c)   includes the provisional amount of the tax on indefinitely reinvested earnings related to the enactment of the tax act. see note 6 to the financial statements for more details.
+
+(d)   includes minimum payments for leased facilities and equipment and purchases of industrial gases under contracts accounted for as operating leases.
+
+(e)   includes an estimate of payments for certain liabilities that existed at december 31, 2017.
+
+(f)   excluded from the table are $300 million of uncertain tax liabilities under asc 740, as well as any planned future funding contributions to retirement benefit plans. amounts associated with uncertain tax liabilities have been excluded because of the difficulty in making reasonably reliable estimates of the timing of cash settlements with the respective taxing authorities. regarding future funding of retirement benefit plans, we plan to contribute about $50 million in 2018, but funding projections beyond 2018 are not practical to estimate due to the rules affecting tax-deductible contributions and the impact from the plans' asset performance, interest rates and potential u.s. and non-u.s. legislation.
+
+22
+critical accounting policies our accounting policies are more fully described in note 2 of the consolidated financial statements. as disclosed in note 2, the preparation of consolidated financial statements in conformity with accounting principles generally accepted in the united states requires management to make estimates and assumptions about future events that affect the amounts reported in the financial statements and accompanying notes. however, based on facts and circumstances inherent in developing estimates and assumptions, management believes it is unlikely that applying other estimates and assumptions would have a material impact on the financial statements. we consider the following accounting policies to be those that are most important to the portrayal of our financial condition and that require a higher degree of judgment.
+revenue recognition based on management's assessment of the revenue recognition criteria, we usually recognize revenue from sales of our products to distributors upon shipment or delivery to the distributors. for our consignment arrangements with distributors, delivery occurs when the distributor pulls product from consignment inventory that we store at designated locations. recognition is not contingent upon resale of the products to the distributors' customers in either scenario.
+revenue is recognized net of allowances, which are management's estimates of future credits to be granted to distributors under programs common in the semiconductor industry. these allowances are not material and generally include special pricing arrangements, product returns due to quality issues, and incentives designed to maximize growth opportunities.
+allowances are based on analysis of historical data and contractual terms and are recorded when revenue is recognized. we believe we can reasonably and reliably estimate allowances for credits to distributors in a timely manner.
+income taxes in determining net income for financial statement purposes, we must make certain estimates and judgments in the calculation of tax provisions and the resultant tax liabilities, and in the recoverability of deferred tax assets that arise from temporary differences between the tax and financial statement recognition of revenue and expense.
+in the ordinary course of global business, there may be many transactions and calculations where the ultimate tax outcome is uncertain. the calculation of tax liabilities involves dealing with uncertainties in the application of complex tax laws. we recognize potential liabilities for anticipated tax audit issues in the united states and other tax jurisdictions based on an estimate of the ultimate resolution of whether, and the extent to which, additional taxes will be due. although we believe the estimates are reasonable, no assurance can be given that the final outcome of these matters will not be different than what is reflected in the historical income tax provisions and accruals.
+as part of our financial process, we must assess the likelihood that our deferred tax assets can be recovered. if recovery is not likely, the provision for taxes must be increased by recording a reserve in the form of a valuation allowance for the deferred tax assets that are estimated not to be ultimately recoverable. in this process, certain relevant criteria are evaluated including the existence of deferred tax liabilities that can be used to absorb deferred tax assets, the taxable income in prior years that can be used to absorb net operating losses and credit carrybacks, and taxable income in future years. our judgment regarding future recoverability of our deferred tax assets based on these criteria may change due to various factors, including changes in u.s. or international tax laws and changes in market conditions and their impact on our assessment of taxable income in future periods. these changes, if any, may require material adjustments to the deferred tax assets and an accompanying reduction or increase in net income in the period when such determinations are made. also, our plans for the permanent reinvestment or eventual repatriation of the accumulated earnings of certain non-u.s. operations could change. such changes could have a material effect on tax expense in future years.
+inventory valuation allowances inventory is valued net of allowances for unsalable or obsolete raw materials, work-in-process and finished goods. statistical allowances are determined quarterly for raw materials and work-in-process based on historical disposals of inventory for salability and obsolescence reasons. for finished goods, quarterly statistical allowances are determined by comparing inventory levels of individual parts to historical shipments, current backlog and estimated future sales in order to identify inventory judged unlikely to be sold. a specific allowance for each material type will be carried if there is a significant event not captured by the statistical allowance. examples are an end-of-life part or demand with imminent risk of cancellation. allowances are also calculated quarterly for instances where inventoried costs for individual products are in excess of market prices for those products. actual future write-offs of inventory for salability and obsolescence reasons may differ from estimates and calculations used to determine valuation allowances due to changes in customer demand, customer negotiations, technology shifts and other factors.
+23
+changes in accounting standards see note 2 to the financial statements for information on new accounting standards.
+off-balance sheet arrangements as of december 31, 2017, we had no significant off-balance sheet arrangements as defined in item 303(a)(4)(ii) of sec regulation s-k.
+commitments and contingencies see note 12 to the financial statements for a discussion of our commitments and contingencies.

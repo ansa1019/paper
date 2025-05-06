@@ -1,0 +1,1459 @@
+risk factors and their effects on the cash flows of the underlying transaction, the company uses various derivative financial instruments when appropriate in accordance with the company's hedging strategy and policies. designation is performed on a specific exposure basis to support hedge accounting. the changes in fair value of these hedging instruments are offset in part or in whole by corresponding changes in the anticipated cash flows of the underlying exposures being hedged. the company does not enter into derivative transactions for speculative purposes.
+in 2014, the company implemented changes to its risk management framework that included changes in the horizon over which commodity related market risks are managed. beginning in third quarter 2014, the period over which the company hedges commodity price risks using derivative financial instruments was increased from a maximum of three years to a maximum of five years beyond its current fiscal year. the company weights its hedge portfolio more heavily in the first year with declining coverage over the remaining periods.
+fair value hedges fair value hedges are defined as derivative or non-derivative instruments designated as and used to hedge the exposure to changes in the fair value of an asset or a liability or an identified portion thereof that is attributable to a particular risk. for derivative instruments that are designated and qualify as fair value hedges, the gain or loss on the derivative as well as the offsetting loss or gain on the hedged item attributable to the hedged risk are recognized in current earnings. in 2014, the company entered into interest rate swaps to hedge the interest rate risk on the 3.6% notes due 2022. as of december 31, 2014, the total notional amount of the company's interest rate swaps was $ 275 million . as of december 31, 2013, the company had no fair value hedges.
+fair value measurement of derivatives designated as fair value hedging instruments
+(dollars in millions)    statement of financial position       fair value measurement derivative assets        location                                   december 31, 2014       december 31, 2013
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────
+interest rate swap       other noncurrent assets            $                       5    $  -
+derivatives' fair value hedging relationships consolidated statement of
+(dollars in        earnings millions)          location of                                           amount of gain/
+derivatives in     gain/(loss)                                                    (loss)
+fair value         recognized                                                 recognized hedging            in income on      twelve months     december 31,         in income on    december 31, relationships      derivatives       ended             2014                  derivatives    2013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+interest rate      net interest                        $                               6    $                 -
+swaps              expense cash flow hedges cash flow hedges are derivative instruments designated as and used to hedge the exposure to variability in expected future cash flows that is attributable to a particular risk. for derivative instruments that are designated and qualify as a cash flow hedge, the effective portion of the gain or loss on the derivative is reported as a component of other comprehensive income, net of income taxes and reclassified into earnings in the same period or periods during which the hedged transaction affects earnings. gains and losses on the derivatives representing either hedge ineffectiveness or hedge components excluded from the assessment of effectiveness are recognized in current earnings.
+106
+notes to the audited consolidated financial statements foreign currency exchange rate hedging the company manufactures and sells its products in a number of countries throughout the world and, as a result, is exposed to changes in foreign currency exchange rates. to manage the volatility relating to these exposures, the company nets the exposures on a consolidated basis to take advantage of natural offsets. to manage the remaining exposure, the company enters into currency options and forwards from time to time to hedge probable anticipated, but not yet committed, export sales and purchase transactions expected within no longer than five years and denominated in foreign currencies (principally the euro and japanese yen) and forward exchange contracts to hedge certain firm commitments denominated in foreign currencies. these contracts are designated as cash flow hedges. the mtm gains or losses on qualifying hedges are included in accumulated other comprehensive income (loss) to the extent effective, and reclassified into sales in the period during which the hedged transaction affects earnings.
+commodity hedging certain raw material and energy sources used by the company, as well as sales of certain commodity products by the company, are subject to price volatility caused by weather, supply and demand conditions, economic variables and other unpredictable factors. these commodity and energy costs are primarily related to propane, ethane, natural gas, paraxylene, ethylene, and benzene. from time to time to mitigate expected fluctuations in market prices, the company enters into option and forward contracts. these contracts are designated as cash flow hedges. the mtm gains or losses on qualifying hedges are included in accumulated other comprehensive income (loss) to the extent effective, and reclassified into cost of sales (for commodity purchases) and sales (for commodity sales) in the period during which the hedged transaction affects earnings.
+interest rate hedging the company's policy is to manage interest expense using a mix of fixed and variable rate debt. to manage this mix effectively, the company from time to time enters into interest rate swaps in which the company agrees to exchange the difference between fixed and variable interest amounts calculated by reference to an agreed upon notional principal amount. these swaps are designated as hedges of the fair value of the underlying debt obligations and the interest rate differential is reflected as an adjustment to interest expense over the life of the swaps. as these instruments are 100 percent effective, there is no impact on earnings due to hedge ineffectiveness.
+from time to time, the company also utilizes interest rate derivative instruments, primarily forward starting swaps and treasury locks, to hedge the company's exposure to movements in interest rates prior to anticipated debt offerings. these instruments are designated as cash flow hedges and are typically 100 percent effective. as a result, there is no current impact on earnings due to hedge ineffectiveness.
+the mtm gains or losses on these hedges are included in accumulated other comprehensive income (loss) to the extent effective, and are reclassified into interest expense over the term of the related debt instruments.
+december 31,       december 31, total notional amounts:                          2014               2013
+──────────────────────────────────────────────────────────────────────────
+foreign exchange forward and option contracts (in millions)
+eur/usd (in eur)                                 €810               €954
+eur/usd (in approximate usd equivalent)        $1,000             $1,320
+jpy/usd (in jpy)                               ¥4,800             ¥8,300
+jpy/usd (in approximate usd equivalent)           $40                $80
+commodity forward and collar contracts contract ethylene sales (in thousand               14    -
+metric tons)
+feedstock (in million barrels)                     33    8
+feedstock (in thousand metric tons)                30    -
+energy (in million million british                 25    -
+thermal units)
+interest rate swaps for the future               $500    -
+issuance of debt (in millions)
+107
+notes to the audited consolidated financial statements fair value measurement of derivatives designated as cash flow hedging instruments
+(dollars in millions)         statement of financial        fair value measurements derivative assets             position location                   december 31, 2014       december 31, 2013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────
+commodity contracts           other current assets       $                        2    $                 20
+commodity contracts           other noncurrent assets                             -                       7
+foreign exchange contracts    other current assets                               61                      17
+foreign exchange contracts    other noncurrent assets                            71                      14
+$                      134    $                 58
+(dollars in millions)         statement of financial            fair value measurements derivative liabilities        position location                       december 31, 2014       december 31, 2013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+commodity  contracts          payables and other current     $                      193    $                  -
+liabilities commodity contracts           other long-term liabilities                           289                       -
+foreign exchange contracts    payables and other current                             10                      21
+liabilities foreign exchange contracts    other long-term liabilities                             -                      25
+forward starting interest rate swap                     other long-term liabilities                            16                       -
+contracts
+$                      508    $                 46
+derivatives' hedging relationships change in amount of                           location                   pre-tax after tax                           of                       amount of gain/                           gain/(lo...                gain/(lo...
+(loss)                           reclassi...                reclassi...
+recogniz...                           from                          from in other                           accumula...                accumula...
+(dollars        comprehe...                           other                        other in              income on                           comprehe...                comprehe...
+millions)       derivati...                           income                      income derivati...       (effecti...                           into                          into cash flow        portion)                           income                      income hedging          december            december       (effecti...    december    (effecti...       december relation...        31, 2014            31, 2013       portion)     31, 2014     portion)       31, 2013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+commodity    $       (312  )    $          20       sales        $                   1       $           (14  )
+contracts cost of                         (7  )                 14
+sales foreign exchange               85                 (18  )    sales                           14                     6
+contracts forward starting                                            interest interest               (3  )                5       expense                         (8  )                 (8  )
+rate swap contracts
+$       (230  )    $           7                    $                   -       $            (2  )
+108
+notes to the audited consolidated financial statements hedging summary at december 31, 2014 and 2013, pre-tax monetized positions and mtm gains and losses from raw materials and energy, currency, and certain interest rate hedges that were included in accumulated other comprehensive income totaled approximately $432 million in losses and $62 million in losses, respectively. losses increased in 2014 compared to
+2013 as a result of a sharp decline in commodity prices, particularly propane, partially offset by increased gains resulting from a weaker euro and japanese yen. included in 2014 and 2013 were losses on settlement of forward starting interest rate swaps related to the issuance of debt for the solutia acquisition. if realized, approximately $144 million in pre-tax losses will be reclassified into earnings during the next 12 months.
+ineffective portions of hedges are immediately recognized in cost of sales or other (income) charges, net. in 2014
+, the company recognized $6 million in pre-tax losses for ineffectiveness on the commodity hedging portfolio. there were no gains or losses related to the ineffective portion of hedges recognized in 2013.
+the gains or losses on nonqualifying derivatives or derivatives that are not designated as hedges are marked to market in the line item "other (income) charges, net" of the consolidated statements of earnings, and, in all periods presented, represent foreign exchange derivatives denominated in multiple currencies and are transacted and settled in the same quarter. the company recognized approximately $3 million net loss and $4 million net gain on nonqualifying derivatives during 2014 and 2013 , respectively. the company had no nonqualifying derivatives or derivatives that are not designated as hedges as of december 31, 2014 and december 31, 2013 .
+fair value measurements for additional information on fair value measurement, see note 1 , " significant accounting policies ".
+the following chart shows the financial assets and liabilities valued on a recurring basis and a gross basis.
+fair value measurements at december 31,
+2014                       significant quoted prices in                 other
+(dollars in                                    active markets              observable               significant millions)                december 31,          for identical            inputs (level              unobservable description                      2014          assets (level 1)                    2)          inputs (level 3)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+derivative         $              139       $  -                   $              137       $                 2
+assets derivative                       (508  )       -                                 (508  )                      -
+liabilities
+$             (369  )    $  -                   $             (371  )    $                 2
+fair value measurements at december 31,
+2013                       significant quoted prices in                 other
+(dollars in                                    active markets              observable          significant millions)                december 31,          for identical            inputs (level          unobservable description                      2013          assets (level 1)                    2)          inputs (level 3)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+derivative         $               58       $  -                   $               58       $  -
+assets derivative                        (46  )       -                                  (46  )       -
+liabilities
+$               12       $  -                   $               12       $  -
+the majority of the company's derivative assets are classified as level 2. level 2 fair value is based on estimates using standard pricing models. these standard pricing models use inputs which are derived from or corroborated by observable market data such as interest rate yield curves and currency spot and forward rates. the fair value of commodity contracts is derived using forward curves supplied by an industry recognized and unrelated third party.
+in addition, on an ongoing basis, the company tests a subset of its valuations against valuations received from the transaction's counterparty to validate the accuracy of its standard pricing models. counterparties to these derivative contracts are highly rated financial institutions which the company believes carry minimal risk of nonperformance.
+from time to time, the company holds level 3 assets for commodity hedges. the fair values of level 3 instruments are determined using pricing data similar to that used in level 2 financial instruments described above, and reflect adjustments for less liquid markets or longer contractual terms. level 3 hedges typically will mature within one year or less. the company determines the fair value of level 3 ethylene derivative forward contracts using an average of unadjusted forward ethylene prices provided by industry recognized experts to value its ethylene positions.
+109
+notes to the audited consolidated financial statements the table below presents a rollforward of activity for these assets for the period ended december 31, 2014 and december 31, 2013 :
+fair value measurements using level 3 inputs commodity contracts                                december 31,
+(dollars in millions)                                      2014          2013
+──────────────────────────────────────────────────────────────────────────────────
+beginning balance at january 1                  $             -       $    (5  )
+realized gain (loss) in sales revenue                         1           (14  )
+change in unrealized gain (loss) in                           2             5
+other comprehensive income purchases, sales and settlements                             (1  )         14
+transfers (out) in of level 3                                 -             -
+ending balance at december 31                   $             2       $     -
+all of the company's derivative contracts are subject to master netting arrangements, or similar agreements, which provide for the option to settle contracts on a net basis when they settle on the same day and in the same currency. in addition, these arrangements provide for a net settlement of all contracts with a given counterparty in the event that the arrangement is terminated due to the occurrence of default or a termination event. the company has elected to present the derivative contracts on a gross basis in the consolidated statements of financial position. had it chosen to present the derivatives contracts on a net basis, it would have a derivative in a net asset position of $129 million and a derivative in a net liability position of $498 million as of december
+31, 2014 . the company does not have any cash collateral due under such agreements.
+11.  retirement plans as described in more detail below, eastman offers various postretirement benefits to its employees.
+defined contribution plans the company sponsors a defined contribution employee stock ownership plan (the "esop"), which is a component of the eastman investment plan and employee stock ownership plan ("eip/esop"), a plan under section 401(a) of the internal revenue code. eastman made a contribution in february 2015 to the eip/esop for substantially all u.s. employees equal to 5 percent of their eligible compensation for the 2014 plan year. employees may allocate contributions to other investment funds within the eip from the esop at any time without restrictions. allocated shares in the esop totaled 2,197,740 ; 2,289,618 ; and 2,410,806 shares as of december 31, 2014, 2013, and 2012, respectively.
+dividends on shares held by the eip/esop are charged to retained earnings. all shares held by the eip/esop are treated as outstanding in computing earnings per share.
+in 2006, the company amended its eip/esop to provide a company match of 50 percent of the first 7 percent of an employee's compensation contributed to the plan for employees who are hired on or after january 1, 2007. employees who are hired on or after january 1, 2007, are also eligible for the contribution to the esop as described above.
+charges for domestic contributions to the eip/esop were $56 million , $43 million , and $40 million for 2014, 2013, and 2012, respectively.
+defined benefit pension plans and other postretirement benefit plans pension plans eastman maintains defined benefit pension plans that provide eligible employees with retirement benefits.
+110
+notes to the audited consolidated financial statements effective january 1, 2000, the company's eastman retirement assistance plan, a u.s. defined benefit pension plan, was amended. employees' accrued pension benefits earned prior to january 1, 2000 are calculated based on previous plan provisions using the employee's age, years of service, and final average compensation as defined in the plans.
+the amended plan uses a pension equity formula to calculate an employee's retirement benefits from january 1, 2000
+forward. benefits payable will be the combined pre-2000 and post-1999 benefits. employees hired on or after january
+1, 2007 are not eligible to participate in eastman's u.s. defined benefit pension plans.
+in december 2014, as part of its acquisition of taminco, the company assumed taminco's non-u.s. defined benefit pension plans in belgium and finland. for more information on this acquisition, see note 2 , " acquisitions ".
+in july 2012, as part of its acquisition of solutia, the company assumed solutia's u.s. and non-u.s. defined benefit pension plans. prior to the acquisition, the u.s. plans had been closed to new participants and were no longer accruing additional benefits. for more information on these acquisitions, see note 2 , " acquisitions ".
+benefits are paid to employees from trust funds. contributions to the trust funds are made as permitted by laws and regulations. the pension trust funds do not directly own any of the company's common stock.
+pension coverage for employees of eastman's non-u.s. operations is provided, to the extent deemed appropriate, through separate plans. the company systematically provides for obligations under such plans by depositing funds with trustees, under insurance policies, or by book reserves.
+other postretirement benefit plans under its other postretirement benefit plans, eastman provides a subsidy for life insurance, health care, and dental benefits to eligible retirees hired prior to january 1, 2007, and a subsidy for health care and dental benefits to retirees' eligible survivors. in general, eastman provides those benefits to retirees eligible under the company's u.s. plans. similar benefits are also made available to retirees of holston defense corporation, a wholly-owned subsidiary of the company that, prior to january 1, 1999, operated a government-owned ammunition plant.
+employees in the u.s. hired on or after january 1, 2007 do not have access to postretirement health care benefits.
+a few of the company's non-u.s. operations have supplemental health benefit plans for certain retirees, the cost of which is not significant to the company.
+in december 2014, as part of its acquisition of taminco, the company assumed taminco's u.s. postretirement benefit plan. for more information on this acquisition, see note 2 , " acquisitions ".
+in july 2012, as part of its acquisition of solutia, the company assumed solutia's postretirement benefit plans which included a voluntary employees' beneficiary association ("veba") retiree trust. for more information on this acquisition, see note 2 , " acquisitions ".
+111
+notes to the audited consolidated financial statements below is a summary balance sheet of the change in plan assets during 2014 and 2013 , the funded status of the plans, amounts recognized in the consolidated statements of financial position, and a summary of amounts recognized in accumulated other comprehensive income.
+summary of changes
+(dollars in million...
+change in                                                                                  postreti...
+project...     pensionpl...                                                               benefit benefit            2014                             2013                                plans obligat...           u.s.          non-u.s.           u.s.          non-u.s.               2014           2013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+benefit obligat...  $       2,236       $       736       $  2,466       $       672       $        962       $  1,140
+beginni...
+of year service              40                14             43                14                  8             11
+cost interest            100                31             89                27                 45             44
+cost actuari...
+(gain)              174               149           (184  )             22                 49           (123  )
+loss curtail...              -                 -              -                (1  )               -              -
+gain settlem...              -               (18  )           -                 -                  -              -
+acquisi...              -                48              -                 -                  4              -
+plan amendme...              -                 -              -                 -                  1            (47  )
+and other plan partici...              -                 2              -                 2                 18             20
+contrib...
+effect of                    -               (73  )           -                20                  -             (1  )
+currency exchange federal subsidy on                    -                 -              -                 -                  1              1
+benefits paid benefits           (194  )            (22  )        (178  )            (20  )             (74  )         (83  )
+paid benefit obligat...  $       2,356       $       867       $  2,236       $       736       $      1,014       $    962
+end of year change in plan assets:
+fair value of plan assets,   $       1,887       $       658       $  1,702       $       596       $        179       $    210
+beginni...
+of year actual return              151                92            239                39                 16              7
+on plan assets effect of                    -               (60  )           -                17                  -              -
+currency exchange company             124                22            124                24                 38             40
+contrib...
+reserve for third                 -                 -              -                 -                 (3  )         (16  )
+party contrib...
+plan partici...              -                 2              -                 2                 18             20
+contrib...
+benefits           (194  )            (22  )        (178  )            (20  )             (74  )         (83  )
+paid federal subsidy on                    -                 -              -                 -                  1              1
+benefits paid settlem...              -               (18  )           -                 -                  -              -
+other                 -                 -              -                 -                  1              -
+acquisi...              -                25              -                 -                  -              -
+fair value of plan      $       1,968       $       699       $  1,887       $       658       $        176       $    179
+assets, end of year funded status    $        (388  )    $      (168  )    $   (349  )    $       (78  )    $       (838  )    $   (783  )
+at end of year amounts recogni...
+in the consoli...
+stateme...
+of financi...
+position consist of:
+other noncurr...  $           4       $         4       $      -       $         7       $         13       $      3
+assets current              (2  )             (1  )          (3  )             (1  )             (41  )         (41  )
+liabili...
+post-em...           (390  )           (171  )        (346  )            (84  )            (810  )        (745  )
+obligat...
+net amount recogni...  $        (388  )    $      (168  )    $   (349  )    $       (78  )    $       (838  )    $   (783  )
+end of year accumul...
+benefit   $       2,254       $       781       $  2,123       $       678
+obligat...
+amounts recogni...
+in accumul...
+other compreh...
+income consist of:
+prior service   $         (14  )    $        (1  )    $    (18  )    $         -       $        (84  )    $   (108  )
+credit
+112
+notes to the audited consolidated financial statements the change in projected benefit obligation and change in net assets in 2014 reflect the impact of the defined benefit pension plans and the other postretirement benefit plan assumed in the taminco acquisition, described in note 2 , " acquisitions ".
+information for pension plans with projected benefit obligations in excess of plan assets:
+2014                       2013
+(dollars in millions)             u.s.       non-u.s.        u.s.       non-u.s.
+──────────────────────────────────────────────────────────────────────────────────
+projected benefit obligation  $  1,973    $       745    $  2,236    $       618
+fair value of plan assets        1,581            573       1,887            533
+information for pension plans with accumulated benefit obligation in excess of plan assets:
+2014                       2013
+(dollars in millions)               u.s.       non-u.s.        u.s.       non-u.s.
+────────────────────────────────────────────────────────────────────────────────────
+projected benefit obligation    $  1,973    $       711    $  2,236    $       398
+accumulated benefit obligation     1,870            640       2,123            373
+fair value of plan assets          1,581            541       1,887            324
+components of net periodic benefit cost were as follows:
+summary of benefit costs and other amounts recognized in other comprehensive income
+...
+...
+...
+...
+...
+...     p...                                                                        po...
+...     p...                                                                        be...
+...     2...                      20...                      20...                      pl...
+...     u...          n...          u....          n...          u....          n...          20...          2...          20...
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+...  $  40       $  14       $   43       $  14       $   40       $   8       $    8       $  11       $   10
+...
+...     1...          31           89          27           86          19           45          44           45
+...
+...
+...     (...  )       (...  )       (1...  )       (...  )       (1...  )       (...  )        (7  )       (7  )        (5  )
+...
+...
+...      -           -            -          (1  )         -           -            -           -            -
+...
+...
+...
+...
+...     (4  )        -           (4  )        -           (4  )        -          (24  )       (...  )       (19  )
+...
+...
+...
+...
+...
+...     1...          95          (2...  )       18          128          58           43          (...  )        90
+...
+...
+...
+...
+...
+...  $  1...       $  1...       $  (2...  )    $  23       $  147       $  61       $   65       $  (...  )    $  121
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...  $   -       $   -       $    -       $   -       $    -       $   -       $    -       $  47       $    3
+...
+...
+...
+...
+...
+...     (4  )        -           (4  )        -           (4  )        -          (24  )       (...  )       (19  )
+...
+...
+...  $  (4  )    $   -       $   (4  )    $   -       $   (4  )    $   -       $  (24  )    $  25       $  (16  )
+113
+notes to the audited consolidated financial statements in third quarter 2013, the company changed life insurance benefits provided to future retirees by the eastman other postretirement benefit plan which triggered an interim remeasurement of this other postretirement benefit plan obligation. the remeasurement resulted in a reduction in the accumulated postretirement benefit obligation of approximately $47 million which will be amortized as a prior service credit from accumulated other comprehensive income over 8 years. the remeasurement of the plan also resulted in a mark-to-market actuarial gain of $86 million in third quarter 2013. the actuarial gain was primarily due to a higher assumed discount rate of 4.72 percent in third quarter 2013 compared to 4.01 percent at december 31, 2012. the higher assumed discount rate is reflective of changes in global market conditions and interest rates on high-grade corporate bonds.
+the estimated prior service credit for the u.s. pension and other postretirement benefit plans that will be amortized from accumulated other comprehensive income into net periodic cost in 2015 is $4 million and $24 million , respectively.
+the assumptions used to develop the projected benefit obligation for the company's significant u.s. and non-u.s.
+defined benefit pension plans and u.s. postretirement benefit plans are provided in the following tables.
+pe...                                                                     po...
+pl...                                                                     be...
+pl...
+w...
+a...
+u...
+to d...
+b...        20...                     20...                     20...                     20...          20...          20...
+o...
+f...
+y...
+e...
+d...
+3...
+u....        no...          u....        no...          u....        no...
+d...  3.80    %  3.10  %      4.59    %  4.18  %      3.72    %  4.16  %      3.91    %    4.75    %    3.91    %
+r...
+r...
+of  3.50    %  3.24  %      3.50    %  3.49  %      3.50    %  3.49  %      3.50    %    3.50    %    3.50    %
+c...
+i...
+h...
+c...
+c...
+t...
+i...                                                                          7.50    %    8.00    %    8.00    %
+d...
+to u...                                                                          5.00    %    5.00    %    5.00    %
+t...
+of in                                                                          2020         2020         2019
+y...
+w...
+a...
+u...
+to d...
+n...
+p...        20...                     20...                     20...                     20...          20...          20...
+c...
+f...
+y...
+e...
+d...
+3...
+u....        no...          u....        no...          u....        no...
+d...  4.59    %  4.18  %      3.72    %  4.16  %      4.50    %  5.06  %      4.75    %    3.91    %    4.73    %
+r...
+e...
+r...  7.83    %  5.78  %      7.98    %  5.90  %      8.12    %  6.17  %      3.75    %    3.75    %    3.75    %
+on a...
+r...
+of  3.50    %  3.49  %      3.50    %  3.49  %      3.50    %  3.65  %      3.50    %    3.50    %    3.50    %
+c...
+i...
+h...
+c...
+c...
+t...
+i...                                                                          8.00    %    8.00    %    8.00    %
+d...
+to u...                                                                          5.00    %    5.00    %    5.00    %
+t...
+of in                                                                          2020         2019         2018
+y...
+a seven and one-half percent rate of increase in per capita cost of covered health care benefits is assumed for
+2015. the rate is assumed to decrease gradually to five percent in 2020 and remain at that level thereafter. a one percent increase or decrease in health care cost trend would have had no material impact on the 2014 service and interest costs or the 2014 benefit obligation, because the company's contributions for benefits are fixed.
+the company performed a five year experience study on assumptions for the u.s. plans in 2014 which included a review of the mortality tables. the company uses the rp-2000 table with scale aa static improvement scale and no collar adjustment. as a result of the study, the company will not change to the recently published rp-2014 table as the current rp-2000 table with scale aa more closely aligns with the company's experience.
+114
+notes to the audited consolidated financial statements the fair value of plan assets for the u.s. pension plans at december 31, 2014 and 2013 was $2.0 billion and $1.9
+billion , respectively, while the fair value of plan assets at december 31, 2014 and 2013 for non-u.s. pension plans was $699 million and $658 million , respectively. at december 31, 2014 and 2013 , the expected weighted-
+average long-term rate of return on u.s pension plan assets was 7.78 percent and 7.83 percent , respectively. the expected weighted-average long-term rate of return on non-u.s. pension plans assets was 5.50 percent and 5.78
+percent at december 31, 2014 and 2013 , respectively.
+the following charts reflect the fair value of the defined benefit pension plans assets as of december 31, 2014 and
+2013.
+fair value measu...
+at decem...
+31,
+2014
+quoted prices in active marke...                     signi...
+for                      other                     signi...
+(dol...                                ident...                     obser...                     unobs...
+in        decem...                     assets                     inputs                     inputs mill...        31,                     (level                     (level                     (level desc...       2014                         1)                         2)                         3)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+pens...       u.s.       non-u....         u.s.       non-u....         u.s.       non-u....         u.s.       non-u....
+asse...
+cash
+&      $      77    $       19    $      77    $       19    $       -    $        -    $       -    $        -
+cash equi...
+debt...
+fixed inco...        662            11            -             -          662            11            -             -
+(u.s...
+fixed inco...          -           278            -             -            -           278            -             -
+(non...
+fixed inco...          -            28            -             -            -            28            -             -
+(glo...
+u.s.
+trea...         37             -            -             -           37             -            -             -
+secu...
+publ...
+equi...
+fund...
+unit...        509            31            -             -          509            31            -             -
+stat...
+non-...        348            48            -             -          348            48            -             -
+glob...          -           154            -             -            -           154            -             -
+othe...
+priv...
+equi...
+real esta...
+fund...        335            82            -             -            -            27          335            55
+and other alte...
+inve...
+mult...
+comm...          -            48            -             -            -            48            -             -
+coll...
+trus...
+total  $   1,968    $      699    $      77    $       19    $   1,556    $      625    $     335    $       55
+cash & cash equivalents:  the carrying amounts of cash and cash equivalents are valued at$1per unit, which
+(1)  approximates fair value.  amounts are generally invested in actively managed common trust funds or interest bearing accounts.
+debt:  the underlying fixed income investments in this category are generally held in common trust funds,
+(2)  which are either actively or passively managed investment vehicles, that are valued at the net asset value per unit/share multiplied by the number of units/shares held as of the measurement date.
+public equity funds:  the underlying equity investments in this category are generally held in common
+(3)  trust funds, which are either actively or passively managed investment vehicles, that are valued at the net asset value per unit/share multiplied by the number of units/shares held as of the measurement date.
+other:  the underlying investments in this category are held in private investment funds.  these
+(4)  investments are valued based on the net asset value provided by the management of each private investment fund, adjusted as appropriate, for any lag between the date of the financial reports and the measurement date.
+115
+notes to the audited consolidated financial statements fair value measu...
+at decem...
+31,
+2013
+quoted prices in active marke...                     signi...
+for                      other                     signi...
+(dol...                                ident...                     obser...                     unobs...
+in        decem...                     assets                     inputs                     inputs mill...        31,                     (level                     (level                     (level desc...       2013                         1)                         2)                         3)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+pens...       u.s.       non-u....         u.s.       non-u....         u.s.       non-u....         u.s.       non-u....
+asse...
+cash
+&      $      36    $        9    $      36    $        9    $       -    $        -    $       -    $        -
+cash equi...
+debt...
+fixed inco...        485             4           47             -          438             4            -             -
+(u.s...
+fixed inco...          -           299            -             -            -           299            -             -
+(non...
+fixed inco...          -            13            -             -            -            13            -             -
+(glo...
+u.s.
+trea...         36             -            -             -           36             -            -             -
+secu...
+publ...
+equi...
+fund...
+unit...        702            48           54             -          648            48            -             -
+stat...
+non-...        266            93           19             -          247            93            -             -
+non-...
+comm...          -             2            -             -            -             2            -             -
+funds glob...          -            91            -             -            -            91            -             -
+othe...
+priv...
+equi...
+real esta...
+fund...        362            51            -             -            -            24          362            27
+and other alte...
+inve...
+mult...
+comm...          -            48            -             -            -            48            -             -
+coll...
+trus...
+total  $   1,887    $      658    $     156    $        9    $   1,369    $      622    $     362    $       27
+cash & cash equivalents:  the carrying amounts of cash and cash equivalents are valued at$1per unit, which
+(1)  approximates fair value.  amounts are generally invested in actively managed common trust funds or interest bearing accounts.
+debt:  the underlying fixed income investments in this category are generally held in common trust funds,
+(2)  which are either actively or passively managed investment vehicles, that are valued at the net asset value per unit/share multiplied by the number of units/shares held as of the measurement date.
+public equity funds:  the underlying equity investments in this category are generally held in common
+(3)  trust funds, which are either actively or passively managed investment vehicles, that are valued at the net asset value per unit/share multiplied by the number of units/shares held as of the measurement date.
+other:  the underlying investments in this category are held in private investment funds.  these
+(4)  investments are valued based on the net asset value provided by the management of each private investment fund, adjusted as appropriate, for any lag between the date of the financial reports and the measurement date.
+116
+notes to the audited consolidated financial statements the following charts reflect the fair value of the postretirement benefit plan assets as of december 31, 2014 and
+2013. the postretirement benefit plan is for the veba trust the company assumed as part of the solutia acquisition.
+fair value measurements at december 31, 2014
+quoted prices in active markets                               significant
+(dollars in                                      for identical       significant other       unobservable millions)                                               assets       observable inputs       inputs description          december 31, 2014               (level 1)               (level 2)       (level 3)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+postretirement benefit plan assets:
+cash & cash       $                  6    $                  6    $                  -    $  -
+equivalents(1)
+debt(2):
+fixed income                       124                       -                     124       -
+(u.s.)
+fixed income                         2                       -                       2       -
+(non-u.s.)
+u.s. treasury                        1                       -                       1       -
+securities total             $                133    $                  6    $                127    $  -
+fair value measurements at december 31, 2013
+quoted prices in active markets                               significant
+(dollars in                                      for identical       significant other       unobservable millions)                                               assets       observable inputs       inputs description          december 31, 2013               (level 1)               (level 2)       (level 3)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+postretirement benefit plan assets:
+cash & cash       $                 12    $                 12    $                  -    $  -
+equivalents(1)
+debt(2):
+fixed income                       120                       -                     120       -
+(u.s.)
+fixed income                         1                       -                       1       -
+(non-u.s.)
+u.s. treasury                        1                       -                       1       -
+securities total             $                134    $                 12    $                122    $  -
+cash & cash equivalents:  the carrying amounts of cash and cash equivalents are valued at $1 per unit,
+(1)  which approximates fair value.  amounts are generally invested in actively managed common trust funds or interest bearing accounts.
+debt:  the underlying fixed income investments in this category are generally held in common trust funds,
+(2)  which are either actively or passively managed investment vehicles, that are valued at the net asset value per unit/share multiplied by the number of units/shares held as of the measurement date.
+117
+notes to the audited consolidated financial statements the company valued assets with unobservable inputs (level 3), specifically its alternative investments, investments in private equity and investments in real estate and other funds under the practical expedient method. the practical expedient method allows reporting entities to use the most recently reported net asset value ("nav") of qualifying investment companies provided it is not probable that the investment will be sold by the reporting entity at an amount different from the most recently reported nav.
+fair value measu...
+using signi...
+unobs...
+inputs
+(level
+3)
+u.s.                                                        non-...
+pensi...                                                        pens...
+(dol...      plans                          other                         plans              other in        priva...           real          alter...                          real             alter...
+mill...     equity          esta...          inves...          total          esta...             inves...       total
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+bala...
+at dece...  $     170       $    119       $      90       $    379       $      5          $      22    $     27
+31,
+2012
+dist...        (31  )         (27  )          (21  )         (79  )           -                  -           -
+unre...         20              5               6             31              -     -            2           2
+gains purc...
+cont...         18              4               9             31             (3  )               1          (2  )
+and other bala...
+at dece...        177            101              84            362              2                 25          27
+31,
+2013
+dist...        (40  )         (29  )          (17  )         (86  )           -                  -           -
+unre...         18              9               4             31              -     -            4           4
+gains purc...
+cont...         21              2               5             28             (2  )              26          24
+and other bala...
+at dece...  $     176       $     83       $      76       $    335       $      -          $      55    $     55
+31,
+2014
+(1)  u.s. primarily consists of natural resource and energy related limited partnership investments.  non-u.s.
+primarily consists of annuity contracts.
+the following chart reflects the target allocation for the company's u.s. and non-u.s. pension and postretirement benefit plans for 2015 and the asset allocation at december 31, 2014 and 2013 , by asset category. the postretirement benefit plan is for the veba trust the company assumed as part of the solutia acquisition.
+u.s.                               non-u.s.                           postreti...
+pension                            pension                            benefit plans                              plans                              plan plan       plan                    plan       plan                    plan       plan assets at  assets at               assets at  assets at               assets at  assets at target     december   december     target     december   december     target     december   december allocati...  31, 2014   31, 2013     allocati...  31, 2014   31, 2013     allocati...  31, 2014   31, 2013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+asset category equity    47%        44%        51%          32%        34%        36%          -%         -%         -%
+securit...
+debt      35%        39%        30%          48%        48%        49%          100%       100%       100%
+securit...
+real      4%         4%         5%           2%         2%         2%           -%         -%         -%
+estate other     14%        13%        14%          18%        16%        13%          -%         -%         -%
+investm...
+total     100%       100%       100%         100%       100%       100%         100%       100%       100%
+(1)  u.s. primarily consists of private equity and natural resource and energy related limited partnership investments.  non-u.s. primarily consists of annuity contracts and alternative investments.
+118
+notes to the audited consolidated financial statements the company's investment strategy for its defined benefit pension plans is to maximize the long-term rate of return on plan assets within an acceptable level of risk in order to meet or exceed the plan's actuarially assumed long-
+term rate of return and to minimize the cost of providing pension benefits. a periodic asset/liability study is conducted in order to assist in the determination and, if necessary, modification of the appropriate long-term investment policy for the plan. the investment policy establishes a target allocation range for each asset class and the fund is managed within those ranges. the plans use a number of investment approaches including investments in equity, real estate, and fixed income funds in which the underlying securities are marketable in order to achieve this target allocation. the plans also invest in private equity and other funds. diversification is created through investment across various asset classes, geographies, fund managers, and individual securities. this investment process provides for a well-diversified portfolio with no significant concentration of risk. the investment process is monitored by an investment committee comprised of various senior executives from within eastman.
+in december 2014, as part of its acquisition of taminco, the company assumed taminco's non-u.s. defined benefit pension plans in belgium and finland. the pension plans' assets consist of guaranteed investment contracts with an insurance company.
+the company also assumed taminco's u.s. postretirement benefit plan which has no plan assets.
+in july 2012, as part of its acquisition of solutia, the company assumed solutia's defined benefit pension and other postretirement benefit plans. the solutia defined benefit pension plans adhere to the company's defined benefit plan investment strategy. the solutia defined benefit pension plans also utilize a dynamic de-risking strategy to shift from growth assets to liability matching assets as the plan's funded status improves. the investment strategy with respect to solutia's other postretirement benefits plan is to invest in an intermediate-
+term, well diversified, high quality investment instruments, with a primary objective of capital preservation.
+the expected rate of return for all plans was determined primarily by modeling the expected long-term rates of return for the categories of investments held by the plans and the targeted allocation percentage against various potential economic scenarios.
+the company funded its u.s. defined benefit pension plans in the amount of $120 million in both 2014 and 2013. for
+2015, there are no minimum required cash contributions for the u.s. defined benefit pension plans under the employee retirement income security act of 1974, as amended, and the internal revenue code of 1986, as amended.
+benefits expected to be paid from pension plans and benefits, net of participant contributions, expected to be paid for postretirement benefit obligations are as follows:
+pension plans                      postretirement
+(dollars in millions)              u.s.       non-u.s.        benefit plans
+─────────────────────────────────────────────────────────────────────────────
+2015                   $            207    $        20    $              60
+2016                                193             21                   60
+2017                                197             22                   59
+2018                                196             23                   60
+2019                                195             24                   61
+2020-2024                           883            138                  311
+12.  commitments purchase obligations and lease commitments the company had various purchase obligations at december 31, 2014 totaling $2.0 billion over a period of approximately 30 years for materials, supplies, and energy incident to the ordinary conduct of business. the company also had various lease commitments for property and equipment under cancelable, noncancelable, and month-
+to-month operating leases totaling approximately $309 million over a period of approximately 45 years. of the total lease commitments, approximately 50 percent relate to real property, including office space, storage facilities, and land; approximately 40 percent relate to railcars; and approximately 10 percent relate to machinery and equipment, including computer and communications equipment and production equipment. rental expense, net of sublease income, was $80 million , $73 million , and $61 million in 2014, 2013, and 2012, respectively.
+119
+notes to the audited consolidated financial statements the obligations described above, and long-term debt repayment obligations, are summarized in the following table:
+(dollars            payments           credit in                   due for       facilities millions)               debt              and          interest         purchase         operating period            securities            other           payable       obligatio...            leases        total
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+2015          $          250    $          51    $          257    $         256    $           71    $     885
+2016                       -              214               270              261                57          802
+2017                     998              251               271              238                43        1,801
+2018                     169              264               237              228                32          930
+2019                     250              461               220              217                21        1,169
+2020 and               4,641                -             2,117              835                85        7,678
+beyond total         $        6,308    $       1,241    $        3,372    $       2,035    $          309    $  13,265
+guarantees the company has operating leases with terms that require the company to guarantee a portion of the residual value of the leased assets upon termination of the lease as well as other guarantees. disclosures about each group of similar guarantees are provided below.
+residual value guarantees the company has operating leases with terms that require the company to guarantee a portion of the residual value of the leased assets upon termination of the lease. these residual value guarantees at december 31, 2014 totaled
+$121 million and consisted primarily of leases for railcars and company aircraft and will expire beginning in 2016.
+management believes, based on current facts and circumstances, that the likelihood of material residual guarantee payments is remote.
+other guarantees guarantees and claims also arise during the ordinary course of business from relationships with joint venture partners, suppliers, customers, and other parties when the company undertakes an obligation to guarantee the performance of others, if specified triggering events occur. non-performance under a contract could trigger an obligation of the company. the company's current other guarantees include guarantees relating primarily to intellectual property, environmental matters, and other indemnifications and have arisen through the normal course of business. the ultimate effect on future financial results is not subject to reasonable estimation because considerable uncertainty exists as to the final outcome of these claims, if they were to occur. these other guarantees have terms between 1 and 30 years with maximum potential future payments of approximately $29 million in the aggregate, with none of these guarantees individually significant to the company's operating results, financial position, or liquidity. the company's current expectation is that future payment or performance related to non-
+performance under other guarantees is considered remote.
+13.  environmental matters and asset retirement obligations certain eastman manufacturing sites generate hazardous and nonhazardous wastes, the treatment, storage, transportation, and disposal of which are regulated by various governmental agencies. in connection with the cleanup of various hazardous waste sites, the company, along with many other entities, has been designated a potentially responsible party ("prp") by the u.s. environmental protection agency under the comprehensive environmental response, compensation and liability act, which potentially subjects prps to joint and several liability for such cleanup costs. in addition, the company will be required to incur costs for environmental remediation and closure and postclosure under the federal resource conservation and recovery act. reserves for environmental contingencies have been established in accordance with eastman's policies described in note 1 , "
+significant accounting policies ". the company's total reserve for environmental contingencies was $345 million and
+$368 million at december 31, 2014 and 2013 , respectively. at december 31, 2014 and 2013 , this reserve included
+$10 million and $9 million , respectively, related to sites previously closed and impaired by eastman, as well as sites that have been divested by eastman but for which the company retains the environmental liability.
+120
+notes to the audited consolidated financial statements estimated future environmental expenditures for remediation costs ranged from the minimum or best estimate of $324
+million to the maximum of $548 million and from the minimum or best estimate of $341 million to the maximum of $581
+million at december 31, 2014 and 2013 , respectively. the maximum estimated future costs are considered to be reasonably possible and include the amounts accrued at both december 31, 2014 and 2013 . although the resolution of uncertainties related to these environmental matters may have a material adverse effect on the company's consolidated results of operations in the period recognized, because of expected sharing of costs, the availability of legal defenses, and the company's preliminary assessment of actions that may be required, management does not believe that the company's liability for these environmental matters, individually or in the aggregate, will be material to the company's consolidated financial position or cash flows.
+an asset retirement obligation is an obligation for the retirement of a tangible long-lived asset that is incurred upon the acquisition, construction, development, or normal operation of that long-lived asset. the company recognizes asset retirement obligations in the period in which they are incurred if a reasonable estimate of fair value can be made. the asset retirement obligation is subsequently adjusted for changes in fair value. the associated estimated asset retirement costs are capitalized as part of the carrying value of the long-lived assets and depreciated over their useful life. environmental asset retirement obligations consist of primarily closure and post-closure costs. for facilities that have environmental asset retirement obligations, the best estimate accrued to date over the facilities' estimated useful lives for these asset retirement obligation costs were $21 million and $27 million at december 31, 2014 and 2013 , respectively.
+reserves for environmental remediation that management believes to be probable and estimable are recorded as current and long-term liabilities in the consolidated statements of financial position. these reserves include liabilities expected to be paid out within 30 years. the amounts charged to pre-tax earnings for environmental remediation and related charges are included in cost of sales and other (income) charges, net, and are summarized below:
+(dollars in millions)
+──────────────────────────────────────────────────────────
+balance at december 31, 2013                   $  341
+assumed remediation reserve from acquisitions       2
+changes in estimates recorded to earnings and       8
+other cash reductions                                   (27  )
+balance at december 31, 2014                   $  324
+the company's total environmental reserve for environmental contingencies, including remediation costs and asset retirement obligations, is recorded in the consolidated statements of financial position as follows:
+december 31,
+(dollars in millions)                             2014       2013
+───────────────────────────────────────────────────────────────────
+environmental contingent liabilities,  $            35    $    40
+current environmental contingent liabilities,              310        328
+long-term total                                  $           345    $   368
+additionally, costs of certain remediation projects included in the assumed environmental reserve are subject to a cost-sharing arrangement with monsanto company ("monsanto") under the provisions of the amended and restated settlement agreement effective february 28, 2008 (the "effective date"), into which solutia entered with monsanto upon its emergence from bankruptcy (the "monsanto settlement agreement"). under the provisions of the monsanto settlement agreement, the company shares responsibility with monsanto for remediation at certain locations outside of the boundaries of plant sites in anniston, alabama and sauget, illinois (the "shared sites"). the company is responsible for the funding of environmental liabilities at the shared sites up to a total of $325 million from the effective date. if remediation costs for the shared sites exceed this amount, such costs will thereafter be shared equally between the company and monsanto. including payments by solutia prior to its acquisition by eastman, $64
+million had been paid for costs at the shared sites as of december 31, 2014 . as of december 31, 2014 , an additional $212 million has been accrued for estimated future remediation costs at the shared sites, over a period of thirty years.
+121
+notes to the audited consolidated financial statements environmental costs are capitalized if they extend the life of the related property, increase its capacity, and/or mitigate or prevent future contamination. the cost of operating and maintaining environmental control facilities is charged to expense. the company's cash expenditures related to environmental protection and improvement were $319
+million , $285 million , and $262 million in 2014 , 2013 , and 2012 , respectively. these amounts were primarily for operating costs associated with environmental protection equipment and facilities, but also included $79
+million and $53 million in expenditures for engineering and construction in 2014 and 2013, respectively.
+the company also has contractual obligations that include asset retirement obligations not associated with environmental liabilities. eastman's non-environmental asset retirement obligations are primarily associated with the future closure of leased manufacturing assets at pace, florida and oulu, finland acquired from taminco. these accrued non-environmental asset retirement obligations were $44 million as of december 31, 2014.
+14.  legal matters general from time to time, the company and its operations are parties to, or targets of, lawsuits, claims, investigations and proceedings, including product liability, personal injury, asbestos, patent and intellectual property, commercial, contract, environmental, antitrust, health and safety, and employment matters, which are being handled and defended in the ordinary course of business. while the company is unable to predict the outcome of these matters, it does not believe, based upon currently available facts, that the ultimate resolution of any such pending matters will have a material adverse effect on its overall financial condition, results of operations, or cash flows.
+122
+notes to the audited consolidated financial statements
+15.  stockholders' equity a reconciliation of the changes in stockholders' equity for 2014 , 2013 , and 2012 is provided below:
+com...                                      acc...                        total sto...                                      oth...          tre...          stoc...                        tot...
+(d...     at            pai...          ret...          com...          sto...          equi...         non...           sto...
+in      par           cap...          ear...          inc...          at            attr...         int...           equ...
+mi...     val...          $             $             (lo...          cost          to            $              $
+$                                         $             $             east...
+$
+ba...
+at de...  2           900          2,7...           138          (1,...  )       1,8...            31          1,901
+31,
+20...
+net  -             -           437             -             -           437             7            444
+ea...
+ca...  -             -          (159  )          -             -          (159  )          -           (159  )
+di...
+ot...
+co...  -             -             -           (15  )          -           (15  )          -            (15  )
+in...
+sh...
+co...  -            25             -             -             -            25             -             25
+ex...
+st...
+op...  -            40             -             -             -            40             -             40
+ex...
+sh...
+is...
+for  -           730             -             -             -           730             -            730
+bu...
+co...
+ot...  -            14             -             -             1            15             -             15
+sh...  -             -             -             -             -             -            50             50
+re...
+di...
+to   -             -             -             -             -             -            (3  )          (3  )
+no...
+in...
+ba...
+at de...  2          1,7...          3,0...           123          (1,...  )       2,9...            85          3,028
+31,
+20...
+net  -             -          1,1...             -             -          1,1...             7          1,172
+ea...
+ca...  -             -          (191  )          -             -          (191  )          -           (191  )
+di...
+ot...
+co...  -             -             -            48             -            48             -             48
+in...
+sh...
+co...  -            39             -             -             -            39             -             39
+ex...
+st...
+op...  -            12             -             -             -            12             -             12
+ex...
+sh...
+is...
+for  -            16             -             -             -            16             -             16
+bu...
+co...
+ot...  -             2             -             -             -             2             -              2
+sh...  -             -             -             -          (238  )       (238  )          -           (238  )
+re...
+di...
+to   -             -             -             -             -             -           (13  )         (13  )
+no...
+in...
+ba...
+at de...  2          1,7...          4,0...           171          (2,...  )       3,7...            79          3,875
+31,
+20...
+net  -             -           751             -             -           751             6            757
+ea...
+ca...  -             -          (218  )          -             -          (218  )          -           (218  )
+di...
+ot...
+co...  -             -             -          (448  )          -          (448  )          -           (448  )
+in...
+sh...
+co...  -            28             -             -             -            28             -             28
+ex...
+st...
+op...  -            13             -             -             -            13             -             13
+ex...
+sh...
+is...
+for  -             -             -             -             -             -             -              -
+bu...
+co...
+ot...  -            (2  )          -             -             -            (2  )         (1  )          (3  )
+sh...  -             -             -             -          (410  )       (410  )          -           (410  )
+re...
+di...
+to   -             -             -             -             -             -            (4  )          (4  )
+no...
+in...
+ba...
+at de...  2          1,8...          4,5...          (277  )       (2,...  )       3,5...            80          3,590
+31,
+20...
+(1)  includes cash dividends paid and dividends declared, but unpaid.
+(2)  includes the fair value of equity share-based awards recognized for share-based compensation.
+paid in capital includes tax benefits/charges relating to the difference between the amounts deductible
+(3)  for federal income taxes over the amounts charged to income for book value purposes have been adjusted to paid-in capital and other items.  equity attributable to noncontrolling interest includes adjustments for currency revaluation.
+123
+notes to the audited consolidated financial statements the company is authorized to issue 400 million shares of all classes of stock, of which 50 million may be preferred stock, par value $0.01 per share, and 350 million may be common stock, par value $0.01 per share. the company declared dividends per share of $1.45 in 2014 , $1.25 in 2013 , and $1.08 in 2012 .
+on july 2, 2012, as part of the company's acquisition of solutia, the company issued 14.7 million shares of eastman common stock and 4,481,250 warrants to purchase 0.12 shares of eastman common stock and $22.00 cash per warrant upon payment of the warrant exercise price of $29.70 . the warrants expired on february 27, 2013. for more information, see note 2 , " acquisitions ". there were no warrants outstanding as of december 31, 2013.
+the company established a benefit security trust in 1997 to provide a degree of financial security for unfunded obligations under certain unfunded plans and contributed to the trust a warrant to purchase up to 6 million shares of common stock of the company for par value. the warrant, which remains outstanding, is exercisable by the trustee if the company does not meet certain funding obligations, which obligations would be triggered by certain occurrences, including a change in control or potential change in control, as defined, or failure by the company to meet its payment obligations under certain covered unfunded plans. such warrant is excluded from the computation of diluted earnings per share because the conditions upon which the warrant becomes exercisable have not been met.
+the additions to paid-in capital in both 2014 and 2013 are primarily for compensation expense of equity awards and employee stock option exercises. the additions in 2012 are primarily for shares issued as part of the acquisition of solutia and employee stock option exercises and compensation expense of equity awards.
+in february 2011, the company's board of directors authorized repurchase of up to $300 million of the company's outstanding common stock. the company completed the $300 million repurchase authorization in august 2013, acquiring a total of 6,141,999 shares. in may 2013, the company's board of directors authorized repurchase of up to $300
+million of the company's outstanding common stock. the company completed the $300 million repurchase authorization in march 2014, acquiring a total of 3,840,949 shares. in february 2014, the company's board of directors authorized repurchase of up to an additional $1 billion of the company's outstanding common stock at such times, in such amounts, and on such terms, as determined to be in the best interests of the company. as of december 31, 2014 , a total of 2,933,029 shares have been repurchased under this authorization for a total of $250 million . during 2014
+, the company repurchased 4,945,452 shares of common stock for a cost of approximately $410 million . during 2013 , the company repurchased 3,212,886 shares of common stock for a cost of approximately $238 million . the company did not repurchase any shares of common stock during 2012 .
+the company's charitable foundation held 50,798 shares of the company's common stock at both december 31, 2014 and
+2013 and 60,845 shares at december 31, 2012 which are included in treasury stock.
+124
+notes to the audited consolidated financial statements the following table sets forth the computation of basic and diluted earnings per share ("eps") for continuing operations:
+(in millions, except per share amounts)
+numerator                                          for years ended december 31, earnings attributable to eastman stockholders:                             2014        2013        2012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────
+earnings from continuing operations, net        $                           749    $  1,165    $    436
+of tax denominator weighted average shares used for basic                                    149.5       154.0       145.5
+eps dilutive effect of stock options and                                        1.6         2.5         3.6
+other award plans weighted average shares used for diluted                                  151.1       156.5       149.1
+eps eps from continuing operations(1)
+basic                                           $                          5.01    $   7.57    $   2.99
+diluted                                         $                          4.95    $   7.44    $   2.92
+(1)  earnings per share are calculated using whole dollars and shares.
+stock options excluded from the 2014 calculation of diluted earnings per share were 272,143 because the total market value of option exercises for these awards was less than the total cash proceeds that would be received from these exercises. there were no stock options excluded from the 2013 calculation of diluted earnings per share. for
+2012, the only shares excluded from the computation of diluted earnings per share were 536,803 shares then issuable upon exercise of the warrants issued in the solutia acquisition.
+for years ended december
+31, shares of common stock                                           2014                 2013                 2012
+issued(1)
+balance at beginning of      215,131,237                                 213,406,523          196,455,131
+year issued for employee compensation and               1,125,734                                   1,455,030            2,263,783
+benefit plans issued for solutia acquisition and                        -                                     269,684           14,687,609
+related warrants balance at end of year       216,256,971                                 215,131,237          213,406,523
+(1)  includes shares held in treasury.
+accumulated other comprehensive income (loss), net of tax benefit              unrealized                              accumulated cumulative          plans                gains              unrealized           other
+(dollars          translation         unrecogniz...          (losses) on        losses on            comprehensi...
+in                adjustment          prior                cash flow          investments          income millions)         $                   service              hedges             $                    (loss)
+credits              $                                       $
+$
+balance at december     105                  65                  (46  )              (1  )               123
+31, 2012
+period        28                  13                    7                 -                    48
+change balance at december     133                  78                  (39  )              (1  )               171
+31, 2013
+period      (201  )              (17  )              (230  )              -                  (448  )
+change balance at december     (68  )               61                 (269  )              (1  )              (277  )
+31, 2014
+125
+notes to the audited consolidated financial statements amounts of other comprehensive income (loss) are presented net of applicable taxes. the company records deferred income taxes on the cumulative translation adjustment related to branch operations and other entities included in the company's consolidated u.s. tax return. no deferred income taxes are provided on the cumulative translation adjustment of subsidiaries outside the united states, as such cumulative translation adjustment is considered to be a component of indefinitely invested, unremitted earnings of these foreign subsidiaries.
+components of other comprehensive income recorded in the consolidated statements of earnings, comprehensive income and retained earnings are presented below, before tax and net of tax effects:
+for
+(dolla...     years in          ended millio...     december other       31, compre...     2014                                    2013                               2012
+income      before            net of              before           net of            before           net of
+(loss)      tax               tax                    tax              tax               tax              tax
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+change in cumula...  $  (201      )    $  (201      )    $        27       $       28       $        42       $       41
+transl...
+adjust...
+defined benefit pension and other postre...
+benefit plans:
+prior service credit arising     -                 -                       47               29                 3                2
+during the period amorti...
+of unreco...
+prior service     (28       )       (17       )            (26  )           (16  )            (23  )           (15  )
+credits includ...
+in net period...
+costs change in defined benefit pension     (28       )       (17       )             21               13               (20  )           (13  )
+and other postre...
+benefit plans deriva...
+and hedgin...
+unreal...
+(loss)      (371      )       (230      )             10                6               (59  )           (36  )
+gain reclas...
+adjust...
+for gains       -                 -                        2                1               (11  )            (7  )
+includ...
+in net income change in deriva...     (371      )       (230      )             12                7               (70  )           (43  )
+and hedging total other compre...  $  (600      )    $  (448      )    $        60       $       48       $       (48  )    $      (15  )
+income
+(loss)
+for additional information regarding the impact of reclassifications into earnings, refer to note 10 , "
+derivatives ".
+16.  asset impairments and restructuring charges, net components of asset impairments and restructuring charges (gains), net, are presented below:
+for years ended december 31,
+(dollars in millions)                                              2014          2013       2012
+──────────────────────────────────────────────────────────────────────────────────────────────────
+fixed asset impairments                 $                            28       $    28    $    41
+gain on sale                                                         (7  )          -          -
+intangible asset and goodwill                                        24             -          5
+impairments severance charges                                                    13            27         33
+site closure and restructuring charges                               19            21         41
+total                                   $                            77       $    76    $   120
+2014
+in 2014 , there were net asset impairments and restructuring charges of $77 million .
+in 2014, asset impairments of $18 million and restructuring charges, including severance, of $24 million were recognized in the afp segment for costs of the closure of a crystex ® r&d facility in france.
+126
+notes to the audited consolidated financial statements as a result of the annual impairment testing of indefinite-lived intangible assets, in third quarter 2014 the company recognized an intangible asset impairment of $22 million in the afp segment to adjust the carrying value of the crystex ® tradename to the estimated fair value. this impairment resulted from a decrease in projected revenue since the tradename was acquired from solutia in 2012. the estimated fair value was determined using an income approach, specifically the relief from royalty method.
+in addition, during 2014, a change in estimate of certain costs for the fourth quarter 2012 termination of the operating agreement for the são jose dos campos, brazil site resulted in a restructuring charge of $5 million to previously recognized asset impairments and restructuring charges.
+during 2014, the company recognized gains from the sales of previously impaired assets at the former photovoltaics production facility in germany and a former polymers production facility in china of $5 million and $2 million , respectively.
+in 2014, charges in the am segment included $10 million of asset impairments, including intangible assets, and $2
+million of restructuring charges primarily due to the closure of a production facility in taiwan for the flexvue ®
+product line. 2014 also included $5 million of restructuring charges for severance associated with the integration of the acquired solutia businesses.
+2013
+in 2013, there were $76 million in asset impairments and restructuring charges and gains, net, including $23
+million of restructuring charges primarily for severance associated with the integration of solutia. for additional information related to the acquisition of solutia, see note 2 , " acquisitions ".
+during 2013, management decided not to continue its perennial woodtm growth initiative. this resulted in asset impairment charges of $16 million and restructuring charges of $14 million primarily for inventory and contract termination costs. also during fourth quarter 2013, management decided to terminate efforts to develop a continuous resin process in kuantan, malaysia and antwerp, belgium. this resulted in asset impairment charges of $4 million .
+during 2013, management decided to shut-down the photovoltaics product line, including the primary production facility in germany. this resulted in the company recognizing asset impairments of $8 million and restructuring charges of $6 million including charges for severance.
+during 2013, management also approved and recorded severance charges of $6 million primarily for a voluntary separation plan for certain employees.
+in addition, during 2013, a change in estimate for certain costs for the fourth quarter 2012 termination of the operating agreement for the são jose dos campos, brazil site resulted in a reduction of $4 million to previously recorded asset impairments and restructuring charges.
+2012
+in 2012, there were $120 million in asset impairments and restructuring charges and gains, net.
+during 2012, the company terminated an operating agreement at the acquired solutia facility in são jose dos campos, brazil, which resulted in asset impairments and restructuring charges of $35 million . restructuring charges for the shutdown of manufacturing activities at this site included contract termination costs for severance and other required costs under the operating agreement. additionally, the company recorded asset impairments for long-lived assets at the site, based on fair value indicators.
+during 2012, management approved the closure of a production facility in china. based on business analysis completed in fourth quarter, the company concluded the production of the related product lines would be most efficiently performed in its kingsport, tennessee facility. this resulted in the company recognizing asset impairment and restructuring charges of $6 million .
+during 2012, acquisition related restructuring charges of $32 million were recorded primarily for severance costs associated with the acquisition and integration of solutia.
+127
+notes to the audited consolidated financial statements during 2012, the company ceased r&d activities for renewable chemicals at a site it acquired in 2011, resulting in asset impairments and restructuring charges of $4 million .
+during 2012, the company recognized asset impairments of $17 million due to a change in approach to address recently finalized boiler air emissions regulations. the company had incurred engineering costs associated with required modifications for its existing steam and electric generation capacity. however, based on the then current availability of natural gas and the lower cost of operation, management determined that conversion to natural gas fueled boilers was more cost efficient. the company entered into long-term natural gas supply agreements with a third party in fourth quarter 2012, triggering the impairment of the project.
+during 2012, management decided to cease production of certain products in its perennial woodtm growth initiative.
+as a result, a restructuring charge of $17 million was recognized for inventory costs in excess of recoverable value on these certain product lines and to accrue for losses on take-or-pay contracts with third parties. an analysis was performed to determine what, if any, impairment may be required for the associated fixed assets. based on the expected life of the assets and intended uses within the company's continuing acetylation initiatives, there was no impairment.
+the company also recognized asset impairments related to land retained from the previously discontinued industrial gasification project. based on fair value indicators, the carrying value of the beaumont land was reduced by $6
+million .
+balance at                                                                         balance at january 1,          provision/       non-cash                cash                december 31,
+2014         adjustments       reductions              reductions                  2014
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+noncash        $           -    $             52    $  (52             )    $  -                $             -
+charges severance                 22                  13       -                       (22         )                 13
+costs site closure
+&                         14                  12       (4              )       (7          )                 15
+restructuring costs total          $          36    $             77    $  (56             )    $  (29         )    $            28
+balance at                                non-cash                                balance at january 1,            provision/       reductions/          cash                december 31,
+2013           adjustments         additions          reductions                  2013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+noncash         $           -    $               28    $          (28  )    $  -                $             -
+charges severance                   4                    27                 2          (11         )                 22
+costs site closure &
+restructuring              21                    21               (16  )       (12         )                 14
+costs total           $          25    $               76    $          (42  )    $  (23         )    $            36
+balance at                                                                         balance at january 1,          provision/       non-cash                cash                december 31,
+2012         adjustments       reductions              reductions                  2012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+noncash        $           -    $             43    $  (43             )    $  -                $             -
+charges severance                  2                  34       -                       (32         )                  4
+costs site closure
+&                          -                  43       (20             )       (2          )                 21
+restructuring costs total          $           2    $            120    $  (63             )    $  (34         )    $            25
+substantially all costs remaining for severance are expected to be applied to the reserves within one year.
+128
+notes to the audited consolidated financial statements
+17.  other (income) charges, net for years ended december 31,
+(dollars in millions)                                                2014          2013          2012
+──────────────────────────────────────────────────────────────────────────────────────────────────────────
+foreign exchange transaction (gains)      $                            (7  )    $     7       $    (4  )
+losses, net acquisition pre-close financing costs                                  10             -            23
+(income) loss from equity investments                                 (13  )         (5  )         (9  )
+and other investment (gains) losses, net other, net                                                             (5  )          1            (2  )
+other (income) charges, net               $                           (15  )    $     3       $     8
+included in other (income) charges, net are gains or losses on foreign exchange transactions, equity investments, business venture investments, non-operating assets, and certain litigation costs and earnings. acquisition pre-
+close financing costs recognized in "other (income) charges, net" during 2014 were taminco acquisition borrowing fees and during 2012 were solutia acquisition borrowings fees.
+18.  share-based compensation plans and awards
+2012 omnibus stock compensation plan eastman's 2012 omnibus stock compensation plan ("2012 omnibus plan") was approved by stockholders at the may 3,
+2012 annual meeting of stockholders and shall remain in effect until its fifth anniversary. the 2012 omnibus plan authorizes the compensation and management development committee of the board of directors to: grant awards, designate participants, determine the types and numbers of awards, determine the terms and conditions of awards and determine the form of award settlement. under the 2012 omnibus plan, the aggregate number of shares reserved and available for issuance is 10 million , which will consist of a number of shares not previously authorized for issuance under any other plan. the number of shares covered by an award is counted against this share reserve as of the grant date of the award. shares covered by full value awards (e.g. performance shares and restricted stock awards) are counted against the total number of shares available for issuance or delivery under the plan as 2.5
+shares for every one share covered by the award. any stock distributed pursuant to an award may consist of, in whole or in part, authorized and unissued stock, treasury stock, or stock purchased on the open market. under the
+2012 omnibus plan and previous plans, the forms of awards have included: restricted stock and restricted stock units, stock options, stock appreciation rights ("sars"), and performance shares. the 2012 omnibus plan is flexible as to the number of specific forms of awards, but provides that stock options and sars are to be granted at an exercise price not less than 100 percent of the per share fair market value on the date of the grant .
+director stock compensation subplan eastman's 2013 director stock compensation subplan ("directors' subplan"), a component of the 2012 omnibus plan, remains in effect until terminated by the board of directors or the earlier termination of the 2012 omnibus plan.
+the directors' subplan provides for structured awards of restricted shares to non-employee members of the board of directors. restricted shares awarded under the directors' subplan are subject to the same terms and conditions of the 2012 omnibus plan. the directors' subplan does not constitute a separate source of shares for grant of equity awards and all shares awarded are part of the 10 million shares authorized under the 2012 omnibus plan. shares of restricted stock are granted on the first day of a non-employee director's initial term of service and shares of restricted stock are granted each year to each non-employee director on the date of the annual meeting of stockholders.
+general the company is authorized by the board of directors under the 2012 omnibus plan to provide grants to employees and non-employee members of the board of directors. it has been the company's practice to issue new shares rather than treasury shares for equity awards that require settlement by the issuance of common stock and to withhold or accept back shares awarded to cover the related income tax obligations of employee participants. shares of unrestricted common stock owned by non-employee directors are not withheld or acquired to satisfy the withholding obligation related to their income taxes. shares of unrestricted common stock owned by specified senior management level employees are accepted by the company to pay the exercise price of stock options in accordance with the terms and conditions of their awards.
+129
+notes to the audited consolidated financial statements for 2014, 2013, and 2012, total share-based compensation expense (before tax) of approximately $28 million , $40
+million , and $28 million , respectively, was recognized in selling, general and administrative expense in the consolidated statements of earnings for all share-based awards of which approximately $4 million , $5 million , and
+$2 million , respectively, related to stock options. the compensation expense is recognized over the substantive vesting period, which may be a shorter time period than the stated vesting period for qualifying termination eligible employees as defined in the forms of award notice. for 2014 and 2013, approximately $1 million and $3
+million , respectively, of stock option compensation expense was recognized due to qualifying termination eligibility preceding the requisite vesting period.
+stock option awards options have been granted on an annual basis to non-employee directors under the directors' subplan and predecessor plans and by the compensation and management development committee of the board of directors under the 2012 omnibus plan and predecessor plans to employees. option awards have an exercise price equal to the closing price of the company's stock on the date of grant. the term of options is 10 years with vesting periods that vary up to three years. vesting usually occurs ratably over the vesting period or at the end of the vesting period. the company utilizes the black scholes merton option valuation model which relies on certain assumptions to estimate an option's fair value.
+the weighted average assumptions used in the determination of fair value for stock options awarded in 2014 and 2013
+are provided in the table below. there were no stock options granted in 2012.
+assumptions                          2014      2013
+expected volatility rate           25.82%    34.90%
+expected dividend yield             1.70%     1.97%
+average risk-free interest rate     1.44%     0.77%
+expected forfeiture rate            0.75%     0.75%
+expected term years                   4.7       5.0
+the volatility rate of grants is derived from historical company common stock price volatility over the same time period as the expected term of each stock option award. the volatility rate is derived by mathematical formula utilizing the weekly high closing stock price data over the expected term.
+the expected dividend yield is calculated using the company's average of the last four quarterly dividend yields .
+the average risk-free interest rate is derived from united states department of treasury published interest rates of daily yield curves for the same time period as the expected term.
+gaap specifies only share-based awards expected to vest be included in share-based compensation expense. estimated forfeiture rates are determined using historical forfeiture experience for each type of award and are excluded from the quantity of awards included in share-based compensation expense.
+the weighted average expected term reflects the analysis of historical share-based award transactions and includes option swap and reload grants which may have much shorter remaining expected terms than new option grants.
+130
+notes to the audited consolidated financial statements a summary of the activity of the company's stock option awards for 2014, 2013, and 2012 is presented below:
+weighte...                           weighte...                           weighte...
+2014          exercise             2013          exercise             2012          exercise options          price             options          price             options          price
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+outsta...
+at       2,359,1...             $        39    2,480,...             $        33    3,974,...             $        30
+beginn...
+of year granted   272,100                      86    317,900                      70          -                       -
+exerci...  (419,300  )                   31    (436,5...  )                   28    (1,486...  )                   27
+cancel...
+forfei...    (2,100  )                   55     (2,400  )                   15     (8,000  )                   19
+or expired outsta...
+at end   2,209,8...             $        46    2,359,...             $        39    2,480,...             $        33
+of year options exerci...  1,726,8...                            1,862,...                            1,912,...
+at year-e...
+availa...
+for grant    7,271,0...                            8,454,...                            9,808,...
+at end of year the following table provides the remaining contractual term and weighted average exercise prices of stock options outstanding and exercisable at december 31, 2014:
+number                                                    number outstanding               weighted-av...                    exercisable range of                at                  remaining    weighted-a...              at               weighted-av...
+exercise      december 31,  options       contractual    ge exercise    december 31,  options       ge exercise prices                2014  outstanding  life (years)          price            2014  exercisable         price
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+$18-$29            436,400                        4.2            $28         436,400                        $28
+$30-$34            310,400                        2.3             32         310,400                         32
+$35-$40            876,200                        6.3             39         876,200                         39
+$41-$87            586,800                        8.7             77         103,800                         70
+2,209,800                        6.0            $46       1,726,800                        $37
+the range of exercise prices of options outstanding at december 31, 2014 is approximately $18 to $87 per share. the aggregate intrinsic value of total options outstanding and total options exercisable at december 31, 2014 is $69
+million and $68 million , respectively. intrinsic value is the amount by which the closing market price of the stock at december 31, 2014 exceeds the exercise price of the option grants.
+the weighted average remaining contractual life of all exercisable options at december 31, 2014 is 5.2 years.
+the weighted average fair value of options granted during 2014 and 2013 was $17.12 and $17.92 , respectively. there were no options granted in 2012. the total intrinsic value of options exercised during the years ended december 31,
+2014, 2013, and 2012, was $22 million , $21 million , and $43 million , respectively. cash proceeds received by the company from option exercises and the related tax benefit totaled $13 million and $7 million , respectively, for
+2014, $12 million and $6 million , respectively, for 2013, and $40 million and $14 million , respectively, for
+2012. the total fair value of shares vested during the years ended december 31, 2014, 2013, and 2012 was $4 million , $3 million , and $5 million , respectively.
+a summary of the status of the company's nonvested options as of december 31, 2014 and changes during the year then ended is presented below:
+nonvested options                         number of options    weighted-average grant date fair value nonvested at january 1, 2014                        497,100                                    $14.80
+granted                                             272,100                                     17.12
+vested                                             -284,100                                     12.49
+forfeited                                            -2,100                                     13.94
+nonvested options at december 31, 2014              483,000                                    $17.47
+131
+notes to the audited consolidated financial statements for nonvested options at december 31, 2014, approximately $3 million in compensation expense will be recognized over the next three years.
+other share-based compensation awards in addition to stock option awards, the company has awarded long-term performance share awards, restricted stock awards, and sars. the long-term performance awards are based upon actual return on capital compared to a target return on capital and total stockholder return compared to a peer group ranking by total stockholder return over a three year performance period. the awards are valued using a monte carlo simulation based model and vest pro-rata over the three year performance period. the number of long-term performance award target shares granted for the
+2014-2016, 2013-2015, and 2012-2014 periods were 285 thousand, 270 thousand, and 338 thousand, respectively. the target shares granted are assumed to be 100 percent. at the end of the three-year performance period, the actual number of shares awarded can range from zero percent to 250 percent of the target shares granted based on the award notice. the number of restricted stock awards granted during 2014, 2013, and 2012 were 144 thousand, 146 thousand, and 84 thousand, respectively. the fair value of a restricted stock award is equal to the closing stock price of the company's stock on the date of grant and normally vests over a period of three years. the recognized compensation expense before tax for these other share-based awards in the years ended december 31, 2014, 2013, and
+2012 was approximately $24 million , $35 million , and $26 million , respectively. the unrecognized compensation expense before tax for these same type awards at december 31, 2014 was approximately $35 million and will be recognized primarily over a period of two years.
+19.  supplemental cash flow information included in the line item "other items, net" of the "cash flows from operating activities" section of the consolidated statements of cash flows are specific changes to certain balance sheet accounts as follows:
+for years ended december 31,
+(dollars in millions)                             2014          2013          2012
+───────────────────────────────────────────────────────────────────────────────────────
+current assets         $                           (12  )    $   (56  )    $   (23  )
+other assets                                        45           102            53
+current liabilities                                (88  )        (26  )         (1  )
+long-term liabilities                               16          (191  )        (71  )
+total                  $                           (39  )    $  (171  )    $   (42  )
+the above changes included transactions such as accrued taxes, deferred taxes, environmental liabilities, monetized positions from raw material and energy, currency, and certain interest rate hedges, prepaid insurance, miscellaneous deferrals, value-added taxes, and other miscellaneous accruals.
+cash flows from derivative financial instruments accounted for as hedges are classified in the same category as the item being hedged.
+(dollars in millions)
+cash paid for interest and income taxes is as       for years ended december 31, follows:                                                                    2014          2013          2012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+interest, net of amounts capitalized             $                           184       $   186       $   125
+income taxes                                                                 152           224           137
+non-cash investing and financing activities:
+outstanding trade payables related to                                         19            28             -
+capital expenditures
+(gain) loss from equity investments                                          (13  )         (4  )         (8  )
+132
+notes to the audited consolidated financial statements
+20.  segment information the company's products and operations are currently managed and reported in five reporting segments: additives &
+functional products ("afp"), adhesives & plasticizers ("a&p"), advanced materials ("am"), fibers, and specialty fluids & intermediates ("sfi").
+in the afp segment, the company manufactures chemicals for products in the coatings and tire industries in transportation, building and construction, durable goods, and consumables markets. this segment also contains the recently acquired taminco specialty amines and crop protection businesses which primarily serve the personal care and agriculture markets. the products eastman manufactures for the coatings industry can be broadly classified as solvents, which include specialty coalescents and ketones and esters, glycol ethers, and alcohol solvents; and polymers, which include cellulose and polyester-based specialty polymers and paint additives. products for the tires industry are classified into three main product groups: insoluble sulfur products, which are vulcanizing agents principally marketed under the crystex ® brand; antidegradants, principally marketed under the santoflex ®
+brand; and hydrocarbon resins. the specialty amines business includes product lines that consist of specialty intermediates, performance products, and formic acid. the crop protection business consists of alkylamine derivatives product lines. coatings industry and other formulated products sales accounted for 66 percent , 66
+percent , and 80 percent of the afp segment's total sales for 2014, 2013, and 2012 respectively. tires industry sales accounted for 31 percent , 34 percent and 20 percent of the afp segment's total sales for 2014, 2013 and
+2012, respectively. the recently acquired specialty amines and crop protection businesses are included in december
+2014 sales revenue and account for approximately 3 percent of total sales in 2014.
+in the a&p segment, the company manufactures adhesives resins and plasticizers which are used in the manufacture of products sold into the consumables, building and construction, health and wellness, industrial chemicals and processing, and durable goods markets. the adhesives resins product line consists of hydrocarbon resins such as regalitetm and eastotactm; non-hydrogenated hydrocarbons resins such as piccotactm; and rosins such as eastoflextm. the plasticizers product line consists of a unique set of primary non-phthalate plasticizers such as eastman 168tm, and a range of niche non-phthalate plasticizers such as benzoflextm and eastman txibtm. adhesives resins accounted for 53
+percent , 52 percent , and 55 percent of the a&p segment's total sales for 2014, 2013, and 2012, respectively.
+plasticizers accounted for 47 percent , 48 percent , and 45 percent of the a&p segment's total sales for 2014,
+2013, and 2012, respectively.
+in the am segment, the company produces and markets specialty copolyesters, cellulose esters, interlayers, and aftermarket window film products that possess differentiated performance properties for value-added end uses in transportation, consumables, building and construction, durable goods, and health and wellness products. the specialty plastics product line consists of two primary products: specialty copolyesters and cellulose esters. the interlayers product line includes specialty intermediate polyvinyl butyral ("pvb") sheet and resins. pvb is a specialty resin used in the production of laminated safety glass sheet used in automotive and architectural applications. the performance films product line primarily consists of window film products, which are aftermarket applied films to enhance the characteristics and functional performance of automotive and architectural glass.
+eastman's specialty plastics product line accounted for 54 percent , 53 percent , and 69 percent of the am segment's total sales for 2014, 2013, and 2012, respectively. the interlayers product line accounted for 34 percent , 34 percent , and 23 percent of the am segment's total sales for 2014, 2013, and 2012, respectively. the performance films product line accounted for 12 percent , 13 percent , and 8 percent of the am segment's total sales for 2014, 2013, and 2012, respectively. the performance films product line includes the recently acquired commonwealth in december 2014 total sales.
+in the fibers segment, the company manufactures estrontm acetate tow and estrobondtm triacetin plasticizers for use primarily in manufacture of cigarette filters; estrontm natural (undyed) and chromspuntm solution-dyed acetate yarns for use in apparel, home furnishings, and industrial fabrics; and cellulose acetate flake and acetyl raw materials for other acetate fiber producers. acetate tow accounted for 79 percent , 83 percent , and 86 percent of the fibers segment total sales revenue in 2014, 2013, and 2012, respectively, with the remainder of sales from other product lines, including acetate yarn and acetyl chemical products.
+133
+notes to the audited consolidated financial statements in the sfi segment, the company leverages large scale and vertical integration from the acetyl and olefins streams and the recently acquired alkylamine stream and proprietary manufacturing technology for specialty fluids to manufacture diversified products that are sold externally for use in markets such as industrial chemicals and processing, building and construction, health and wellness, and agrochemical; and that are used internally by other segments of the company. in the chemical intermediates product line, the company produces oxo alcohols and derivatives, acetic acid and derivatives and acetic anhydride. in the other intermediate product line, the company produces olefin, chemical intermediates, and polymer intermediates. in the specialty fluids product line, the company produces therminol ® heat transfer fluids and skydrol ® brand aviation hydraulic fluids. the recently acquired functional amines product lines include methylamines and salts, and higher amines and solvents. chemical intermediates accounted for 50 percent , 48 percent , and 51 percent of the sfi segment's total sales for 2014,
+2013, and 2012, respectively. sales for other intermediate products accounted for 35 percent , 39 percent , and 42
+percent of the sfi segment's total sales for 2014, 2013, and 2012, respectively. specialty fluids accounted for 14
+percent , 13 percent , and 7 percent of the sfi segment's total sales for 2014, 2013, and 2012, respectively. the recently acquired functional amines business is included in december 2014 sales revenue and accounts for approximately 1 percent of total sales in 2014.
+the company continues to explore and invest in r&d initiatives that are aligned with macro trends in sustainability, consumerism, and energy efficiency such as high performance materials, advanced cellulosics, and reduced environmental impact. an example of such an initiative is the eastmantm microfiber technology platform which leverages the company's core competency in polymers chemistry, spinning capability, and in-house application expertise, for use in high purity air filtration, liquid filtration, and energy storage media, with opportunities for future growth in nonwoven and textile applications. the acquisition of knowlton technologies is expected to accelerate the eastmantm microfiber technology platform innovation.
+sales revenue and expense for the eastmantm microfiber technology platform growth initiative are shown in the tables below as "other" sales revenue and operating loss. r&d, pension and other postretirement benefits, and other expenses and income not identifiable to an operating segment are shown in the tables below as "other" operating earnings (loss).
+included in 2014 "other" was sales revenue from the acquired knowlton business, part of the eastmantm microfibers technology platform. included in 2013 and 2012 "other" sales revenue were the perennial woodtm growth initiative and the photovoltaics product line acquired from solutia in 2012. there was no sales revenue related to perennial woodtm included in 2014 as a result of decisions made by management in 2013 not to continue its perennial woodtm growth initiative.
+(dollars in millions)                for years ended december 31, sales by segment                                             2014        2013        2012
+───────────────────────────────────────────────────────────────────────────────────────────
+additives & functional products   $                         1,821    $  1,719    $  1,332
+adhesives & plasticizers                                    1,363       1,326       1,432
+advanced materials                                          2,378       2,349       1,694
+fibers                                                      1,457       1,441       1,315
+specialty fluids & intermediates                            2,490       2,497       2,318
+total sales by segment            $                         9,509    $  9,332    $  8,091
+other                                                          18          18          11
+total sales                       $                         9,527    $  9,350    $  8,102
+134
+notes to the audited consolidated financial statements
+(dollars in millions)                             for years ended december 31, operating earnings (loss)                                                 2014           2013           2012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+additives & functional                         $                           329       $    405       $    285
+products(1)(2)(3)(4)(5)(6)
+adhesives & plasticizers(6)                                                196            172            260
+advanced materials(4)(5)(6)(7)                                             276            257             84
+fibers(6)                                                                  474            462            385
+specialty fluids &                                                         289            363            288
+intermediates(4)(5)(6)(8)
+total operating earnings by segment                                      1,564          1,659          1,302
+other(9)
+growth initiatives and businesses not                                      (58  )        (132  )        (132  )
+allocated to segments(10)(11)(12)
+pension and other postretirement benefit costs not allocated to operating                                          (293  )         394           (294  )
+segments(13)
+transaction, integration, and restructuring costs related to                                                           (51  )         (59  )         (76  )
+acquisitions(14)(15)(16)
+total operating earnings                       $                         1,162       $  1,862       $    800
+the footnotes below describe the primary items impacting non-gaap earnings.
+(1)  included in 2014 earnings are asset impairments and restructuring charges of $42 million for costs of the closure of a crystex®r&d facility in france.
+(2)  included in 2014 earnings is a $22 million asset impairment of the crystex®tradename.
+as required by purchase accounting, acquired taminco business inventories were marked to fair value.
+(3)  included in 2014 earnings are additional costs of these inventories.  approximately $7 million were sold in 2014 resulting in an increase in cost of sales.
+(4)  included in 2012 earnings are additional costs of $21 million, $41 million, and $17 million in the afp, am, and sfi segments, respectively, of acquired solutia inventories.
+included in 2012 were asset impairments and restructuring charges of $8 million, $24 million, and $3
+(5)  million in the afp, am, and sfi segments, respectively, for the fourth quarter termination of an operating agreement at the acquired solutia manufacturing facility insãojose dos campos, brazil and related manufacturing facility closure costs.
+included in 2012 were asset impairments and restructuring charges of $3 million, $3 million, $5 million,
+(6)  $3 million, and $6 million in the afp, a&p, am, fibers, and sfi segments, respectively, primarily related to discontinuance of a project to modify existing utility assets in order to meet requirements of enacted environmental regulations controlling air emissions from boilers.
+(7)  included in 2014 earnings are asset impairments, including intangible assets, and restructuring charges of
+$12 million primarily for the closure of a production facility in taiwan for the flexvue®product line.
+as required by purchase accounting, acquired taminco and aviation turbine oil business inventories were
+(8)  marked to fair value.  included in 2014 earnings are additional costs of these inventories.  approximately
+$8 million from the acquired taminco business and approximately $8 million from the acquired aviation turbine oil business inventories were sold in 2014, resulting in an increase in cost of sales.
+r&d, certain components of pension and other postretirement benefits, and other expenses and income not
+(9)  identifiable to an operating segment are not included in segment operating results and are shown as
+"other" operating earnings (loss).
+businesses not allocated to segments in 2014 include eastmantm microfiber technology platform.  businesses
+(10)  not allocated to segments in 2013 included the perennial woodtm growth initiative and photovoltaics product line, both of which ceased production in the second half of 2013.
+(11)  included in 2014 earnings is a $6 million gain on sales of previously impaired assets at the former photovoltaics production facility in germany.
+included in 2013 are asset impairment and restructuring charges of $30 million for management's decision not to continue its perennial woodtm growth initiative and $14 million for the shut-down of the
+(12)  photovoltaics product line primarily in germany.  operating earnings in 2012 included restructuring charges of $17 million for inventory costs in excess of recoverable value of certain perennial woodtm product lines and to accrue for losses on take-or-pay contracts with third parties.
+included in 2014 earnings are mtm pension and other postretirement benefit plans losses of $304 million.
+included in 2013 earnings are mtm pension and other postretirement benefit plans gains of $297 million
+(13)  and an mtm other postretirement benefit plan gain of $86 million for a change in benefits.  included in
+2012 earnings are mtm pension and other postretirement benefit plans losses of $276 million.  see note11,
+"retirement plans."
+(14)  included in 2014 earnings are transaction costs of $22 million for the acquisitions of taminco, commonwealth, the aviation turbine oil business from bp plc, and knowlton.
+included in 2014 earnings are integration costs of $24 million for solutia, the aviation turbine oil
+(15)  businesses, commonwealth, taminco, and knowlton.  included in 2013 earnings are integration costs of $36
+million for the acquired solutia businesses.
+included in 2014 and 2013 earnings are restructuring charges of $5 million and $23 million, respectively,
+(16)  primarily for severance associated with the continued integration of the acquired solutia businesses.
+operating earnings in 2012 included restructuring charges $32 million primarily for severance related to the acquisition and integration of solutia.
+135
+notes to the audited consolidated financial statements for more information about asset impairments and restructuring charges included in operating earnings, see note 16
+, " asset impairments and restructuring charges, net ".
+(dollars in millions)                december 31, assets by segment(1)                         2014         2013
+────────────────────────────────────────────────────────────────
+additives & functional products   $         4,900    $   2,940
+adhesives & plasticizers                    1,011          996
+advanced materials                          4,235        3,807
+fibers                                        986          974
+specialty fluids & intermediates            3,710        2,054
+total assets by segment                    14,842       10,771
+corporate assets                            1,230        1,074
+total assets                      $        16,072    $  11,845
+(1)  the chief operating decision maker holds segment management accountable for accounts receivable, inventory, fixed assets, goodwill, and intangible assets.
+(dollars in millions)                                for years ended december 31, depreciation and amortization expense by segment                             2014       2013       2012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────
+additives & functional products                   $                           104    $    95    $    63
+adhesives & plasticizers                                                       43         45         46
+advanced materials                                                            143        144        109
+fibers                                                                         66         65         66
+specialty fluids & intermediates                                               92         80         72
+total depreciation and amortization                                           448        429        356
+expense by segment other                                                                           2          4          4
+total depreciation and amortization               $                           450    $   433    $   360
+expense
+(dollars in millions)                     for years ended december 31, capital expenditures by segment                                   2014       2013       2012
+──────────────────────────────────────────────────────────────────────────────────────────────
+additives & functional products        $                           111    $    74    $    70
+adhesives & plasticizers                                            57         56         51
+advanced materials                                                 176        170        153
+fibers                                                              53         65         52
+specialty fluids & intermediates                                   188        113        128
+total capital expenditures by segment                              585        478        454
+other                                                                8          5         11
+total capital expenditures             $                           593    $   483    $   465
+sales are attributed to geographic areas based on customer location; long-lived assets are attributed to geographic areas based on asset location.
+136
+notes to the audited consolidated financial statements
+(dollars in millions)
+geographic information     for years ended december 31, sales                                              2014        2013        2012
+─────────────────────────────────────────────────────────────────────────────────
+united states           $                         4,162    $  4,140    $  3,831
+all foreign countries                             5,365       5,210       4,271
+total                   $                         9,527    $  9,350    $  8,102
+december 31,
+2014        2013        2012
+net properties united states           $                         3,753    $  3,247    $  3,172
+all foreign countries                             1,334       1,043       1,009
+total                   $                         5,087    $  4,290    $  4,181
+21.  quarterly sales and earnings data - unaudited
+(dollars in millions, except per share amounts)
+2014                             first quarter       second quarter          third quarter       fourth quarter
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+sales                         $          2,305    $           2,460       $          2,413    $           2,349
+gross profit                               595                  657                    636                  333
+asset impairments and restructuring                               13                   (7  )                  71                    -
+charges (gains), net net earnings attributable to               233                  292                    210                   16
+eastman net earnings per share attributable to eastman(1)
+basic                         $           1.54    $            1.96       $           1.41    $            0.11
+diluted                                   1.52                 1.93                   1.39                 0.11
+(1)  each quarter is calculated as a discrete period; the sum of the four quarters may not equal the calculated full year amount.
+(dollars in millions, except per share amounts)
+2013                                first quarter       second quarter       third quarter       fourth quarter
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+sales                            $          2,307    $           2,440    $          2,338    $           2,265
+gross profit                                  616                  677                 689                  794
+asset impairments and restructuring                                   3                   18                   3                   52
+charges (gains), net net earnings attributable to                  247                  264                 308                  346
+eastman net earnings per share attributable to eastman(1)
+basic                            $           1.60    $            1.71    $           2.00    $            2.26
+diluted                                      1.57                 1.69                1.97                 2.22
+(1)  each quarter is calculated as a discrete period; the sum of the four quarters may not equal the calculated full year amount.
+137
+notes to the audited consolidated financial statements
+22.  reserve rollforwards valuation and qualifying accounts additions charges balance at        (credits) to             charges to                            balance at january 1,            cost and                  other                          december 31,
+2014             expense               accounts       deductions                 2014
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+reserve for:
+doubtful accounts and  $             12    $              1       $              -    $           3    $              10
+returns lifo                       506                 (44  )                   -                -                  462
+inventory non-environ...
+asset                        -                   -                     44                -                   44
+retirement obligations environment...               368                   2                      2               27                  345
+contingenci...
+deferred tax valuation                  204                  (6  )                  66                -                  264
+allowance
+$          1,090    $            (47  )    $            112    $          30    $           1,125
+additions charges balance at          (credits) to                                               balance at january 1,              cost and           charges to                        december 31,
+2013               expense       other accounts       deductions               2013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+reserve for:
+doubtful accounts and   $               8    $                5    $               -    $           1    $            12
+returns lifo                         505                     1                    -                -                506
+inventory environmental                394                     4                    1               31                368
+contingencies deferred tax valuation                    215                     -                    -               11                204
+allowance
+$           1,122    $               10    $               1    $          43    $         1,090
+additions charges balance at        (credits) to                                                  balance at
+(dollars in          january 1,            cost and              charges to                        december 31, millions)                  2012             expense          other accounts       deductions               2012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+reserve for:
+doubtful accounts and  $               8    $              2       $               -    $           2    $             8
+returns lifo                        590                 (85  )                    -                -                505
+inventory environment...                 39                   2                     370               17                394
+contingenci...
+deferred tax valuation                    42                   -                     173                -                215
+allowance
+$             679    $            (81  )    $             543    $          19    $         1,122
+138
+notes to the audited consolidated financial statements
+23.  recently issued accounting standards in april 2014, the financial accounting standards board ("fasb") issued amended accounting guidance for discontinued operations. the amendments improve the definition of discontinued operations by limiting discontinued operations reporting to disposals of components of an entity that represent strategic shifts that have (or will have) a major effect on any entity's operations and financial results. examples of a strategic shift that has (or will have) a major effect on an entity's operations and financial results could include a disposal of a major geographical area, a major line of business, a major equity method investment, or other major parts of an entity.
+the amendments require an entity to present, for each comparative period, the assets and liabilities of a disposal group that includes a discontinued operation separately in the assets and liability sections, respectively, of the statement of financial position. in addition to enhanced disclosures for discontinued operations, disclosures are required for disposal of an individually significant component of an entity that does not qualify for discontinued operations presentation in the financial statements. this guidance is effective prospectively for reporting periods beginning on or after december 15, 2014. early adoption is permitted, but only for disposals that have not been reported in financial statements previously issued or available for issuance. the company has concluded that changes in its accounting required by this new guidance will not materially impact the company's future accounting for any discontinued operations or its financial position or results of operations.
+in may 2014, the fasb and international accounting standards board jointly issued new principles-based accounting guidance for revenue recognition that will supersede virtually all existing revenue guidance. the core principle of this guidance is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods and services. to achieve the core principle, the guidance establishes the following five steps: 1)
+identify the contract(s) with a customer, 2) identify the performance obligation in the contract, 3) determine the transaction price, 4) allocate the transaction price to the performance obligations in the contract, and 5)
+recognize revenue when (or as) the entity satisfies a performance obligation. the guidance also details the accounting treatment for costs to obtain or fulfill a contract. lastly, disclosure requirements have been enhanced to provide sufficient information to enable users of financial statements to understand the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers. this guidance is effective for annual reporting periods beginning after december 15, 2016, including interim periods within that reporting period.
+early application is not permitted. the company is currently evaluating the impact this new guidance is expected to have on the company's financial position or results of operations and related disclosures.
+139
+item 9.  changes in and disagreements with accountants on accounting and financial disclosure none.
+item 9a.  controls and procedures disclosure controls and procedures eastman chemical company ("eastman" or the "company") maintains a set of disclosure controls and procedures designed to ensure that information required to be disclosed by the company in reports that it files or submits under the securities exchange act of 1934 is recorded, processed, summarized, and reported within the time periods specified in securities and exchange commission rules and forms. disclosure controls and procedures include, without limitation, controls and procedures designed to provide reasonable assurance that information required to be disclosed by the company in the reports that it files or submits under the securities exchange act of 1934 is accumulated and communicated to the company's management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. an evaluation was carried out under the supervision and with the participation of the company's management, including the chief executive officer
+("ceo") and chief financial officer ("cfo"), of the effectiveness of the company's disclosure controls and procedures. based on that evaluation, the ceo and cfo have concluded that as of december 31, 2014 , the company's disclosure controls and procedures were effective to provide reasonable assurance that information required to be disclosed was accumulated and communicated to management as appropriate to allow timely decisions regarding required disclosure.
+management necessarily applies its judgment in assessing the costs and benefits of such controls and procedures, which, by their nature, can provide only reasonable assurance regarding management's control objectives.
+management, including the ceo and cfo, does not expect that the company's disclosure controls and procedures can prevent all possible errors or fraud. a control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance; judgments in decision-making can be faulty; and breakdowns can occur because of simple errors or mistakes. additionally, controls can be circumvented by the individual acts of one or more persons. the design of any system of controls is based in part upon certain assumptions about the likelihood of future events, and while the company's disclosure controls and procedures are designed to be effective under circumstances where they should reasonably be expected to operate effectively, there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. because of the inherent limitations in any control system, misstatements due to possible errors or fraud may occur and not be detected.
+management's report on internal control over financial reporting management of the company is responsible for establishing and maintaining adequate internal control over financial reporting. the company's internal control over financial reporting is a process designed under the supervision of the company's ceo and cfo to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the company's financial statements for external purposes in accordance with u.s. generally accepted accounting principles.
+the company's internal control over financial reporting includes policies and procedures that:
+•  pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect transactions and acquisitions and dispositions of assets of the company;
+provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial
+•  statements in accordance with u.s. generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and the directors of the company; and
+•  provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the company's assets that could have a material effect on the company's financial statements.
+because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+140
+management has assessed the effectiveness of its internal control over financial reporting as of december 31, 2014
+based on the framework established in internal control - integrated framework (2013) issued by the committee of sponsoring organizations of the treadway commission ("coso"). based on this assessment, management has determined that the company's internal control over financial reporting was effective as of december 31, 2014 .
+management has elected to exclude the non-integrated taminco corporation and commonwealth laminating and coating, inc. 2014 acquisitions from its assessment of internal control over financial reporting during the year of acquisition. the assets acquired in 2014 represented 25 percent of the company's consolidated total assets as of december 31, 2014 and sales represented one percent of the company's consolidated sales for the year ended december
+31, 2014 .
+the effectiveness of the company's internal control over financial reporting as of december 31, 2014 has been audited by pricewaterhousecoopers llp, an independent registered public accounting firm, as stated in their report which appears herein.
+changes in internal control over financial reporting there has been no change in the company's internal control over financial reporting that occurred during the quarter ended december 31, 2014 that has materially affected, or is reasonably likely to materially effect, the company's internal control over financial reporting. the company continues its integration of the acquired taminco and commonwealth businesses.
+item 9b.  other information none.
+141
+╔═ § ═════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                 ║
+║                                                    part iii                                                     ║
+║                                                                                                                 ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+item 10.  directors, executive officers and corporate governance the material under the heading "proposals to be voted on at the annual meeting--item 1--election of directors" to
+(but not including) the subheading "the board of directors and corporate governance" and under the subheading
+"board committees--audit committee" (except for the material under the subheading "board committees--audit committee--audit committee report", which is not incorporated by reference herein), each as included and to be filed in the 2015 proxy statement, is incorporated by reference herein in response to this item. certain information concerning executive officers of the company is set forth under the heading "executive officers of the company" in part i of this annual report on form 10-k.
+the company has adopted a code of ethics and business conduct applicable to the chief executive officer, the chief financial officer, and the controller of the company. the company has posted such code of ethics and business conduct on its internet website ( www.eastman.com ) in the "investors -- corporate governance" section.
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 11. executive compensation                                                                                │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+the material under the heading "proposals to be voted on at the annual meeting--item 1--election of directors-board committees - compensation and management development committee - compensation committee report", under the subheading "director compensation", and under the heading "executive compensation", each as included and to be filed in the 2015 proxy statement, is incorporated by reference herein in response to this item.
+item 12.  security ownership of certain beneficial owners and management and related stockholder matters the material under the headings "stock ownership of directors and executive officers--common stock" and "principal stockholders" as included and to be filed in the 2015 proxy statement is incorporated by reference herein in response to this item.
+securities authorized for issuance under equity compensation plans equity compensation plans approved by stockholders stockholders approved the company's 2002 and 2007 omnibus long-term compensation plans, the 2012 omnibus stock compensation plan, and the 2002 director long-term compensation plan. although stock and stock-based awards are still outstanding under the 2002 and 2007 omnibus long-term compensation plans, the 2002 director long-term compensation plan, and the 2007 director long-term compensation subplan, a component of the 2007 omnibus long-term compensation plan, no new shares are available under these plans for future awards. all future share-based awards will be made from the 2012 omnibus stock compensation plan and the 2013 director stock compensation subplan, a component of the 2012 omnibus stock compensation plan.
+equity compensation plans not approved by stockholders stockholders have approved all compensation plans under which shares of eastman common stock are authorized for issuance.
+142
+summary equity compensation plan information table the following table sets forth certain information as of december 31, 2014 with respect to compensation plans under which shares of eastman common stock may be issued.
+number of securities remaining available for future issuance number of                                                 under equity securities to be                                          compensation plans issued upon                weighted-average               (excluding exercise of               exercise price of               securities outstanding                     outstanding               reflected in options                             options               column (a))
+plan category                  (a)                                     (b)               (c)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+equity compensation plans approved      2,209,800                     -1  $                 46    7,271,093                      -2
+by stockholders equity compensation plans not                   -                                            -            -
+approved by stockholders total               2,209,800                         $                 46    7,271,093
+represents shares of common stock issuable upon exercise of outstanding options granted under eastman
+(1)  chemical company's 2002 and 2007 omnibus long-term compensation plans; the 2002 director long-term compensation plan; the 2007 director long-term compensation subplan, a component of the 2007 omnibus long-term compensation plan, and the 2012 omnibus stock compensation plan.
+shares of common stock available for future awards under the company's 2012 omnibus stock compensation
+(2)  plan, including the 2013 director stock compensation subplan, a component of the 2012 omnibus stock compensation plan.
+item 13.  certain relationships and related transactions, and director independence the material under the heading "proposals to be voted on at the annual meeting--item 1--election of directors", subheadings "director independence" and "transactions with directors, executive officers, and related persons", each as included and to be filed in the 2015 proxy statement, is incorporated by reference herein in response to this item.
+item 14.  principal accountant fees and services the information concerning amounts billed for professional services rendered by the principal accountant and pre-
+approval of such services by the audit committee of the company's board of directors under the heading "item 3 -
+ratification of appointment of independent auditors" as included and to be filed in the 2015 proxy statement is incorporated by reference herein in response to this item.
+143
+╔═ § ═════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                 ║
+║                                                     part iv                                                     ║
+║                                                                                                                 ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+item 15.  exhibits and financial statement schedules page
+(a)  1.  consolidated financial statements:
+management's responsibility for financial statements                                       78
+report of independent registered public accounting firm                                    79
+consolidated statements of earnings, comprehensive income, and retained earnings           80
+consolidated statements of financial position                                              82
+consolidated statements of cash flows                                                      83
+notes to company's consolidated financial statements                                       84
+2.  exhibits filed as part of this report are listed in the exhibit index beginning at page   147
+(b)      the exhibit index and required exhibits to this report are included beginning at page     147
+144
+signatures pursuant to the requirements of section 13 or 15(d) of the securities exchange act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+eastman chemical company by:                       /s/ mark j. costa mark j. costa chief executive officer date:  february 27, 2015
+pursuant to the requirements of the securities exchange act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+signature principal executive officer and director:    title                           date
+/s/ mark j. costa                            chief executive officer and     february 27, 2015
+────────────────────────────────────────────────────────────────────────────────────────────────
+mark j. costa                                director principal financial officer:
+/s/ curtis e. espeland                       executive vice president and    february 27, 2015
+curtis e. espeland                           chief financial officer principal accounting officer:
+/s/ scott v. king                            vice president, finance and     february 27, 2015
+scott v. king                                chief accounting officer
+145
+signature directors (other than mark j. costa, who also signed as principal executive officer):                                                                         title       date
+/s/ humberto p. alfonso                                                           director    february 27, 2015
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+humberto p. alfonso
+/s/ gary e. anderson                                                              director    february 27, 2015
+gary e. anderson
+/s/ brett d. begemann                                                             director    february 27, 2015
+brett d. begemann
+/s/ michael p. connors                                                            director    february 27, 2015
+michael p. connors
+/s/ stephen r. demeritt                                                           director    february 27, 2015
+stephen r. demeritt
+/s/ robert m. hernandez                                                           director    february 27, 2015
+robert m. hernandez
+/s/ julie f. holder                                                               director    february 27, 2015
+julie f. holder
+/s/ renée j. hornbaker                                                            director    february 27, 2015
+renée j. hornbaker
+/s/ lewis m. kling                                                                director    february 27, 2015
+lewis m. kling
+/s/ david w. raisbeck                                                             director    february 27, 2015
+david w. raisbeck
+146
+exhibit index amended and restated certificate of incorporation of eastman chemical company (incorporated herein by reference to exhibit 3.01 to the company's quarterly exhibit number               report on form 10-q for the quarter ended march 31,
+3.01            description  2012)                                                       sequential page number
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+3.02                         amended and restated bylaws of eastman chemical company                        151
+form of eastman chemical company common stock certificate as amended february 1, 2001 (incorporated
+4.01                         herein by reference to exhibit 4.01 to the company's quarterly report on form 10-q for the quarter ended march 31, 2001)
+indenture, dated as of january 10, 1994, between eastman chemical company and the bank of new york, as trustee
+4.02                         (the "indenture") (incorporated herein by reference to exhibit 4(a) to the company's current report on form 8-k dated january 10, 1994)
+indenture, dated as of june 5, 2012, between eastman
+4.03                         chemical company and wells fargo bank, as trustee
+(incorporated herein by reference to exhibit 4.1 to the company's current report on form 8-k dated june 5, 2012)
+form of 7 1/4% debentures due january 15, 2024
+4.04                         (incorporated herein by reference to exhibit 4(d) to the company's current report on form 8-k dated january 10,
+1994)
+officers' certificate pursuant to sections 201 and 301
+4.05                         of the indenture related to 7 5/8% debentures due 2024
+(incorporated herein by reference to exhibit 4(a) to the company's current report on form 8-k dated june 8, 1994)
+form of 7 5/8% debentures due june 15, 2024
+4.06                         (incorporated herein by reference to exhibit 4(b) to the company's current report on form 8-k dated june 8, 1994)
+form of 7.60% debentures due february 1, 2027
+4.07                         (incorporated herein by reference to exhibit 4.08 to the company's annual report on form 10-k for the year ended december 31, 1996)
+officer's certificate pursuant to sections 201 and 301
+of the indenture related to 7.60% debentures due
+4.08                         february 1, 2027 (incorporated herein by reference to exhibit 4.09 to the company's annual report on form 10-k for the year ended december 31, 2006)
+form of 5.500% note due 2019 (incorporated  herein by
+4.09                         reference to exhibit 4.1 to the company's current report on form 8-k dated november 2, 2009)
+form of 6.30% note due 2018 (incorporated herein by
+4.10                         reference to exhibit 4.14 to the company's quarterly report on form 10-q for the quarter ended september 30,
+2003)
+form of 3% note due 2015 (incorporated herein by
+4.11                         reference to exhibit 4.1 to the company's current report on form 8-k dated december 10, 2010)
+form of 4.5% note due 2021 (incorporated herein by
+4.12                         reference to exhibit 4.2 to the company's current report on form 8-k dated december 10, 2010)
+form of 2.4% note due 2017 (incorporated herein by
+4.13                         reference to exhibit 4.2 to the company's current report on form 8-k dated june 5, 2012)
+form of 3.6% note due 2022 (incorporated herein by
+4.14                         reference to exhibit 4.3 to the company's current report on form 8-k dated june 5, 2012)
+form of 4.8% note due 2042 (incorporated herein by
+4.15                         reference to exhibit 4.4 to the company's current report on form 8-k dated june 5, 2012)
+form of 4.65% note due 2044 (incorporated herein by
+4.16                         reference to exhibit 4.2 to the company's current report on form 8-k dated may 15, 2014)
+form of 2.70% note due 2020 (incorporated herein by
+4.17                         reference to exhibit 4.2 to the company's current report on form 8-k dated november 20, 2014)
+form of 3.80% note due 2025 (replaces and corrects
+4.18                         exhibit 4.3 to the company's current report on form 8-k                        161
+dated november 20, 2014)
+147
+exhibit index accounts receivable securitization agreement dated july
+9, 2008 (amended february 18, 2009, july 9, 2009, july
+7, 2010, january 31, 2011, july 6, 2011, april 30, 2012, august 1, 2013, and august 29, 2014), between the company and the bank of tokyo-mitsubishi ufj, ltd., as agent (incorporated herein by reference to exhibit 4.09
+to the company's quarterly report on form 10-q for the quarter ended june 30, 2009, exhibit 4.10 to the company's quarterly report on form 10-q for the quarter ended june 30, 2010, exhibit 4.10 to the company's annual report on form 10-k for the year ended december
+31, 2010, exhibit 4.10 to the company's quarterly report on form 10-q for the quarter ended june 30, 2011, exhibit 10.01 to the company's quarterly report on form
+10-q for the quarter ended march 31, 2012, exhibit 10.01
+to the company's quarterly report on form 10-q/a for the quarter ended june 30, 2013, and exhibit 10.01 to the company's quarterly report on form 10-q for the quarter ended september 30, 2014)
+second amended and restated five-year credit agreement, dated as of october 9, 2014, among eastman chemical company, the initial lenders named therein, and citibank n.a., as administrative agent, citigroup global markets inc. and j.p. morgan securities llc, as joint lead exhibit number               arrangers (incorporated herein by reference to exhibit
+10.01                        10.03 to the company's current report on form 8-k dated
+10.02           description  october 9, 2014)                                            sequential page number
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+five-year senior term loan credit agreement
+10.03                        (incorporated herein by reference to exhibit 10.1 to the company's current report on form 8-k dated october 9,
+2014)
+amended and restated non-recourse accounts receivable purchase agreement(incorporated herein by reference to
+10.04                        exhibit 10.8 to taminco corporation amendment no. 1 to registration statement on form s-1, file no. 333-185244, filed with the sec january 18, 2013)
+eastman excess retirement income plan (incorporated
+10.05**                      herein by reference to exhibit 10.02 to the company's annual report on form 10-k for the year ended december
+31, 2008)
+form of executive change in control severance agreements
+10.06**                      (incorporated herein by reference to exhibit 10.02 to the company's annual report on form 10-k for the year ended december 31, 2010)
+eastman unfunded retirement income plan (incorporated
+10.07**                      herein by reference to exhibit 10.04 to the company's annual report on form 10-k for the year ended december
+31, 2008)
+2002 omnibus long-term compensation plan, as amended
+10.08**                      (incorporated herein by reference to exhibit 10.02 to the company's quarterly report on form 10-q for the quarter ended september 30, 2007)
+2002 director long-term compensation plan, as amended
+10.09**                      (incorporated herein by reference to appendix b to eastman chemical company's 2002 annual meeting proxy statement)
+eastman chemical company benefit security trust dated december 24, 1997, as amended may 1, 1998 and february
+1, 2001 and amendment number three to the eastman chemical company benefit security trust dated january 2,
+10.10**                      2002 (incorporated herein by reference to exhibit 10.01
+to the company's quarterly report on form 10-q for the quarter ended march 31, 2001 and exhibit 10.04 to the company's quarterly report on form 10-q for the quarter ended september 30, 2002)
+amended and restated warrant to purchase shares of common stock of eastman chemical company, dated january
+10.11**                      2, 2002 (incorporated herein by reference to exhibit
+10.02 to the company's quarterly report on form 10-q for the quarter ended september 30, 2002)
+amended and restated registration rights agreement,
+10.12**                      dated january 2, 2002 (incorporated herein by reference to exhibit 10.03 to the company's quarterly report on form 10-q for the quarter ended september 30, 2002)
+10.13**                      amended and restated eastman executive deferred                                170
+compensation plan
+10.14**                      amended and restated eastman directors' deferred                               184
+compensation plan
+148
+exhibit index eastman unit performance plan as amended and restated effective december 5, 2012 (incorporated herein by reference to exhibit 10.12 to the company's annual exhibit number               report on form 10-k for the year ended december 31,
+10.15**         description  2012)                                                       sequential page number
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+form of indemnification agreements with directors and
+10.16**                      executive officers (incorporated herein by reference to exhibit 10.25 to the company's annual report on form
+10-k for the year ended december 31, 2003)
+forms of award notice for stock options granted to executive officers under the 2002 omnibus long-term compensation plan (incorporated herein by reference to
+10.17**                      exhibit 10.03 to the company's quarterly report on form
+10-q for the quarter ended june 30, 2006 and exhibits
+10.01 and 10.02 to the company's quarterly report on form 10-q for the quarter ended september 30, 2006)
+forms of award notices for stock options granted to executive officers under the 2007 omnibus long-term compensation plan (incorporated herein by reference to exhibit 10.08 to the company's quarterly report on form
+10.18**                      10-q for the quarter ended september 30, 2007, exhibits
+10.01 and 10.02 to the company's quarterly report on form 10-q for the quarter ended september 30, 2008, and exhibits 10.01 and 10.02 to the company's quarterly report on form 10-q for the quarter ended september 30,
+2010)
+1997 omnibus long-term compensation plan (incorporated
+10.19**                      herein by reference to exhibit 10.03 to the company's quarterly report on form 10-q for the quarter ended september 30, 2007)
+2007 omnibus long-term compensation plan (incorporated
+10.20**                      herein by reference to exhibit 10.01 to the company's quarterly report on form 10-q for the quarter ended september 30, 2007)
+forms of performance share awards to executive officers
+(2012 - 2014 performance period) (incorporated herein by
+10.21**                      reference to exhibit 10.02 to the company's quarterly report on form 10-q for the quarter ended september 30,
+2011)
+forms of performance share awards to executive officers
+(2013 - 2015 performance period) (incorporated herein by
+10.22**                      reference to exhibit 10.35 to the company's annual report on form 10-k for the year ended december 31,
+2012)
+forms of performance share awards to executive officers
+(2014 - 2016 performance period) (incorporated herein by
+10.23**                      reference to exhibit 10.32 to the company's annual report on form 10-k for the year ended december 31,
+2013)
+10.24**                      forms of performance share awards to executive officers                        196
+(2015 - 2017 performance period)
+2007 director long-term compensation subplan of the 2007
+omnibus long-term compensation plan (incorporated herein
+10.25**                      by reference to exhibit 10.10 to the company's quarterly report on form 10-q for the quarter ended september 30,
+2007)
+upp performance measures and goals, specific target objectives with respect to such performance goals, the method for computing the amount of the upp award
+10.26**                      allocated to the award pool if the performance goals are attained, and the eligibility criteria for employee participation in the upp, for the 2014 performance year
+(incorporated herein by reference to the company's current report on form 8-k dated december 4, 2013)
+upp performance measures and goals, specific target objectives with respect to such performance goals, the method for computing the amount of the upp award
+10.27**                      allocated to the award pool if the performance goals are attained, and the eligibility criteria for employee participation in the upp, for the 2015 performance year
+(incorporated herein by reference to the company's current report on form 8-k dated december 3, 2014)
+2012 omnibus stock compensation plan (incorporated
+10.28**                      herein by reference to appendix a to the company's 2012
+annual meeting proxy statement)
+2012 director stock compensation subplan of the 2012
+omnibus stock compensation plan and form of restricted
+10.29**                      stock award notice (incorporated herein by reference to exhibit 10.06 to the company's quarterly report on form
+10-q for the quarter ended march 31, 2012)
+149
+exhibit index forms of award notices for stock options and stock appreciation rights granted to executive officers under the 2012 omnibus stock compensation plan (incorporated herein by reference to exhibit 10.01 to the company's quarterly report on form 10-q for the quarter ended march 31, 2013 and exhibit 10.29 to the company's annual report on form 10-k for the year ended december 31,
+2013)
+2013 director stock compensation subplan of the 2012
+omnibus stock compensation plan and form of restricted exhibit number               stock award notice (incorporated herein by reference to
+10.30**                      exhibit 10.32 to the company's annual report on form
+10.31**         description  10-k for the year ended december 31, 2012)                  sequential page number
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+eastman chemical company executive incentive pay
+10.32**                      clawback policy (incorporated herein by reference to exhibit 10.01 to the company's current report on form
+8-k dated february 3, 2015)
+10.33**                      form of restricted stock unit award to curtis e.                               219
+espeland on january 1, 2015
+10.34**                      form of restricted stock unit award to david a. golden                         221
+and one other executive officer on february 18, 2015
+12.01                        statement re: computation of ratios of earnings (loss)                         223
+to fixed charges
+21.01                        subsidiaries of the company                                                    224
+23.01                        consent of independent registered public accounting firm                       229
+31.01                        rule 13a - 14(a) certification by mark j. costa, chief                         230
+executive officer, for the year ended december 31, 2014
+rule 13a - 14(a) certification by curtis e. espeland,
+31.02                        executive vice president and chief financial officer,                          231
+for the year ended december 31, 2014
+32.01                        section 1350 certification by mark j. costa, chief                             232
+executive officer, for the year ended december 31, 2014
+section 1350 certification by curtis e. espeland,
+32.02                        executive vice president and chief financial officer,                          233
+for the year ended december 31, 2014
+99.01                        product and raw material information                                           234
+101.ins                      xbrl instance document
+101.sch                      xbrl taxonomy extension schema
+101.cal                      xbrl taxonomy calculation linkbase
+101.lab                      xbrl taxonomy label linkbase
+101.pre                      xbrl definition linkbase document
+101.def                      xbrl definition linkbase document schedules and exhibits have been omitted from this exhibit pursuant to item 601(b)(2) of regulation s-k and
+*   are not filed herewith.  the registrant agrees to furnish supplementally a copy of the omitted schedules and exhibits to the sec upon request.
+**  management contract or compensatory plan or arrangement filed pursuant to item 601(b) (10) (iii) of regulation s-k.
+150
+management's discussion and analysis of financial condition and results of operations growth initiatives may not achieve desired business or financial objectives and may require a significant use of resources in excess of those estimated or budgeted for such initiatives.
+the company continues to identify and pursue growth opportunities through both organic growth initiatives and inorganic initiatives. these growth opportunities include development and commercialization or licensing of innovative new products and technologies and related employee leadership, expertise, and skill development and retention, expansion into new markets and geographic regions, and alliances, ventures, and acquisitions that complement and extend the company's portfolio of businesses and capabilities. there can be no assurance that such innovation, development and commercialization or licensing efforts, investments, or acquisitions and alliances
+(including integration of acquired businesses) will result in financially successful commercialization of products, or acceptance by existing or new customers, or successful entry into new markets or otherwise achieve their underlying strategic business objectives or that they will be beneficial to the company's results of operations.
+there also can be no assurance regarding the timing of completion of proposed acquisitions or licensing, expected benefits of proposed acquisitions or licensing, completion of integration plans, and synergies therefrom. there also can be no assurance that capital projects for growth efforts can be completed within the time or at the costs projected due, among other things, to demand for and availability of construction materials and labor and obtaining regulatory approvals and operating permits and reaching agreement on terms of key agreements and arrangements with potential suppliers and customers. any such delays or cost overruns or the inability to obtain such approvals or to reach such agreements on acceptable terms could negatively affect the returns from any proposed or current investments and projects.
+significant acquisitions expose the company to risks and uncertainties, the occurrence of any of which could materially adversely affect the company's business, financial condition, and results of operations.
+while acquisitions have been and continue to be a part of the company's growth strategy, acquisitions of large companies (such as the acquisition of taminco and solutia) subject the company to a number of risks and uncertainties, the occurrence of any of which could have a material adverse effect on eastman. these include, but are not limited to the possibilities that the financial performance of the acquired business may be significantly worse than expected; that significant additional indebtedness may constrain the company's ability to access the credit and capital markets at attractive interest rates and favorable terms, which may negatively impact the company's liquidity or ability to pursue certain growth initiatives; that the company may not be able to achieve the cost, revenue, tax, or other "synergies" expected from any acquisition, or that there may be delays in achieving any such synergies; that management's time and effort may be dedicated to the new business resulting in a loss of focus on the successful operation of the company's existing businesses; and that the company may be required to expend significant additional resources in order to integrate any acquired business into eastman or that the integration efforts will not achieve the expected benefits.
+legislative or regulatory actions could increase the company's future compliance costs.
+the company and its facilities and businesses are subject to complex health, safety and environmental laws and regulations, which require and will continue to require significant expenditures to remain in compliance with such laws and regulations. the company's accruals for such costs and associated liabilities are subject to changes in estimates on which the accruals are based. for example, any amount accrued for environmental matters reflects the company's assumptions about remediation requirements at the contaminated site, the nature of the remedy, the outcome of discussions with regulatory agencies and other potentially responsible parties at multi-party sites, and the number and financial viability of other potentially responsible parties. changes in the estimates on which the accruals are based, unanticipated government enforcement action, or changes in health, safety, environmental, chemical control regulations, and testing requirements could result in higher costs. specifically, pending and proposed u.s. federal legislation and regulation increase the likelihood that the company's manufacturing sites will in the future be impacted by regulation of greenhouse gas emissions and energy policy, which legislation and regulation, if enacted, may result in capital expenditures, increases in costs for raw materials and energy, limitations on raw material and energy source and supply choices, and other direct compliance costs.
+74
+management's discussion and analysis of financial condition and results of operations in addition to the foregoing most significant known risk factors to the company, there may be other factors, not currently known to the company, which could, in the future, materially adversely affect the company, its business, financial condition, or results of operations. the foregoing discussion of the most significant risk factors to the company does not necessarily present them in order of importance. this disclosure, including that under "outlook"
+and other forward-looking statements and related disclosures made by the company in this annual report and elsewhere from time to time, represents management's best judgment as of the date the information is given. the company does not undertake responsibility for updating any of such information, whether as a result of new information, future events, or otherwise, except as required by law. investors are advised, however, to consult any further public company disclosures (such as in filings with the securities and exchange commission or in company press releases) on related subjects.
+75
+item 7a.  quantitative and qualitative disclosures about market risk 

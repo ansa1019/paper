@@ -1,0 +1,722 @@
+item 7.   management's discussion and analysis of financial condition and results of operations
+
+the following discussion and analysis of the financial condition and results of our operations should be read in conjunction with the consolidated financial statements and related notes included elsewhere in this annual report on form 10-k. this discussion contains forward-looking statements that involve risks and uncertainties. our actual results could differ materially from those described below. such risks and uncertainties include, but are not limited to, those identified below and those described in part 1, item 1a. "risk factors," within this annual report on form 10-k.
+overview we offer products and services to support the needs of institutional investors throughout their investment processes. clients look to us for an integrated view of the drivers of risk and return in their portfolios, broad and deep asset class coverage, quality data, an objective perspective and innovation.
+our clients include asset owners (pension funds, endowments, foundations, central banks, sovereign wealth funds, family offices and insurance companies), asset management firms (mutual funds, hedge funds, providers of exchange-traded funds ("etfs"), private wealth managers, real estate investment trusts and financial intermediaries (banks, broker-dealers, exchanges, custodians, trust companies and investment consultants).
+our products and services include indexes and analytical models; ratings and analysis that enable institutional investors to integrate esg factors into their investment strategies; and analysis of real estate in both privately and publicly owned portfolios. clients use our products and services to help construct portfolios and allocate assets. the analytical content we provide through our products is enabled by applications and are the basis for the services that we provide to clients. our analytical tools and content help clients measure and manage risk across all major asset classes. our products and services can also be customized to meet the specific needs of our clients.
+as of december 31, 2016, we had over 6,500 clients across 87 countries. to calculate the number of clients, we may count certain affiliates, user locations, or business units within a single organization as separate clients. if we aggregate all related clients under their respective parent entity, the number of clients would be approximately 3,900 as of december 31, 2016. we had offices in 33 cities in 21 countries to help serve our diverse client base, with 52.3% of our revenues coming from clients in the americas, 35.2% in europe, the middle east and africa ("emea") and 12.5% in asia and australia.
+our principal business model is to license annual, recurring subscriptions to our products and services for use at specified locations, often by a given number of users or for a certain volume of services, for a fee, which is, in a majority of cases, paid up front. additionally, our recurring subscription offerings include our managed services offering, whereby we oversee the production of risk and performance reports on behalf of our clients. fees attributable to annual, recurring subscriptions are recorded as deferred revenues on our consolidated statement of financial condition and are recognized on our consolidated statement of income as the service is rendered. furthermore, a portion of our revenues comes from clients who use our indexes as the basis for index-linked investment products such as etfs or as the basis for passively managed funds and separate accounts. these clients commonly pay us a license fee, primarily in arrears, for the use of our intellectual property, primarily in arrears, based on the investment product's assets. we also generate revenues from certain exchanges that use our indexes as the basis for futures and options contracts and pay us a license fee, primarily in arrears, for the use of our intellectual property based on their volume of trades. in addition, we generate revenues from subscription agreements for the receipt of periodic benchmark reports, digests and other publications, which are most often associated with our real estate products that are recognized upon delivery of such reports or data updates. fees are primarily paid in arrears after the product is delivered. we also realize one-time fees related to customized reports, historical data sets and certain implementation and consulting services, as well as from certain products and services that are purchased on a non-renewal basis.
+in evaluating our financial performance, we focus on revenue and profit growth, including gaap and non-gaap measures, for the company as a whole as well as by operating segment. in addition, we focus on operating metrics, including run rate, subscription sales and aggregate retention rate to manage the business. our business is not highly capital intensive and, as such, we expect to continue to convert a high percentage of our profits into
+50
+excess cash in the future. our growth strategy includes: (a) expanding and deepening our relationships with investment institutions worldwide; (b) developing new and enhancing existing product offerings, including combining existing product features or data derived from our products to create new products; and (c) seeking to acquire products, technologies, services and companies that will enhance, complement or expand our client base and product offerings.
+key financial metrics and drivers we utilize a portfolio of key financial metrics to manage the company, including gaap and non-gaap measures. as detailed below, we review revenues by type and by segment, or major product line. we also review expenses by activity, which provides more transparency into how resources are being deployed. in addition, we utilize operating metrics including run rate, subscription sales and aggregate retention rate, to analyze past performance and to provide insight into our latest reported portfolio of recurring business.
+in the discussion that follows, we provide variances excluding the impact of foreign currency exchange rate fluctuations. foreign currency exchange rate fluctuations reflect the difference between the current period results as reported compared to the current period results recalculated using the foreign currency exchange rates in effect for the comparable prior period.
+revenues our revenues are characterized by type, which broadly reflects the nature of how they are recognized or earned. our revenue types are recurring subscription, asset-based fees and non-recurring revenues. we also group our revenues by segment and provide the revenue type within each segment. see part 1, item 1. "business-our operating segments" above for additional details on the products and services that we offer.
+recurring subscription revenues represent fees earned from clients primarily under renewable contracts or agreements and are recognized in most cases ratably over the term of the license or service pursuant to the contract terms. the contracts state the terms under which these fees are to be calculated. the fees are recognized as we provide the product and service to the client over the license period and are generally billed in advance, prior to the license start date. when implementation services are included, we recognize revenues ratably from the date the application is put into production through the end of the license period. revenues associated with implementation services, which are allocated based on msci's best estimated sales price for such implementation services, are recognized ratably over the useful life of those services. revenues from subscription agreements for the receipt of periodic benchmark reports, digests, and other publications, which are most often associated with our real estate benchmark business, are recognized upon delivery of such reports or data updates.
+asset-based fees are principally recognized based on the estimated assets under management ("aum") linked to our indexes from independent third-party sources or the most recently reported information provided by the client. asset-based fees include revenues related to futures and options contracts linked to our indexes, which are primarily based on trading volumes.
+non-recurring revenues primarily represent fees earned on products and services where we do not have renewal contracts and primarily include revenues for providing historical data, certain implementation services and other special client requests. based on the nature of the services provided, non-recurring revenues are recognized upon delivery or over the service period.
+operating expenses we group our operating expenses into the following activity categories:
+•   cost of revenues;
+
+•   selling and marketing;
+
+•   research and development ("r&amp;d");
+
+•   general and administrative ("g&amp;a");
+
+51
+•   amortization of intangible assets; and
+
+•   depreciation and amortization of property, equipment and leasehold improvements.
+
+costs are assigned to these activity categories based on the nature of the expense or, when not directly attributable, an estimate is allocated based on the type of effort involved.
+cost of revenues cost of revenues consists of costs related to the production and servicing of our products and services and primarily includes related information technology costs, including data center, platform and infrastructure costs; costs to acquire, produce and maintain market data information; costs of research to support, maintain and rebalance existing products; costs of product management teams; costs of client service and consultant teams to support customer needs; as well as other support costs directly attributable to the cost of revenues including certain human resources, finance and legal costs.
+selling and marketing selling and marketing expenses consists of costs associated with acquiring new clients or selling new products or product renewals to existing clients and primarily includes the costs of our sales force and marketing teams, as well as costs incurred in other groups associated with acquiring new business, including product management, research, technology and sales operations.
+research and development r&d expenses consists of the costs to develop new or enhance existing products and the costs to develop new or improved technology and service platforms for the delivery of our products and services and primarily includes the costs of application development, quality and assurance, research, product management, project management and the technology support associated with these efforts.
+general and administrative g&a expenses consists of costs primarily related to finance operations, human resources, office of the ceo, legal, corporate technology, corporate development and certain other administrative costs that are not directly attributed, but are instead allocated, to a product or service.
+amortization of intangible assets amortization of intangible assets expense relates to definite-lived intangible assets arising from past acquisitions and consists of customer relationships, trademarks and trade names, technology and software, proprietary processes and data and non-competition agreements. we amortize definite-lived intangible assets over their estimated useful lives. definite-lived intangible assets are tested for impairment when impairment indicators are present, and, if impaired, written down to fair value based on either discounted cash flows or appraised values. no impairment of intangible assets has been identified during any of the periods presented. we have no indefinite-lived intangibles.
+depreciation and amortization of property, equipment and leasehold improvements this category consists of expenses related to depreciating or amortizing the cost of furniture & fixtures, computer and related equipment and leasehold improvements over the estimated useful life of the assets.
+other expense (income), net this category consists primarily of interest we pay on our outstanding indebtedness, interest we collect on cash and short-term investments, transition services income associated with our sale of iss, foreign currency exchange rate gains and losses as well as other non-operating income and expense items.
+52
+non-gaap financial measures adjusted ebitda
+"adjusted ebitda," a measure used by management to assess operating performance, is defined as net income before income (loss) from discontinued operations, net of income taxes, plus provision for income taxes, other expense (income), net, depreciation and amortization of property, equipment and leasehold improvements, amortization of intangible assets and, at times, certain other transactions or adjustments.
+"adjusted ebitda expenses," a measure used by management to assess operating performance, is defined as operating expenses less depreciation and amortization of property, equipment and leasehold improvements and amortization of intangible assets.
+adjusted ebitda and adjusted ebitda expenses are believed to be meaningful measures of the operating performance of the company because they adjust for significant one-time, unusual or non-recurring items as well as eliminate the accounting effects of capital spending and acquisitions that do not directly affect what management considers to be the company's core operating performance in the period. all companies do not calculate adjusted ebitda and adjusted ebitda expenses in the same way. these measures can differ significantly from company to company depending on, among other things, long-term strategic decisions regarding capital structure, the tax jurisdictions in which companies operate and capital investments. accordingly, the company's computation of the adjusted ebitda and adjusted ebitda expenses measures may not be comparable to similarly titled measures computed by other companies.
+run rate run rate is a key operating metric and is important because an increase or decrease in our run rate ultimately impacts our operating revenues. at the end of any period, we generally have subscription and investment product license agreements in place for a large portion of total revenues for the following 12 months. we measure the fees related to these agreements and refer to this as "run rate." see "-operating metrics-run rate" below for additional information on the calculation of this metric.
+subscription sales subscription sales is a key operating metric and is important because new subscription sales increase our run rate and ultimately our operating revenues. see "-operating metrics-subscription sales" below for additional information.
+aggregate retention rate another key operating metric is aggregate retention rate which is important because subscription cancellations decrease our run rate and ultimately our operating revenues. see "-operating metrics-aggregate retention rate" below for additional information on the calculation of this metric.
+critical accounting policies and estimates our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the united states ("gaap"). these accounting principles require us to make certain estimates and judgments that can affect the reported amounts of assets and liabilities as of the date of the consolidated financial statements, as well as the reported amounts of revenues and expenses during the periods presented. we believe the estimates and judgments upon which we rely are reasonable based upon information available to us at the time these estimates and judgments are made. to the extent there are material differences between these estimates and actual results, our consolidated financial statements will be affected. see note 1, "introduction and basis of presentation-significant accounting policies," of the notes to the consolidated financial statements included herein for a listing of our accounting policies.
+53
+factors affecting the comparability of results acquisition of insignis on october 16, 2015, the company completed the purchase of insignis for $6.5 million through its subsidiary investorforce. insignis is a financial data provider, including data on positions, transactions and complex instruments such as exchange-traded futures and options, otc swaps and foreign exchange spot and forward contracts. financial results for insignis are included within the analytics segment from the time of acquisition.
+the purchase price allocations for the insignis acquisition were $4.2 million for goodwill, $2.2 million of identifiable intangible assets and $0.1 million for assets other than identifiable intangible assets. the results of insignis were included in our results of operations from its acquisition date of october 16, 2015. the insignis acquisition has not had a significant impact on our results of operations.
+disposition of real estate occupiers on august 1, 2016, msci completed the sale of its real estate occupiers business. the value of the disposed assets and liabilities and the resulting gain on disposal were not material to the company.
+share repurchases on february 4, 2014, our board of directors approved a stock repurchase program authorizing the purchase of up to $300.0 million worth of shares of our common stock, which was subsequently increased to $850.0 million (the "2014 repurchase program"). on october 14, 2015, we exhausted the $850.0 million share repurchase authorization under the 2014 repurchase program.
+on october 28, 2015, our board of directors approved a new stock repurchase program authorizing the purchase of up to $1.0 billion worth of shares of our common stock (the "2015 repurchase program"). on october 26, 2016, our board of directors approved an additional stock repurchase program authorizing the purchase of up to $750.0 million worth of shares of our common stock (together with the $330.3 million remaining authorization under the 2015 repurchase program, the "2016 repurchase program"). share repurchases made pursuant to the 2016 repurchase program may take place in the open market or in privately negotiated transactions from time to time based on market and other conditions. this authorization may be modified, suspended or terminated by our board of directors at any time without prior notice.
+on september 18, 2014, as part of the 2014 repurchase program, we entered into an asr agreement to initiate share repurchases aggregating $300.0 million (the "september 2014 asr agreement"). as a result of the september 2014 asr agreement, we repurchased approximately 4.5 million shares of our common stock on september 19, 2014 and received approximately 1.2 million shares of our common stock on may 21, 2015 for a combined average price of $52.79 per share.
+on june 2, 2015, we began purchasing shares of our common stock in the open market in accordance with sec rule 10b5-1.
+for the year ended december 31, 2015, the company repurchased approximately 10.7 million shares at an average price of $62.63 per share for a total value of $670.8 million pursuant to open market repurchases.
+for the year ended december 31, 2016, the company repurchased approximately 10.3 million shares at an average price of $73.71 per share for a total value of $759.4 million pursuant to open market repurchases.
+the weighted average shares outstanding used to calculate our diluted earnings per share for the year ended december 31, 2016 decreased by 12.2% compared to the year ended december 31, 2015. the weighted average shares outstanding used to calculate our diluted earnings per share for the year ended december 31, 2015 decreased by 5.8% compared to the year ended december 31, 2014. the decreases in both periods reflect the impact of the share repurchase programs, partially offset by the impact of restricted stock units and stock options that converted to shares.
+54
+senior notes and credit agreement on november 20, 2014, we completed our first private offering of $800.0 million aggregate principal amount of 5.25% senior unsecured notes due 2024 (the "2024 senior notes") and also entered into a new $200.0 million senior unsecured revolving credit agreement (the "2014 revolving credit agreement"). we used the net proceeds from the offering of the 2024 senior notes, together with cash on hand, to repay in full our outstanding term loan indebtedness of $794.8 million, which bore interest at libor plus a margin of 2.25%.
+on august 13, 2015, we completed a private offering of $800.0 million aggregate principal amount of 5.75% senior notes due 2025 (the "2025 senior notes") and received $789.5 million, net of $10.5 million of debt issuance costs.
+on august 4, 2016, we completed a private offering of $500.0 million aggregate principal amount of 4.75% senior notes due 2026 (the "2026 senior notes") and received $493.3 million, net of $6.7 million of debt issuance costs.
+the annual interest expense related to these offerings for the year ended december 31, 2016 was $101.7 million. the annual interest expense related to these offerings in future years is expected to be approximately $116.0 million.
+55
+results of operations year ended december 31, 2016 compared to year ended december 31, 2015
+the following table presents the results of operations for the years indicated:
+years ended
+
+december 31,                   december 31,
+2016                         2015                                                      increase/(decrease)
+(in thousands, except per share data)
+operating revenues                                      $1,150,669                     $1,075,013                     $75,656                        7.0   %
+operating expenses:
+cost of revenues                                           252,107                        267,695                     (15,588   )                   (5.8   %)
+selling and marketing                                      166,666                        162,294                       4,372                        2.7   %
+research and development                                    75,204                         77,320                      (2,116   )                   (2.7   %)
+general and administrative                                  87,235                         86,007                       1,228                        1.4   %
+amortization of intangible assets                           47,033                         46,910                         123                        0.3   %
+depreciation and amortization of property,                  34,320                         30,889                       3,431                       11.1   %
+equipment and leasehold improvements total operating expenses                                   662,565                        671,115                      (8,550   )                   (1.3   %)
+operating income                                           488,104                        403,898                      84,206                       20.8   %
+other expense (income), net                                102,166                         54,344                      47,822                       88.0   %
+income from continuing operations                          385,938                        349,554                      36,384                       10.4   %
+before provision for income taxes provision for income taxes                                 125,083                        119,516                       5,567                        4.7   %
+income from continuing operations                          260,855                        230,038                      30,817                       13.4   %
+income (loss) from discontinued operations,                      -                         (6,390     )                 6,390                     (100.0   %)
+net of income taxes net income                                                $260,855                       $223,648                     $37,207                       16.6   %
+earnings per basic common share:
+from continuing operations                                   $2.72                          $2.11                       $0.61                       28.9   %
+from discontinued operations                                     -                          (0.06     )                  0.06                     (100.0   %)
+earnings per basic common share                              $2.72                          $2.05                       $0.67                       32.7   %
+earnings per diluted common share:
+from continuing operations                                   $2.70                          $2.09                       $0.61                       29.2   %
+from discontinued operations                                     -                          (0.06     )                  0.06                     (100.0   %)
+earnings per diluted common share                            $2.70                          $2.03                       $0.67                       33.0   %
+operating margin                                              42.4     %                     37.6     %
+operating revenues our revenues are grouped by the following types: recurring subscription, asset-based fees and non-recurring revenues. we also group revenues by major product lines as follows: index, analytics and all other, which includes the esg and real estate product lines.
+56
+the following table presents operating revenues by recurring subscriptions, asset-based fees and non-recurring revenues for the years indicated:
+years ended
+
+december 31,               december 31,
+2016                           2015                       increase/(decrease)
+(in thousands)
+recurring subscriptions        $913,669                   $857,527                   $56,142                          6.5   %
+asset-based fees                        210,229                    197,974                 12,255                     6.2   %
+non-recurring                            26,771                     19,512                  7,259                    37.2   %
+total operating revenues       $1,150,669                 $1,075,013                 $75,656                          7.0   %
+total operating revenues grew 7.0% to $1,150.7 million for the year ended december 31, 2016 compared to $1,075.0 million for the year ended december 31, 2015.
+revenue from recurring subscriptions increased 6.5% to $913.7 million for the year ended december 31, 2016 compared to $857.5 million for the year ended december 31, 2015. the increase in recurring subscription revenues was driven by growth from index products as well as higher revenues from analytics and esg products, partially offset by lower real estate products' revenues within the all other segment. adjusting for the impact of foreign currency exchange rate fluctuations, recurring subscription revenues would have increased 7.1% for the year ended december 31, 2016 compared to the year ended december 31, 2015.
+revenues from asset-based fees increased 6.2% to $210.2 million for the year ended december 31, 2016 compared to $198.0 million for the year ended december 31, 2015. the increase was primarily driven by a 19.2% increase in non-etf passive funds, as well as a 34.8% increase in revenue from futures and options contracts linked to msci indexes. the average value of aum in etfs linked to msci indexes increased $27.6 billion, or 6.6%, compared to the year ended december 31, 2015. approximately two-thirds of the underlying securities included in the aum of our index-linked investment products are denominated in currencies other than the u.s. dollar.
+the following table presents the value of aum in etfs linked to msci indexes and the sequential change of such assets as of the end of each of the periods indicated:
+period ended (1)
+
+2015                                                                                      2016
+(in billions)                                 march 31,            june 30,          september 30,               december 31,           march 31,             june 30,            september 30,            december 31, aum in etfs linked to msci indexes (2)           $418.0              $435.4          $390.2                            $433.4              $438.3               $439.7                   $474.9                  $481.4
+sequential change in value market appreciation/                              $13.0               $(6.9   )      $(48.2            )                $14.5               $(1.7   )            $(2.5   )                $23.7                   $(8.7   )
+(depreciation)
+cash inflows                                       31.7                24.3          3.0                                 28.7                 6.6                  3.9                     11.5                    15.2
+total change                                      $44.7               $17.4          $(45.2            )                $43.2                $4.9                 $1.4                    $35.2                    $6.5
+source: bloomberg and msci
+(1)   the historical values of the assets in etfs linked to our indexes as of the last day of the month and the monthly average balance can be found under the link "aum in etfs linked to msci indexes" on our investor relations homepage at http://ir.msci.com. this information is updated on the second u.s. business day of each month. information contained on our website is not incorporated by reference into this annual report on form 10-k or any other report filed with the sec.
+
+(2)   the value of assets under management in etfs linked to msci indexes is calculated by multiplying the etf net asset value by the number of shares outstanding.
+
+as of december 31, 2016, the value of aum in etfs linked to msci equity indexes was $481.4 billion, up
+$48.0 billion, or 11.1%, from $433.4 billion as of december 31, 2015.
+57
+non-recurring revenues increased 37.2% to $26.8 million for the year ended december 31, 2016, compared to $19.5 million for the year ended december 31, 2015, primarily resulting from higher one-time sales of index products.
+the following table presents operating revenues by reportable segment and revenue type for the years indicated:
+years ended
+
+december 31,               december 31,
+2016                           2015                       increase/(decrease)
+(in thousands)
+operating revenues:
+index recurring subscriptions        $389,348                   $353,136                   $36,212                           10.3    %
+asset-based fees                        210,229                    197,974                 12,255                       6.2    %
+non-recurring                            13,974                      7,854                  6,120                      77.9    %
+index total                             613,551                    558,964                 54,587                       9.8    %
+analytics recurring subscriptions                 439,864                    426,725                 13,139                       3.1    %
+non-recurring                             8,489                      6,699                  1,790                      26.7    %
+analytics total                         448,353                    433,424                 14,929                       3.4    %
+all other recurring subscriptions                  84,457                     77,666                  6,791                       8.7    %
+non-recurring                             4,308                      4,959                   (651     )               (13.1   %)
+all other total                          88,765                     82,625                  6,140                       7.4    %
+total operating revenues       $1,150,669                 $1,075,013                 $75,656                            7.0    %
+refer to the section titled, "segment results of operations" for an explanation of the results.
+operating expenses operating expenses decreased 1.3% to $662.6 million for the year ended december 31, 2016 compared to $671.1 million for the year ended december 31, 2015. adjusting for the impact of foreign currency exchange rate fluctuations, operating expenses would have increased 0.8% for the year ended december 31, 2016 compared to the year ended december 31, 2015.
+the following table presents operating expenses by activity for the years indicated:
+years ended
+
+december 31,               december 31,
+2016                       2015                           increase/(decrease)
+(in thousands)
+operating expenses:
+cost of revenues                                 $252,107                   $267,695                   $(15,588          )               (5.8   %)
+selling and marketing                                     166,666                    162,294                   4,372                      2.7   %
+research and development                                   75,204                     77,320                  (2,116     )               (2.7   %)
+general and administrative                                 87,235                     86,007                   1,228                      1.4   %
+amortization of intangible assets                          47,033                     46,910           123                                0.3   %
+depreciation and amortization of property,                 34,320                     30,889                   3,431                     11.1   %
+equipment and leasehold improvements total operating expenses                         $662,565                   $671,115                   $(8,550           )               (1.3   %)
+58
+cost of revenues cost of revenues for the year ended december 31, 2016 decreased 5.8% to $252.1 million compared to $267.7 million for the year ended december 31, 2015, primarily driven by strong expense management, particularly in the analytics segment, as reflected by lower compensation and benefits costs attributable to a higher percentage of employees in emerging market centers, which have lower cost structures, and severance costs, as well as a decrease in non-compensation information technology and occupancy costs.
+selling and marketing selling and marketing expenses for the year ended december 31, 2016 increased 2.7% to $166.7 million compared to $162.3 million for the year ended december 31, 2015, primarily driven by higher incentive compensation, partially offset by lower salary expense and severance costs, as well as higher non-compensation marketing costs.
+research and development r&d expenses for the year ended december 31, 2016 decreased 2.7% to $75.2 million compared to $77.3 million for the year ended december 31, 2015, primarily due to an increase in capitalized software development costs. the year ended december 31, 2015 includes a non-cash charge of $3.4 million related to the termination of a technology project in the analytics segment.
+general and administrative g&a expenses for the year ended december 31, 2016 increased 1.4% to $87.2 million compared to $86.0 million for the year ended december 31, 2015, primarily driven by higher compensation and benefits costs, partially offset by lower non-compensation professional fees.
+the following table presents operating expenses using compensation and non-compensation categories, rather than using activity categories, for the years indicated:
+years ended
+
+december 31,               december 31,
+2016                       2015                           increase/(decrease)
+(in thousands)
+compensation and benefits                        $414,322                   $426,238                   $(11,916       )                 (2.8   %)
+non-compensation expenses                                 166,890                    167,078                  (188    )                 (0.1   %)
+amortization of intangible assets                          47,033                     46,910           123                               0.3   %
+depreciation and amortization of property,                 34,320                     30,889                  3,431                     11.1   %
+equipment and leasehold improvements total operating expenses                         $662,565                   $671,115                   $(8,550        )                 (1.3   %)
+compensation and benefits costs are our most significant expense and typically represent more than 60% of our operating expenses or more than 70% of the combined total of the cost of revenues, selling and marketing, r&d and g&a expense categories. we had 2,862 employees as of december 31, 2016 compared to 2,754 employees as of december 31, 2015. our continued growth in emerging market centers around the world is an important factor in our ability to manage and control the growth of our compensation and benefits expenses. as of december 31, 2016, 56.2% of our employees were located in emerging market centers compared to 52.8% of our employees as of december 31, 2015.
+compensation and benefits costs for the year ended december 31, 2016 decreased 2.8% to $414.3 million compared to $426.2 million for year ended december 31, 2015, primarily due to lower severance as well as higher capitalized software development costs. the higher capitalized software development costs includes a non-cash charge of $2.9 million related to the termination of a technology project in the analytics segment recognized during the year ended december 31, 2015.
+59
+non-compensation expenses for the year ended december 31, 2016 decreased 0.1% to $166.9 million compared to $167.1 million for the year ended december 31, 2015, primarily driven by a decrease in occupancy and professional fees, as well as a non-cash charge of $0.5 million related to the termination of a technology project in the analytics segment recognized during the year ended december 31, 2015. these decreases were partially offset by increases in costs primarily attributable to marketing.
+amortization of intangibles amortization of intangibles expense for the years ended december 31, 2016 and 2015 totaled $47.0 million and $46.9 million, respectively.
+depreciation and amortization of property, equipment and leasehold improvements for the years ended december 31, 2016 and 2015, depreciation and amortization of property, equipment and leasehold improvements totaled $34.3 million and $30.9 million, respectively. the 11.1% increase primarily reflected higher depreciation of investments made in our information technology infrastructure.
+other expense (income), net other expense (income), net for the year ended december 31, 2016 increased 88.0% to $102.2 million compared to $54.3 million for the year ended december 31, 2015, primarily driven by $39.3 million of higher interest expense resulting from the increased level of indebtedness, a $3.7 million charge for estimated losses associated with miscellaneous transactions, as well as the impact of the $6.4 million from gains on the sale of investments realized in the year ended december 31, 2015.
+income taxes the provision for income tax expense was $125.1 million and $119.5 million for the years ended december 31, 2016 and 2015, respectively. these amounts reflect effective tax rates of 32.4% and 34.2% for the years ended december 31, 2016 and 2015, respectively. the decrease in the effective tax rate was primarily driven by efforts to better align our tax profile with our global operating footprint. for the year ended december 31, 2016, 31.7% of income from continuing operations before provision for income taxes was generated by foreign operations compared to 19.1% for the year ended december 31, 2015.
+the effective tax rate of 32.4% for the year ended december 31, 2016 reflects our operating tax rate adjusted for the impact of certain discrete items. included in the discrete items was the release of a reserve for uncertain tax positions related to an irs audit settlement. overall, the discrete items decreased our effective tax rate by 1.0% in the year ended december 31, 2016.
+the effective tax rate of 34.2% for the year ended december 31, 2015 reflects our operating tax rate adjusted for the impact of certain discrete items. included in the discrete items was a claim for an additional deduction related to u.s. production activities for prior years, which was partially offset by a provision for state tax liabilities related to prior years. overall, the discrete items decreased our effective tax rate by 0.6% in the year ended december 31, 2015.
+income (loss) from discontinued operations, net of income taxes on april 30, 2014, msci completed the sale of iss which is reflected as discontinued operations in our consolidated financial statements. loss from discontinued operations, net of income taxes, for the year ended december 31, 2015 reflects the impact of a $6.4 million out-of-period income tax charge associated with tax obligations triggered upon the sale of iss.
+60
+net income as a result of the factors described above, net income for the year ended december 31, 2016 increased 16.6% to $260.9 million compared to $223.6 million for the year ended december 31, 2015.
+adjusted ebitda the following table presents the calculation of the non-gaap adjusted ebitda measure for the years indicated:
+years ended
+
+december 31,               december 31,
+2016                       2015                           increase/(decrease)
+(in thousands)
+operating revenues:                  $1,150,669                 $1,075,013           $75,656                            7.0   %
+adjusted ebitda expenses                581,212                    593,316                 (12,104   )                 (2.0   %)
+adjusted ebitda                        $569,457                   $481,697           $87,760                           18.2   %
+adjusted ebitda margin %                   49.5   %                   44.8   %
+operating margin %                         42.4   %                   37.6   %
+adjusted ebitda increased 18.2% to $569.5 million for the year ended december 31, 2016 compared to $481.7 million for the year ended december 31, 2015. adjusted ebitda margin increased to 49.5% for the year ended december 31, 2016 compared to 44.8% for the year ended december 31, 2015. the improvement in margin reflects higher growth in operating revenues in the index, analytics and esg product lines, combined with lower adjusted ebitda expenses, reflecting strong expense management.
+reconciliation of adjusted ebitda to net income and adjusted ebitda expenses to operating expenses the following table presents the reconciliation of adjusted ebitda to net income for the years indicated:
+years ended
+
+december 31,               december 31,
+2016                       2015                                               increase/(decrease)
+(in thousands)
+index adjusted ebitda                             $431,478                   $392,987                        $38,491                        9.8    %
+analytics adjusted ebitda                                  128,507                     95,468                 33,039                       34.6    %
+all other adjusted ebitda                                    9,472                     (6,758   )             16,230                      240.2    %
+consolidated adjusted ebitda                               569,457                    481,697                 87,760                       18.2    %
+amortization of intangible assets                           47,033                     46,910                    123                        0.3    %
+depreciation and amortization of property,                  34,320                     30,889                  3,431                       11.1    %
+equipment and leasehold improvements operating income                                           488,104                    403,898                 84,206                       20.8    %
+other expense (income), net                                102,166                     54,344                 47,822                       88.0    %
+provision for income taxes                                 125,083                    119,516                  5,567                        4.7    %
+income from continuing operations                          260,855                    230,038                 30,817                       13.4    %
+income (loss) from discontinued operations,                      -                     (6,390   )              6,390                     (100.0   %)
+net of income taxes net income                                        $260,855                   $223,648                        $37,207                       16.6    %
+61
+the following table presents the reconciliation of adjusted ebitda expenses to operating expenses for the years indicated:
+years ended
+
+december 31,               december 31,
+2016                       2015                           increase/(decrease)
+(in thousands)
+index adjusted ebitda expenses                   $182,073                   $165,977                   $16,096                             9.7   %
+analytics adjusted ebitda expenses                        319,846                    337,956                 (18,110     )                (5.4   %)
+all other adjusted ebitda expenses                         79,293                     89,383                 (10,090     )               (11.3   %)
+consolidated adjusted ebitda expenses                     581,212                    593,316                 (12,104     )                (2.0   %)
+amortization of intangible assets                          47,033                     46,910           123                                 0.3   %
+depreciation and amortization of property,                 34,320                     30,889                   3,431                      11.1   %
+equipment and leasehold improvements total operating expenses                         $662,565                   $671,115                   $(8,550           )                (1.3   %)
+segment results the results for each of our three reportable segments for the years ended december 31, 2016 and 2015 are presented below:
+index segment the following table presents the results for the index segment for the years indicated:
+years ended
+
+december 31,               december 31,
+2016                       2015                           increase/(decrease)
+(in thousands)
+operating revenues:
+recurring subscriptions                $389,348                   $353,136           $36,212                         10.3   %
+asset-based fees                        210,229                    197,974                 12,255                     6.2   %
+non-recurring                            13,974                      7,854                  6,120                    77.9   %
+operating revenues total                613,551                    558,964                 54,587                     9.8   %
+adjusted ebitda expenses                182,073                    165,977                 16,096                     9.7   %
+adjusted ebitda                        $431,478                   $392,987           $38,491                          9.8   %
+adjusted ebitda margin %                   70.3   %                   70.3   %
+revenues related to index products increased 9.8% to $613.6 million for the year ended december 31, 2016 compared to $559.0 million for the year ended december 31, 2015.
+revenues from recurring subscriptions were up 10.3% to $389.3 million for the year ended december 31, 2016 compared to $353.1 million for the year ended december 31, 2015. the increase was primarily driven by growth in benchmark and data products. the impact on total recurring subscriptions from foreign currency exchange rate fluctuations was not significant.
+revenues from asset-based fees increased 6.2% to $210.2 million for the year ended december 31, 2016 compared to $198.0 million for the year ended december 31, 2015. the increase was driven by a 19.2% increase in non-etf passive funds, as well as a 34.8% increase in revenue from futures and options contracts based on msci indexes. revenue from etfs linked to msci indexes was essentially flat for full-year 2016, driven by the impact of a change in the product mix that offset a 6.6% increase in average aum. average aum in etfs linked to msci indexes increased 6.6% to $446.4 billion for the year ended december 31, 2016 compared to $418.8 billion for the year ended december 31, 2015, driven by cash inflows and market appreciation.
+62
+index segment adjusted ebitda expenses increased 9.7% to $182.1 million for the year ended december 31, 2016 compared to $166.0 million for the year ended december 31, 2015, primarily reflecting higher selling and marketing and r&d activities. adjusting for the impact of foreign currency exchange rate fluctuations, adjusted ebitda expenses would have increased 12.2% for the year ended december 31, 2016 compared to the year ended december 31, 2015.
+analytics segment the following table presents the results for the analytics segment for the years indicated:
+years ended
+
+december 31,               december 31,
+2016                       2015                           increase/(decrease)
+(in thousands)
+operating revenues:
+recurring subscriptions                $439,864                   $426,725           $13,139                            3.1   %
+non-recurring                             8,489                      6,699                   1,790                     26.7   %
+operating revenues total                448,353                    433,424                  14,929                      3.4   %
+adjusted ebitda expenses                319,846                    337,956                 (18,110   )                 (5.4   %)
+adjusted ebitda                        $128,507                    $95,468           $33,039                           34.6   %
+adjusted ebitda margin %                   28.7   %                   22.0   %
+our analytics segment revenues increased 3.4% to $448.4 million for the year ended december 31, 2016 compared to $433.4 million for the year ended december 31, 2015, primarily driven by higher revenues from riskmanager, equity models and investorforce products. adjusting for the impact of foreign currency exchange rate fluctuations, analytics segment revenues would have increased 4.6% for the year ended december 31, 2016 compared to the year ended december 31, 2015.
+analytics segment adjusted ebitda expenses decreased 5.4% to $319.8 million for the year ended december 31, 2016 compared to $338.0 million for the year ended december 31, 2015, primarily due to a decline in cost of revenues and r&d. the decrease in r&d reflects the impact of a non-cash charge of $3.4 million related to the termination of a technology project recognized during the year ended december 31, 2015. adjusting for the impact of foreign currency exchange rate fluctuations, adjusted ebitda expenses would have decreased 3.6% for the year ended december 31, 2016 compared to the year ended december 31, 2015.
+all other segment the following table presents the results for the all other segment, which consists of the esg and real estate product lines, for the years indicated:
+years ended
+
+december 31,           december 31,
+2016                      2015                           increase/(decrease)
+(in thousands)
+operating revenues:
+recurring subscriptions                $84,457           $77,666                    $6,791                              8.7   %
+non-recurring                            4,308                     4,959                     (651   )                 (13.1   %)
+operating revenues total                88,765                    82,625                    6,140                       7.4   %
+adjusted ebitda expenses                79,293                    89,383                  (10,090   )                 (11.3   %)
+adjusted ebitda                         $9,472           $(6,758           )        $16,230                           240.2   %
+adjusted ebitda margin %                  10.7   %                  (8.2   %)
+all other segment revenues increased 7.4% to $88.8 million for the year ended december 31, 2016 compared to $82.6 million for the year ended december 31, 2015, driven by a $7.4 million, or 19.6%, increase in esg revenues to $45.0 million, partially offset by a $1.2 million, or 2.7%, decrease in revenues from real estate products
+63
+to $43.8 million. adjusting for the impact of foreign currency exchange rate fluctuations and the divestiture of the real estate occupiers business, real estate revenues would have increased 7.9% and all other segment revenues would have increased 13.4% for the year ended december 31, 2016 compared to the year ended december 31, 2015.
+all other segment adjusted ebitda expenses decreased 11.3% to $79.3 million for the year ended december 31, 2016 compared to $89.4 million for the year ended december 31, 2015, primarily driven by lower costs attributable to real estate, partially offset by esg costs, mainly related to higher r&d and selling and marketing. adjusting for the impact of foreign currency exchange rate fluctuations, adjusted ebitda expenses would have decreased 8.0% for the year ended december 31, 2016 compared to the year ended december 31, 2015.
+results of operations year ended december 31, 2015 compared to year ended december 31, 2014
+the following table presents the results of operations for the years indicated:
+years ended
+
+december 31,                   december 31,
+2015                         2014                                 increase/(decrease)
+(in thousands, except per share data)
+operating revenues                                      $1,075,013                       $996,680               $78,333                               7.9   %
+operating expenses:
+cost of revenues                                           267,695                        276,623                       (8,928   )                   (3.2   %)
+selling and marketing                                      162,294                        163,839                       (1,545   )                   (0.9   %)
+research and development                                    77,320                         71,095                        6,225                        8.8   %
+general and administrative                                  86,007                         76,369                        9,638                       12.6   %
+amortization of intangible assets                           46,910                         45,877                        1,033                        2.3   %
+depreciation and amortization of property,                  30,889                         25,711                        5,178                       20.1   %
+equipment and leasehold improvements total operating expenses                                   671,115                        659,514                       11,601                        1.8   %
+operating income                                           403,898                        337,166                       66,732                       19.8   %
+other expense (income), net                                 54,344                         28,828                       25,516                       88.5   %
+income from continuing operations                          349,554                        308,338                       41,216                       13.4   %
+before provision for income taxes provision for income taxes                                 119,516                        109,396                       10,120                        9.3   %
+income from continuing operations                          230,038                        198,942                       31,096                       15.6   %
+income (loss) from discontinued operations,                 (6,390     )                   85,171                      (91,561   )                 (107.5   %)
+net of income taxes net income                                                $223,648                       $284,113               $(60,465         )                  (21.3   %)
+earnings per basic common share:
+from continuing operations                                   $2.11                          $1.72               $0.39                                22.7   %
+from discontinued operations                                 (0.06     )                     0.73                        (0.79   )                 (108.2   %)
+earnings per basic common share                              $2.05                          $2.45               $(0.40           )                  (16.3   %)
+earnings per diluted common share:
+from continuing operations                                   $2.09                          $1.70               $0.39                                22.9   %
+from discontinued operations                                 (0.06     )                     0.73                        (0.79   )                 (108.2   %)
+earnings per diluted common share                            $2.03                          $2.43               $(0.40           )                  (16.5   %)
+operating margin                                              37.6     %                     33.8     %
+64
+operating revenues the following table presents operating revenues by recurring subscriptions, asset-based fees and non-recurring revenues for the years indicated:
+years ended
+
+december 31,               december 31,
+2015                           2014                       increase/(decrease)
+(in thousands)
+recurring subscriptions        $857,527                   $801,183                   $56,344                          7.0   %
+asset-based fees                        197,974                    177,105                 20,869                    11.8   %
+non-recurring                            19,512                     18,392                  1,120                     6.1   %
+total operating revenues       $1,075,013                 $996,680                   $78,333                          7.9   %
+total operating revenues grew 7.9% to $1,075.0 million for the year ended december 31, 2015 compared to $996.7 million for the year ended december 31, 2014.
+revenue from recurring subscriptions increased 7.0% to $857.5 million for the year ended december 31, 2015 compared to $801.2 million for the year ended december 31, 2014. the increase in subscription revenues was primarily driven by growth from index products as well as higher analytics products' revenues, partially offset by lower real estate products' revenues within our all other segment. adjusting for the impact of foreign currency exchange rate fluctuations, recurring subscriptions revenues would have increased 8.8% for the year ended december 31, 2015 compared to the year ended december 31, 2014.
+revenues from asset-based fees increased 11.8% to $198.0 million for the year ended december 31, 2015 compared to $177.1 million for the year ended december 31, 2014. the increase was driven by higher average aum in both etfs and non-etf passive funds as well as higher trading volumes in futures and options contracts, all linked to msci indexes. the average value of aum in etfs linked to msci indexes increased $56.3 billion, or 15.5%, compared to the year ended december 31, 2014. approximately two-thirds of the underlying securities included in the aum of our index-linked investment products are denominated in currencies other than the u.s. dollar.
+the following table presents the value of aum in etfs linked to msci indexes and the sequential change of such assets as of the end of each of the periods indicated:
+period ended
+
+2014                                                                                      2015
+(in billions)                     march 31,            june 30,         september 30,            december 31,               march 31,            june 30,          september 30,               december 31, aum in etfs linked to                $340.8              $378.7         $377.9                   $373.3                        $418.0              $435.4          $390.2                            $433.4
+msci indexes (1)
+sequential change in value market appreciation/                   $1.3               $15.2         $(17.2            )      $(8.3             )            $13.0               $(6.9   )      $(48.2            )                $14.5
+(depreciation)
+cash inflows                            6.6                22.7         16.4                     3.7                             31.7                24.3          3.0                                 28.7
+total change                           $7.9               $37.9         $(0.8             )      $(4.6             )            $44.7               $17.4          $(45.2            )                $43.2
+source: bloomberg and msci
+(1)   the value of aum in etfs linked to msci indexes is calculated by multiplying the etf net asset value by the number of shares outstanding.
+
+as of december 31, 2015, the value of aum in etfs linked to msci equity indexes was $433.4 billion, up
+65
+$60.1 billion, or 16.1%, from $373.3 billion as of december 31, 2014.
+non-recurring revenues increased 6.1% to $19.5 million for the year ended december 31, 2015, compared to $18.4 million for the year ended december 31, 2014, primarily resulting from higher one-time sales of index and analytics products, partially offset by lower one-time sales of real estate products within our all other segment.
+the following table presents operating revenues by reportable segment and revenue type for the years indicated:
+years ended
+
+december 31,               december 31,
+2015                       2014                           increase/(decrease)
+(in thousands)
+operating revenues:
+index recurring subscriptions        $353,136                   $320,113                   $33,023                           10.3    %
+asset-based fees                        197,974                    177,105                 20,869                      11.8    %
+non-recurring                             7,854                      6,674                  1,180                      17.7    %
+index total                             558,964                    503,892                 55,072                      10.9    %
+analytics recurring subscriptions                 426,725                    409,766                 16,959                       4.1    %
+non-recurring                             6,699                      4,319                  2,380                      55.1    %
+analytics total                         433,424                    414,085                 19,339                       4.7    %
+all other recurring subscriptions                  77,666                     71,304                  6,362                       8.9    %
+non-recurring                             4,959                      7,399                 (2,440     )               (33.0   %)
+all other total                          82,625                     78,703                  3,922                       5.0    %
+total operating revenues       $1,075,013                 $996,680                   $78,333                            7.9    %
+refer to the section titled, "segment results of operations" for an explanation of the results.
+operating expenses operating expenses increased 1.8% to $671.1 million for the year ended december 31, 2015 compared to $659.5 million for the year ended december 31, 2014. adjusting for the impact of foreign currency exchange rate fluctuations, operating expenses would have increased 5.8% for the year ended december 31, 2015 compared to the year ended december 31, 2014.
+we had 2,754 employees as of december 31, 2015 compared to 2,926 employees as of december 31, 2014. as of december 31, 2015, 52.8% of our employees were located in emerging market centers compared to 50.5% of our employees as of december 31, 2014.
+66
+the following table presents operating expenses by activity for the years indicated:
+years ended
+
+december 31,               december 31,
+2015                       2014                           increase/(decrease)
+(in thousands)
+operating expenses:
+cost of revenues                                 $267,695                   $276,623                   $(8,928          )               (3.2   %)
+selling and marketing                                     162,294                    163,839                 (1,545     )               (0.9   %)
+research and development                                   77,320                     71,095                  6,225                      8.8    %
+general and administrative                                 86,007                     76,369                  9,638                     12.6    %
+amortization of intangible assets                          46,910                     45,877                  1,033                      2.3    %
+depreciation and amortization of property,                 30,889                     25,711                  5,178                     20.1    %
+equipment and leasehold improvements total operating expenses                         $671,115                   $659,514                   $11,601                           1.8    %
+cost of revenues cost of revenues for the year ended december 31, 2015 decreased 3.2% to $267.7 million compared to $276.6 million for the year ended december 31, 2014, primarily driven by lower non-compensation costs reflecting strong cost discipline as well as the impact of compensation primarily driven by lower staffing levels, partially offset by higher severance costs.
+selling and marketing selling and marketing expenses for the year ended december 31, 2015 decreased 0.9% to $162.3 million compared to $163.9 million for the year ended december 31, 2014, primarily driven by lower costs related to marketing and travel & entertainment, partially offset by higher compensation and benefits primarily related to higher severance costs.
+research and development r&d expenses for the year ended december 31, 2015 increased 8.8% to $77.3 million compared to $71.1 million for the year ended december 31, 2014, primarily driven by higher compensation and benefits costs as a result of more r&d projects, higher severance and lower net capitalized costs related to internally developed software. the reduction in net capitalized costs is the result of the reversal of a technology project in the analytics segment of $3.4 million for the year ended december 31, 2015 compared to a $1.0 million reversal for the year ended december 31, 2014.
+general and administrative g&a expenses for the year ended december 31, 2015 increased 12.6% to $86.0 million compared to $76.4 million for the year ended december 31, 2014, primarily driven by higher compensation and benefits costs as well as higher professional fees.
+67
+the following table presents operating expenses using compensation and non-compensation categories, rather than using activity categories, for the years indicated:
+years ended
+
+december 31,               december 31,
+2015                       2014                           increase/(decrease)
+(in thousands)
+compensation and benefits                        $426,238                   $412,550                   $13,688                           3.3    %
+non-compensation expenses                                 167,078                    175,376                 (8,298     )               (4.7   %)
+amortization of intangible assets                          46,910                     45,877                  1,033                      2.3    %
+depreciation and amortization of property,                 30,889                     25,711                  5,178                     20.1    %
+equipment and leasehold improvements total operating expenses                         $671,115                   $659,514                   $11,601                           1.8    %
+compensation and benefits costs for the year ended december 31, 2015 increased 3.3% to $426.2 million compared to $412.6 million for year ended december 31, 2014. the increase was primarily impacted by higher costs related to severance and benefits, as well as lower capitalized labor costs related to internally developed software.
+non-compensation expenses for the year ended december 31, 2015 decreased 4.7% to $167.1 million compared to $175.4 million for the year ended december 31, 2014, primarily reflecting decreases in travel & entertainment, recruiting and marketing, partially offset by increases in information technology.
+amortization of intangibles amortization of intangibles expense for the year ended december 31, 2015 increased 2.3% to $46.9 million compared to $45.9 million for the year ended december 31, 2014, primarily resulting from the amortization of our capitalized software.
+depreciation and amortization of property, equipment and leasehold improvements for the years ended december 31, 2015 and 2014, depreciation and amortization of property, equipment and leasehold improvements totaled $30.9 million and $25.7 million, respectively. the 20.1% increase primarily reflected higher depreciation of investments made in our information technology infrastructure.
+other expense (income), net other expense (income), net for the year ended december 31, 2015 increased to $54.3 million compared to $28.8 million for the year ended december 31, 2014, with the increase primarily driven by $30.6 million of higher interest expense resulting from the higher interest rates associated with our senior notes and the increased level of indebtedness, partially offset by $6.4 million from gains on the sale of investments realized in the year ended december 31, 2015.
+income taxes the provision for income tax expense was $119.5 million and $109.4 million for the years ended december 31, 2015 and 2014, respectively. these amounts reflect effective tax rates of 34.2% and 35.5% for the years ended december 31, 2015 and 2014, respectively.
+the effective tax rate of 34.2% for the year ended december 31, 2015 reflects our operating tax rate adjusted for the impact of certain discrete items. included in the discrete items was a claim for an additional deduction related to u.s. production activities for prior years, which was partially offset by a provision for state tax liabilities related to prior years. overall, the discrete items decreased our effective tax rate by 0.6% in the year ended december 31, 2015.
+68
+the effective tax rate of 35.5% for the year ended december 31, 2014 reflects our operating rate adjusted for the impact of certain discrete items that increased our effective tax rate by 0.3 percentage points. included in our effective tax rate was the benefit of the 2014 federal research and development credit, the effect of which reduced our full year effective tax rate by 0.9 percentage points.
+income (loss) from discontinued operations, net of income taxes on april 30, 2014, msci completed the sale of iss for cash consideration of $367.4 million which is reflected as discontinued operations in our consolidated financial statements. loss from discontinued operations, net of income taxes, for the year ended december 31, 2015 reflects the impact of a $6.4 million out-of-period income tax charge associated with tax obligations triggered upon the sale of iss. income from discontinued operations, net of income taxes was $85.2 million for the year ended december 31, 2014 and the results included a net gain of $78.7 million resulting from the disposition of iss.
+net income as a result of the factors described above, net income for the year ended december 31, 2015 decreased 21.3% to $223.6 million compared to $284.1 million for the year ended december 31, 2014.
+adjusted ebitda the following table presents the calculation of the non-gaap adjusted ebitda measure for the years indicated:
+years ended
+
+december 31,               december 31,
+2015                       2014                           increase/(decrease)
+(in thousands)
+operating revenues:                  $1,075,013                   $996,680           $78,333                         7.9   %
+adjusted ebitda expenses                593,316                    587,926                 5,390                     0.9   %
+adjusted ebitda                        $481,697                   $408,754           $72,943                        17.8   %
+adjusted ebitda margin %                   44.8   %                   41.0   %
+operating margin %                         37.6   %                   33.8   %
+adjusted ebitda increased 17.8% to $481.7 million for the year ended december 31, 2015 compared to $408.8 million for the year ended december 31, 2014. adjusted ebitda margin increased to 44.8% for the year ended december 31, 2015 compared to 41.0% for the year ended december 31, 2014. the improvement in margin reflects higher growth in revenues, outpacing the growth in expenses, attributable, in part, to the benefits of the incremental investments we made in 2014 and prior.
+69
+reconciliation of adjusted ebitda to net income and adjusted ebitda expenses to operating expenses the following table presents the reconciliation of adjusted ebitda to net income for the years indicated:
+years ended
+
+december 31,               december 31,
+2015                       2014                           increase/(decrease)
+(in thousands)
+index adjusted ebitda                             $392,987                   $349,685                   $43,302                              12.4   %
+analytics adjusted ebitda                                   95,468                     72,173                   23,295                       32.3   %
+all other adjusted ebitda                                   (6,758   )                (13,104   )                6,346                       48.4   %
+consolidated adjusted ebitda                               481,697                    408,754                   72,943                       17.8   %
+amortization of intangible assets                           46,910                     45,877                    1,033                        2.3   %
+depreciation and amortization of property,                  30,889                     25,711                    5,178                       20.1   %
+equipment and leasehold improvements operating income                                           403,898                    337,166                   66,732                       19.8   %
+other expense (income), net                                 54,344                     28,828                   25,516                       88.5   %
+provision for income taxes                                 119,516                    109,396                   10,120                        9.3   %
+income from continuing operations                          230,038                    198,942                   31,096                       15.6   %
+income (loss) from discontinued operations,                 (6,390   )                 85,171                  (91,561     )               (107.5   %)
+net of income taxes net income                                        $223,648                   $284,113                   $(60,465           )                (21.3   %)
+the following table presents the reconciliation of adjusted ebitda expenses to operating expenses for the years indicated:
+years ended
+
+december 31,               december 31,
+2015                       2014                           increase/(decrease)
+(in thousands)
+index adjusted ebitda expenses                   $165,977                   $154,207                   $11,770                           7.6    %
+analytics adjusted ebitda expenses                        337,956                    341,912                 (3,956     )               (1.2   %)
+all other adjusted ebitda expenses                         89,383                     91,807                 (2,424     )               (2.6   %)
+consolidated adjusted ebitda expenses                     593,316                    587,926                  5,390                      0.9    %
+amortization of intangible assets                          46,910                     45,877                  1,033                      2.3    %
+depreciation and amortization of property,                 30,889                     25,711                  5,178                     20.1    %
+equipment and leasehold improvements total operating expenses                         $671,115                   $659,514                   $11,601                           1.8    %
+segment results the results for each of our three reportable segments for the years ended december 31, 2015 and 2014 are presented below:
+70
+index segment the following table presents the results for the index segment for the years indicated:
+years ended
+
+december 31,               december 31,
+2015                       2014                           increase/(decrease)
+(in thousands)
+operating revenues:
+recurring subscriptions                $353,136                   $320,113           $33,023                         10.3   %
+asset-based fees                        197,974                    177,105                 20,869                    11.8   %
+non-recurring                             7,854                      6,674                  1,180                    17.7   %
+operating revenues total                558,964                    503,892                 55,072                    10.9   %
+adjusted ebitda expenses                165,977                    154,207                 11,770                     7.6   %
+adjusted ebitda                        $392,987                   $349,685           $43,302                         12.4   %
+adjusted ebitda margin %                   70.3   %                   69.4   %
+revenues related to index products increased 10.9% to $559.0 million for the year ended december 31, 2015 compared to $503.9 million for the year ended december 31, 2014.
+recurring subscription revenues were up 10.3% to $353.1 million for the year ended december 31, 2015 compared to $320.1 million for the year ended december 31, 2014. the increase was primarily driven by solid growth in benchmark and data products broadly, including strong growth in market cap products, combined with higher growth in factor, esg and thematic products. adjusting for the impact of foreign currency exchange rate fluctuations, recurring subscription revenues would have increased 11.1% for the year ended december 31, 2015 compared to the year ended december 31, 2014.
+revenues from asset-based fees increased 11.8% to $198.0 million for the year ended december 31, 2015 compared to $177.1 million for the year ended december 31, 2015. the increase was primarily driven by an increase in revenue from etfs, as well as strong growth in revenues from non-etf institutional passive funds and exchange-traded futures and options linked to msci indexes. average aum in etfs linked to msci indexes increased $56.3 billion, or 15.5%, to $418.8 billion primarily driven by cash inflows, partially offset by market depreciation.
+index segment adjusted ebitda expenses increased 7.6% to $166.0 million for the year ended december 31, 2015 compared to $154.2 million for the year ended december 31, 2014. the increase primarily reflects higher compensation and benefits costs associated with our selling, development and g&a activities. adjusting for the impact of foreign currency exchange rate fluctuations, adjusted ebitda expenses would have increased 12.6% for the year ended december 31, 2015 compared to the year ended december 31, 2014.
+analytics segment the following table presents the results for the analytics segment for the years indicated:
+years ended
+
+december 31,               december 31,
+2015                       2014                           increase/(decrease)
+(in thousands)
+operating revenues:
+recurring subscriptions                $426,725                   $409,766           $16,959                           4.1   %
+non-recurring                             6,699                      4,319                  2,380                     55.1   %
+operating revenues total                433,424                    414,085                 19,339                      4.7   %
+adjusted ebitda expenses                337,956                    341,912                 (3,956   )                 (1.2   %)
+adjusted ebitda                         $95,468                    $72,173           $23,295                          32.3   %
+adjusted ebitda margin %                   22.0   %                   17.4   %
+71
+our analytics segment revenues increased 4.7% to $433.4 million for the year ended december 31, 2015 compared to $414.1 million for the year ended december 31, 2014. the increase was primarily driven by higher revenues from riskmanager, barraone and investorforce products. adjusting for the impact of foreign currency exchange rate fluctuations, analytics segment revenues would have increased 6.2% for the year ended december 31, 2015 compared to the year ended december 31, 2014.
+analytics segment adjusted ebitda expenses decreased 1.2% to $338.0 million for the year ended december 31, 2015 compared to $341.9 million for the year ended december 31, 2014. the decrease was due to a decline in cost of revenues and selling and marketing costs, partially offset by increases in g&a and r&d. the increase in r&d was primarily the result of the reversal of previously capitalized software costs associated with a technology project. adjusting for the impact of foreign currency exchange rate fluctuations, adjusted ebitda expenses would have increased 2.3% for the year ended december 31, 2015 compared to the year ended december 31, 2014.
+all other segment the following table presents the results for the all other segment for the years indicated:
+years ended
+
+december 31,               december 31,
+2015                       2014                           increase/(decrease)
+(in thousands)
+operating revenues:
+recurring subscriptions        $77,666                    $71,304                    $6,362                             8.9   %
+non-recurring                            4,959                      7,399                  (2,440   )                 (33.0   %)
+operating revenues total                82,625                     78,703                   3,922                       5.0   %
+adjusted ebitda expenses                89,383                     91,807                  (2,424   )                  (2.6   %)
+adjusted ebitda                $(6,758           )        $(13,104          )        $6,346                            48.4   %
+adjusted ebitda margin %                  (8.2   %)                 (16.6   %)
+all other segment revenues increased 5.0% to $82.6 million for the year ended december 31, 2015 compared to $78.7 million for the year ended december 31, 2014. the increase was driven by $9.3 million, or 32.9%, rise in revenues from our esg products, partially offset by $5.4 million, or 10.7%, decline in revenues from real estate products. adjusting for the impact of foreign currency exchange rate fluctuations, all other segment revenues would have increased 12.2% for the year ended december 31, 2015 compared to the year ended december 31, 2014, of which real estate revenues would have increased 0.4%.
+all other segment adjusted ebitda expenses decreased 2.6% to $89.4 million for the year ended december 31, 2015 compared to $91.8 million for the year ended december 31, 2014. the decrease was primarily driven by lower compensation and benefits costs and non-compensation costs attributable to real estate, partially offset by higher compensation and benefits costs related to esg. adjusting for the impact of foreign currency exchange rate fluctuations, adjusted ebitda expenses would have increased 4.0% for the year ended december 31, 2015 compared to the year ended december 31, 2014.
+operating metrics run rate at the end of any period, we generally have subscription and investment product license agreements in place for a large portion of total revenues for the following 12 months. we measure the fees related to these agreements and refer to this as "run rate." the run rate at a particular point in time primarily represents the forward-looking revenues for the next 12 months from then-current subscriptions and investment product licenses we provide to our clients under renewable contracts or agreements assuming all contracts or agreements that come up for renewal are renewed and assuming then-current currency exchange rates. for any license where fees are linked to an investment
+72
+product's assets or trading volume, the run rate calculation reflects, for etfs, the market value on the last trading day of the period, for futures and options, the most recent quarterly volumes and for non-etf funds, the most recent client reported assets under such license or subscription. the run rate does not include fees associated with "one-time" and other non-recurring transactions. in addition, we remove from the run rate the fees associated with any subscription or investment product license agreement with respect to which we have received a notice of termination or non-renewal during the period and determined that such notice evidences the client's final decision to terminate or not renew the applicable subscription or agreement, even though such notice is not effective until a later date.
+because the run rate represents potential future revenues, there is typically a delayed impact on our operating revenues from changes in our run rate. in addition, the actual amount of revenues we will realize over the following 12 months will differ from the run rate because of:
+•   fluctuations in revenues associated with new subscriptions and non-recurring sales;
+
+•   modifications, cancellations and non-renewals of existing agreements, subject to specified notice requirements;
+
+•   fluctuations in asset-based fees, which may result from changes in certain investment products' total expense ratios, market movements, including foreign currency exchange rates, or from investment inflows into and outflows from investment products linked to our indexes;
+
+•   fluctuations in fees based on trading volumes of futures and options contracts linked to our indexes;
+
+•   fluctuations in the number of hedge funds for which we provide investment information and risk analysis to hedge fund investors;
+
+•   price changes;
+
+•   revenue recognition differences under u.s. gaap, including those related to the timing of implementation and report deliveries for certain of our products and services;
+
+•   fluctuations in foreign exchange rates; and
+
+•   the impact of acquisitions and dispositions.
+
+changes in run rate between periods may be attributable to, among other things, increases from new subscriptions, decreases from cancellations, increases or decreases, as the case may be, from the change in the value of assets of investment products linked to msci indexes, the change in trading volumes of futures and options contracts linked to msci indexes, price changes, fluctuations in foreign currency exchange rates and the impact of acquisitions and dispositions.
+the following table presents run rates by reportable segment as of the dates indicated and the growth percentages over the years indicated:
+as of                                                   comparison of
+
+december 31,               december 31,               december 31,      december 31,                december 31,
+2016                       2015                       2014      2016 to 2015                2015 to 2014
+(in thousands)
+index:
+recurring subscriptions                 $406,729                   $368,855                   $335,277              10.3    %                   10.0   %
+asset-based fees                         216,982                    201,047                    174,558               7.9    %                   15.2   %
+index total                              623,711                    569,902                    509,835               9.4    %                   11.8   %
+analytics                                451,533                    436,671                    417,677               3.4    %                    4.5   %
+all other                                 88,074                     82,677                     79,213               6.5    %                    4.4   %
+total run rate                        $1,163,318                 $1,089,250                 $1,006,725               6.8    %                    8.2   %
+recurring subscriptions total           $946,336                   $888,203                   $832,167               6.5    %                    6.7   %
+asset-based fees                         216,982                    201,047                    174,558               7.9    %                   15.2   %
+total run rate                        $1,163,318                 $1,089,250                 $1,006,725               6.8    %                    8.2   %
+73
+december 31, 2016 compared to december 31, 2015
+total run rate grew 6.8% to $1,163.3 million as of december 31, 2016 compared to $1,089.3 million as of december 31, 2015. recurring subscription run rate grew 6.5% to $946.3 million as of december 31, 2016 compared to $888.2 million as of december 31, 2015. adjusting for the impact of foreign currency exchange rate fluctuations, recurring subscription run rate would have increased 7.2% as of december 31, 2016 compared to december 31, 2015.
+run rate from asset-based fees increased 7.9% to $217.0 million as of december 31, 2016, from $201.0 million as of december 31, 2015, primarily driven by higher aum in non-etf passive funds and etfs as well as increases in futures and options contracts, all linked to msci indexes. as of december 31, 2016, the value of aum in etfs linked to msci indexes was $481.4 billion, up $48.0 billion, or 11.1%, from $433.4 billion as of december 31, 2015. the increase of $48.0 billion consisted of net inflows of $37.2 billion and market depreciation of $10.8 billion.
+index recurring subscription run rate grew 10.3% to $406.7 million as of december 31, 2016 compared to $368.9 million as of december 31, 2015, driven by growth in core products, factor and thematic products and usage fees. there was a negligible impact from foreign currency exchange rate fluctuations on index recurring subscription run rate as of december 31, 2016 compared to december 31, 2015.
+run rate from analytics products increased 3.4% to $451.5 million as of december 31, 2016 compared to $436.7 million as of december 31, 2015, primarily driven by growth in sales of equity models as well as riskmanager, barraone and investorforce products. adjusting for the impact from foreign currency exchange rate fluctuations, analytics run rate would have increased 3.8% as of december 31, 2016 compared to december 31, 2015.
+run rate from all other products increased 6.5% to $88.1 million at december 31, 2016 compared to $82.7 million at december 31, 2015, driven by an $8.9 million, or 22.0%, increase in esg run rate to $49.2 million, partially offset by a $3.5 million, or 8.2%, decrease in real estate run rate to $38.9 million. the increase in esg run rate was driven by strong sales of esg ratings products. adjusting for the impact of foreign currency exchange rate fluctuations and the divestiture of the real estate occupiers business, real estate run rate would have increased 5.2% and all other run rate would have increased 14.8%, in each case as of december 31, 2016 compared to december 31, 2015.
+december 31, 2015 compared to december 31, 2014
+total run rate grew 8.2% to $1,089.3 million as of december 31, 2015 compared to $1,006.7 million as of december 31, 2014. recurring subscription run rate grew 6.7% to $888.2 million as of december 31, 2015 compared to $832.2 million as of december 31, 2014. adjusting for the impact of foreign currency exchange rate fluctuations, recurring subscription run rate would have increased 7.9% as of december 31, 2015 compared to december 31, 2014.
+run rate from asset-based fees increased 15.2% to $201.0 million at december 31, 2015, from $174.6 million at december 31, 2014, primarily driven by higher aum in etfs and non-etf passive funds as well as increases in futures and options contracts, all linked to msci indexes. as of december 31, 2015, the value of aum in etfs linked to msci indexes was $433.4 billion, up $60.1 billion, or 16.1%, from $373.3 billion as of december 31, 2014. the increase of $60.1 billion consisted of net inflows of $87.7 billion, partially offset by market depreciation of $27.6 billion.
+index recurring subscription run rate grew 10.0% to $368.9 million at december 31, 2015 compared to $335.3 million at december 31, 2014 on growth in benchmark and data products.
+total run rate from analytics products increased 4.5% to $436.7 million at december 31, 2015 compared to $417.7 million at december 31, 2014, primarily driven by growth in riskmanager, equity models and investorforce
+74
+products. adjusting for the impact of foreign currency exchange rate fluctuations, run rate for analytics would have increased 6.0% as of december 31, 2015 compared to december 31, 2014.
+total run rate from all other products increased 4.4% to $82.7 million at december 31, 2015 compared to $79.2 million at december 31, 2014.
+esg products run rate increased 16.8% to $40.3 million at december 31, 2015 compared to $34.5 million at december 31, 2014. adjusting for the impact of foreign currency exchange rate fluctuations, run rate would have increased 19.5% as of december 31, 2015 compared to december 31, 2014.
+real estate products run rate decreased 5.2% to $42.4 million at december 31, 2015 compared to $44.7 million at december 31, 2014. adjusting for the impact of foreign currency exchange rate fluctuations, run rate would have increased 1.9% as of december 31, 2015 compared to december 31, 2014.
+subscription sales the following table presents our recurring subscription sales, cancellations and non-recurring sales by reportable segment for the years indicated:
+years ended                                                    comparison of
+
+december 31,               december 31,               december 31,          december 31,                december 31,
+2016                       2015                       2014                          2016 to 2015                2015 to 2014
+(in thousands)
+new recurring subscription sales index                                                     $55,279                    $49,521                    $44,547                  11.6    %                   11.2    %
+analytics                                                  55,255                     52,819                     55,588                   4.6    %                   (5.0   %)
+all other                                                  19,978                     16,657                     17,508                  19.9    %                   (4.9   %)
+new recurring subscription sales total                    130,512                    118,997                    117,643                   9.7    %                    1.2    %
+subscription cancellations index                                                     (17,417   )                (16,254   )                (14,310   )               7.2    %                   13.6    %
+analytics                                                 (39,205   )                (29,362   )                (33,172   )              33.5    %                  (11.5   %)
+all other                                                  (8,288   )                 (9,042   )                 (7,173   )              (8.3   %)                   26.1    %
+subscription cancellations total                          (64,910   )                (54,658   )                (54,655   )              18.8    %                      -    %
+net new recurring subscription sales index                                                      37,862                     33,267                     30,237                  13.8    %                   10.0    %
+analytics                                                  16,050                     23,457                     22,416                 (31.6   %)                    4.6    %
+all other                                                  11,690                      7,615                     10,335                  53.5    %                  (26.3   %)
+net new recurring subscription sales total                 65,602                     64,339                     62,988                   2.0    %                    2.1    %
+non-recurring sales index                                                      17,850                      8,964                      8,956                  99.1    %                    0.1    %
+analytics                                                   8,830                      7,286                      4,837                  21.2    %                   50.6    %
+all other                                                   4,247                      4,880                      6,377                 (13.0   %)                  (23.5   %)
+non-recurring sales total                                  30,927                     21,130                     20,170                  46.4    %                    4.8    %
+gross sales index                                                     $73,129                    $58,485                    $53,503                  25.0    %                    9.3    %
+analytics                                                  64,085                     60,105                     60,425                   6.6    %                   (0.5   %)
+all other                                                  24,225                     21,537                     23,885                  12.5    %                   (9.8   %)
+total gross sales                                        $161,439                   $140,127                   $137,813                  15.2    %                    1.7    %
+net sales index                                                     $55,712                    $42,231                    $39,193                  31.9    %                    7.8    %
+analytics                                                  24,880                     30,743                     27,253                 (19.1   %)                   12.8    %
+all other                                                  15,937                     12,495                     16,712                  27.5    %                  (25.2   %)
+total net sales                                           $96,529                    $85,469                    $83,158                  12.9    %                    2.8    %
+75
+aggregate retention rate another key metric is our "aggregate retention rate." this metric is important because subscription cancellations decrease our run rate and ultimately our operating revenues. the annual aggregate retention rate represents the retained subscription run rate (beginning subscription run rate less actual cancels during the year) as a percentage of the subscription run rate at the beginning of the fiscal year. if a client reduces the number of products to which it subscribes or switches between our products, we treat it as a cancellation for purposes of calculating our aggregate retention rate. our aggregate retention rate is computed on a product-by-product basis. in addition, we treat any reduction in fees resulting from renegotiated contracts as a cancellation in the calculation to the extent of the reduction. we do not calculate aggregate retention rate for that portion of our run rate attributable to assets in investment products linked to our indexes or futures and options contracts linked to our indexes. aggregate retention rate for a non-annual period reflects the annualization of the cancels recorded in the period.
+the following table presents our aggregate retention rate by reportable segment and product category for the periods indicated for the years ended december 31, 2016, 2015 and 2014:
+index         analytics         all other         total
+
+2016
+three months ended march 31,          96.3   %          94.6   %          92.2   %      95.1   %
+three months ended june 30,           95.6   %          91.7   %          89.2   %      93.1   %
+three months ended september 30,      95.8   %          90.4   %          90.8   %      92.7   %
+three months ended december 31,       93.4   %          87.4   %          87.8   %      89.9   %
+year ended december 31,               95.3   %          91.0   %          90.0   %      92.7   %
+2015
+three months ended march 31,          97.2   %          92.9   %          90.7   %      94.4   %
+three months ended june 30,           95.4   %          93.8   %          90.7   %      94.2   %
+three months ended september 30,      95.4   %          95.3   %          89.1   %      94.8   %
+three months ended december 31,       92.7   %          89.9   %          83.9   %      90.4   %
+year ended december 31,               95.2   %          93.0   %          88.6   %      93.4   %
+2014
+three months ended march 31,          95.4   %          90.9   %          92.4   %      92.8   %
+three months ended june 30,           95.3   %          92.4   %          88.5   %      93.2   %
+three months ended september 30,      95.3   %          94.2   %          94.3   %      94.6   %
+three months ended december 31,       95.2   %          89.7   %          83.9   %      91.3   %
+year ended december 31,               95.3   %          91.8   %          89.5   %      93.0   %
+the quarterly aggregate retention rate is calculated by annualizing the actual cancellations recorded during the quarter. this annualized cancellation figure is then divided by the subscription run rate at the beginning of the year to calculate a cancellation rate. this cancellation rate is then subtracted from 100% to derive the annualized aggregate retention rate for the quarter.
+for example, in the fourth quarter of 2016, we recorded cancellations of $22.3 million. to derive the aggregate retention rate for the fourth quarter, we annualized the actual cancellations during the quarter of $22.3 million to derive $89.4 million of annualized cancellations. this $89.4 million was then divided by the $888.2 million subscription run rate at the beginning of the year to derive a cancellation rate of 10.1%. the 10.1% was then subtracted from 100.0% to derive an aggregate retention rate of 89.9% for the fourth quarter.
+for the year ended december 31, 2016, 34.4% of our cancellations occurred in the fourth quarter. historically, the aggregate retention rate has generally been higher during the first three quarters and lower in the fourth quarter, as the fourth quarter is traditionally the largest renewal period in the year.
+76
+liquidity and capital resources we require capital to fund ongoing operations, internal growth initiatives and acquisitions. our primary sources of liquidity are cash flows generated from our operations, existing cash and cash equivalents and credit capacity under our existing credit facilities. in addition, we believe we have access to additional funding in the public and private markets. we intend to use these sources of liquidity to, among other things, service our existing and future debt obligations and fund our working capital requirements, capital expenditures, investments, acquisitions, dividend payments and repurchases of our common stock. in connection with our business strategy, we regularly evaluate acquisition opportunities. we believe our liquidity, along with other financing alternatives, will provide the necessary capital to fund these transactions and achieve our planned growth.
+senior notes and credit agreement as of december 31, 2016, we had $2.1 billion of outstanding indebtedness in the form of senior notes and a related interest expense of $101.7 million for the year ended december 31, 2016. we also maintain a $220.0 million senior unsecured revolving credit agreement, which was undrawn as of december 31, 2016.
+the 2024 senior notes are scheduled to mature and be paid in full on november 15, 2024. at any time prior to november 15, 2019, we may redeem all or part of the 2024 senior notes upon not less than 30 nor more than 60 days' prior notice at a redemption price equal to the sum of (i) 100% of the principal amount thereof, plus (ii) a make-whole premium as of the date of redemption, plus (iii) accrued and unpaid interest and additional interest, if any, thereon, to the date of redemption. in addition, we may redeem all or part of the 2024 senior notes, together with accrued and unpaid interest, on or after november 15, 2019, at redemption prices set forth in the indenture governing our 2024 senior notes. at any time prior to november 15, 2017, we may use the proceeds of certain equity offerings to redeem up to 35% of the aggregate principal amount of the 2024 senior notes, including any permitted additional notes, at a redemption price equal to 105.25% of the principal amount.
+the 2025 senior notes are scheduled to mature and be paid in full on august 15, 2025. at any time prior to august 15, 2020, we may redeem all or part of the 2025 senior notes upon not less than 30 nor more than 60 days' prior notice at a redemption price equal to the sum of (i) 100% of the principal amount thereof, plus (ii) a make-whole premium as of the date of redemption, plus (iii) accrued and unpaid interest and additional interest, if any, thereon, to the date of redemption. in addition, we may redeem all or part of the 2025 senior notes, together with accrued and unpaid interest, on or after august 15, 2020, at redemption prices set forth in the indenture governing our 2025 senior notes. at any time prior to august 15, 2018, we may use the proceeds of certain equity offerings to redeem up to 35% of the aggregate principal amount of the 2025 senior notes, including any permitted additional notes, at a redemption price equal to 105.75% of the principal amount.
+the 2026 senior notes are scheduled to mature and be paid in full on august 1, 2026. at any time prior to august 1, 2021, the company may redeem all or part of the 2026 senior notes upon not less than 30 nor more than 60 days' prior notice at a redemption price equal to the sum of (i) 100% of the principal amount thereof, plus (ii) a make-whole premium as of the date of redemption, plus (iii) accrued and unpaid interest and additional interest, if any, thereon, to the date of redemption. in addition, the company may redeem all or part of the 2026 senior notes, together with accrued and unpaid interest, on or after august 1, 2021, at redemption prices set forth in the indenture governing the 2026 senior notes. at any time prior to august 1, 2019, the company may use the proceeds of certain equity offerings to redeem up to 35% of the aggregate principal amount of the 2026 senior notes, including any permitted additional notes, at a redemption price equal to 104.75% of the principal amount.
+interest payments attributable to the 2024 senior notes are due on may 15 and november 15 of each year. the first interest payment was made on may 15, 2015. interest payments attributable to the 2025 senior notes are due on february 15 and august 15 of each year. the first interest payment was made on february 16, 2016. interest payments attributable to the 2026 senior notes are due on february 1 and august 1 of each year. the first interest payment was made on february 1, 2017.
+on august 4, 2016, we entered into amendment no. 1 (the "amendment") to the 2014 revolving credit agreement (the 2014 revolving credit agreement as so amended, the "revolving credit agreement"). the amendment, among other things, (i)  increased aggregate commitments available to be borrowed to $220.0 million,
+77
+(ii) increased the maximum consolidated leverage ratio from 3.75:1.00 to 4.25:1.00 and (iii) extended the initial term to august 2021 with an option to extend for an additional one-year term.
+the senior notes and the revolving credit agreement are fully and unconditionally, and jointly and severally, guaranteed by our direct or indirect wholly-owned domestic subsidiaries that account for more than 5% of our and our subsidiaries' consolidated assets, other than certain excluded subsidiaries (the "subsidiary guarantors"). amounts due under the revolving credit agreement are our and the subsidiary guarantors' senior unsecured obligations and rank equally with the senior notes and any of our other unsecured, unsubordinated debt, senior to any of our subordinated debt and effectively subordinated to our secured debt to the extent of the assets securing such debt.
+the indentures governing our senior notes (the "indentures") among us, each of the subsidiary guarantors, and wells fargo bank, national association, as trustee, contain covenants that limit our and certain of our subsidiaries' ability to, among other things, incur liens, enter into sale/leaseback transactions and consolidate, merge or sell all or substantially all of our assets. in addition, the indentures restrict our non-guarantor subsidiaries' ability to create, assume, incur or guarantee additional indebtedness without such non-guarantor subsidiaries guaranteeing the senior notes on a pari passu basis.
+the revolving credit agreement contains affirmative and restrictive covenants that, among other things, limit our ability and the ability of our existing or future subsidiaries to:
+•   incur liens and further negative pledges;
+
+•   incur additional indebtedness or prepay, redeem or repurchase indebtedness;
+
+•   make loans or hold investments;
+
+•   merge, dissolve, liquidate, consolidate with or into another person;
+
+•   enter into acquisition transactions;
+
+•   enter into sale/leaseback transactions;
+
+•   issue disqualified capital stock;
+
+•   sell, transfer or dispose of assets;
+
+•   pay dividends or make other distributions in respect of our capital stock or engage in stock repurchases, redemptions and other restricted payments;
+
+•   create new subsidiaries;
+
+•   permit certain restrictions affecting our subsidiaries;
+
+•   change the nature of our business, accounting policies or fiscal periods;
+
+•   enter into any transactions with affiliates other than on an arm's-length basis; and
+
+•   amend our organizational documents or amend, modify or change the terms of certain agreements relating to our indebtedness.
+
+the revolving credit agreement and the indentures also contain customary events of default, including those relating to non-payment, breach of representations, warranties or covenants, cross-default and cross-acceleration, bankruptcy and insolvency events, invalidity or impairment of loan documentation or collateral, change of control and customary erisa defaults. none of the restrictions above are expected to impact our ability to effectively operate the business.
+the revolving credit agreement also requires us and our subsidiaries to achieve financial and operating results sufficient to maintain compliance with the following financial ratios on a consolidated basis through the termination of the revolving credit agreement: (1) the maximum consolidated leverage ratio (as defined in the revolving credit agreement) measured quarterly on a rolling four-quarter basis shall not exceed 4.25:1.00 and (2)
+78
+the minimum consolidated interest coverage ratio (as defined in the revolving credit agreement) measured quarterly on a rolling four-quarter basis shall be at least 4.00:1.00. as of december 31, 2016, our consolidated leverage ratio was 3.50:1.00 and our consolidated interest coverage ratio was 6.74:1.00. there were no amounts drawn under the revolving credit facility since its november 20, 2014 inception.
+our non-guarantor subsidiaries of the senior notes consist of: (i) domestic subsidiaries of the company that account for 5% or less of consolidated assets of the company and its subsidiaries and (ii) any foreign or domestic subsidiary of the company that is deemed to be a controlled foreign corporation within the meaning of section 957 of the internal revenue code of 1986, as amended. our non-guarantor subsidiaries accounted for approximately $186.8 million, or 16.2%, of our total revenue for the twelve months ended december 31, 2016, approximately $129.3 million, or 26.5%, of our consolidated operating income for the twelve months ended december 31, 2016, and approximately $461.1 million, or 15.0%, of our consolidated total assets (excluding intercompany assets) and $166.7 million, or 6.0%, of our consolidated total liabilities, in each case as of december 31, 2016.
+share repurchases on september 18, 2014, we entered into the september 2014 asr agreement. on september 19, 2014, we paid $300.0 million in cash and received approximately 4.5 million shares of our common stock under the september 2014 asr agreement. on may 21, 2015, we completed the september asr program, receiving approximately 1.2 million shares of our common stock. in total, 5.7 million shares of our common stock were delivered for an average purchase price of $52.79 per share. the repurchased shares are held in treasury.
+on june 2, 2015, we began purchasing shares of our common stock in the open market in accordance with sec rule 10b5-1.
+for the year ended december 31, 2015, the company repurchased approximately 10.7 million shares at an average price of $62.63 per share for a total value of $670.8 million pursuant to open market repurchases.
+for the year ended december 31, 2016, the company repurchased approximately 10.3 million shares at an average price of $73.71 per share for a total value of $759.4 million pursuant to open market repurchases.
+subsequent to the year ended december 31, 2016 and through february 17, 2017, the company repurchased an additional 1.0 million shares of common stock at an average price of 80.70 per share for a total value of $77.5 million.
+as of february 17, 2017, a total of $792.4 million remained available on the share repurchase authorization.
+cash dividends on september 17, 2014, our board of directors approved a plan to initiate a regular quarterly cash dividend to our shareholders. on october 30, 2014, we began paying regular quarterly cash dividends and have paid such dividends each quarter thereafter. this authorization may be modified, suspended or terminated by the board of directors at any time without prior notice.
+on february 1, 2017, the board of directors declared a quarterly dividend of $0.28 per share of common stock to be paid on march 15, 2017 to shareholders of record as of the close of trading on february 17, 2017.
+79
+cash flows the following table presents the company's cash and cash equivalents as of the dates indicated:
+as of
+
+december 31,                december 31,
+2016                        2015
+(in thousands)
+cash and cash equivalents   $791,834                    $777,706
+the following table presents the breakdown of the company's cash flows for the periods indicated:
+years ended
+
+december 31,                december 31,               december 31,
+2016                    2015                           2014 (1)
+(in thousands)
+net cash provided by operating activities             $434,738                    $305,994                   $305,673
+net cash (used in) provided by investing activities             (42,031   )                (48,861   )                 297,037
+net cash (used in) provided by financing activities            (365,274   )                 19,949                    (442,328   )
+effect of exchange rates on cash and cash                       (13,305   )                 (8,175   )                 (10,017   )
+equivalents net increase in cash and cash equivalents             $14,128                     $268,907                   $150,365
+(1)   includes results from iss through its disposition on april 30, 2014.
+
+cash and cash equivalents cash and cash equivalents were $791.8 million and $777.7 million as of december 31, 2016 and 2015, respectively. as of december 31, 2016 and 2015, $208.2 million and $128.1 million, respectively, of the cash and cash equivalents were held by foreign subsidiaries, which could be subject to u.s. federal income taxation on repatriation to the u.s. and some of which could be subject to local country taxes if repatriated to the u.s. in addition, repatriation of some foreign cash is further restricted by local laws. the increase in cash and cash equivalents held by foreign subsidiaries primarily reflects ongoing efforts to better align our tax profile with our global operating footprint. we expect the cash balance to continue to grow outside the u.s. over time. these balances will be available to meet our needs outside the u.s. whether it be for general corporate purpose or other needs, including acquisitions or expansion of our products.
+we believe that domestic cash flows from operations, together with existing cash and cash equivalents and funds available under our existing credit facility and our ability to access the debt and capital markets for additional funds, will continue to be sufficient to fund our domestic operating activities and cash commitments for investing and financing activities, such as material capital expenditures and share repurchases, for at least the 12 months following issuance of this form 10-k and for the foreseeable future thereafter. in addition, we expect existing foreign cash flows from operations, together with existing cash and cash equivalents, will continue to be sufficient to fund our foreign operating activities and cash commitments for investing activities, such as material capital expenditures, for at least the next 12 months and for the foreseeable future thereafter.
+cash flows from operating activities cash flows from operating activities consist of net income adjusted for certain non-cash items and changes in assets and liabilities. cash provided by operating activities was $434.8 million and $306.0 million for the years ended december 31, 2016 and 2015, respectively. the year-over-year increase reflects higher billings and collections from customers, a decrease in cash expenses and lower cash payments for income taxes, including the impact of income tax refunds, partially offset by higher interest payments.
+cash provided by operating activities was $306.0 million and $305.7 million for the years ended december 31, 2015 and 2014, respectively. the year-over-year increase reflects higher cash inflows from operating
+80
+results, offset by higher payments related to interest and cash taxes. cash flows from operating activities for the year ended december 31, 2014 includes cash flows from discontinued operations.
+our primary uses of cash from operating activities are for the payment of cash compensation expenses, office rent, technology costs, market data costs, interest expenses and income taxes. historically, the payment of cash for compensation and benefits is at its highest level in the first quarter when we pay discretionary employee compensation related to the previous fiscal year.
+cash flows from investing activities cash used in investing activities was $42.0 million and $48.9 million for the years ended december 31, 2016 and 2015, respectively.
+cash used in investing activities was $48.9 million for the year ended december 31, 2015 compared to cash provided by investing activities of $297.0 million for the year ended december 31, 2014. the year-over-year decrease primarily reflects the impact for the year ended december 31, 2014 of $362.8 million in cash received upon the disposition of iss, partially offset by the purchase of gmi ratings.
+cash flows from financing activities cash used in financing activities was $365.3 million for the year ended december 31, 2016 compared to cash provided by financing activities of $19.9 million for the year ended december 31, 2015. the year-over-year decrease primarily reflects the impact of lower proceeds from borrowings and increased repurchases of treasury shares.
+cash provided by financing activities was $19.9 million for the year ended december 31, 2015 compared to cash used in financing activities of $442.3 million for the year ended december 31, 2014. the year-over-year increase primarily reflects the impact of our 2025 senior notes offering in august 2015, partially offset by higher share repurchases as well as the payments of dividends, which began in the three months ended december 31, 2014.
+contractual obligations our contractual obligations consist primarily of leases for office space, leases for equipment and other operating leases, obligations to vendors arising out of market data contracts and our debt obligations arising from the issuance of the senior notes. the following table summarizes our contractual obligations for the periods indicated as of december 31, 2016:
+years ending december 31,
+
+(in thousands)                              total   2017                     2018                     2019                     2020                     2021                        thereafter operating leases                         $246,322               27,869                  $27,429                  $22,559                  $19,237                  $17,413            $131,815
+vendor obligations                         62,198               40,260                   17,308                    4,161                      469                        -                   -
+senior notes (1)                        3,387,302              111,552                  111,750                  111,750                  111,750                  111,750           2,828,750
+total contractual obligations          $3,695,822             $179,681                 $156,487                 $138,470                 $131,456                 $129,163          $2,960,565
+(1)   includes the impact of payments for the principal amount on the 2024 senior notes, 2025 senior notes and the 2026 senior notes plus interest based on the 5.25%, 5.75% and 4.75% coupon interest rate, respectively.
+
+the obligations related to msci's uncertain tax positions, which are not considered material, have been excluded from the table above because of the uncertainty surrounding the timing and final amounts of any settlement.
+off-balance sheet arrangements at december 31, 2016 and 2015, we did not have any relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, which would have
+81
+been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+recent accounting standards updates see note 2, "recent accounting standards updates," of the notes to the consolidated financial statements included herein for further information.

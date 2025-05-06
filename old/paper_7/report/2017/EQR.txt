@@ -1,0 +1,553 @@
+item 7.  management's discussion and analysis of financial condition and results of operations the following discussion and analysis of the results of operations and financial condition of the company and the operating partnership should be read in connection with the consolidated financial statements and notes thereto.  due to the company's ability to control the operating partnership and its subsidiaries, the operating partnership and each such subsidiary entity has been consolidated with the company for financial reporting purposes, except for two unconsolidated operating properties.  capitalized terms used herein and not defined are as defined elsewhere in this annual report on form 10-k for the year ended december 31, 2017.
+forward-looking statements forward-looking statements in this item 7 as well as elsewhere in this annual report on form 10-k are intended to be made pursuant to the safe harbor provisions of the private securities litigation reform act of 1995.  these statements are based on current expectations, estimates, projections and assumptions made by management.  while the company's management believes the assumptions underlying its forward-looking statements are reasonable, such information is inherently subject to uncertainties and may involve certain risks, which could cause actual results, performance or achievements of the company to differ materially from anticipated future results, performance or achievements expressed or implied by such forward-looking statements.  many of these uncertainties and risks are difficult to predict and beyond management's control.  forward-looking statements are not guarantees of future performance, results or events.  the forward-looking statements contained herein are made as of the date hereof and the company undertakes no obligation to update or supplement these forward-looking statements.  factors that might cause such differences include, but are not limited to the following:
+•   we intend to actively acquire, develop and renovate multifamily properties for rental operations as market conditions dictate. we may also acquire multifamily properties that are unoccupied or in the early stages of lease-up. we may be unable to lease these apartment properties on schedule, resulting in decreases in expected rental revenues and/or lower yields due to lower occupancy and rental rates as well as higher than expected concessions or higher than expected operating expenses. we may not be able to achieve rents that are consistent with expectations for acquired, developed or renovated properties. we may underestimate the costs necessary to bring an acquired property up to standards established for its intended market position, to complete a development property or to complete a renovation. additionally, we expect that other real estate investors with capital will compete with us for attractive investment opportunities or may also develop properties in markets where we focus our development and acquisition efforts. this competition (or lack thereof) may increase (or depress) prices for multifamily properties. we may not be in a position or have the opportunity in the future to make suitable property acquisitions on favorable terms. we have acquired in the past and intend to continue to pursue the acquisition of properties, including large portfolios of properties, that could increase our size and result in alterations to our capital structure. the total number of apartment units under development, costs of development and estimated completion dates are subject to uncertainties arising from changing economic conditions (such as the cost of labor and construction materials), competition and local government regulation;
+
+•   debt financing and other capital required by the company may not be available or may only be available on adverse terms;
+
+•   labor and materials required for maintenance, repair, capital expenditure or development may be more expensive than anticipated;
+
+•   occupancy levels and market rents may be adversely affected by national and local political, economic and market conditions including, without limitation, new construction and excess inventory of multifamily and owned housing/condominiums, increasing portions of owned housing/condominium stock being converted to rental use, rental housing subsidized by the government, other government programs that favor single family rental housing or owner occupied housing over multifamily rental housing, slow or negative employment growth and household formation, the availability of low-interest mortgages or the availability of mortgages requiring little or no down payment for single family home buyers, changes in social preferences, governmental regulations (including rent control or rent stabilization laws and regulations) and the potential for geopolitical instability, all of which are beyond the company's control; and
+
+•   additional factors as discussed in part i of this annual report on form 10-k, particularly those under "item 1a. risk factors".
+
+forward-looking statements and related uncertainties are also included in the notes to consolidated financial statements in this report.
+35
+overview see item 1. business for discussion regarding the company's overview.
+business objectives and operating and investing strategies see item 1. business for discussion regarding the company's business objectives and operating and investing strategies.
+results of operations
+2017 and 2016 transactions in conjunction with our business objectives and operating strategy, the company continued to invest in apartment properties located in our coastal gateway markets and sell apartment properties located primarily in the less dense portion of suburban markets and/or properties that are functionally or locationally challenged during the years ended december 31, 2017 and december 31, 2016 as follows:
+year ended december 31, 2017:
+•   acquired four consolidated apartment properties, located in the seattle (two properties), boston and los angeles markets, consisting of 947 apartment units for approximately $468.0 million at a weighted average acquisition cap rate (see definition below) of 4.8%;
+
+•   sold five consolidated apartment properties, located in the boston (three properties), new york and san diego markets, consisting of 1,194 apartment units for approximately $355.0 million, at a weighted average disposition yield (see definition below) of 5.1% and generating an unlevered irr (see definition below) of 12.4%;
+
+•   started construction on two projects, located in the boston and seattle markets, consisting of 221 apartment units totaling approximately $113.8 million of expected development costs; and
+
+•   substantially completed construction on four projects, located in the orange county, washington d.c. and seattle (two properties) markets, consisting of 1,393 apartment units totaling approximately $584.2 million of development costs and stabilized five development projects, located in the san francisco (three properties), los angeles and orange county markets, consisting of 1,931 apartments units totaling approximately $983.1 million of development costs.
+
+year ended december 31, 2016:
+•   acquired four consolidated apartment properties consisting of 573 apartment units for approximately $249.3 million at a weighted average acquisition cap rate of 4.8%;
+
+•   sold 98 consolidated apartment properties consisting of 29,440 apartment units for approximately $6.8 billion, which includes the sale of the starwood portfolio consisting of 72 consolidated apartment properties containing 23,262 apartment units for $5.365 billion, at a weighted average disposition yield of 5.4% and generating an unlevered irr of 11.8%;
+
+•   sold one unconsolidated property consisting of 336 apartments units for approximately $74.5 million (our share of the net sales proceeds approximated $12.4 million), generating a disposition yield of 5.6%;
+
+•   sold our entire interest in the management contracts and related rights associated with the military housing ventures at joint base lewis mcchord consisting of 5,161 apartment units for approximately $63.3 million and sold three land parcels for $57.5 million;
+
+•   started construction on one project consisting of 222 apartment units totaling approximately $88.0 million of expected development costs; and
+
+•   substantially completed construction on five projects consisting of 2,141 apartment units totaling approximately $1.1 billion of development costs and stabilized six development projects consisting of 1,839 apartment units totaling approximately $894.2 million of development costs.
+
+see also note 4 in the notes to consolidated financial statements for additional discussion regarding the company's real estate transactions.
+same store results properties that the company owned and were stabilized (see definition below) for all of both 2017 and 2016 (the "2017 same store properties"), which represented 70,117 apartment units, and properties that the company owned and were
+36
+stabilized for all of both 2016 and 2015 (the "2016 same store properties"), which represented 69,879 apartment units, impacted the company's results of operations.  both the 2017 same store properties and 2016 same store properties are discussed in the following paragraphs.
+the company's primary financial measure for evaluating each of its apartment communities is net operating income ("noi").  noi represents rental income less direct property operating expenses (including real estate taxes and insurance).  the company believes that noi is helpful to investors as a supplemental measure of its operating performance because it is a direct measure of the actual operating results of the company's apartment properties.
+the following tables provide a rollforward of the apartment units included in same store properties and a reconciliation of apartment units included in same store properties to those included in total properties for the year ended december 31, 2017:
+year ended december 31, 2017
+
+properties                     apartment units same store properties at december 31, 2016             272                        69,879
+2015 acquisitions                                        4                           625
+2017 dispositions                                       (5      )                 (1,194   )
+lease-up properties stabilized                           4                           800
+other                                                    -                             7
+same store properties at december 31, 2017             275                        70,117
+year ended december 31, 2017
+
+properties                     apartment units same store                                             275                        70,117
+non-same store:
+2017 acquisitions - stabilized                           2                           437
+2017 acquisitions - not stabilized                       2                           510
+2016 acquisitions                                        4                           573
+properties removed from same store (1)                   2                           356
+master-leased properties (2)                             3                           853
+lease-up properties not yet stabilized (3)              14                         4,819
+other                                                    1                             1
+total non-same store                                    28                         7,549
+unconsolidated properties                                2                           945
+total properties and apartment units                   305                        78,611
+note:  properties are considered "stabilized" when they have achieved 90% occupancy for three consecutive months.  properties are included in same store when they are stabilized for all of the current and comparable periods presented.
+(1)   consists of one property containing 285 apartment units (playa pacifica in hermosa beach, california) which was removed from the same store portfolio in the first quarter of 2015 due to a major renovation in which significant portions of the property were taken offline for extended time periods and one property containing 71 apartment units (acton courtyard in berkeley, california) which was removed from the same store portfolio in the third quarter of 2016 due to an affordable housing dispute which required significant portions of the property to be vacant for an extended releasing period. as of december 31, 2017 and 2016, playa pacifica had an occupancy of 94.4% and 66.2%, respectively. as of december 31, 2017 and 2016, acton courtyard had an occupancy of 91.5% and 69.0%, respectively. these properties will not return to the same store portfolio until they are stabilized for all of the current and comparable periods presented.
+
+(2)   consists of three properties containing 853 apartment units that are wholly owned by the company but the entire projects are master leased to a third party corporate housing provider.
+
+(3)   consists of properties in various stages of lease-up and properties where lease-up has been completed but the properties were not stabilized for the comparable periods presented.
+
+37
+revenues from the 2017 and 2016 same store properties increased $48.5 million and $78.1 million, respectively, primarily as a result of an increase in average rental rates charged to residents.  expenses from the 2017 and 2016 same store properties increased $17.0 million and $20.2 million, respectively, primarily as a result of an increase in real estate taxes, on-site payroll costs and repairs and maintenance expenses.  the following tables provide comparative same store results and statistics for the 2017 and 2016 same store properties:
+2017 vs. 2016
+same store results/statistics for 70,117 same store apartment units
+$ in thousands (except for average rental rate)
+results                                                           statistics
+
+description        revenues             expenses                    noi           average                  physical           turnover (3)
+rental             occupancy (2)
+rate (1)
+2017             $2,248,564             $656,321             $1,592,243            $2,670                      96.0   %       52.9              %
+2016             $2,200,094             $639,342             $1,560,752            $2,611                      96.0   %       54.7              %
+change              $48,470              $16,979                $31,491               $59                       0.0   %                  (1.8   )%
+change                  2.2   %              2.7   %                2.0   %           2.3   %
+note: same store revenues for all leases are reflected on a straight line basis in accordance with gaap for the current and comparable periods.
+2016 vs. 2015
+same store results/statistics for 69,879 same store apartment units
+$ in thousands (except for average rental rate)
+results                                                           statistics
+
+description        revenues             expenses                    noi           average           physical                   turnover (3)
+rental           occupancy (2)
+rate (1)
+2016             $2,177,304             $634,120             $1,543,184            $2,597           96.0              %        54.4              %
+2015             $2,099,166             $613,924             $1,485,242            $2,504           96.1              %        54.5              %
+change              $78,138              $20,196                $57,942               $93                      (0.1   )%                  (0.1   )%
+change                  3.7   %              3.3   %                3.9   %           3.7   %
+(1)   average rental rate - for 2017 vs. 2016, represents total residential rental revenues reflected on a straight-line basis in accordance with gaap divided by the weighted average occupied apartment units for the reporting period presented. for 2016 vs. 2015, represents total residential rental revenues divided by the weighted average occupied apartment units for the reporting period presented.
+
+(2)   physical occupancy - the weighted average occupied apartment units for the reporting period divided by the average of total apartment units available for rent for the reporting period.
+
+(3)   turnover - total residential move-outs divided by total residential apartment units, including inter-property and intra-property transfers.
+
+the following tables provide comparative same store operating expenses for the 2017 and 2016 same store properties:
+2017 vs. 2016
+same store operating expenses for 70,117 same store apartment units
+$ in thousands
+% of actual
+
+2017
+actual               actual                 $            %                operating
+2017                 2016                      change           change                 expenses real estate taxes                                $276,762             $268,084        $8,678              3.2    %                42.2   %
+on-site payroll (1)                               148,781              142,248         6,533              4.6    %                22.7   %
+utilities (2)                                      89,938               88,159         1,779              2.0    %                13.7   %
+repairs and maintenance (3)                        83,683               82,378         1,305              1.6    %                12.7   %
+insurance                                          16,683               17,345          (662   )         (3.8   )%                 2.5   %
+leasing and advertising                             9,282               10,118          (836   )         (8.3   )%                 1.4   %
+other on-site operating expenses (4)               31,192               31,010           182              0.6    %                 4.8   %
+same store operating expenses                    $656,321             $639,342       $16,979              2.7    %               100.0   %
+38
+2016 vs. 2015
+same store operating expenses for 69,879 same store apartment units
+$ in thousands
+% of actual
+
+2016
+actual               actual                  $            %                operating
+2016                 2015                       change           change                 expenses real estate taxes                                $264,689             $249,916        $14,773              5.9    %                41.7   %
+on-site payroll (1)                               141,996              137,731          4,265              3.1    %                22.4   %
+utilities (2)                                      88,261               91,586         (3,325   )         (3.6   )%                13.9   %
+repairs and maintenance (3)                        81,600               79,366          2,234              2.8    %                12.9   %
+insurance                                          17,055               16,428            627              3.8    %                 2.7   %
+leasing and advertising                             9,928                8,341          1,587             19.0    %                 1.6   %
+other on-site operating expenses (4)               30,591               30,556             35              0.1    %                 4.8   %
+same store operating expenses                    $634,120             $613,924        $20,196              3.3    %               100.0   %
+(1)   on-site payroll - includes payroll and related expenses for on-site personnel including property managers, leasing consultants and maintenance staff.
+
+(2)   utilities - represents gross expenses prior to any recoveries under the resident utility billing system ("rubs"). recoveries are reflected in rental income.
+
+(3)   repairs and maintenance - includes general maintenance costs, apartment unit turnover costs including interior painting, routine landscaping, security, exterminating, fire protection, snow removal, elevator, roof and parking lot repairs and other miscellaneous building repair and maintenance costs.
+
+(4)   other on-site operating expenses - includes ground lease costs and administrative costs such as office supplies, telephone and data charges and association and business licensing fees.
+
+the following tables present reconciliations of operating income per the consolidated statements of operations to noi, along with rental income, operating expenses and noi per the consolidated statements of operations allocated between same store and non-same store results for the 2017 and 2016 same store properties (amounts in thousands):
+year ended december 31,
+
+2017                       2016                        2015
+operating income                              $847,471                    $856,086                  $1,009,238
+adjustments:
+fee and asset management revenue                  (717    )                 (3,567    )                 (8,387   )
+property management                             85,493                      82,015                      86,206
+general and administrative                      52,224                      57,840                      64,664
+depreciation                                   743,749                     705,649                     765,895
+impairment                                       1,693                           -                           -
+total noi                                   $1,729,913                  $1,698,023                  $1,917,616
+year ended december 31, 2017                                        year ended december 31, 2016
+
+(results for 70,117 same store apartment units)                     (results for 69,879 same store apartment units)
+2017                                2016                            2016                                2015
+rental income:
+same store                              $2,248,564                                $2,200,094                $2,177,304                                $2,099,166
+non-same store/other                       222,125                                   222,139                   244,929                                   637,412
+total rental income                      2,470,689                                 2,422,233                 2,422,233                                 2,736,578
+operating expenses:
+same store                                 656,321                                   639,342                   634,120                                   613,924
+non-same store/other                        84,455                                    84,868                    90,090                                   205,038
+total operating expenses                   740,776                                   724,210                   724,210                                   818,962
+noi:
+same store                               1,592,243                                 1,560,752                 1,543,184                                 1,485,242
+non-same store/other                       137,670                                   137,271                   154,839                                   432,374
+total noi                               $1,729,913                                $1,698,023                $1,698,023                                $1,917,616
+39
+for properties that the company acquired or completed that were stabilized prior to january 1, 2017 and that the company expects to continue to own through december 31, 2018, the company anticipates the following same store results for the full year ending december 31, 2018, which assumptions are based on current expectations and are forward-looking:
+2018 same store assumptions
+
+physical occupancy                       96.0%
+revenue change                   1.0% to 2.25%
+expense change                    3.5% to 4.5%
+noi change                        0.0% to 1.5%
+same store revenues increased 2.2% during the year ended december 31, 2017 as compared to the same period in 2016, which was ahead of our original expectations and in line with our most recent guidance that was provided in october 2017, due to stronger renewal rates, lower turnover and gains in occupancy.  the company's primary goal in 2017 was to focus on retaining existing residents to drive renewal rate growth which came in at 4.6% for the year ended december 31, 2017 as compared to the same period in 2016.  same store turnover declined by 1.8% for the year ended december 31, 2017 as compared to the same period in 2016.  the company's primary focus for 2018 will continue to be on retaining existing residents.  we currently estimate same store revenues to increase in a range from 1.0% to 2.25% for 2018 as compared to 2017.
+washington d.c. was the only market in our portfolio that did not meet or surpass our most recent guidance that was provided in october 2017.  same store revenues increased 1.3% during the year ended december 31, 2017 compared to the same period in 2016 as uncertainty in the market caused by the political environment slowed economic activity.  while we expect to see slight improvement in new lease rates in 2018, we expect washington d.c. to remain challenged.  as a result, we expect to produce same store revenue growth of approximately 1.0% in this market in 2018.
+in the new york market, elevated deliveries of new luxury supply both in established residential areas and newer residential areas like long island city are having an impact on our ability to raise rents.  while technology sector job growth continues, there has been a reduction in the rate of job growth in the financial services sector, which is an important demand driver in this market.  however, due in part to our strong same store occupancy levels (96.2% for the year ended december 31, 2017), we used fewer concessions during 2017 than we originally expected.  same store revenues increased 0.1% for the year ended december 31, 2017 as compared to the same period in 2016, which was above both our original expectations and our most recent guidance provided in october 2017.  with new luxury supply elevated in 2018, we expect there to be a decline in same store revenues of approximately 0.75% in 2018.
+boston continues to feel the impact from an elevated level of deliveries of new supply in the downtown and cambridge submarkets, though job growth has continued to improve.  as a result, the additional supply has generally been absorbed thus far without significant disruption.  same store revenues increased 1.6% for the year ended december 31, 2017 as compared to the same period in 2016, which was in line with our original expectations and most recent guidance provided in october 2017. we believe renewal and occupancy rates will continue to remain strong while new lease rates will continue to be negative.  we therefore expect 2018 same store revenue growth of approximately 1.6%, which is identical to 2017.
+seattle produced solid rental rate growth driven by the continued growth in technology jobs in the market, but showed signs of slowing rent growth towards the end of 2017.  same store revenues increased 5.6% for the year ended december 31, 2017 as compared to the same period in 2016, which exceeded our original expectations and is generally consistent with the most recent guidance provided in october 2017.  we are more cautious on our 2018 outlook.  with more moderate growth expected in both renewals and new leases primarily due to increased urban supply and moderating job growth, we expect seattle to produce same store revenue growth of approximately 3.25% in 2018.
+san francisco performed better than expected in 2017 primarily as a result of strong occupancy and gains on renewals.  the market is producing a slower rate of job growth in the technology sector compared to previous years.  however, we continue to see strong demand throughout the market, although the rate at which we can increase rents remains somewhat modest due to new supply and a slower rate of job growth.  as a result, same store revenues increased 2.0% for the year ended december 31, 2017 as compared to the same period in 2016, which exceeded our original expectations and is generally consistent with the most recent guidance provided in october 2017.  while we expect to see slight improvement in new lease rates in 2018, we expect lower occupancy and renewal rates.  as a result, we expect to produce same store revenue growth of approximately 1.75% in 2018.
+southern california, which includes los angeles, orange county and san diego, was one of our better performing markets in 2017.  widely dispersed new supply, very good economic growth and adequate levels of job growth in the market
+40
+are driving strong revenue growth.  same store revenues increased 3.9% for the year ended december 31, 2017 as compared to the same period in 2016, which slightly exceeded both our original expectations and the most recent guidance we provided in october 2017.  we expect to produce same store revenue growth of approximately 3.25% in los angeles and 4.0% in both orange county and san diego in 2018.
+same store expenses increased 2.7% during the year ended december 31, 2017 as compared to the same period in 2016.  the full year 2017 results were primarily due to the following items:
+•   real estate taxes increased 3.2% for the full year 2017 as compared to the same period in 2016, which was lower than our original expectations, primarily driven by favorable real estate tax appeal results;
+
+•   payroll costs increased 4.6% for the full year 2017 as compared to the same period in 2016 (which was consistent with our original expectations) primarily due to an increase in on-site staffing to assure the service levels necessary to remain competitive with new supply and higher on-site wages due to competition from new supply; and
+
+•   utilities increased 2.0% for the full year 2017 as compared to the same period in 2016 (which was consistent with our original expectations) primarily due to higher prices for natural gas and higher water and sewer costs, partially offset by lower usage and lower prices for electricity.
+
+we anticipate same store expenses to increase in a range from 3.5% to 4.5% for 2018 as compared to 2017 primarily due to the following items:
+•   real estate taxes are estimated to increase between 4.75% and 5.75% due primarily to increased values and rates and the 421-a tax abatement benefits continuing to expire in new york (approximately 1.7 percentage points of the increase);
+
+•   payroll costs are estimated to increase approximately 5.0% primarily due to higher on-site wages due to competition from new supply; and
+
+•   utilities are estimated to increase between 3.0% and 4.0% primarily due to increases in trash costs as well as anticipated increases in the commodity cost for electricity, natural gas and heating oil after enjoying several years of declining rates.
+
+same store noi increased 2.0% for the full year 2017 as compared to the same period in 2016, which was at the high end of our original expectations and slightly ahead of our most recent guidance that was provided in october 2017.  the company anticipates same store noi growth of approximately 0.0% to 1.5% for the full year 2018 as a result of the above same store revenue and expense expectations.
+see also note 17 in the notes to consolidated financial statements for additional discussion regarding the company's segment disclosures.
+non-same store/other results non-same store noi results increased approximately $0.4 million in 2017 compared to the same period in 2016 and consist primarily of properties acquired in calendar years 2016 and 2017, operations from the company's development properties and operations prior to disposition from 2016 and 2017 sold properties.  this difference is due primarily to:
+•   a positive impact of higher noi from development and newly stabilized development properties in lease-up of $42.7 million;
+
+•   a positive impact of higher noi from properties acquired in 2016 and 2017 of $12.0 million;
+
+•   a positive impact of higher noi from other non-same store properties (including three master leased properties) of $3.0 million; and
+
+•   a negative impact of lost noi from 2016 and 2017 dispositions of $57.4 million.
+
+41
+non-same store noi results decreased approximately $277.5 million in 2016 compared to the same period in 2015 and consist primarily of properties acquired in calendar years 2015 and 2016, operations from the company's development properties and operations prior to disposition from 2015 and 2016 sold properties (including the starwood portfolio).  this difference is due primarily to:
+•   a positive impact of higher noi from development and newly stabilized development properties in lease-up of $50.8 million and properties acquired in 2015 and 2016 of $15.2 million;
+
+•   a negative impact of lower noi from other non-same store properties (including three master-leased properties) of $1.2 million; and
+
+•   a negative impact of lost noi from 2015 and 2016 dispositions of $333.2 million.
+
+the company's guidance assumes consolidated rental acquisitions of $500.0 million and consolidated rental dispositions of $500.0 million and assumes that the acquisition cap rate will be 0.50% lower than the disposition yield for the full year ending december 31, 2018.  the company currently budgets one development start during the year ending december 31, 2018.  we currently budget spending approximately $150.0 million on development costs during the year ending december 31, 2018, primarily for projects currently under construction and on the one project expected to start in 2018.  we assume that this capital will be primarily sourced with excess operating cash flow, future debt offerings and borrowings on our revolving credit facility and/or commercial paper program.  these 2018 assumptions are based on current expectations and are forward-looking.
+comparison of the year ended december 31, 2017 to the year ended december 31, 2016 and the year ended december 31, 2016 to the year ended december 31, 2015
+for the year ended december 31, 2017, the company reported diluted earnings per share/unit of $1.63 compared to $11.68 per share/unit for the year ended december 31, 2016.  the difference is primarily due to approximately $10.16 per share/unit in higher gains on property sales and $0.14 per share/unit in higher gains on sales of non-operating assets in 2016 compared to 2017 as a direct result of the significant sales activity in 2016 compared to 2017, partially offset by $0.29 per share/unit in higher debt extinguishment costs incurred in 2016 as compared to 2017.  for the year ended december 31, 2016, the company reported diluted earnings per share/unit of $11.68 compared to $2.36 per share/unit for the year ended december 31, 2015.  the difference is primarily due to approximately $9.69 per share/unit in higher gains on property sales and $0.18 per share/unit in higher gains on sales of non-operating assets in 2016 compared to the same period in 2015 as a direct result of the significant sales activity in 2016, partially offset by $0.30 per share/unit in higher debt extinguishment costs and lower overall noi as a result of the sales noted above in 2016 compared to 2015.
+income from continuing operations decreased approximately $3.9 billion for the year ended december 31, 2017 compared to the prior year.  income from continuing operations increased $3.6 billion for the year ended december 31, 2016 compared to the prior year.  see below for further explanation.
+for the year ended december 31, 2017, consolidated rental income increased 2.0%, consolidated operating expenses (comprised of property and maintenance and real estate taxes and insurance) increased 2.3% and consolidated noi increased 1.9% when compared to the year ended december 31, 2016.  the increase in noi is primarily a result of the company's improved noi from same store and lease-up properties, partially offset by dilution from disposition activity.  for the year ended december 31, 2016, consolidated rental income decreased 11.5%, consolidated operating expenses (comprised of property and maintenance and real estate taxes and insurance) decreased 11.6% and consolidated noi decreased 11.5% when compared to the year ended december 31, 2015.  the declines are all primarily a result of the company's significant disposition activity in 2016.
+fee and asset management revenues decreased approximately $2.9 million or 79.9% and $4.8 million or 57.5% during the year ended december 31, 2017 as compared to 2016 and the year ended december 31, 2016 as compared to 2015, respectively, primarily as a result of lower revenue earned on management of the company's military housing ventures at joint base lewis mcchord due to the sale of the company's entire interest in the management contracts and related rights associated with these ventures in the second quarter of 2016.
+property management expenses include off-site expenses associated with the self-management of the company's properties as well as management fees paid to any third party management companies.  these expenses increased approximately $3.5 million or 4.2% during the year ended december 31, 2017 compared to the prior year.  the increase is primarily attributable to increases in education/conference fees, legal fees, office rent, and payroll-related costs.  these expenses decreased approximately $4.2 million or 4.9% during the year ended december 31, 2016 compared to the prior year.  this decrease is primarily attributable to a decrease in payroll-related costs, office rent and education/conference fees, partially offset by increases in computer operations costs.  the company anticipates that property management expenses will
+42
+approximate $88.5 million to $90.5 million for the year ending december 31, 2018.
+general and administrative expenses from continuing operations, which include corporate operating expenses, decreased approximately $5.6 million or 9.7% and $6.8 million or 10.6% during the year ended december 31, 2017 as compared to 2016 and the year ended december 31, 2016 as compared to 2015, respectively, primarily due to a decrease in payroll-related costs. the company anticipates that general and administrative expenses will approximate $53.0 million to $55.0 million for the year ending december 31, 2018.
+depreciation expense, which includes depreciation on non-real estate assets, increased approximately $38.1 million or 5.4% during the year ended december 31, 2017 compared to the prior year, primarily as a result of additional depreciation expense on properties acquired in 2017 and development properties placed in service in 2016 and 2017, partially offset by lower depreciation from properties sold in 2016 and 2017.  depreciation expense decreased approximately $60.2 million or 7.9% during the year ended december 31, 2016 compared to the prior year, primarily as a result of no depreciation or a partial period of depreciation expense during the year ended december 31, 2016 related to the significant property sales in 2016 (including the starwood portfolio), partially offset by additional depreciation expense on properties acquired in 2016 and development properties placed in service.
+interest and other income decreased approximately $59.6 million or 90.7% and increased approximately $58.4 million during the year ended december 31, 2017 as compared to 2016 and the year ended december 31, 2016 as compared to 2015, respectively, primarily due to the approximate $52.4 million gain from the sale of the company's entire interest in the management contracts and related rights associated with the military housing ventures at joint base lewis mcchord and approximate $6.0 million gain from the sale of 421-a real estate tax certificates during the year ended december 31, 2016, neither of which occurred in 2017 or 2015.  the company anticipates that interest and other income will approximate $0.5 million to $1.0 million for the year ending december 31, 2018, excluding certain non-comparable insurance/litigation settlement proceeds.
+other expenses decreased approximately $5.2 million or 50.0% and increased $7.4 million during the year ended december 31, 2017 as compared to 2016 and the year ended december 31, 2016 as compared to 2015, respectively, primarily due to higher litigation/environmental reserve and/or settlement costs in 2016, which did not occur at the same levels in 2017 and 2015, as well as a decrease in annual transaction costs of approximately $1.5 million in 2017.  in addition, the company anticipates that substantially all of its transactions will now be accounted for as asset acquisitions, which means that transaction costs will largely be capitalized, as a result of its adoption of the new definition of a business standard effective january 1, 2017.  see note 2 in the notes to consolidated financial statements for further discussion.
+interest expense, including amortization of deferred financing costs, decreased approximately $102.5 million or 20.7% for the year ended december 31, 2017 compared to the prior year, primarily as a result of $109.9 million in lower debt extinguishment costs in 2017 as compared to 2016.  interest expense, including amortization of deferred financing costs, increased approximately $39.6 million or 8.7% for the year ended december 31, 2016 compared to the prior year, primarily as a result of prepayment penalties and debt extinguishment costs associated with the repayment of approximately $1.7 billion in debt principal prior to scheduled maturity, partially offset by lower interest expense as a result of these repayments.  the effective interest cost on all indebtedness was 4.44%, 4.68% and 4.72% for the years ended december 31, 2017, 2016 and 2015, respectively.  the company capitalized interest of approximately $26.3 million, $51.5 million and $59.9 million for the years ended december 31, 2017, 2016 and 2015, respectively. the company anticipates that interest expense from continuing operations, excluding debt extinguishment costs/prepayment penalties, will approximate $370.5 million to $383.1 million and capitalized interest will approximate $4.0 million to $8.0 million for the year ending december 31, 2018.
+income and other tax expense from continuing operations decreased approximately $1.1 million or 70.4% and increased approximately $0.7 million or 75.9% during the year ended december 31, 2017 as compared to 2016 and the year ended december 31, 2016 as compared to 2015, respectively, primarily due to changes in various state and local taxes related to the company's elevated disposition activity in 2016 compared to 2017 and 2015.  the company anticipates that income and other tax expense will approximate $0.5 million to $1.0 million for the year ending december 31, 2018.
+the 2018 guidance/projections provided above are based on current projections and are forward-looking.
+income (loss) from investments in unconsolidated entities decreased approximately $8.2 million and $10.2 million during the year ended december 31, 2017 as compared to 2016 and the year ended december 31, 2016 as compared to 2015, respectively.  the decrease in 2017 is primarily due to a gain on the sale of one unconsolidated apartment property totaling $8.8 million in 2016 that did not occur in 2017.  the decrease in 2016 is primarily due to $18.6 million in favorable litigation
+43
+settlements which occurred during the year ended december 31, 2015, partially offset by a gain on the sale of one unconsolidated apartment property totaling $8.8 million which occurred during the year ended december 31, 2016.
+net gain (loss) on sales of real estate properties decreased approximately $3.9 billion or 96.1% and increased approximately $3.7 billion during the year ended december 31, 2017 as compared to 2016 and the year ended december 31, 2016 as compared to 2015, respectively, as a result of the sale of 98 consolidated apartment properties (including the starwood portfolio) during the year ended december 31, 2016 as compared to only five consolidated apartment property sales during the year ended december 31, 2017 and eight consolidated property sales during the year ended december 31, 2015, all of which did not meet the criteria for reporting discontinued operations.
+net gain (loss) on sales of land parcels increased approximately $3.4 million or 21.8% due to the gain on sale of one land parcel with a low basis during the year ended december 31, 2017 as compared to the gain on sales of four land parcels during the year ended december 31, 2016.  net gain (loss) on sales of land parcels increased approximately $15.7 million due to the gain on sale of four land parcels during the year ended december 31, 2016 as compared to no land sales during the year ended december 31, 2015.
+liquidity and capital resources short-term liquidity and cash proceeds the company generally expects to meet its short-term liquidity requirements, including capital expenditures related to maintaining its existing properties and scheduled unsecured note and mortgage note repayments, through its working capital, net cash provided by operating activities and borrowings under the company's revolving credit facility and commercial paper program.  under normal operating conditions, the company considers its cash provided by operating activities to be adequate to meet operating requirements and payments of distributions.
+as of january 1, 2017, the company had approximately $77.2 million of cash and cash equivalents, approximately $141.9 million of restricted deposits and the amount available on its revolving credit facility was $1.96 billion (net of $20.6 million which was restricted/dedicated to support letters of credit and net of $20.0 million in principal outstanding on the commercial paper program).  after taking into effect the various transactions discussed in the following paragraphs and the net cash provided by operating activities, at december 31, 2017, the company's cash and cash equivalents balance was approximately $58.3 million, the restricted deposits balance was approximately $50.1 million and the amount available on its revolving credit facility was $1.69 billion (net of $6.6 million which was restricted/dedicated to support letters of credit and net of $300.0 million in principal outstanding on the commercial paper program).
+during the year ended december 31, 2017, the company generated proceeds from various transactions, which included the following:
+•   disposed of five consolidated rental properties and one land parcel, receiving net proceeds of approximately $384.6 million;
+
+•   issued $400.0 million of ten-year 3.25% unsecured notes, receiving net proceeds of approximately $399.3 million before underwriting fees, hedge termination costs and other expenses;
+
+•   issued $300.0 million of thirty-year 4.00% unsecured notes, receiving net proceeds of approximately $293.2 million before underwriting fees and other expenses; and
+
+•   issued approximately 0.9 million common shares related to share option exercises and espp purchases and received net proceeds of $35.3 million, which were contributed to the capital of the operating partnership in exchange for additional op units (on a one-for-one common share per op unit basis).
+
+during the year ended december 31, 2017, the above proceeds along with net cash flow from operations and borrowings from the company's revolving line of credit and commercial paper program were primarily utilized to:
+•   acquire four consolidated rental properties for approximately $466.4 million in cash;
+
+•   invest $276.4 million primarily in development projects;
+
+•   repay $504.1 million of mortgage loans (inclusive of scheduled principal repayments) and incur prepayment penalties of approximately $12.3 million; and
+
+•   repay $498.0 million of unsecured notes at maturity.
+
+44
+credit facility and commercial paper program on november 3, 2016, the company replaced its existing $2.5 billion facility with a $2.0 billion unsecured revolving credit facility maturing january 10, 2022.  the company has the ability to increase available borrowings by an additional $750.0 million by adding additional banks to the facility or obtaining the agreement of existing banks to increase their commitments.  the interest rate on advances under the facility will generally be libor plus a spread (currently 0.825%), or based on bids received from the lending group, and the company pays an annual facility fee (currently 12.5 basis points).  both the spread and the facility fee are dependent on the credit rating of the company's long-term debt.
+on february 2, 2015, the company entered into an unsecured commercial paper note program in the united states.  the company may borrow up to a maximum of $500.0 million under this program subject to market conditions.  the notes will be sold under customary terms in the united states commercial paper note market and will rank pari passu with all of the company's other unsecured senior indebtedness.  as of february 16, 2018, there was a balance of $320.0 million outstanding on the commercial paper program.
+as of february 16, 2018, no amounts were outstanding and the amount available on the revolving credit facility was $1.67 billion (net of $6.6 million which was restricted/dedicated to support letters of credit and net of the $320.0 million in principal outstanding on the commercial paper program).  this facility may, among other potential uses, be used to fund property acquisitions, costs for certain properties under development and short-term liquidity requirements.
+dividend policy for the past several years, the company adhered to a policy of paying its annual dividends/distributions based on 65% of the midpoint of the range of initial normalized ffo guidance customarily provided at the beginning of each year as part of the company's fourth quarter earnings release.  the company's 2017 regular annual dividend/distribution payout was $2.015 per share/unit and the company paid four regular quarterly dividends/distributions of $0.50375 per share/unit in 2017.
+beginning in 2018, the company will no longer determine its dividends/distributions as a fixed percentage of estimated normalized ffo but will instead adopt a more conventional policy based on actual and projected financial conditions, the company's actual and projected liquidity and operating results, the company's projected cash needs for capital expenditures and other investment activities and such other factors as the company's board of trustees deems relevant.  the company currently expects to declare a dividend/distribution for the first quarter of 2018 of $0.54 per share/unit, an annualized increase of 7.2% over the amount paid in 2017.  this policy change is supported by the company's strong growth in property operations since the recent economic downturn and a significant reduction in its development activity resulting in a material increase in available cash flow.  all future dividends/distributions remain subject to the discretion of the company's board of trustees.  the company believes that its expected 2018 operating cash flow will be sufficient to cover capital expenditures and regular dividends/distributions.
+total dividends/distributions paid in january 2018 amounted to $192.8 million (excluding distributions on partially owned properties), which included certain distributions declared during the fourth quarter ended december 31, 2017.
+long-term financing and capital needs the company expects to meet its long-term liquidity requirements, such as lump sum unsecured note and mortgage debt maturities, property acquisitions, financing of construction and development activities through the issuance of secured and unsecured debt and equity securities, including additional op units, proceeds received from the disposition of certain properties and joint ventures and cash generated from operations after all distributions.  in addition, the company has significant unencumbered properties available to secure additional mortgage borrowings in the event that the public capital markets are unavailable or the cost of alternative sources of capital is too high.  the fair value of and cash flow from these unencumbered properties are in excess of the requirements the company must maintain in order to comply with covenants under its unsecured notes, line of credit and commercial paper program.  of the $26.0 billion in investment in real estate on the company's balance sheet at december 31, 2017, $20.1 billion or 77.1% was unencumbered.  however, there can be no assurances that these sources of capital will be available to the company in the future on acceptable terms or otherwise.
+eqr issues public equity from time to time and guarantees certain debt of the operating partnership.  eqr does not have any indebtedness as all debt is incurred by the operating partnership.
+45
+the company's total debt summary and debt maturity schedules as of december 31, 2017 are as follows:
+debt summary as of december 31, 2017
+($ in thousands)
+amounts (1)        % of total          weighted           weighted average            average rates (1)          maturities
+(years)
+
+secured                                        $3,618,722            40.4   %          4.33   %             5.6
+unsecured                                       5,338,569            59.6   %          4.17   %            10.6
+total                                          $8,957,291           100.0   %          4.24   %             8.6
+fixed rate debt:
+secured - conventional                         $2,982,344            33.3   %          4.90   %             4.0
+unsecured - public                              4,591,373            51.3   %          4.61   %            12.2
+fixed rate debt                                 7,573,717            84.6   %          4.73   %             9.0
+floating rate debt:
+secured - conventional                              6,948             0.1   %          1.05   %            12.2
+secured - tax exempt                              629,430             7.0   %          1.56   %            12.2
+unsecured - public (2)                            447,439             5.0   %          1.82   %             1.5
+unsecured - revolving credit facility                   -               -              2.00   %             3.9
+unsecured - commercial paper program              299,757             3.3   %          1.41   %               -
+floating rate debt                              1,383,574            15.4   %          1.62   %             6.3
+total                                          $8,957,291           100.0   %          4.24   %             8.6
+(1)   net of the effect of any derivative instruments. weighted average rates are for the year ended december 31, 2017.
+
+(2)   fair value interest rate swaps convert the $450.0 million 2.375% notes due july 1, 2019 to a floating interest rate of 90-day libor plus 0.61%.
+
+debt maturity schedule as of december 31, 2017
+($ in thousands)
+year                     fixed                        floating                       total               % of total           weighted average           weighted average rate (1)                      rate (1)                                                                    rates on                   rates on fixed rate debt (1)           total debt (1)
+
+2018             $49,734                      $397,235       (2)            $446,969                 4.9   %                    5.55   %                  2.17   %
+2019             506,731       (3)             468,603                       975,334                10.8   %                    5.17   %                  3.62   %
+2020           1,678,592       (4)                 400                     1,678,992                18.5   %                    5.49   %                  5.49   %
+2021             927,506                           300                       927,806                10.2   %                    4.64   %                  4.64   %
+2022             265,341                           400                       265,741                 2.9   %                    3.26   %                  3.26   %
+2023           1,326,800                         4,400                     1,331,200                14.7   %                    3.74   %                  3.73   %
+2024               1,272                        10,500                        11,772                 0.1   %                    4.79   %                  2.07   %
+2025             451,334                        12,800                       464,134                 5.1   %                    3.38   %                  3.33   %
+2026             593,424                        14,000                       607,424                 6.7   %                    3.59   %                  3.54   %
+2027             401,468                        15,200                       416,668                 4.6   %                    3.26   %                  3.20   %
+2028+           1,424,969                       520,065                     1,945,034                21.5   %                    4.41   %                  3.67   %
+subtotal           7,627,171                     1,443,903                     9,071,074               100.0   %                    4.48   %                  3.97   %
+deferred financing costs and             (53,454   )                   (60,329   )                  (113,783   )             n/a                         n/a                       n/a unamortized (discount)
+total          $7,573,717                    $1,383,574                    $8,957,291               100.0   %                    4.48   %                  3.97   %
+(1)   net of the effect of any derivative instruments. weighted average rates are as of december 31, 2017.
+
+(2)   includes $300.0 million in principal outstanding on the company's commercial paper program.
+
+(3)   includes a $500.0 million 5.19% mortgage loan with a maturity date of october 1, 2019 that can be prepaid at par beginning october 1, 2018. the company currently intends to prepay this mortgage loan on october 1, 2018.
+
+(4)   includes a $550.0 million 6.08% mortgage loan with a maturity date of march 1, 2020 that can be prepaid at par beginning march 1, 2019. the company prepaid this mortgage loan on january 31, 2018 and incurred approximately $22.5 million in debt extinguishment costs/prepayment penalties. also includes a $500.0 million 5.78% mortgage loan with a maturity date of july 1, 2020 that can be prepaid at par beginning july 1, 2019.
+
+46
+see note 8 in the notes to consolidated financial statements for additional discussion of the company's debt at december 31, 2017.
+the company's "consolidated debt-to-total market capitalization ratio" as of december 31, 2017 is presented in the following table.  the company calculates the equity component of its market capitalization as the sum of (i) the total outstanding common shares and assumed conversion of all units at the equivalent market value of the closing price of the company's common shares on the new york stock exchange and (ii) the liquidation value of all perpetual preferred shares outstanding.
+equity residential capital structure as of december 31, 2017
+(amounts in thousands except for share/unit and per share amounts)
+secured debt                                                          $3,618,722         40.4    %
+
+unsecured debt                                                                              5,338,569      59.6   %
+total debt                                                                                  8,957,291     100.0   %      26.9   %
+common shares (includes restricted shares)             368,018,082      96.4   %
+units (includes op units and restricted units)          13,768,438       3.6   %
+total shares and units                                 381,786,520     100.0   %
+common share price at december 31, 2017          $63.77
+24,346,526      99.8   %
+perpetual preferred equity                                                                     37,280       0.2   %
+total equity                                                                               24,383,806     100.0   %      73.1   %
+total market capitalization                                                               $33,341,097                   100.0   %
+the operating partnership's "consolidated debt-to-total market capitalization ratio" as of december 31, 2017 is presented in the following table.  the operating partnership calculates the equity component of its market capitalization as the sum of (i) the total outstanding units at the equivalent market value of the closing price of the company's common shares on the new york stock exchange and (ii) the liquidation value of all perpetual preference units outstanding.
+erp operating limited partnership capital structure as of december 31, 2017
+(amounts in thousands except for unit and per unit amounts)
+secured debt                                        $3,618,722         40.4    %
+
+unsecured debt                                                         5,338,569      59.6   %
+total debt                                                             8,957,291     100.0   %      26.9   %
+total outstanding units                         381,786,520
+common share price at december 31, 2017   $63.77
+24,346,526      99.8   %
+perpetual preference units                                                37,280       0.2   %
+total equity                                                          24,383,806     100.0   %      73.1   %
+total market capitalization                                          $33,341,097                   100.0   %
+in september 2009, eqr announced the establishment of an at-the-market ("atm") share offering program which would allow eqr to sell common shares from time to time into the existing trading market at current market prices as well as through negotiated transactions.  per the terms of erpop's partnership agreement, eqr contributes the net proceeds from all equity offerings to the capital of erpop in exchange for additional op units (on a one-for-one common share per op unit basis).  eqr may, but shall have no obligation to, sell common shares through the atm share offering program in amounts and at times to be determined by eqr.  actual sales will depend on a variety of factors to be determined by eqr from time to time, including (among others) market conditions, the trading price of eqr's common shares and determinations of the appropriate sources of funding for eqr.  the program currently has a maturity of june 2019.  eqr has the authority to issue 13.0 million shares but has not issued any shares under this program since september 2012.  through february 16, 2018, eqr has cumulatively issued approximately 16.7 million common shares at an average price of $48.53 per share for total consideration of approximately $809.9 million.
+depending on its analysis of market prices, economic conditions and other opportunities for the investment of available capital, eqr may repurchase its common shares pursuant to its existing share repurchase program authorized by the board of trustees.  the company may repurchase up to 13.0 million common shares under this program.  no open market repurchases
+47
+have occurred since 2008.  as of february 16, 2018, eqr has remaining authorization to repurchase up to 13.0 million of its shares.
+eqr and erpop currently have an active universal shelf registration statement for the issuance of equity and debt securities that automatically became effective upon filing with the sec on june 28, 2016 and expires on june 28, 2019.  per the terms of erpop's partnership agreement, eqr contributes the net proceeds of all equity offerings to the capital of erpop in exchange for additional op units (on a one-for-one common share per op unit basis) or preference units (on a one-for-one preferred share per preference unit basis).
+erpop's long-term senior debt ratings and short-term commercial paper ratings as well as eqr's long-term preferred equity ratings, which all have a stable outlook, as of february 16, 2018 are as follows:
+standard &amp;   moody's     fitch poor's
+
+erpop's long-term senior debt rating         a-               a3 (1)     a (1)
+erpop's short-term commercial paper rating   a-2              p-2        f-1 (1)
+eqr's long-term preferred equity rating      bbb              baa1 (1)   bbb+ (1)
+(1)   the long-term credit ratings listed above reflect the one-level upgrade by moody's effective july 17, 2017. the credit ratings listed above reflect the one-level upgrade by fitch effective november 29, 2017.
+
+see note 18 in the notes to consolidated financial statements for discussion of the events which occurred subsequent to december 31, 2017.
+capitalization of fixed assets and improvements to real estate our policy with respect to capital expenditures is generally to capitalize expenditures that improve the value of the property or extend the useful life of the component asset of the property.  we track improvements to real estate in three major categories and several subcategories:
+▪   replacements (inside the apartment unit). these include:
+
+•   flooring such as carpets, hardwood, vinyl or tile;
+
+•   appliances;
+
+•   mechanical equipment such as individual furnace/air units, hot water heaters, etc;
+
+•   furniture and fixtures such as kitchen/bath cabinets, light fixtures, ceiling fans, sinks, tubs, toilets, mirrors, countertops, etc; and
+
+•   blinds.
+
+all replacements are depreciated over a five to ten-year estimated useful life.  we expense as incurred all make-ready maintenance and turnover costs such as cleaning, interior painting of individual apartment units and the repair of any replacement item noted above.
+▪   building improvements (outside the apartment unit). these include:
+
+•   roof replacement and major repairs;
+
+•   paving or major resurfacing of parking lots, curbs and sidewalks;
+
+•   amenities and common areas such as pools, exterior sports and playground equipment, lobbies, clubhouses, laundry rooms, alarm and security systems and offices;
+
+•   major building mechanical equipment systems;
+
+•   interior and exterior structural repair and exterior painting and siding;
+
+•   major landscaping and grounds improvement; and
+
+•   vehicles and office and maintenance equipment.
+
+all building improvements are depreciated over a five to fifteen-year estimated useful life.  we capitalize building improvements and upgrades only if the item: (i) exceeds $2,500 (selected projects must exceed $10,000); (ii) extends the useful life of the asset; and (iii) improves the value of the asset.
+48
+the third major category is renovations, which primarily consists of expenditures for kitchens and baths designed to reposition the apartment units/properties for higher rental levels in their respective markets.  all renovation expenditures are depreciated over a ten-year estimated useful life.
+for the year ended december 31, 2017, our actual capital expenditures to real estate included the following (amounts in thousands except for apartment unit and per apartment unit amounts):
+capital expenditures to real estate for the year ended december 31, 2017
+same stores properties (5)     non-same store properties/other (6)        total         same store avg. per apartment unit
+
+total apartment units (1)                            70,117                                   7,549          77,666
+building improvements (2)                          $114,162                                  $3,966        $118,128                                  $1,628
+renovation expenditures (3)                          44,418                                     888          45,306                                     634
+replacements (4)                                     38,560                                     613          39,173                                     550
+total capital expenditures                         $197,140                                  $5,467        $202,607                                  $2,812
+(1)   total apartment units - excludes 945 unconsolidated apartment units for which capital expenditures to real estate are self-funded and do not consolidate into the company's results.
+
+(2)   building improvements - includes roof replacement, paving, building mechanical equipment systems, exterior siding and painting, major landscaping, furniture, fixtures and equipment for amenities and common areas, vehicles and office and maintenance equipment.
+
+(3)   renovation expenditures - apartment unit renovation costs (primarily kitchens and baths) designed to reposition these units for higher rental levels in their respective markets. amounts for 3,371 same store apartment units approximated $13,200 per apartment unit renovated.
+
+(4)   replacements - includes appliances, mechanical equipment, fixtures and flooring (including hardwood and carpeting).
+
+(5)   same store properties - primarily includes all properties acquired or completed that are stabilized prior to january 1, 2016, less properties subsequently sold.
+
+(6)   non-same store properties/other - primarily includes all properties acquired during 2016 and 2017, plus any properties in lease-up and not stabilized as of january 1, 2016. also includes capital expenditures for properties sold.
+
+for the year ended december 31, 2016, our actual capital expenditures to real estate included the following (amounts in thousands except for apartment unit and per apartment unit amounts):
+capital expenditures to real estate for the year ended december 31, 2016
+total         replacements      avg. per        building        avg. per         total         avg. per apartment           (2)          apartment      improvements     apartment                      apartment units (1)                           unit            (3)             unit                           unit
+
+same store properties (4)              69,879           $75,298        $1,077           $80,890   $1,158              $156,188   $2,235
+non-same store properties (5)           6,634             4,494           851             7,685          1,456          12,179          2,307
+other (6)                                   -             2,744                           1,066                          3,810
+total                                  76,513           $82,536                         $89,641                       $172,177
+(1)   total apartment units - excludes 945 unconsolidated apartment units for which capital expenditures to real estate are self-funded and do not consolidate into the company's results.
+
+(2)   replacements - includes new expenditures inside the apartment units such as appliances, mechanical equipment, fixtures and flooring, including carpeting. replacements for same store properties also include $47.0 million spent during 2016 on apartment unit renovations (primarily kitchens and baths) on approximately 4,200 same store apartment units (equating to approximately $11,200 per apartment unit renovated) designed to reposition these units for higher rental levels in their respective markets.
+
+(3)   building improvements - includes roof replacement, paving, amenities and common areas, building mechanical equipment systems, exterior painting and siding, major landscaping, vehicles and office and maintenance equipment.
+
+49
+(4)   same store properties - primarily includes all properties acquired or completed and stabilized prior to january 1, 2015, less properties subsequently sold.
+
+(5)   non-same store properties - primarily includes all properties acquired during 2015 and 2016, plus any properties in lease-up and not stabilized as of january 1, 2015. per apartment unit amounts are based on a weighted average of 5,279 apartment units.
+
+(6)   other - primarily includes expenditures for properties sold and properties under development.
+
+the company estimates that during 2018 it will spend approximately $2,900 per same store apartment unit or $210.0 million of total capital expenditures to real estate.  during 2018, the company expects to spend approximately $60.0 million for apartment unit renovation expenditures on approximately 4,500 same store apartment units at an average cost of approximately $13,300 per apartment unit renovated.  the anticipated total capital expenditures to real estate amounts represent approximately the same percentage of same store revenues, but an increase in the cost per unit and in the absolute dollar amounts over 2017.  the company plans to continue the elevated capital expenditures for investment in customer-facing building improvements (leasing offices, fitness centers, common areas, etc.) to enhance the quality of our properties and to protect our competitive position given the new luxury supply opening in many of our markets.  we also expect to maintain our elevated spending on sustainability projects and renovation expenditures during 2018.  the above assumptions are based on current expectations and are forward-looking.
+during the year ended december 31, 2017, the company's total non-real estate capital additions, such as computer software, computer equipment, and furniture and fixtures and leasehold improvements to the company's property management offices and its corporate offices, were approximately $1.5 million.  the company expects to fund approximately $6.6 million in total non-real estate capital additions in 2018.  these anticipated fundings represent an increase over 2017, which is primarily driven by anticipated hardware and software upgrades to various existing systems during 2018.  the above assumption is based on current expectations and is forward-looking.
+capital expenditures to real estate and non-real estate capital additions are generally funded from net cash provided by operating activities and from investment cash flow.
+derivative instruments in the normal course of business, the company is exposed to the effect of interest rate changes.  the company seeks to manage these risks by following established risk management policies and procedures including the use of derivatives to hedge interest rate risk on debt instruments.  the company may also use derivatives to manage commodity prices in the daily operations of the business.
+the company has a policy of only entering into contracts with major financial institutions based upon their credit ratings and other factors.  when viewed in conjunction with the underlying and offsetting exposure that the derivatives are designed to hedge, the company has not sustained a material loss from these instruments nor does it anticipate any material adverse effect on its net income or financial position in the future from the use of derivatives it currently has in place.
+see note 9 in the notes to consolidated financial statements for additional discussion of derivative instruments at december 31, 2017.
+50
+definitions the definition of certain terms described above or below are as follows:
+•   acquisition cap rate - noi that the company anticipates receiving in the next 12 months (or the year two or three stabilized noi for properties that are in lease-up at acquisition) less an estimate of property management costs/management fees allocated to the project (generally ranging from 2.0% to 4.0% of revenues depending on the size and income streams of the asset) and less an estimate for in-the-unit replacement capital expenditures (generally ranging from $100-$450 per apartment unit depending on the age and condition of the asset) divided by the gross purchase price of the asset. the weighted average acquisition cap rate for acquired properties is weighted based on the projected noi streams and the relative purchase price for each respective property.
+
+•   disposition yield - noi that the company anticipates giving up in the next 12 months less an estimate of property management costs/management fees allocated to the project (generally ranging from 2.0% to 4.0% of revenues depending on the size and income streams of the asset) and less an estimate for in-the-unit replacement capital expenditures (generally ranging from $100-$450 per apartment unit depending on the age and condition of the asset) divided by the gross sale price of the asset. the weighted average disposition yield for sold properties is weighted based on the projected noi streams and the relative sales price for each respective property.
+
+•   unlevered internal rate of return ("irr") - the unlevered irr on sold properties is the compound annual rate of return calculated by the company based on the timing and amount of: (i) the gross purchase price of the property plus any direct acquisition costs incurred by the company; (ii) total revenues earned during the company's ownership period; (iii) total direct property operating expenses (including real estate taxes and insurance) incurred during the company's ownership period; (iv) capital expenditures incurred during the company's ownership period; and (v) the gross sales price of the property net of selling costs. each of the items (i) through (v) is calculated in accordance with generally accepted accounting principles ("gaap").
+
+off-balance sheet arrangements and contractual obligations the company has various unconsolidated interests in certain joint ventures.  the company does not believe that these unconsolidated investments have a materially different impact on its liquidity, cash flows, capital resources, credit or market risk than its consolidated operating and/or other activities.  see also notes 2 and 6 in the notes to consolidated financial statements for additional discussion regarding the company's investments in partially owned entities.  see also note 16 in the notes to consolidated financial statements for discussion regarding the company's development projects.
+the following table summarizes the company's contractual obligations for the next five years and thereafter as of december 31, 2017:
+payments due by year (in thousands)
+
+contractual obligations        2018                     2019                      2020                      2021                      2022                         thereafter                  unamortized                 total cost/discounts debt:
+principal (a)                            $446,969                  $975,334                $1,678,992                  $927,806                 $265,741           $4,776,232                  $(113,783           )       $8,957,291
+interest (b)                              351,717                   320,525                   251,656                   214,538                  175,055                   1,677,696                     -                         2,991,187
+operating leases:
+minimum rent payments (c)                  16,506                    16,366                    15,963                    15,743                   13,406                     878,935                     -                           956,919
+other long-term liabilities:
+deferred compensation (d)                   1,390                     1,135                     1,086                     1,086                    1,086                       4,016                     -                             9,799
+total                                    $816,582                $1,313,360                $1,947,697                $1,159,173                 $455,288           $7,336,879                  $(113,783           )       $12,915,196
+(a)   amounts include aggregate principal payments only.
+
+(b)   amounts include interest expected to be incurred on the company's secured and unsecured debt based on obligations outstanding at december 31, 2017 and inclusive of capitalized interest. for floating rate debt, the current rate in effect for the most recent payment through december 31, 2017 is assumed to be in effect through the respective maturity date of each instrument.
+
+(c)   minimum basic rent due for various office space the company leases and fixed base rent due on ground leases for 12 properties.
+
+(d)   estimated payments to the company's chairman, vice chairman and one former ceo based on actual and estimated retirement dates.
+
+51
+critical accounting policies and estimates the preparation of financial statements in conformity with accounting principles generally accepted in the united states requires management to use judgment in the application of accounting policies, including making estimates and assumptions.  if our judgment or interpretation of the facts and circumstances relating to various transactions had been different or different assumptions were made, it is possible that different accounting policies would have been applied, resulting in different financial results or different presentation of our financial statements.
+the company's significant accounting policies are described in note 2 in the notes to consolidated financial statements.  these policies were followed in preparing the consolidated financial statements at and for the year ended december 31, 2017 and are materially consistent with the year ended december 31, 2016.
+the company has identified five significant accounting policies as critical accounting policies.  these critical accounting policies are those that have the most impact on the reporting of our financial condition and those requiring significant judgments and estimates.  with respect to these critical accounting policies, management believes that the application of judgments and estimates is consistently applied and produces financial information that fairly presents the results of operations for all periods presented.  the five critical accounting policies are:
+acquisition of investment properties the company allocates the purchase price of properties that meet the definition of an asset acquisition to net tangible and identified intangible assets acquired based on their relative fair values.  in making estimates of relative fair values for purposes of allocating purchase price, the company utilizes a number of sources, including independent appraisals that may be obtained in connection with the acquisition or financing of the respective property, our own analysis of recently acquired and existing comparable properties in our portfolio and other market data.  the company also considers information obtained about each property as a result of its pre-acquisition due diligence, marketing and leasing activities in estimating the relative fair value of the tangible and intangible assets acquired.
+impairment of long-lived assets the company periodically evaluates its long-lived assets, including its investments in real estate, for indicators of impairment.  the judgments regarding the existence of impairment indicators are based on factors such as operational performance, market conditions and legal and environmental concerns, as well as the company's ability to hold and its intent with regard to each asset.  future events could occur which would cause the company to conclude that impairment indicators exist and an impairment loss is warranted.
+depreciation of investment in real estate the company depreciates the building component of its investment in real estate over a 30-year estimated useful life, building improvements over a 5-year to 15-year estimated useful life, both the furniture, fixtures and equipment and replacement components over a 5-year to 10-year estimated useful life and the renovations component over a 10-year estimated useful life, all of which are judgmental determinations.
+cost capitalization see the capitalization of fixed assets and improvements to real estate section for a discussion of the company's policy with respect to capitalization vs. expensing of fixed asset/repair and maintenance costs.  in addition, the company capitalizes an allocation of the payroll and associated costs of employees directly responsible for and who spend their time on the execution and supervision of major capital and/or renovation projects.  these costs are reflected on the balance sheets as increases to depreciable property.
+for all development projects, the company uses its professional judgment in determining whether such costs meet the criteria for capitalization or must be expensed as incurred.  the company capitalizes interest, real estate taxes and insurance and payroll and associated costs for those individuals directly responsible for and who spend their time on development activities, with capitalization ceasing no later than 90 days following issuance of the certificate of occupancy.  these costs are reflected on the balance sheets as construction-in-progress for each specific property.  the company expenses as incurred all payroll costs of on-site employees working directly at our properties, except as noted above on our development properties prior to certificate of occupancy issuance and on specific major renovations at selected properties when additional incremental employees are hired.
+52
+during the years ended december 31, 2017, 2016 and 2015, the company capitalized $14.7 million, $18.7 million and $22.3 million, respectively, of payroll and associated costs of employees directly responsible for and who spend their time on the execution and supervision of development activities as well as major capital and/or renovation projects.
+fair value of financial instruments, including derivative instruments the valuation of financial instruments requires the company to make estimates and judgments that affect the fair value of the instruments.  the company, where possible, bases the fair values of its financial instruments, including its derivative instruments, on listed market prices and third party quotes.  where these are not available, the company bases its estimates on current instruments with similar terms and maturities or on other factors relevant to the financial instruments.
+funds from operations and normalized funds from operations the following is the company's and the operating partnership's reconciliation of net income to ffo available to common shares and units / units and normalized ffo available to common shares and units / units for each of the five years ended december 31, 2017:
+funds from operations and normalized funds from operations
+(amounts in thousands)
+year ended december 31,
+
+2017                        2016                         2015                        2014                        2013
+net income                                                                                             $628,381                   $4,480,104                    $908,018                    $658,683                   $1,905,353
+net (income) loss attributable to noncontrolling interests - partially owned properties                  (2,323   )                  (16,430   )                  (3,657   )                  (2,544   )                      538
+preferred distributions                                                                                  (3,091   )                   (3,091   )                  (3,357   )                  (4,145   )                   (4,145   )
+premium on redemption of preferred shares/preference units                                                    -                            -                      (3,486   )                       -                            -
+net income available to common shares and units / units                                                 622,967                    4,460,583                     897,518                     651,994                    1,901,746
+adjustments:
+depreciation                                                                                            743,749                      705,649                     765,895                     758,861                      978,973
+depreciation - non-real estate additions                                                                 (5,023   )                   (5,224   )                  (4,981   )                  (4,643   )                   (4,806   )
+depreciation - partially owned properties                                                                (4,526   )                   (3,805   )                  (4,332   )                  (4,285   )                   (6,499   )
+depreciation - unconsolidated properties                                                                  4,577                        4,745                       4,920                       6,754                        3,661
+net (gain) loss on sales of unconsolidated entities - operating assets                                      (73   )                   (8,841   )                    (100   )                  (4,902   )                       (7   )
+net (gain) loss on sales of real estate properties                                                     (157,057   )               (4,044,055   )                (335,134   )                (212,685   )                        -
+noncontrolling interests share of gain (loss) on sales of real estate properties                            290                       14,521                           -                           -                            -
+discontinued operations:
+depreciation                                                                                                  -                            -                           -                           -                       34,380
+net (gain) loss on sales of discontinued operations                                                           -                          (43   )                       -                        (179   )               (2,036,505   )
+net incremental gain (loss) on sales of condominium                                                           -                            -                           -                           -                            8
+units gain (loss) on sale of equity corporate housing (ech)                                                         -                            -                           -                           -                        1,470
+ffo available to common shares and units / units (1) (3) (4)                                          1,204,904                    1,123,530                   1,323,786                   1,190,915                      872,421
+adjustments:
+asset impairment and valuation allowances                                                                 1,693                            -                           -                           -                            -
+write-off of pursuit costs                                                                                3,106                        4,092                       3,208                       3,607                        5,184
+debt extinguishment (gains) losses, including prepayment penalties,                                      11,789                      121,694                       5,704                      (1,110   )                  121,730
+preferred share redemptions and non-cash convertible debt discounts
+(gains) losses on sales of non-operating assets, net of income and                                      (18,884   )                  (73,301   )                 (18,805   )                   2,421                       36,096
+tax expense (benefit)
+other miscellaneous items                                                                                (3,371   )                    3,635                       3,909                         613                       21,642
+normalized ffo available to common shares and units / units (2) (3) (4)                              $1,199,237                   $1,179,650                  $1,317,802                  $1,196,446                   $1,057,073
+ffo (1) (3)                                                                                          $1,207,995                   $1,126,621                  $1,330,629                  $1,195,060                     $876,566
+preferred/preference distributions                                                                       (3,091   )                   (3,091   )                  (3,357   )                  (4,145   )                   (4,145   )
+premium on redemption of preferred shares/preference units                                                    -                            -                      (3,486   )                       -                            -
+ffo available to common shares and units / units (1) (3) (4)                                         $1,204,904                   $1,123,530                  $1,323,786                  $1,190,915                     $872,421
+normalized ffo (2) (3)                                                                               $1,202,328                   $1,182,741                  $1,321,159                  $1,200,591                   $1,061,218
+preferred/preference distributions                                                                       (3,091   )                   (3,091   )                  (3,357   )                  (4,145   )                   (4,145   )
+normalized ffo available to common shares and units / units (2) (3) (4)                              $1,199,237                   $1,179,650                  $1,317,802                  $1,196,446                   $1,057,073
+(1)   the national association of real estate investment trusts ("nareit") defines funds from operations ("ffo") (april 2002 white paper) as net income (computed in accordance with accounting principles generally accepted in the united states ("gaap")), excluding gains (or losses) from sales and impairment write-downs of depreciable operating properties, plus depreciation and amortization, and after adjustments for unconsolidated partnerships and joint ventures. adjustments for unconsolidated partnerships and joint ventures will be calculated to reflect funds from operations on the same basis. the april 2002 white paper states that gain or loss on sales of property is excluded from ffo for previously depreciated operating properties only.
+
+53
+(2)   normalized funds from operations ("normalized ffo") begins with ffo and excludes:
+
+•   the impact of any expenses relating to non-operating asset impairment and valuation allowances;
+
+•   pursuit cost write-offs;
+
+•   gains and losses from early debt extinguishment, including prepayment penalties, preferred share/preference unit redemptions and the cost related to the implied option value of non-cash convertible debt discounts;
+
+•   gains and losses on the sales of non-operating assets, including gains and losses from land parcel sales, net of the effect of income tax benefits or expenses; and
+
+•   other miscellaneous items.
+
+(3)   the company believes that ffo and ffo available to common shares and units / units are helpful to investors as supplemental measures of the operating performance of a real estate company, because they are recognized measures of performance by the real estate industry and by excluding gains or losses related to dispositions of depreciable property and excluding real estate depreciation (which can vary among owners of identical assets in similar condition based on historical cost accounting and useful life estimates), ffo and ffo available to common shares and units / units can help compare the operating performance of a company's real estate between periods or as compared to different companies. the company also believes that normalized ffo and normalized ffo available to common shares and units / units are helpful to investors as supplemental measures of the operating performance of a real estate company because they allow investors to compare the company's operating performance to its performance in prior reporting periods and to the operating performance of other real estate companies without the effect of items that by their nature are not comparable from period to period and tend to obscure the company's actual operating results. ffo, ffo available to common shares and units / units, normalized ffo and normalized ffo available to common shares and units / units do not represent net income, net income available to common shares / units or net cash flows from operating activities in accordance with gaap. therefore, ffo, ffo available to common shares and units / units, normalized ffo and normalized ffo available to common shares and units / units should not be exclusively considered as alternatives to net income, net income available to common shares / units or net cash flows from operating activities as determined by gaap or as a measure of liquidity. the company's calculation of ffo, ffo available to common shares and units / units, normalized ffo and normalized ffo available to common shares and units / units may differ from other real estate companies due to, among other items, variations in cost capitalization policies for capital expenditures and, accordingly, may not be comparable to such other real estate companies.
+
+(4)   ffo available to common shares and units / units and normalized ffo available to common shares and units / units are calculated on a basis consistent with net income available to common shares / units and reflects adjustments to net income for preferred distributions and premiums on redemption of preferred shares/preference units in accordance with gaap. the equity positions of various individuals and entities that contributed their properties to the operating partnership in exchange for op units are collectively referred to as the "noncontrolling interests - operating partnership". subject to certain restrictions, the noncontrolling interests - operating partnership may exchange their op units for common shares on a one-for-one basis.
+

@@ -1,0 +1,382 @@
+item 7. management's discussion and analysis of financial condition and results of operations executing on our strategy during the year ended december 31, 2022, we had net income attributable to common stockholders of $482.9 million, which includes gains on sale of real estate of $109.0 million, as compared to $361.4 million during the year ended december 31, 2021.
+during the year ended december 31, 2022:
+•our pro-rata same property noi, excluding termination fees, grew 2.9%, primarily attributable to continued improvement in collections of lease income from cash basis tenants, combined with improvements in base rent from increases in year over year occupancy rates, contractual rent steps in existing leases, and positive rent spreads on new and renewal leases.
+•we executed 1,981 new and renewal leasing transactions representing 7.3 million pro-rata sf with positive trailing 12 month rent spreads of 7.4% during 2022, compared to 1,979 leasing transactions representing 7.0 million pro-rata sf with positive trailing 12 month rent spreads of 5.5% in 2021. rent spreads are calculated on all executed leasing transactions for comparable retail operating property spaces, including spaces vacant greater than 12 months.
+•at december 31, 2022, our total property portfolio was 94.8% leased while our same property portfolio was 95.1% leased, compared to 94.1% and 94.3%, respectively, at december 31, 2021.
+we continued our development and redevelopment of high quality shopping centers:
+•estimated pro-rata project costs of our current in process development and redevelopment projects totaled $300.9 million compared to $307.3 million at december 31, 2021.
+•development and redevelopment projects completed during 2022 represented $122.0 million of estimated net project costs, with an average stabilized yield of 7%.
+we maintained liquidity and financial flexibility to cost effectively fund investment opportunities and debt maturities:
+•during april 2022, we settled and issued 984,618 common shares under forward sale agreements at a weighted-average price of $65.78, before any underwriting discount and offering expenses. net proceeds received at settlement were approximately $61.3 million and were used to fund acquisitions.
+•during june 2022, we executed multiple trades to purchase 1,294,201 common shares under the authorized repurchase program for a total of $75.4 million at a weighted average price of $58.25 per share. all repurchased shares were retired on the respective settlement dates.
+•we have no unsecured debt maturities until 2024 and just over $110 million of secured mortgage maturities in 2023, including mortgages within our real estate partnerships.
+•at december 31, 2022, our pro-rata net debt-to-operating ebitdare ratio on a trailing 12 month basis was 5.0x compared to 5.1x at december 31, 2021.
+leasing activity and significant tenants we believe our high-quality, grocery anchored shopping centers located in suburban trade areas with compelling demographics create attractive spaces for retail and service providers to operate their businesses.
+pro-rata percent leased the following table summarizes pro-rata percent leased of our combined consolidated and unconsolidated shopping center portfolio:
+december 31, 2022         december 31, 2021
+percent leased - all properties                     94.8   %                  94.1   %
+anchor space (spaces ≥ 10,000 sf)                   96.8   %                  97.0   %
+shop space (spaces &lt; 10,000 sf)                  91.5   %                  89.2   %
+our percent leased increased primarily due to favorable leasing activity in our shop space category during 2022.
+pro-rata leasing activity the following table summarizes leasing activity, including our pro-rata share of activity within the portfolio of our co-investment partnerships (totals as a weighted-average psf):
+year ended december 31, 2022
+leasing           sf                                 base                    tenant                 leasing transactions           (in thousands)                 rent psf                 allowance             commissions and landlord                     psf work psf anchor space leases new                                      24           632                              $15.09                    $24.36                   $5.32
+renewal                                 108                       3,252                 16.36                      1.07                    0.23
+total anchor space leases               132                       3,884                $16.16                     $4.86                   $1.06
+shop space leases new                                     562                       1,058                $37.55                    $36.17                  $11.48
+renewal                               1,287                       2,395                 35.94                      1.66                    0.77
+total shop space leases               1,849                       3,453                $36.44                    $12.23                   $4.05
+total leases                          1,981                       7,337                $25.70                     $8.33                   $2.47
+year ended december 31, 2021
+leasing           sf                                 base                    tenant                 leasing transactions           (in thousands)                 rent psf                 allowance             commissions and landlord                     psf work psf anchor space leases new                                      25           667                              $20.10                    $44.50                   $6.18
+renewal                                 124                       2,941                 15.34                      0.56                    0.21
+total anchor space leases               149                       3,608                $16.22                     $8.68                   $1.31
+shop space leases new                                     573                       1,022                $34.38                    $28.77                  $10.87
+renewal                               1,257                       2,324                 34.31                      1.62                    0.79
+total shop space leases               1,830                       3,346                $34.33                     $9.92                   $3.87
+total leases                          1,979                       6,954                $24.93                     $9.28                   $2.54
+the weighted-average base rent psf on signed shop space leases during 2022 was $36.44 psf, which is higher than the weighted average annual base rent psf of all shop space leases due to expire during the next 12 months of $34.76 psf. new and renewal rent spreads, as compared to prior rents on these same spaces leased, were positive at 7.4% for the 12 months ended december 31, 2022, as compared to 5.5% for the 12 months ended december 31, 2021.
+the success of our tenants in operating their businesses and their corresponding ability to pay us rent continue to be significantly impacted by many current economic challenges, which increase their cost of doing business, including, but not limited to, inflation, labor shortages, supply chain constraints, increasing energy prices and interest rates. additionally, macroeconomic and geopolitical risks create challenges that may exacerbate current market conditions in the united states.
+these economic conditions could adversely impact our volume of leasing activity, leasing spreads, and financial results generally, as well as adversely affect the business and financial results of our tenants. the aggregate impacts of these current economic challenges may also negatively affect the overall market for retail space, resulting in decreased demand for space in our centers. this, in turn, could result in downward pressure on rents that we are able to charge to new or renewing tenants, such that future spreads could be adversely impacted. further, we may experience higher costs for tenant buildouts, as costs of materials and labor may increase and supply and availability of both may become more limited.
+52
+significant tenants and concentrations of risk we seek to reduce our operating and leasing risks through geographic diversification of our properties, as seen in "item 2. properties" of this report. we seek to avoid dependence on any single property, market, or tenant. based on percentage of annualized base rent, the following table summarizes our most significant tenants, of which four of the top five are grocers:
+december 31, 2022
+anchor                         number of             percentage of             percentage of stores                  company-                    annual owned gla (1)             base rent (1)
+publix                                67                       7.0   %                   3.2   %
+kroger co.                            53                       7.3   %                   3.1   %
+albertsons companies, inc.            46                       4.7   %                   3.0   %
+amazon/whole foods                    36                       2.9   %                   2.6   %
+tjx companies, inc.                   63                       3.6   %                   2.6   %
+(1)includes regency's pro-rata share of unconsolidated properties and excludes those owned by anchors.
+bankruptcies and credit concerns our management team devotes significant time to researching and monitoring consumer preferences and trends, customer shopping behaviors, changes in delivery methods, shifts to e-commerce, and changing demographics in order to anticipate the challenges and opportunities impacting our industry. we seek to mitigate these potential impacts through maintaining a high quality portfolio, tenant diversification, replacing weaker tenants with stronger operators, anchoring our centers with market leading grocery stores that drive customer traffic, and maintaining our presence in suburban trade areas with compelling demographic populations benefiting from high levels of disposal income. the potential for a recession and the severity and duration of any economic downturn could negatively impact our existing tenants and their ability to continue to meet their lease obligations.
+although base rent is derived from long-term lease contracts, tenants that file bankruptcy generally have the legal right to reject any or all of their leases and close related stores. any unsecured claim we hold against a bankrupt tenant for unpaid rent might be paid only to the extent that funds are available and only in the same percentage as is paid to all other holders of unsecured claims. as a result, it is likely that we would recover substantially less than the full value of any unsecured claims we hold. additionally, we may incur significant expense to adjudicate our claim and significant downtime to re-lease the vacated space. in the event that a tenant with a significant number of leases in our shopping centers files bankruptcy and cancels its leases, we could experience a significant reduction in our revenues. tenants who are currently in bankruptcy and continue to occupy space in our shopping centers represent an aggregate of 0.5% of our annual base rent on a pro-rata basis.
+results from operations the united states is currently experiencing high levels of inflation. inflation, as well as other ongoing changes in economic conditions such as labor shortages, employee retention costs, increased material and shipping costs, higher interest rates, and supply chain constraints have spurred a rise in wages and increased operating costs and challenges for our tenants and us.
+substantially all of our long-term leases contain provisions designed to mitigate the adverse impact of inflation on our operations by requiring tenants to pay their pro-rata share of operating expenses, including common-area maintenance, real estate taxes, insurance, and utilities at our centers. over half of our leases are for terms of less than ten years, primarily for shop space, which permits us to seek increased rents upon re-rental at market rates. however, our success in passing through increases in our operating expenses to our tenants is dependent on the tenants' ability to absorb and pay these increases. additionally, increases in operating expenses passed through to our tenants, without a corresponding increase in our tenants' profitability, may limit our ability to grow base rent as tenants look to manage their total occupancy costs.
+comparison of the years ended december 31, 2022 and 2021:
+revenues changed as summarized in the following table:
+(in thousands)                            2022                  2021                change lease income base rent                                            $821,755             765,941          55,814
+recoveries from tenants                               280,658             258,596          22,062
+percentage rent                                         9,635               6,601           3,034
+uncollectible lease income                             13,841              23,481          (9,640   )
+other lease income                                     14,748              16,021          (1,273   )
+straight-line rent                                     24,272              18,189           6,083
+above / below market rent amortization                 22,543              24,539          (1,996   )
+total lease income                                 $1,187,452           1,113,368          74,084
+other property income                                  10,719              12,456          (1,737   )
+management, transaction, and other fees                25,851              40,337         (14,486   )
+total revenues                                     $1,224,022           1,166,161          57,861
+lease income increased $74.1 million, driven by the following contractually billable components of rent to the tenants per the lease agreements:
+•$55.8 million increase from billable base rent, as follows:
+o$19.4 million increase from acquisitions of operating properties;
+o$1.5 million increase from rent commencing at development properties; and o$42.3 million net increase from same properties, including a $13.8 million increase related to our acquisition and resulting consolidation of the 11 properties previously held in unconsolidated partnerships during 2021 and a portion of 2022, and a $28.5 million net increase in the remaining same properties due to increases from occupancy, rent steps in existing leases, and positive rental spreads on new and renewal leases, as well as redevelopment projects completing and operating; partially offset by o$7.3 million decrease from the sale of operating properties.
+•$22.1 million increase from contractual recoveries from tenants, which represents the tenants' proportionate share of the operating, maintenance, insurance and real estate tax expenses that we incur to operate our shopping centers. recoveries from tenants increased, on a net basis, from the following:
+o$8.5 million increase from acquisitions of operating properties and rent commencing at development properties; and o$15.8 million net increase from same properties due to higher operating costs in the current year and greater recovery of those expenses from tenants; partially offset by o$2.2 million decrease from the sale of operating properties.
+•$3.0 million increase in percentage rent primarily due to improved tenant sales.
+•$9.6 million decrease from changes in uncollectible lease income.
+oduring 2022, uncollectible lease income was a net positive $13.8 million driven by $18.7 million in collections of prior year reserves on cash basis tenants partially offset by $4.9 million in reserve recognition on current year billings.
+oduring 2021, uncollectible lease income was a net positive $23.5 million driven by $42.0 million in collections of prior year reserves on cash basis tenants partially offset by $18.5 million in reserve recognition on current year billings.
+•$1.3 million decrease in other lease income primarily due to a decrease in lease termination fees.
+•$6.1 million increase in straight-line rent.
+o during 2022, straight-line rent was $24.3 million, driven by $11.8 million of new straight-line rents and $14.8 million of reinstated straight-line rents from returning tenants to accrual basis of accounting, partially offset by $2.3 million of uncollectible straight-line rents on cash basis tenants.
+o during 2021, straight-line rent was $18.2 million, driven by $13.0 million of new straight-line rents and $11.4 million of reinstated straight-line rents from returning tenants to accrual basis of accounting, partially offset by $6.2 million of uncollectible straight-line rents on cash basis tenants.
+•$2.0 million decrease in above and below market rent primarily from same properties driven by the timing of lease activity on acquired in-place tenant leases.
+other property income decreased $1.7 million primarily due to a decrease in settlements, which were higher in 2021.
+management, transaction, and other fees decreased $14.5 million primarily due to $13.6 million of promote income recognized during 2021 for our performance as managing member of the usaa partnership, as well as a decrease in asset and property management fees resulting from a smaller portfolio of properties within our co-investment partnerships following the sale of several properties to third parties or the purchase and consolidation by regency.
+changes in our operating expenses are summarized in the following table:
+(in thousands)                  2022                 2021              change depreciation and amortization             $319,697           303,331         16,366
+property operating expense                 196,148           184,553         11,595
+real estate taxes                          149,795           142,129          7,666
+general and administrative                  79,903            78,218          1,685
+other operating expenses                     6,166             5,751   415
+total operating expenses                  $751,709           713,982         37,727
+depreciation and amortization costs increased $16.4 million, on a net basis, as follows:
+•$830,000 increase from development properties where tenant spaces became available for occupancy, partially offset by decreases in corporate asset depreciation;
+•$13.7 million increase from acquisitions of operating properties; and
+•$4.1 million increase from same properties, primarily related to redevelopment projects; partially offset by
+•$2.3 million decrease from the sale of operating properties.
+property operating expense increased $11.6 million, on a net basis, as follows:
+•$804,000 increase from development properties where tenant spaces became available for occupancy;
+•$5.3 million increase from acquisitions of operating properties; and
+•$9.4 million net increase from same properties, including $3.1 million increase related to our acquisition and resulting consolidation of the eleven properties previously held in unconsolidated partnerships during 2021 and a portion of 2022, with the remaining increase primarily attributable to higher insurance premiums, increases in costs associated with general property maintenance and tenant utilities as our centers return to customary operating levels, and additional management fees; partially offset by
+•$3.9 million decrease from the sale of operating properties.
+real estate taxes increased $7.7 million, on a net basis, as follows:
+•$680,000 increase from developments where capitalization ceased and spaces became available for occupancy;
+•$4.7 million increase from acquisitions of operating properties; and
+•$4.4 million increase at same properties, including a $2.4 million increase related to our acquisition and resulting consolidation of the eleven properties previously held in unconsolidated partnerships during 2021 and a portion of 2022; partially offset by
+•$2.1 million decrease from the sale of operating properties.
+55
+general and administrative costs increased $1.7 million, on a net basis, as follows:
+•$8.2 million net increase in compensation costs primarily driven by performance based incentive compensation and annual base salary increases;
+•$3.7 million net increase in other corporate overhead costs primarily driven by travel and entertainment returning to customary levels post-pandemic; and
+•$449,000 increase due to lower development overhead capitalization based on the status and progress of our development and redevelopment projects; partially offset by
+•$10.7 million net decrease due to changes in the value of participant obligations within the deferred compensation plan, attributable to changes in market values of those investments, reflected within net investment income.
+the following table presents the components of other expense (income):
+(in thousands)                            2022                      2021                  change interest expense, net interest on notes payable                            $148,803               147,439               1,364
+interest on unsecured credit facilities                 2,058                 2,119                 (61   )
+capitalized interest                                   (4,166   )            (4,202   )   36
+hedge expense                                             438                   438                   -
+interest income                                          (947   )              (624   )            (323   )
+interest expense, net                                 146,186               145,170               1,016
+provision for impairment of real estate                     -                84,389             (84,389   )
+gain on sale of real estate, net of tax              (109,005   )           (91,119   )         (17,886   )
+net investment (income) loss                            6,921                (5,463   )          12,384
+total other expense (income)                          $44,102               132,977             (88,875   )
+the $1.0 million net increase in interest expense was primarily driven by an increase in mortgage interest expense from assumed loans on recently acquired properties. we expect that refinancing our debt at maturity or borrowing on our variable rate line, in the current interest rate environment, could result in higher interest expense in future periods if interest rates remain elevated.
+during 2021, we recognized $84.4 million of impairment losses resulting from the impairment of two operating properties.
+during 2022, we recognized gains on sale of $109.0 million from five land parcels and two operating properties. during 2021, we recognized gains on sale of $91.1 million from five land parcels and six operating properties.
+net investment income decreased $12.4 million, to a net investment loss of $6.9 million, primarily driven by unrealized losses during 2022 of investments held in the non-qualified deferred compensation plan and our captive insurance company. there is an offsetting $10.7 million benefit in general and administrative costs related to participant obligations within the deferred compensation plans.
+equity in income of investments in real estate partnerships changed as follows:
+(in thousands)                                                                             regency's              2022   2021                 change ownership gri - regency, llc ("grir")                                                                   40.00%           $35,819           34,655              1,164
+equity one jv portfolio llc ("nyc") (1)                                                       30.00%             9,173              315              8,858
+columbia regency retail partners, llc ("columbia i")                                          20.00%             1,817            1,976               (159   )
+columbia regency partners ii, llc ("columbia ii")                                             20.00%             1,735           10,987             (9,252   )
+columbia village district, llc                                                                30.00%             1,669            1,522       147
+regcal, llc ("regcal") (2)                                                                    25.00%             4,499            2,058              2,441
+us regency retail i, llc ("usaa") (3)                                                         20.01%                 -              631               (631   )
+other investments in real estate partnerships                                        35.00% - 50.00%             5,112           (5,058   )         10,170
+total equity in income of investments in real estate partnerships                                              $59,824           47,086             12,738
+(1)on may 25, 2022, the nyc partnership sold its remaining two properties and distributed sales proceeds to is members. dissolution will follow final distributions, which are expected in 2023.
+(2)on april 1, 2022, we acquired our partner's 75% share in four properties held in the regcal partnership for a total purchase price of $88.5 million; therefore, results following the date of acquisition are included in consolidated results. a single operating property remains within regcal, llc, at december 31, 2022.
+(3)on august 1, 2021, we acquired our partner's 80% interest in the seven properties held in the usaa partnership; therefore, results following the date of acquisition are included in consolidated results.
+56
+the $12.7 million increase in our equity in income of investments in real estate partnerships was largely attributable to the following changes:
+•$1.2 million increase within grir, primarily due to an increase in base rent across the portfolio from higher occupancy and rent growth;
+•$8.9 million increase within nyc, primarily due to gains on the sale of two operating properties during 2022, as well as an increase from the loss on sale of an operating property during 2021;
+•$9.3 million decrease within columbia ii, primarily due to gains on sale of one operating property during 2021;
+•$2.4 million increase within regcal, primarily due to gain on sale of one operating property during 2022; and
+•$10.2 million increase within other investments in real estate partnerships, primarily from the impairment of a single property partnership that sold during 2021.
+the following represents the remaining components that comprise net income attributable to common stockholders and unit holders:
+(in thousands)                                                        2022                    2021                  change net income                                                                     $488,035               366,288             121,747
+income attributable to noncontrolling interests                                  (5,170   )            (4,877   )            (293   )
+net income attributable to common stockholders                                 $482,865               361,411             121,454
+net income attributable to exchangeable operating partnership units               2,105                 1,615       490
+net income attributable to common unit holders                                 $484,970               363,026             121,944
+comparison of the years ended december 31, 2021 and 2020:
+for a comparison of our results from operations for the years ended december 31, 2021 and 2020, see "part ii, item 7. management's discussion and analysis of financial condition and results of operations" of our annual report on form 10-k for the year ended december 31, 2021, filed with the sec on february 17, 2022.
+supplemental earnings information we use certain non-gaap measures, in addition to certain performance metrics determined under gaap, as we believe these measures improve the understanding of our operating results. we believe these non-gaap measures provide useful information to our board of directors, management and investors regarding certain trends relating to our financial condition and results of operations. our management uses these non-gaap measures to compare our performance to that of prior periods for trend analyses, purposes of determining management incentive compensation and budgeting, forecasting and planning purposes. we provide pro-rata financial information because we believe it assists investors and analysts in estimating our economic interest in our consolidated and unconsolidated partnerships, when read in conjunction with our reported results under gaap. we believe presenting our pro-rata share of operating results, along with other non-gaap measures, may assist in comparing our operating results to other reits. we continually evaluate the usefulness, relevance, limitations, and calculation of our reported non-gaap measures to determine how best to provide relevant information to the public, and thus such reported non-gaap measures could change. see "defined terms" in "item 1. business" for additional information regarding the definition of and other information regarding the non-gaap measures we present in this report.
+we do not consider non-gaap measures an alternative to financial measures determined in accordance with gaap, rather they supplement gaap measures by providing additional information we believe to be useful to shareholders. the principal limitation of these non-gaap measures is they may exclude significant expense and income items that are required by gaap to be recognized in our consolidated financial statements. in addition, they reflect the exercise of management's judgment about which expense and income items are excluded or included in determining these non-gaap measures. in order to compensate for these limitations, reconciliations of the non-gaap measures we use to their most directly comparable gaap measures are provided, including as set forth below. non-gaap measures should not be relied upon in evaluating our financial condition, results of operations, or future prospects.
+57
+pro-rata same property noi:
+pro-rata same property noi, excluding termination fees/expenses, changed from the following major components:
+(in thousands)                                                            2022                   2021                       change real estate revenues:
+base rent                                                                             $892,253             861,382          30,871
+recoveries from tenants                                                                302,171             292,319           9,852
+percentage rent                                                                         11,004               7,701           3,303
+termination fees                                                                         5,007               6,734          (1,727   )
+uncollectible lease income                                                              14,816              25,734         (10,918   )
+other lease income                                                                      11,847              11,556             291
+other property income                                                                    8,338               9,863          (1,525   )
+total real estate revenue                                                            1,245,436           1,215,289          30,147
+real estate operating expenses:
+operating and maintenance                                                              197,481             190,017           7,464
+real estate taxes                                                                      159,189             159,620            (431   )
+ground rent                                                                             11,761              11,829             (68   )
+total real estate operating expenses                                                   368,431             361,466           6,965
+pro-rata same property noi                                                            $877,005             853,823          23,182
+less: termination fees / expense                                                         5,007               6,734          (1,727   )
+pro-rata same property noi, excluding termination fees / expense                      $871,998             847,089          24,909
+pro-rata same property noi growth, excluding termination fees / expense                                                        2.9   %
+real estate revenue increased $30.1 million, on a net basis, as follows:
+base rent increased $30.9 million due to increases from occupancy, rent steps in existing leases, and positive rental spreads on new and renewal leases.
+recoveries from tenants increased $9.9 million due to increases in recoverable expenses and greater recovery rates from higher average occupancy.
+percentage rent increased $3.3 million, primarily due to improved tenant sales.
+termination fees decreased $1.7 million primarily due to termination fees from several tenants at various properties during 2021, both wholly owned and within our partnerships.
+uncollectible lease income decreased $10.9 million primarily driven by the higher level of 2021 collections of previously reserved amounts, which have continued but to a lesser degree in 2022.
+other property income decreased $1.5 million primarily due to a decrease in settlements from 2021.
+real estate operating expenses increased $7.0 million, on a net basis, as follows:
+operating and maintenance increased $7.5 million primarily due to increases in insurance and other reimbursable costs.
+same property roll-forward:
+our same property pool includes the following property count, pro-rata gla, and changes therein:
+2022                                     2021
+(gla in thousands)                                                                                property                 gla             property                 gla count                                    count beginning same property count                                                                          393              41,294                  393              40,228
+acquired properties owned for entirety of comparable periods (1)                                         -                 327                    2                 924
+developments that reached completion by beginning of earliest comparable period presented                1                  72                    6                 683
+disposed properties                                                                                     (5   )            (195   )               (8   )            (420   )
+sf adjustments (2)                                                                                       -                (115   )                -                (121   )
+ending same property count                                                                             389              41,383                  393              41,294
+(1)includes an adjustment to gla arising from the acquisition of our partners' share of properties previously held in the regcal and usaa partnerships, of which our previous ownership share was already included in our same property pool.
+(2)sf adjustments arising from re-measurements or redevelopments.
+58
+nareit ffo and core operating earnings:
+our reconciliation of net income attributable to common stock and unit holders to nareit ffo and to core operating earnings is as follows:
+(in thousands, except share information)                   2022                      2021
+reconciliation of net income to nareit ffo net income attributable to common stockholders                        $482,865                361,411
+adjustments to reconcile to nareit ffo: (1)
+depreciation and amortization (excluding ff&amp;e)                     344,629                330,364
+provision for impairment of real estate                                      -                 95,815
+gain on sale of real estate                                           (121,835   )           (100,499   )
+exchangeable operating partnership units                                 2,105                  1,615
+nareit ffo attributable to common stock and unit holders              $707,764                688,706
+reconciliation of nareit ffo to core operating earnings nareit funds from operations                                          $707,764                688,706
+adjustments to reconcile to core operating earnings: (1)
+not comparable items early extinguishment of debt                                               176                      -
+promote income                                                               -                (13,589   )
+certain non cash items straight-line rent                                                     (11,327   )            (13,534   )
+uncollectible straight-line rent                                       (14,155   )             (5,965   )
+above/below market rent amortization, net                              (21,434   )            (23,889   )
+debt premium/discount amortization                                        (184   )               (565   )
+core operating earnings                                               $660,840                631,164
+(1)includes regency's pro-rata share of unconsolidated investment partnerships, net of pro-rata share attributable to noncontrolling interests.
+reconciliation of same property noi to nearest gaap measure:
+our reconciliation of net income attributable to common stockholders to same property noi, on a pro-rata basis, is as follows:
+(in thousands)                                                         2022                     2021
+net income attributable to common stockholders                                   $482,865               361,411
+less:
+management, transaction, and other fees                                            25,851                40,337
+other (1)                                                                          51,090                46,860
+plus:
+depreciation and amortization                                                     319,697               303,331
+general and administrative                                                         79,903                78,218
+other operating expense                                                             6,166                 5,751
+other expense                                                                      44,102               132,977
+equity in income of investments in real estate excluded from noi (2)               35,824                53,119
+net income attributable to noncontrolling interests                                 5,170                 4,877
+pro-rata noi                                                                      896,786               852,487
+less non-same property noi (3)                                                    (19,781   )             1,336
+pro-rata same property noi                                                       $877,005               853,823
+(1)includes straight-line rental income and expense, net of reserves, above and below market rent amortization, other fees, and noncontrolling interest.
+(2)includes non-noi income earned and expenses incurred at our unconsolidated real estate partnerships, including those separated out above for our consolidated properties.
+(3)includes revenues and expenses attributable to non-same properties, sold properties, development properties, and corporate activities. also includes adjustments for earnings at the four and seven properties we acquired from our former unconsolidated regcal and usaa partnerships in 2022 and 2021, respectively, in order to calculate growth on a comparable basis for the periods presented.
+liquidity and capital resources general we use cash flows generated from operating, investing, and financing activities to strengthen our balance sheet, finance our development and redevelopment projects, fund our investment activities, and maintain financial flexibility. a significant portion of our cash from operations is distributed to our common shareholders in the form of dividends in order to maintain our status as a reit.
+except for $200 million of private placement debt, our parent company has no capital commitments other than its guarantees of the commitments of our operating partnership. all remaining debt is held by our operating partnership or by our co-investment partnerships. the operating partnership is a co-issuer and a guarantor of the $200 million of outstanding debt of our parent company. the parent company will from time to time access the capital markets for the purpose of issuing new equity, and will simultaneously contribute all of the offering proceeds to the operating partnership in exchange for additional partnership units.
+we continually assess our available liquidity and our expected cash requirements, including monitoring our tenant rent collections. we have access to and draw on multiple financing sources to fund our operations and our long-term capital needs, including the requirements of our in process and planned developments, redevelopments, and other capital expenditures, and the repayment of debt. we expect to meet these needs by using a combination of the following: cash flow from operations after funding our dividend, borrowings from our line, proceeds from the sale of real estate, mortgage loan and unsecured bank financing, distributions received from our co-investment partnerships, and when the capital markets are favorable, proceeds from the sale of equity securities or the issuance of new unsecured debt. we continually evaluate alternative financing options, and we believe we can obtain new financing on reasonable terms, although likely at higher interest rates than that of our debt currently outstanding.
+we have no unsecured debt maturities in 2023, $250 million of unsecured debt maturing in 2024, and what we believe is a manageable level of secured mortgage maturities during the next 12 months, including those mortgages within our real estate partnerships. based upon our available cash balance, sources of capital, our current credit ratings, and the number of high quality, unencumbered properties we own, we believe our available capital resources are sufficient to meet our expected capital needs for the next year.
+in addition to our $66.5 million of unrestricted cash, we have the following additional sources of capital available:
+(in thousands)                                                                december 31, 2022
+atm equity program (see note 12 to our consolidated financial statements)
+original offering amount                                                               $500,000
+available capacity                                                                     $350,363
+line of credit (see note 9 to our consolidated financial statements)
+total commitment amount                                                              $1,250,000
+available capacity (1)                                                               $1,240,619
+maturity (2)                                                                     march 23, 2025
+(1)net of letters of credit.
+(2)the company has the option to extend the maturity for two additional six-month periods.
+the declaration of dividends is determined quarterly by our board of directors. on february 8, 2023, our board of directors declared a common stock dividend of $0.65 per share, payable on april 5, 2023, to shareholders of record as of march 15, 2023. while future dividends will be determined at the discretion of our board of directors, we plan to continue paying an aggregate amount of distributions to our stock and unit holders that, at a minimum, meet the requirements to continue qualifying as a reit for federal income tax purposes. we have historically generated sufficient cash flow from operations to fund our dividend distributions. during the years ended december 31, 2022 and 2021, we generated cash flow from operations of $655.8 million and $659.4 million, respectively, and paid $430.1 million and $404.9 million in dividends to our common stock and unit holders, respectively.
+we currently have development and redevelopment projects in various stages of construction, along with a pipeline of potential projects for future development or redevelopment. after funding our common stock dividend payment in january 2023, we estimate that we will require capital during the next 12 months of approximately $351.4 million related to leasing commissions, tenant improvements, in-process developments and redevelopments, capital contributions to our co-investment partnerships, and repaying maturing debt. these capital requirements are being impacted by current levels of high inflation resulting in increased costs of construction materials, labor, and services from third party contractors and suppliers. in response, we have implemented mitigation strategies such as entering into fixed cost construction contracts, pre-ordering materials, and other planning efforts. further, continued challenges from permitting delays, labor shortages, and supply chain disruptions may extend the time to completion of these projects.
+if we start new developments or redevelopments, commit to property acquisitions, repay debt prior to maturity, declare future dividends, or repurchase shares of our common stock, our cash requirements will increase. if we refinance maturing debt, our cash requirements will decrease.
+we endeavor to maintain a high percentage of unencumbered assets. as of december 31, 2022, 89.5% of our wholly-owned real estate assets were unencumbered. our low level of encumbered assets allows us to more readily access the secured and unsecured debt markets and to maintain availability on the line. our trailing 12 month fixed charge coverage ratio, including our pro-rata share of our partnerships, was 4.6x and 4.5x for the periods ended december 31, 2022 and 2021, respectively, and our pro-rata net debt-to-operating ebitdare ratio on a trailing 12 month basis was 5.0x and 5.1x, respectively, for the same periods.
+our line and unsecured debt require that we remain in compliance with various covenants, which are described in note 9 to the consolidated financial statements. we are in compliance with these covenants at december 31, 2022, and expect to remain in compliance. please also refer to the risk factors discussed in item 1a of part i herein.
+summary of cash flow activity the following table summarizes net cash flows related to operating, investing, and financing activities of the company:
+(in thousands)                                                           2022                      2021                   change net cash provided by operating activities                                           $655,815                659,388              (3,573   )
+net cash used in investing activities                                               (206,108   )           (286,352   )          80,244
+net cash used in financing activities                                               (475,958   )           (656,459   )         180,501
+net (decrease) increase in cash, cash equivalents, and restricted cash               (26,251   )           (283,423   )         257,172
+total cash, cash equivalents, and restricted cash                                    $68,776                 95,027             (26,251   )
+net cash provided by operating activities:
+net cash provided by operating activities changed by $3.6 million due to:
+•$10.5 million decrease in operating cash flow distributions from investments in real estate partnerships attributable to the reduced portfolio within partnerships and the higher distributions in 2021 from collecting past due rents, partially offset by,
+•$4.4 million net increase in cash from operations; and
+•$2.5 million increase driven by cash used in 2021 to settle interest rate swaps on our term loan which was repaid in january 2021
+net cash used in investing activities:
+net cash used in investing activities changed by $80.2 million as follows:
+(in thousands)                                                                                                   2022                      2021                   change cash flows from investing activities:
+acquisition of operating real estate, net of cash acquired of $3,061 and $2,991 in 2022 and 2021, respectively       $(169,639         )           (392,051   )         222,412
+real estate development and capital improvements                                                                            (195,418   )           (177,631   )         (17,787   )
+proceeds from sale of real estate                                                                                            143,133                206,193             (63,060   )
+collection (issuance) of notes receivable, net                                                                                 1,823                    (20   )           1,843
+investments in real estate partnerships                                                                                      (36,266   )            (23,476   )         (12,790   )
+return of capital from investments in real estate partnerships                                                                48,473                 99,945             (51,472   )
+dividends on investment securities                                                                                             1,113                    813       300
+acquisition of investment securities                                                                                         (21,112   )            (23,971   )           2,859
+proceeds from sale of investment securities                                                                                   21,785                 23,846              (2,061   )
+net cash used in investing activities                                                                                $(206,108         )           (286,352   )          80,244
+significant changes in investing activities include:
+•we paid $169.6 million to purchase seven operating properties during 2022, including four properties in which we previously held a 25% interest through an unconsolidated investment in real estate partnership. we paid $392.1 million for the acquisition of 12 operating properties during 2021, including seven properties in which we previously held a 20% interest through an unconsolidated investment in real estate partnership.
+61
+•we invested $17.8 million more in 2022 than 2021 in real estate development, redevelopment, and capital improvements, as further detailed in the tables below.
+•we sold two operating properties, four land parcels, and one development project interest in 2022 for proceeds of $143.1 million compared to seven operating properties and five land parcels in 2021 for proceeds of $206.2 million.
+•we collected $1.8 million in notes receivable during 2022.
+•we invested $36.3 million in our real estate partnerships during 2022, including:
+o$6.1 million to fund our share of acquiring one operating property within an existing co-investment partnership, o$20.2 million to fund our share of secured debt maturities, and o$10.0 million to fund our share of development and redevelopment activities.
+during the same period in 2021, we invested $23.5 million in our real estate partnerships, including:
+o$18.7 million to fund our share of debt refinancing activities, and o$4.8 million to fund our share of development and redevelopment activities.
+•return of capital from our unconsolidated investments in real estate partnerships includes sales or financing proceeds. the $48.5 million received in 2022 is our share of $11.6 million from debt refinancing activities and $36.9 million from real estate sales. the $99.9 million received in 2021 is our share of $28.1 million proceeds from debt refinancing activities and $71.8 million proceeds from real estate sales.
+•acquisition of securities and proceeds from sale of securities pertain to investment activities held in our captive insurance company and our deferred compensation plan.
+we plan to continue developing and redeveloping shopping centers for long-term investment. during 2022, we deployed capital of $195.4 million for the development, redevelopment, and improvement of our real estate properties, comprised of the following:
+(in thousands)                                     2022                2021                    change capital expenditures:
+land acquisitions                                            $12,484            11,820            664
+building and tenant improvements                              75,420            53,752         21,668
+redevelopment costs                                           68,730            78,056         (9,326   )
+development costs                                             27,861            19,426          8,435
+capitalized interest                                           4,133             4,085             48
+capitalized direct compensation                                6,790            10,492         (3,702   )
+real estate development and capital improvements            $195,418           177,631         17,787
+•we paid $12.5 million to acquire one land parcel for development and one land parcel formerly under ground lease at one of our existing centers in 2022, and paid $11.8 million in 2021 to purchase land formerly under ground leases at two of our existing centers.
+•building and tenant improvements increased $21.7 million during the year ended december 31, 2022, primarily related to the timing of capital projects.
+•redevelopment costs decreased $9.3 million during 2022 due to the timing and magnitude of projects in process. we intend to continuously improve our portfolio of shopping centers through redevelopment which may include adjacent land acquisition, existing building expansion, facade renovation, new out-parcel building construction, and redevelopment related tenant improvement costs. the size and magnitude of each redevelopment project varies with each redevelopment plan. the timing and duration of these projects could also result in volatility in noi. see the tables below for more details about our redevelopment projects.
+•development costs increased $8.4 million based on the timing and magnitude of our development projects currently in process. see the tables below for more details about our development projects.
+62
+•interest is capitalized on our development and redevelopment projects and is based on cumulative actual costs expended. we cease interest capitalization when the property is no longer being developed or is available for occupancy upon substantial completion of tenant improvements, but in no event would we capitalize interest on the project beyond 12 months after the anchor opens for business. if we reduce our development and redevelopment activity, the amount of interest that we capitalize may be lower than historical averages.
+•we have a staff of employees who directly support our development program, which includes redevelopment of our existing properties. internal compensation costs directly attributable to these activities are capitalized as part of each project.
+the following table summarizes our development projects in-process and completed:
+(in thousands, except cost psf)                                                                                                                                                                                                december 31, 2022
+property name                                       market                    ownership   start date        estimated stabilization year (1)      estimated / actual net             gla (3)                    cost psf              % of costs development                                  of gla (2) (3)                incurred costs (2) (3)
+developments in-process glenwood green                                      old bridge, nj                  70%   q1-22                                         2025                     $45,530                 248                        $184                      45   %
+eastfield at baybrook - phase 1b                    houston, tx                     50%   q2-22                                         2025                      10,384                  25                         415                      37   %
+total developments in-process                                                                                                                                    $55,914                 273                        $205                      44   %
+developments completed carrytown exchange - phase i &amp; ii               richmond, va                    64%   q4-18                                         2024                     $29,268                  74                        $396
+east san marco                                      jacksonville, fl               100%   q4-20                                         2023                      18,970                  59                         322
+total developments completed                                                                                                                                     $48,238                 133                        $363
+(1)estimated stabilization year represents the estimated first full calendar year that the project will reach our expected stabilized yield.
+(2)includes leasing costs and is net of tenant reimbursements.
+(3)estimated net development costs and gla are reported based on regency's ownership interest in the real estate partnership at completion.
+(4)estimated net development costs for baybrook east 1a is limited to our ownership interest in the value of land and site improvements to deliver a parcel to a grocer, under a ground lease agreement, to construct their building and improvements. this property is included in our investments in real estate partnerships.
+the following table summarizes our redevelopment projects in-process and completed:
+(in thousands)                                                                                                                                                                                                                   december 31, 2022
+property name                                     market                      ownership   start date        estimated stabilization year (1)     estimated incremental project costs (2) (3)               gla (3)             % of costs incurred redevelopments in-process the crossing clarendon                            metro, dc                        100%   q4-18                                         2024                                         $56,002                   129                              71   %
+the abbot                                         boston, ma                       100%   q2-19                                         2024                                          59,033                    64                              87   %
+westbard square phase i                           bethesda, md                     100%   q2-21                                         2025                                          37,269                   123                              47   %
+buckhead landing                                  atlanta, ga                      100%   q2-22                                         2025                                          27,709                   152                              10   %
+town &amp; country center                         los angeles, ca                   35%   q4-22                                         2027                                          24,525                    51                               3   %
+various properties                                various                      20%-100%   various                                    various                                          40,403                 1,502                              46   %
+total redevelopments in-process                                                                                                                                                     $244,941                 2,021                              52   %
+redevelopments completed sheridan plaza                                    hollywood, fl                    100%   q3-19                                         2023                                         $11,915                   507
+preston oaks                                      dallas, tx                       100%   q4-20                                         2023                                          19,658                   103
+serramonte center-phases 1 &amp; 2                san francisco, ca                100%   q4-20                                         2022                                          33,229                 1,072
+various properties                                various                          100%   various                                    various                                           8,916                   243
+total redevelopments completed                                                                                                                                                       $73,718                 1,925
+(1)estimated stabilization year represents the estimated first full calendar year that the project will reach our expected stabilized yield.
+(2)includes leasing costs and is net of tenant reimbursements.
+(3)estimated net development costs and gla are reported based on regency's ownership interest in the real estate partnership at completion.
+net cash used in financing activities:
+net cash flows used in financing activities changed during 2022, as follows:
+(in thousands)                                                        2022                      2021                   change cash flows from financing activities:
+net proceeds from common stock issuances                                          $61,284                 82,510             (21,226   )
+repurchase of common shares in conjunction with equity award plans                 (6,447   )             (4,083   )          (2,364   )
+common shares repurchased through share repurchase program                        (75,419   )                  -             (75,419   )
+distributions to limited partners in consolidated partnerships, net                (7,245   )             (4,345   )          (2,900   )
+dividend payments and operating partnership distributions                        (430,143   )           (404,900   )         (25,243   )
+repayments of unsecured credit facilities, net                                          -               (265,000   )         265,000
+debt repayment, including early redemption costs                                  (17,964   )            (53,269   )          35,305
+payment of loan costs                                                                 (88   )             (7,468   )           7,380
+proceeds from sale of treasury stock, net                                                                     96                 (32   )
+net cash used in financing activities                                           $(475,958   )           (656,459   )         180,501
+significant financing activities during the years ended december 31, 2022 and 2021 included the following:
+•we received proceeds of $61.3 million, net of issue costs, in april 2022 upon settling forward equity sales under our atm program. during 2021, we received proceeds of $82.5 million, net of issue costs, upon settling forward equity sales under our atm program.
+•we repurchased for cash a portion of the common stock granted to employees for stock based compensation to satisfy employee tax withholding requirements, which totaled $6.4 million and $4.1 million during the years ended december 31, 2022 and 2021, respectively.
+•we paid $75.4 million to repurchase 1,294,201 common shares through our authorized repurchase program during 2022.
+•we paid $7.2 million, net to limited partners, including $15.0 million in distributions to limited partners for both operating cash flows as well as a partner buyout, partially offset by $7.8 million of contributions from limited partners in new consolidated investments in real estate partnerships during 2022. during 2021, we paid $4.3 million in distributions to limited partners.
+•we paid $25.2 million more in dividends primarily as a result of an increase in our dividend rate per share.
+•we had the following debt related activity during 2022:
+owe paid $18.0 million for secured debt payments, including:
+▪$6.0 million to repay one mortgage, and
+▪$12.0 million in principal mortgage payments.
+•we had the following debt related activity during 2021:
+owe paid $265 million to repay our outstanding term loan, and owe paid $53.3 million for secured debt payments, including:
+▪$42.0 million to repay four mortgages; and
+▪$11.3 million in principal mortgage payments.
+owe paid $7.5 million of loan costs in connection with the renewal of our line.
+contractual obligations we have contractual obligations at december 31, 2022, which are discussed in our notes to consolidated financial statements and include:
+•mortgage loans, unsecured notes, and unsecured credit facilities as discussed in note 9, and related interest rate swaps as discussed in note 10;
+•we have shopping centers that are subject to non-cancelable long-term ground leases where a third party owns and has leased the underlying land to us to construct and/or operate a shopping center. we also have non-cancelable operating leases pertaining to office space from which we conduct our business. these lease obligations are discussed in note 7;
+•our share of mortgage loans within our investments in real estate partnerships, as discussed in note 4;
+•letters of credit of $9.4 million issued to cover our captive insurance program and performance obligations on certain development projects, the latter of which will be satisfied upon completion of the development projects;
+•obligations for retirement savings plans due to uncertainty around timing of participant withdrawals, which are solely within the control of the participant, and are further discussed in note 14; and
+•we will also incur obligations related to construction or development contracts on projects in process; however, future amounts under these construction contracts are not due until future satisfactory performance under the contracts.
+critical accounting estimates knowledge about our accounting policies is necessary for a complete understanding of our consolidated financial statements. the preparation of our consolidated financial statements requires that we make certain estimates that impact the balance of assets and liabilities as of a financial statement date and the reported amount of income and expenses during a financial reporting period. these accounting estimates are based upon, but not limited to, our judgments about historical and expected future results, current market conditions, and interpretation of industry accounting standards. while the following is not intended to be a comprehensive list of our accounting estimates, the estimates discussed below are believed to be critical because of their significance to the consolidated financial statements and the possibility that future events may differ from those judgments, or that the use of different assumptions could result in materially different estimates. we review these estimates on a periodic basis to ensure reasonableness; however, the amounts we may ultimately realize could differ from such estimates.
+valuation of real estate investments in accordance with gaap, we evaluate our real estate for impairment whenever there are events or changes in circumstances, including property operating performance, general market conditions or changes in expected hold periods, that indicate that the carrying value of our real estate properties (including any related amortizable intangible assets or liabilities) may not be recoverable. if such events or changes occur, we compare the current carrying value of the asset to the estimated undiscounted cash flows that are directly associated with the use and ultimate disposition of the asset. our estimated cash flows are based on several key assumptions, including rental rates, expected leasing activity, costs of tenant improvements, leasing commissions, expected hold period, comparable sales information, and assumptions regarding the residual value upon disposition, including the exit capitalization rate. these key assumptions are subjective in nature and the resulting impairment, if any, could differ from the actual gain or loss recognized upon ultimate sale in an arm's length transaction. if the carrying value of the asset exceeds the estimated undiscounted cash flows, an impairment loss is recognized equal to the excess of carrying value over the estimated fair value.
+the estimated fair value of real estate assets is subjective and is estimated through comparable sales information and other market data if available, as well as the use of an income approach such as the direct capitalization method or the discounted cash flow approach. the discounted cash flow method uses similar assumptions to the undiscounted cash flow method above, as well as a discount rate. such cash flow projections and rates are subject to management judgment and changes in those assumptions could impact the estimation of fair value. in estimating the fair value of undeveloped land, we generally use market data and comparable sales information. changes in events or changes in circumstances may alter the expected hold period of an asset or asset group, which may result in an impairment loss and such loss could be material to the company's financial condition or operating performance.
+recent accounting pronouncements see note 1 to consolidated financial statements.
+environmental matters we are subject to numerous environmental laws and regulations as they apply to our shopping centers, pertaining primarily to chemicals historically used by certain current and former dry cleaning and gas station tenants and the existence of asbestos in older shopping centers. we believe that the few tenants who currently operate dry cleaning plants or gas stations do so in accordance with current laws and regulations. generally, we endeavor to require tenants to remove dry cleaning plants from our shopping centers or convert them to more environmentally friendly systems, in accordance with the terms of our leases. we carry an environmental insurance policy for certain third-party liabilities and remediation costs on shopping centers that currently have no known environmental contamination. we have also secured environmental insurance policies, where appropriate, on a relatively small number of specific properties with known contamination, in order to mitigate our environmental risk. we monitor the shopping centers containing environmental issues and in certain cases voluntarily remediate the sites. we also have legal obligations to remediate certain sites and we are in the process of doing so.
+as of december 31, 2022, we had accrued liabilities of $12.1 million for our pro-rata share of environmental remediation, including our investments in real estate partnerships. we believe that the ultimate remediation of currently known environmental matters will not have a material effect on our financial position, cash flows, or results of operations. we can give no assurance that existing environmental studies on our shopping centers have revealed all potential environmental contamination; that our estimate of liabilities will not change as more information becomes available; that any previous owner, occupant or tenant did not create any material environmental condition not known to us; that the current environmental condition of the shopping centers will not be affected by tenants and occupants, by the condition of nearby properties, or by unrelated third parties; or that changes in applicable environmental laws and regulations or their interpretation will not result in additional environmental liability to us.

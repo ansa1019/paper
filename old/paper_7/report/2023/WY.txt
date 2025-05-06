@@ -1,0 +1,328 @@
+management's discussion and analysis of financial condition and results of operations (md&a) related to the year ended december 31, 2021, refer to this same section in our 2022 annual report on form 10-k as filed with the securities and exchange commission on february 17, 2023.
+economic and market conditions affecting our operations our market conditions and the strength of the broader u.s. economy are, and will continue to be, influenced by the trajectory of activity in the u.s. housing and repair and remodel segments, inflation trends and interest rates. the demand for sawlogs within our timberlands segment is directly affected by domestic production of wood-based building products. the strength of the u.s. housing market, particularly new residential construction, strongly affects demand in our wood products segment, as does repair and remodeling activity. seasonal weather patterns impact the level of construction activity in the u.s., which in turn affects demand for our logs and wood products. our timberlands segment, specifically the western region, is also affected by export demand and trade policy. japanese housing starts are a key driver of export log demand in japan. the demand for pulpwood from our timberlands segment is directly affected by the production of pulp, paper and oriented strand board (osb)
+weyerhaeuser company > 2023 annual report and form 10-k as well as the demand for biofuels, such as wood-burning pellets made from pulpwood. our timberlands segment is also influenced by the availability of harvestable timber. in general, western log markets are highly tensioned by available supply, while southern log markets have more available supply. however, additional mill capacity being added in the u.s. south has led to tightening of markets in certain geographies. our real estate, energy and natural resources segment is affected by a variety of factors, including the general state of the economy, local real estate market conditions, the level of construction activity in the u.s. and evolution of emerging renewable energy and carbon-related markets.
+over the past year, particularly in the first half of 2023, home sales and building activity slowed due in part to higher mortgage interest rates, reduced affordability and general macroeconomic conditions. in the latter part of 2023, new home sales and construction activity strengthened, supported by near record-low levels of existing inventory. on a seasonally adjusted annual basis, as reported by the u.s. census bureau, housing starts for fourth quarter 2023 averaged 1.5 million units, a 6.1 percent increase from third quarter 2023. single-family starts averaged 1.0 million units in fourth quarter 2023, a 7.7 percent increase from third quarter 2023. multi-family starts averaged 412 thousand units in fourth quarter 2023, which was a 2.2 percent increase from third quarter 2023. single-family construction is the primary driver for our business as compared to multi-family due to the amount of wood products used. sales of newly built, single-family homes averaged a seasonally adjusted annual rate of 652 thousand units for fourth quarter 2023, a decrease of 6.0 percent from third quarter 2023. over the medium to long-term, we expect a favorable u.s. housing construction market supported by strong demographics in the key homebuying age cohorts, a decade of underbuilding and a historically low housing inventory.
+repair and remodeling expenditures were steady from third quarter 2023 to fourth quarter 2023 according to the census bureau advance retail spending report. do-it-yourself activity has been returning to more normalized levels while professionally contracted activities have benefited from larger projects and increases in home equity levels. over the longer term, we expect this sector to return to pre-pandemic growth trends with healthy household balance sheets, elevated home equity and an aging u.s. housing stock, with a median age of 43 years.
+in u.s. wood product markets, demand for lumber and osb was influenced by cautious buyer sentiment at the outset of fourth quarter 2023. as the quarter progressed, demand increased in response to strong single-family housing starts and improving macroeconomic conditions. the random lengths framing lumber composite price averaged $384/mbf and the osb composite averaged $406/msf in fourth quarter 2023. over the course of the fourth quarter, composite prices for lumber decreased from $422/mbf to $395/mbf and composite prices for osb decreased from $454/msf to $430/msf.
+in western log markets, douglas fir sawlog prices decreased 2.8 percent in fourth quarter 2023 compared with third quarter 2023, as reported by fastmarkets risi log lines based on weyerhaeuser's sales mix. overall, domestic log demand and prices faced downward pressure at the outset of the quarter, as mills adjusted to a softening lumber market and worked through elevated log inventories. as the quarter progressed, lumber markets improved, and log supply decreased seasonally. in the south, delivered sawlog prices decreased 0.5 percent in fourth quarter 2023 compared to third quarter 2023 and declined 3.6 percent from fourth quarter 2022 as reported by timbermart-south. this was primarily driven by ample log supply, elevated mill inventories and reduced demand for finished goods during the quarter.
+currency exchange rates, available supply from other countries and trade policy affect our export businesses. during fourth quarter 2023, end use demand in export markets was mixed. in japan, total housing starts decreased 4.7 percent year to date through november compared to the same period in 2022, while the key post and beam segment saw a 6.2 percent decrease. lumber imports to japan from europe were more balanced than in previous quarters, providing support for logs. china's weaker end use demand for logs and lumber was offset by lower competitive supply, leading to stable pricing for logs from the west.
+interest rates affect our business primarily through their impact on mortgage rates and housing affordability, their general impact on the economy and their influence on our capital management activities. actions by the u.s. federal reserve, the overall condition of the economy and fluctuations in financial markets are all factors that influence long-term interest rates. 30-year mortgage rates, which are correlated with long-term interest rates, decreased from 7.3 percent at the end of third quarter 2023 to 6.6 percent at the end of fourth quarter 2023, according to economic data from freddie mac. many builders have been able to offset higher mortgage rates through discounts, mortgage rate buydowns and modifying product offerings such as home sizes and finishes. higher rates have also locked-in many existing homeowners from selling, reducing inventories of existing homes for sale which has led to increased demand for available new homes.
+increased inflation affects the cost of our operations across each of our business segments, including costs for raw materials, transportation, energy and labor. the consumer price index increased at an annual rate of 3.4 percent as of december 2023, which is markedly down from its peak of over 9.0 percent annual increase in june 2022. while we can offset some of the impacts of inflation through our sales activities, our operational excellence initiatives and our procurement practices, not all of the costs associated with inflation can be fully mitigated or passed on to the consumer.
+the condition of the labor market affects all of our businesses as it relates to our ability to attract and retain employees and contractors. the unemployment rate of 3.7 percent in december 2023 remained near historically low levels and decreased 0.1 percent from the end of third quarter 2023.
+governments and businesses across the globe are taking action on climate change and are making significant commitments towards decarbonizing operations and reducing greenhouse gas emissions to net zero. achieving these commitments will require governments and companies to take major steps to modify operations, invest in low-carbon activities and purchase credits to reduce environmental impacts. we believe we are uniquely positioned to help entities achieve these commitments through natural climate solutions, including forest carbon sequestration, carbon capture and storage and renewable energy activities.
+weyerhaeuser company > 2023 annual report and form 10-k financial performance summary net sales by segment contribution to earnings by segment results of operations in reviewing our results of operations, it is important to understand these terms:
+   sales realizations refer to net selling prices - this includes selling price plus freight minus normal sales deductions.
+   net contribution (charge) to earnings refers to earnings (loss) before interest expense, loss on debt extinguishment and income taxes.
+weyerhaeuser company > 2023 annual report and form 10-k consolidated results how we did summary of financial results dollar amounts in millions, except per-share figures amount of change
+2023
+vs.
+2023            2022                           2022
+net sales                                                     $7,674         $10,184             $(2,510     )
+costs of sales                                                $5,992          $6,564             $(572       )
+operating income                                              $1,186          $3,080             $(1,894     )
+net earnings                                                    $839          $1,880             $(1,041     )
+basic and diluted earnings per share                           $1.15           $2.53             $(1.38      )
+comparing 2023 with 2022
+net sales net sales decreased $2,510 million - 25 percent - primarily due to a $2,301 million decrease in wood products net sales to unaffiliated customers attributable to decreased sales realizations and sales volumes across most product lines, as well as a $204 million decrease in timberlands net sales to unaffiliated customers attributable to decreased log sales realizations in the western region.
+costs of sales costs of sales decreased $572 million - 9 percent - primarily due to decreased sales volumes across most product lines and decreased raw material prices within our wood products segment, as well as decreased third-party log purchases within our timberlands segment.
+operating income operating income decreased $1,894 million - 61 percent - primarily due to a $1,938 million decrease in consolidated gross margin (see discussion of components above), partially offset by an $84 million gain on sale of timberlands (refer to note 4: timberland acquisitions and divestitures).
+net earnings net earnings decreased $1,041 million - 55 percent - primarily due to the $1,894 million decrease in operating income discussed above.
+this decrease was partially offset by:
+   a $327 million decrease in income tax expense (refer to income taxes);
+   a $276 million decrease in debt extinguishment charges (refer to note 11: long-term debt, net);
+   a $209 million decrease in non-operating pension and other post-employment benefit costs (refer to note 8: pension and other post-employment benefit plans) and
+   a $51 million increase in interest income and other attributable to interest earned on short-term investments held for a portion of the year in 2023 and an increase in the interest rate on our cash and investment accounts.
+timberlands how we did we report sales volumes and annual production data for our timberlands segment in our business/what we do/timberlands.
+weyerhaeuser company > 2023 annual report and form 10-k 46
+net sales and net contribution to earnings for timberlands dollar amounts in millions amount of change
+2023
+vs.
+2023              2022                             2022
+net sales to unaffiliated customers:
+delivered logs:
+west                                                           $794            $1,004             $(210       )
+south                                                           643               645                    (2   )
+north                                                            48                56                    (8   )
+total                                                         1,485             1,705                  (220   )
+stumpage and pay-as-cut timber                                   56                46             10
+recreational and other lease revenue                             74                68             6
+other products(1)                                                39                39                     -
+subtotal net sales to unaffiliated customers                  1,654             1,858                  (204   )
+intersegment net sales                                          572               561             11
+total segment net sales                                      $2,226            $2,419             $(193       )
+costs of sales                                               $1,746            $1,796             $(50        )
+operating income and net contribution to earnings              $488              $528             $(40        )
+(1)other products include sales of seeds and seedlings from our nursery operations and wood chips.
+comparing 2023 with 2022
+net sales - unaffiliated customers net sales to unaffiliated customers decreased $204 million - 11 percent - primarily due to a $210 million decrease in western log sales primarily attributable to a 20 percent decrease in sales realizations, partially offset by a $10 million increase in stumpage and pay-as-cut timber sales.
+intersegment sales intersegment sales increased $11 million - 2 percent - primarily due to a 9 percent increase in sales volumes, partially offset by a 6 percent decrease in sales realizations.
+costs of sales costs of sales decreased $50 million - 3 percent - primarily due to decreased western third-party log purchases, partially offset by increased logging and hauling costs and increased sales volumes.
+operating income and net contribution to earnings operating income and net contribution to earnings decreased $40 million - 8 percent - primarily due to the change in the components of gross margin, as discussed above, partially offset by an $84 million gain on sale of timberlands recorded in fourth quarter 2023.
+weyerhaeuser company > 2023 annual report and form 10-k 47
+real estate, energy and natural resources how we did we report acres sold and average price per acre for our real estate, energy and natural resources segment in our business/what we do/real estate, energy and natural resources.
+net sales and net contribution to earnings for real estate, energy and natural resources dollar amounts in millions amount of change
+2023
+vs.
+2023          2022                       2022
+net sales to unaffiliated buyers:
+real estate                                                $237          $235             $2
+energy and natural resources                                126           133                  (7   )
+total segment net sales                                    $363          $368             $(5       )
+costs of sales                                             $126          $113             $13
+operating income and net contribution to earnings          $211          $218             $(7       )
+the volume of real estate sales is a function of many factors, including the general state of the economy, demand in local real estate markets, the ability of buyers to obtain financing, the number of competing properties listed for sale, the seasonal nature of sales, the plans of adjacent landowners, our expectations of future price appreciation, the timing of harvesting activities and the availability of government and not-for-profit funding. in any period, the average price per acre sold will vary based on the location and physical characteristics of parcels sold.
+comparing 2023 with 2022
+net sales net sales decreased $5 million - 1 percent - primarily attributable to lower prices in our energy and natural resources business, partially offset by an increase in acres sold.
+costs of sales costs of sales increased $13 million - 12 percent - primarily attributable to an increase in acres sold.
+operating income and net contribution to earnings operating income and net contribution to earnings decreased $7 million - 3 percent - primarily attributable to the change in the components of gross margin, as discussed above, partially offset by a $10 million noncash impairment charge related to the planned divestiture of legacy coal assets in 2022 with no similar activity in 2023.
+weyerhaeuser company > 2023 annual report and form 10-k 48
+wood products how we did we report sales volumes and annual production data for our wood products segment in our business/what we do/wood products.
+net sales and net contribution to earnings for wood products dollar amounts in millions amount of change
+2023
+vs.
+2023            2022                              2022
+net sales:
+structural lumber                                          $2,123            $3,374             $(1,251      )
+oriented strand board                                         944             1,578                   (634   )
+engineered solid section                                      783               862                    (79   )
+engineered i-joists                                           447               573                   (126   )
+softwood plywood                                              166               193                    (27   )
+medium density fiberboard                                     155               192                    (37   )
+complementary building products                               704               840                   (136   )
+other products produced (1)                                   335               346                    (11   )
+total segment net sales                                    $5,657            $7,958             $(2,301      )
+costs of sales                                             $4,699            $5,166             $(467        )
+operating income and net contribution to earnings            $709            $2,536             $(1,827      )
+(1)other products produced sales include wood chips, other byproducts and third-party residual log sales from our canadian forestlands operations.
+comparing 2023 with 2022
+net sales net sales decreased $2,301 million - 29 percent - primarily due to:
+   a $1,251 million decrease in structural lumber sales attributable to a 37 percent decrease in sales realizations;
+   a $634 million decrease in oriented strand board sales attributable to a 40 percent decrease in sales realizations;
+   a $136 million decrease in complementary building products attributable to decreased sales volumes across most products;
+   a $126 million decrease in engineered i-joists sales attributable to a 13 percent decrease in sales realizations, as well as a 10 percent decrease in sales volumes;
+   a $79 million decrease in engineered solid section sales attributable to a 6 percent decrease in sales realizations, as well as a 3 percent decrease in sales volumes;
+   a $37 million decrease in medium density fiberboard sales attributable to a 24 percent decrease in sales volumes, partially offset by a 6 percent increase in sales realizations;
+   a $27 million decrease in softwood plywood sales attributable to a 28 percent decrease in sales realizations, partially offset by a 20 percent increase in sales volumes and
+   an $11 million decrease in other products produced attributable to decreased sales volumes for veneer and plywood byproducts.
+costs of sales costs of sales decreased $467 million - 9 percent - primarily due to decreased sales volumes across most product lines, as well as decreased raw material prices.
+operating income and net contribution to earnings operating income and net contribution to earnings decreased $1,827 million - 72 percent - primarily due to the change in the components of gross margin, as discussed above.
+weyerhaeuser company > 2023 annual report and form 10-k 49
+unallocated items unallocated items are gains or charges not related to, or allocated to, an individual operating segment. they include all or a portion of items such as:
+   share-based compensation,
+   pension and post-employment costs,
+   elimination of intersegment profit in inventory and lifo - the last-in, first-out method,
+   foreign exchange transaction gains and losses resulting from changes in exchange rates primarily related to our u.s. dollar denominated cash and debt balances that are held by our canadian subsidiary, as well as
+   interest income and other.
+net charge to earnings for unallocated items dollar amounts in millions amount of change
+2023
+vs.
+2023                2022                          2022
+unallocated corporate function and variable compensation expense           $(127   )       $(139        )             $12
+liability classified share-based compensation                                 (2   )       4                           (6   )
+foreign exchange gain                                                          1                                       (9   )
+elimination of intersegment profit in inventory and lifo                                         (21    )              32
+other                                                                       (105   )             (56    )             (49   )
+operating loss                                                              (222   )            (202    )             (20   )
+non-operating pension and other post-employment benefit costs                (45   )            (254    )             209
+interest income and other                                                     76           25                          51
+net charge to earnings                                                     $(191   )       $(431        )            $240
+net charge to earnings decreased by $240 million - 56 percent - primarily due to a $209 million decrease in non-operating pension and other post-employment benefit costs attributable to a $205 million pension settlement charge recorded in fourth quarter 2022 (refer to note 8: pension and other post-employment benefit plans), as well as a $51 million increase in interest income and other attributable to interest earned on short-term investments held for a portion of the year in 2023 and an increase in the interest rate on our cash and investment accounts.
+interest expense our net interest expense incurred for the last two years was:
+   $280 million in 2023 and
+      $270 million in 2022.
+interest expense increased by $10 million compared to 2022 primarily due to the may 2023 issuance of debt securities that increased our weighted average outstanding debt.
+refer to note 11: long-term debt, net for further information.
+income taxes as a reit, we generally are not subject to federal corporate level income taxes on reit taxable income that is distributed to shareholders. historical distributions to shareholders, including amounts and tax characteristics, are summarized in the table below.
+amounts per share
+2023          2022
+common - capital gain distribution           $1.66           $1.59
+common - ordinary dividend (qualified)       $-              $0.07
+common - return of capital                   $-              $0.51
+we are required to pay corporate income taxes on earnings of our trss, which include our wood products segment and portions of our timberlands and real estate & enr segments' earnings. our provision for income taxes is primarily driven by earnings generated by our trss.
+weyerhaeuser company > 2023 annual report and form 10-k our provision for income taxes the last two years was:
+   $98 million in 2023 and
+     $425 million in 2022.
+income tax expense decreased by $327 million compared to 2022 primarily due to decreases in our pretax earnings and effective income tax rate. during 2022, we recorded a $69 million tax benefit in connection with our early debt retirement and a $53 million tax benefit related to our noncash pension settlement charge.
+refer to note 19: income taxes, note 11: long-term debt, net and note 8: pension and other post-employment benefit plans for further information.
+liquidity and capital resources we are committed to maintaining an appropriate capital structure that provides financial flexibility and enables us to protect the interests of our shareholders and meet our obligations to our lenders, while also maintaining access to all major financial markets. as of december 31, 2023, we had $1.2 billion in cash and cash equivalents and $1.5 billion of availability on our line of credit, which expires in march 2028. we believe we have sufficient liquidity to meet our cash requirements for the foreseeable future.
+cash from operations consolidated net cash from operations was:
+   $1,433 million in 2023 and
+      $2,832 million in 2022.
+comparing 2023 with 2022
+net cash from operations decreased by $1,399 million, primarily due to decreased cash inflows from our business operations. this change was partially offset by a $503 million decrease in our cash paid for income taxes.
+pension contributions and benefit payments made and expected during 2023, we contributed a total of $20 million to our pension and post-employment benefit plans, compared to a total of $24 million during 2022.
+for 2024, we expect to contribute approximately $20 million to our pension and post-employment benefit plans. refer to note 8: pension and other post-employment benefit plans for further information.
+investing in our business cash from investing activities includes items such as:
+   capital expenditures for property, equipment and reforestation,
+   acquisitions of timberlands,
+   proceeds from sales of assets and operations and
+   purchases and maturities of short-term investments.
+consolidated net cash from investing activities was:
+   $(508) million in 2023 and
+   $(759) million in 2022.
+comparing 2023 with 2022
+net cash from investing activities increased by $251 million, primarily due to:
+   a $166 million increase in proceeds from the sale of timberlands;
+   a $62 million decrease in cash spent on the acquisition of timberlands and
+   a $25 million decrease in capital expenditures for property and equipment.
+weyerhaeuser company > 2023 annual report and form 10-k summary of capital spending by business segment dollar amounts in millions
+2023          2022
+timberlands                         $111          $113
+wood products                        323           347
+unallocated items                     13             8
+total                               $447          $468
+we expect our capital expenditures for 2024 to be approximately $440 million. the amount we spend on capital expenditures could change due to:
+   future economic conditions,
+   environmental regulations,
+   changes in the composition of our business,
+   weather,
+   timing of equipment purchases and
+   capital needs related to other business opportunities.
+financing cash from financing activities includes items such as:
+   issuances and payments of debt,
+   borrowings and payments on our revolving line of credit and
+   payments for cash dividends and repurchasing stock.
+consolidated net cash from financing activities was:
+   $(1,342) million in 2023 and
+   $(2,491) million in 2022.
+comparing 2023 with 2022
+net cash from financing activities increased by $1,149 million in 2023, primarily due to:
+   a $412 million decrease in cash used for repurchases of common stock;
+   a $401 million decrease in cash paid for dividends and
+   a $336 million decrease in net cash used for payments on long-term debt.
+long-term debt our consolidated long-term debt (including current portion) was:
+   $5,069 million as of december 31, 2023 and
+      $5,053 million as of december 31, 2022.
+the increase in our long-term debt during 2023 is primarily attributable to the may 2023 issuance of $750 million of 4.750 percent notes and the december 2023 issuance of a $250 million senior unsecured term loan, offset by the december 2023 repayment of our $860 million 5.207 percent note and the july 2023 repayment of our $118 million 7.125 percent notes.
+the weighted average interest rate and the weighted average maturity on our long-term debt as of december 31, 2023 were 5.35 percent and 7.6 years, respectively.
+see note 11: long-term debt, net for more information.
+line of credit in march 2023, we entered into a new $1.5 billion five-year senior unsecured revolving credit facility, which expires in march 2028 and replaced the existing facility which was set to expire in january 2025. borrowings will bear interest at a floating rate based on either the adjusted term secured overnight financing rate (sofr) plus a spread or a mutually agreed upon base rate plus a spread. as of december 31, 2023 and december 31, 2022, we had no outstanding borrowings on the revolving credit facility and we were in compliance with the revolving credit facility covenants.
+weyerhaeuser company > 2023 annual report and form 10-k our covenants our key covenants include the requirement to maintain:
+   a minimum total adjusted shareholders' equity of $3.0 billion and
+   a defined debt-to-total-capital ratio of 65 percent or less.
+our total adjusted shareholders' equity is comprised of:
+   total shareholders' equity,
+   excluding accumulated other comprehensive income (loss),
+   minus our investment in our unrestricted subsidiaries.
+our capitalization is comprised of:
+   total debt,
+   plus total adjusted shareholders' equity.
+as of december 31, 2023, we had:
+   total adjusted shareholders' equity of $10.5 billion and
+   a defined debt-to-total-capital ratio of 32.5 percent.
+when calculating compliance in accordance with financial debt covenants as of december 31, 2023 and december 31, 2022, we excluded the full amount of accumulated other comprehensive loss of $293 million and $247 million, respectively. see note 14: shareholders' interest for further information on accumulated other comprehensive loss.
+there are no other significant financial debt covenants related to our third-party debt.
+credit ratings as of december 31, 2023, our long-term issuer credit rating was bbb and baa2 from s&p and moody's, respectively.
+dividends we paid cash dividends on common shares of:
+   $1,216 million in 2023 and
+      $1,617 million in 2022.
+the decrease in dividends paid is primarily due to a supplemental dividend of $0.90 per share based on 2022 financial results for a total of $660 million paid in first quarter 2023 in comparison to a supplemental dividend of $1.45 per share based on 2021 financial results for a total of $1,084 million paid in first quarter 2022.
+on january 25, 2024, our board of directors declared a supplemental dividend of $0.14 per share based on 2023 financial results. the dividend is payable on february 27, 2024 to shareholders of record as of the close of business on february 16, 2024.
+we plan to supplement our base dividend each year with an additional return of cash, in the form of a supplemental cash dividend and/or share repurchase, to achieve our targeted annual payout of total cash to shareholders of 75 to 80 percent of adjusted funds available for distribution (adjusted fad). for further information on adjusted fad see performance and liquidity measures.
+share repurchases we repurchased 4.1 million common shares for approximately $125 million (including transaction fees) during the year ended december 31, 2023. we repurchased 16.0 million common shares for approximately $550 million (including transaction fees) in 2022. as of december 31, 2023, we had remaining authorization of $252 million for future share repurchases. for further information on share repurchases see note 14: shareholders' interest.
+our contractual obligations and commercial commitments more details about our contractual obligations and commercial commitments are in note 8: pension and other post-employment benefit plans, note 10: line of credit, note 11: long-term debt, net, note 13: legal proceedings, commitments and contingencies, note 16: leases and note 19: income taxes.
+weyerhaeuser company > 2023 annual report and form 10-k significant contractual obligations as of december 31, 2023
+significant contractual obligations as of december 31, 2023 include our long-term debt obligations and lease obligations. refer to note 11: long-term debt, net and note 16: leases, respectively, for further information. additional significant contractual obligations are included below.
+dollar amounts in millions payments due by period less than       1-3                 3-5               more than total        1 year     years               years                 5 years interest(1)                          $1,982          $276      $498                $379                    $829
+purchase obligations(2)                $550          $186      $238                 $91                     $35
+employee-related obligations(3)        $277          $117       $23                 $18                     $37
+(1)amounts presented for interest payments assume that all long-term debt obligations outstanding as of december 31, 2023 will remain outstanding until maturity.
+(2)purchase obligations include agreements to purchase goods or services that are enforceable and legally binding on the company and that specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions and the approximate timing of the transaction. purchase obligations exclude arrangements that the company can cancel without penalty.
+(3)the timing of certain payments within this category will be triggered by retirements or other events. these payments can include workers compensation, deferred compensation and banked vacation, among other obligations. when the timing of payment is uncertain, the amounts are included in the total column only. minimum pension funding is required by established funding standards and estimates are not made for 2025 onward. estimated payments of contractually obligated post-employment benefits are not included due to the uncertainty of payment timing.
+off-balance sheet arrangements off-balance sheet arrangements have not had - and are not reasonably likely to have - a material effect on our current or future financial condition, results of operations or cash flows. note 10: line of credit contains our disclosures of surety bonds and letters of credit.
+environmental matters, legal proceedings and other contingencies see note 13: legal proceedings, commitments and contingencies.
+accounting matters critical accounting estimates in the preparation of our financial statements we follow established accounting policies and make estimates that affect both the amounts and timing of the recording of assets, liabilities, revenues and expenses. we base our judgments and estimates on historical experience and assumptions we believe are appropriate and reasonable under current circumstances. actual results, however, could differ materially from the estimated amounts we have recorded. some of these estimates require judgments about matters that are inherently uncertain. accounting policies whose application involve a significant level of estimation uncertainty and may have a material effect on our results of operations or financial condition are considered critical accounting estimates.
+discount rates for pension and post-employment benefit plans discount rates are used to estimate the net present value of our pension and other post-employment plan obligations. these rates are determined at the measurement date by matching current spot rates of high-quality corporate bonds with maturities similar to the timing of expected cash outflows for benefits. the selection of discount rates requires judgment as well as the involvement of actuarial specialists. these specialists assist with selecting yield curves based on published indices for high-quality corporate bonds and projecting the timing and amount of cash flows associated with our obligations to ultimately support our determination of an appropriate discount rate for each plan.
+our discount rates as of december 31, 2023 are:
+                       5.2 percent for our u.s. pension plans - compared with 5.4 percent at december 31, 2022;
+       5.1 percent for our u.s. post-employment benefit plans - compared with 5.4 percent at december 31, 2022;
+                4.7 percent for our canadian pension plans - compared with 5.3 percent at december 31, 2022 and
+   4.6 percent for our canadian post-employment benefit plans - compared with 5.3 percent at december 31, 2022.
+pension expenses for 2024 will be based on the 5.2 percent and 4.7 percent assumed discount rates for the u.s. pension plans and the canadian pension plans, respectively, and the 5.1 percent and 4.6 percent assumed discount rates for the u.s. and canadian post-employment benefit plans, respectively.
+weyerhaeuser company > 2023 annual report and form 10-k 54
+our discount rates are important in determining the cost of our plans. a 50 basis point decrease in our discount rate would increase expense or reduce a credit by approximately:
+    $11 million for our u.s. qualified pension plans and
+   $2 million for our canadian registered pension plans.
+details about our other significant accounting policies are in note 1: summary of significant accounting policies.
+prospective accounting pronouncements a summary of prospective accounting pronouncements is in note 1: summary of significant accounting policies.
+performance and liquidity measures we use adjusted ebitda as a key performance measure to evaluate the performance of the consolidated company and our business segments. this measure should not be considered in isolation from, and is not intended to represent an alternative to, our results reported in accordance with u.s. generally accepted accounting principles (u.s. gaap). however, we believe adjusted ebitda provides meaningful supplemental information for our investors about our operating performance, better facilitates period to period comparisons and is widely used by analysts, lenders, rating agencies and other interested parties. our definition of adjusted ebitda may be different from similarly titled measures reported by other companies. adjusted ebitda, as we define it, is operating income adjusted for depreciation, depletion, amortization, basis of real estate sold and special items.
+adjusted ebitda by segment dollar amounts in millions
+2023                 2022
+timberlands                            $646                  $784
+real estate &amp; enr                   320                   329
+wood products                           905                 2,737
+unallocated items                      (177   )              (196   )
+total                                $1,694                $3,654
+we reconcile adjusted ebitda to net earnings for the consolidated company and to operating income (loss) for the business segments, as those are the most directly comparable u.s. gaap measures for each.
+the table below reconciles adjusted ebitda by segment to net earnings for the year ended december 31, 2023:
+dollar amounts in millions real estate          wood       unallocated timberlands           &amp; enr      products       items                     total net earnings                                                                                                                                     $839
+interest expense, net of capitalized interest                                                                                                     280
+income taxes                                                                                                                                       98
+net contribution (charge) to earnings                                    $488                $211          $709       $(191           )        $1,217
+non-operating pension and other post-employment benefit costs               -                   -             -       45                           45
+interest income and other                                                   -                   -             -               (76     )           (76   )
+operating income (loss)                                                   488                 211           709               (222    )         1,186
+depreciation, depletion and amortization                                  267                  16           210       7                           500
+basis of real estate sold                                                   -                  93             -               -                    93
+special items included in operating income (loss)(1)(2)(3)               (109   )               -           (14   )   38                          (85   )
+adjusted ebitda                                                          $646                $320          $905       $(177           )        $1,694
+(1)operating income (loss) for timberlands includes pretax special items consisting of an $84 million gain on the sale of timberlands and a $25 million legal benefit.
+(2)operating income (loss) for wood products includes a pretax special item consisting of a $14 million insurance recovery.
+(3)operating income (loss) for unallocated items includes pretax special items consisting of an $11 million noncash environmental remediation charge and $27 million of legal expense.
+weyerhaeuser company > 2023 annual report and form 10-k 55
+the table below reconciles adjusted ebitda by segment to net earnings for the year ended december 31, 2022:
+dollar amounts in millions real estate           wood   unallocated timberlands       &amp; enr       products   items                     total net earnings                                                                                                                            $1,880
+interest expense, net of capitalized interest                                                                                              270
+loss on debt extinguishment(1)                                                                                                             276
+income taxes                                                                                                                               425
+net contribution (charge) to earnings                                    $528            $218         $2,536   $(431           )        $2,851
+non-operating pension and other post-employment benefit costs               -               -              -   254                         254
+interest income and other                                                   -               -              -           (25     )           (25   )
+operating income (loss)                                                   528             218          2,536           (202    )         3,080
+depreciation, depletion and amortization                                  256              17            201   6                           480
+basis of real estate sold                                                   -              84              -           -                    84
+special items included in operating income (loss)(2)                        -              10              -           -                    10
+adjusted ebitda                                                          $784            $329         $2,737   $(196           )        $3,654
+(1)loss on debt extinguishment is a special item consisting of a pretax charge of $276 million related to early debt retirement.
+(2)operating income (loss) for real estate & enr includes a pretax special item consisting of a $10 million noncash impairment charge related to the planned divestiture of legacy coal assets.
+we reconcile net earnings before special items to net earnings and net earnings per diluted share before special items to net earnings per diluted share, as those are the most directly comparable u.s. gaap measures. we believe the measures provide meaningful supplemental information for investors about our operating performance, better facilitate period to period comparisons, and are widely used by analysts, lenders, rating agencies and other interested parties.
+the table below reconciles net earnings before special items to net earnings:
+dollar amounts in millions
+2023               2022
+net earnings                                           $839              $1,880
+environmental remediation charge                          8                   -
+gain on sale of timberlands                             (83   )               -
+insurance recovery                                      (10   )               -
+legal benefit                                           (25   )               -
+legal expense                                            20                   -
+loss on debt extinguishment                               -                 207
+pension settlement charge                                 -                 152
+restructuring, impairments and other charges              -                   8
+net earnings before special items                      $749              $2,247
+weyerhaeuser company > 2023 annual report and form 10-k 56
+the table below reconciles net earnings per diluted share before special items to net earnings per diluted share:
+amounts per share
+2023                 2022
+net earnings per diluted share                                 $1.15             $2.53
+environmental remediation charge                                0.01                 -
+gain on sale of timberlands                                    (0.12   )             -
+insurance recovery                                             (0.01   )             -
+legal benefit                                                  (0.03   )             -
+legal expense                                                   0.02                 -
+loss on debt extinguishment                                        -              0.28
+pension settlement charge                                          -              0.20
+restructuring, impairments and other charges                       -              0.01
+net earnings per diluted share before special items            $1.02             $3.02
+we use adjusted funds available for distribution (adjusted fad) to evaluate the company's liquidity and measure cash generated during the period (net of capital expenditures and significant nonrecurring items) that is available for dividends, repurchases of common shares, debt reduction, acquisitions, and other discretionary and nondiscretionary capital allocation activities. adjusted fad should not be considered in isolation from, and is not intended to represent an alternative to, results reported in accordance with u.s. gaap. however, we believe the measure provides meaningful supplemental information for our investors about our liquidity. adjusted fad, as we define it, is net cash from operations adjusted for capital expenditures and significant non-recurring items. our definition of adjusted fad may be different from similarly titled measures reported by other companies, including those in our industry. we reconcile adjusted fad to net cash from operations, as that is the most directly comparable u.s. gaap measure.
+the table below reconciles adjusted fad to net cash from operations:
+dollar amounts in millions
+2023                 2022
+net cash from operations                                     $1,433               $2,832
+capital expenditures                                           (447   )             (468   )
+fad                                                            $986               $2,364
+cash from product remediation insurance recoveries                -                  (37   )
+adjusted fad                                                   $986               $2,327
+net cash from investing activities                            $(508   )            $(759   )
+net cash from financing activities                          $(1,342   )          $(2,491   )
+weyerhaeuser company > 2023 annual report and form 10-k 57
+quantitative and qualitative disclosures about market risk 

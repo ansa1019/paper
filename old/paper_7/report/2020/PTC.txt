@@ -1,0 +1,379 @@
+item 7.   management's discussion and analysis of financial condition and results of operations
+
+forward-looking statements statements in this annual report about anticipated financial results and growth, as well as about the development of our products and markets, are forward-looking statements that are based on our current plans and assumptions. important information about the bases for these plans and assumptions and factors that may cause our actual results to differ materially from these statements is contained below and in item 1a. "risk factors" of this annual report.
+unless otherwise indicated, all references to a year reflect our fiscal year that ends on september 30.
+operating and non-gaap financial measures our discussion of results includes discussion of our arr operating measure, non-gaap financial measures, and disclosure of our results on a constant currency basis. arr and our non-gaap financial measures, including the reasons we use those measures, are described below in results of operations - operating measure and results of operations - non-gaap financial measures, respectively. the methodology used to calculate constant currency disclosures is described in results of operations - impact of foreign currency exchange on results of operations. you should read those sections to understand our operating measure, non-gaap financial measures, and constant currency disclosures.
+executive overview arr increased 14% to $1,270 million (11% and $1,236 million constant currency) compared to the end of fy'19. arr growth was strong in our much larger core business and accelerated in our growth business, but declined modestly in our focused solutions group (fsg) business. churn of 8.6% was slightly higher than expected.
+fy'20 revenue of $1.46 billion increased 16% year over year driven by 26% recurring revenue growth, due in part to the adoption of asc 606 and related business policy changes. in q4'20, contract durations were slightly longer than forecasted and we had a higher than anticipated number of conversions, both of which positively impacted the amount of upfront subscription revenue recognized in the quarter. fy'20 operating margin of 14% increased approximately 900 basis points and eps increased significantly year over year due to the increase in revenue and a decrease in the effective tax rate, primarily due to a reduction of the u.s. valuation allowance.
+we generated $234 million of cash from operations in fy'20 compared to $285 million in fy'19, primarily due to higher interest and restructuring payments in the year. we ended fy'20 with $335 million of cash and marketable securities and $1.0 billion of debt outstanding, including $1 billion of senior notes with a weighted average cost of debt of 3.8%, and $18 million outstanding under our credit facility, which was paid down subsequent to year end.
+results of operations the following table shows the financial measures that we consider the most significant indicators of our business performance. in addition to providing operating income, operating margin, diluted earnings per share and cash from operations as calculated under gaap, we provide non-gaap operating income, non-gaap operating margin, non-gaap diluted earnings per share, and free cash flow for the reported periods. we also provide a view of our actual results on a constant currency basis. these non-gaap financial measures exclude the items described in non-gaap financial measures below. investors should use these non-gaap financial measures only in conjunction with our gaap results.
+18
+for discussion of fy'19 results and comparison with fy'18 results, refer to management's discussion and analysis of financial conditions and results of operations in our annual report on form 10-k for the fiscal year ended september 30, 2019.
+(dollar amounts in millions, except per share data)                  year ended september 30,                                 percent change
+
+2020                        2019                           actual                constant currency(1)
+total recurring revenue                                         $1,281.9                       $1,017.4              26   %                              27   %
+perpetual license                                                   32.7                           70.7             (54   )%                            (53   )%
+professional services                                              143.8                          167.5             (14   )%                            (13   )%
+total revenue                                                    1,458.4                        1,255.6              16   %                              17   %
+total cost of revenue                                              334.3                          325.4               3   %                               3   %
+gross margin                                                     1,124.1                          930.3              21   %                              22   %
+operating expenses                                                 913.2                          867.2               5   %                               6   %
+operating income                                                  $210.9                          $63.0             234   %                             281   %
+non-gaap operating income(1)                                      $423.4                         $255.3              66   %                              69   %
+operating margin                                                    14.5      %                     5.0   %
+non-gaap operating margin(1)                                        29.0      %                    20.3   %
+diluted earnings (loss) per share                                  $1.12                         $(0.23   )
+non-gaap diluted earnings per share(1)(2)                          $2.57                          $1.64
+cash flow from operations(3)                                      $233.8                         $285.1
+free cash flow(4)                                                 $213.6                         $220.7
+(1)   see non-gaap financial measures below for a reconciliation of our gaap results to our non-gaap measures and impact of foreign currency exchange on results of operations below for a description of how we calculate our results on a constant currency basis.
+
+(2)   we have a full valuation allowance against our u.s. net deferred tax assets and a valuation allowance against net deferred tax assets in certain foreign jurisdictions. as we are profitable on a non-gaap basis, the non-gaap tax provisions are calculated assuming there is no valuation allowance. income tax adjustments reflect the tax effects of non-gaap adjustments, which are calculated by applying the applicable tax rate by jurisdiction to the non-gaap adjustments listed above.
+
+(3)   cash flow from operations for fy'20 and fy'19 includes $42 million and $25 million of restructuring payments, respectively, and $60.6 million and $40.8 million of interest payments, respectively. cash from operations for fy'20 includes $9.6 million of acquisition-related payments.
+
+(4)   free cash flow is cash from operations net of capital expenditures of $20.2 million and $64.4 million in fy'20 and fy'19, respectively.
+
+impact of foreign currency exchange on results of operations approximately 60% of our revenue and 40% of our expenses are transacted in currencies other than the u.s. dollar. because we report our results of operations in u.s. dollars, currency translation, particularly changes in the euro, yen, shekel, and rupee relative to the u.s. dollar, affects our reported results. starting in q1'20, our constant currency disclosures are calculated by multiplying the results in local currency for fy'20 and fy'19 by the exchange rates in effect on september 30, 2019, excluding the effect of any hedging. if fy'20 reported results were converted into u.s. dollars based on this methodology, fy'20 revenue would have been lower by $12 million and expenses would have been lower by $4 million. the net impact on year-over-year results would have been a decrease in operating income of $8 million in fy'20.
+the results of operations in the table above and revenue by line of business, product group, and geographic region in the tables that follow present both actual percentage changes year over year and percentage changes on a constant currency basis.
+revenue our revenue results period to period are impacted by contract terms, including the duration and start dates of our subscription contracts. early in q4'19, we discontinued offering cancellation rights for multi-year subscription contracts, which results in the recognition of the license portion of revenue for all years of the contract at the beginning of the multiyear contract period for our on-premises subscription licenses. the discontinuation of the cancellation clause is expected to have less of an impact in fy'21. we are expanding our saas offerings and are releasing additional cloud functionality into our products. as a result, our revenue will be impacted as a higher portion of it will be recognized ratably.
+19
+revenue by line of business
+(dollar amounts in millions)                  year ended september 30,                       percent change
+
+2020                        2019                       actual                constant currency license                                    $509.8                         $324.4          57    %                 58    %
+support and cloud services                  804.8                          763.7           5    %                  6    %
+total software revenue                    1,314.6                        1,088.1          21    %                 22    %
+professional services                       143.8                          167.5         (14   )%                (13   )%
+total revenue                            $1,458.4                       $1,255.6          16    %                 17    %
+software revenue increased in fy'20 compared to fy'19 due to subscription revenue growth, offset by declines in perpetual license and perpetual support revenue due to conversions of support contracts to subscriptions. in fy'20, subscription license revenue increased 88% (89% constant currency) compared to the year-ago period, due in part to the discontinuation of the annual cancellation right in new multi-year contracts and in part to new conversions in fy'20.
+professional services engagements typically result from sales of new licenses; revenue is recognized over the term of the engagement. our expectation is that professional services revenue will trend flat-to-down over time due to our strategy to expand margins by migrating more services engagements to our partners and delivering products that require less consulting and training services, and in the near-term will trend down due to the effects of the covid-19 pandemic.
+professional services revenue declined in fy'20 due to challenges with project scoping and implementation activities and performance due to social distancing measures and facility closures implemented to address the covid-19 pandemic. additionally, there was an increase in the estimated costs to complete a large fixed price professional services contract, which led to a corresponding decrease in the estimated percent complete and a related reversal of revenue.
+revenue by product group software revenue by product group
+
+(dollar amounts in millions)                        year ended september 30,             percent change
+2020                      2019                           actual                constant currency core (cad and plm)                        $947.1                      $762.2             24           %        25             %
+growth (iot, ar, onshape)                  183.8                       140.2             31           %        32             %
+fsg (focused solutions group)              183.7                       185.7                    (1   )%                 (1   )%
+software revenue                        $1,314.6                    $1,088.1             21           %        22             %
+total revenue by product group
+
+(dollar amounts in millions)                       year ended september 30,           percent change
+2020                     2019                         actual                constant currency core (cad and plm)                     $1,025.7                      $869.0           18           %        19             %
+growth (iot, ar, onshape)                 222.6                       167.5           33           %        34             %
+fsg (focused solutions group)             210.1                       219.1                  (4   )%                 (4   )%
+total revenue                          $1,458.4                    $1,255.6           16           %        17             %
+core product software revenue growth in fy'20 compared to fy'19 was driven by subscription revenue growth of 68% (69% constant currency), offset by expected declines in perpetual license and perpetual support revenue due to the end of sales of perpetual licenses at the end of q1'19 and conversions of support contracts to subscriptions. total revenue growth was lower than software revenue growth due to a decline in professional services revenue. in fy'20, professional services revenue declined 26% (actual and constant currency) compared to the year-ago period due in part to the impact of the covid-19 pandemic and the impact of the professional services contract described above. arr increased 14% (11% constant currency) for fy'20 compared to fy'19, reflecting solid arr growth for both plm and cad.
+20
+growth product software revenue growth in fy'20 was driven by subscription revenue growth of % (% constant currency) compared to the year-ago period, offset by an expected decline in perpetual license revenue due to the end of sales of perpetual licenses at the end of q1'19. the revenue growth rate has been impacted by a decrease in the proportion of license revenue recognized upfront as we have released additional cloud functionality (for which revenue is recognized ratably) into our iot products. growth product arr increased 34% (32% constant currency) for fy'20 compared to fy'19, including growth from sales of our products through our strategic alliance with rockwell automation and reflecting strong growth in all three product lines.
+fsg product software revenue declined in fy'20 compared to fy'19, primarily driven by a 13% (actual and constant currency) decrease in perpetual support revenue due to conversions of support contracts to subscriptions. this decline was partially offset by a 12% (13% constant currency) increase in subscription revenue in fy'20 compared to the year-ago period. the total revenue decrease in fy'20 was higher than the decline in software revenue due to a decrease in professional services revenue, which declined 21% (20% constant currency) in fy'20 compared to fy'19 due in part to the impact of the covid-19 pandemic on our ability to execute professional services projects. fsg product arr decreased 2% (4% constant currency) for fy'20 compared to fy'19, largely due to the impact of covid-19 on fsg markets, primarily due to the non-renewal of a government contract which did not receive renewed funding.
+software revenue by geographic region a significant portion of our software revenue is generated outside the u.s. in both fy'19 and fy'20, approximately 45% of software revenue was generated in the americas, 35% in europe, and 20% in asia pacific.
+(dollar amounts in millions)               year ended september 30,                    percent change
+
+2020                     2019                    actual                constant currency americas                                $592.7                      $484.1          22    %                 23   %
+europe                                   482.5                       379.9          27    %                 28   %
+asia pacific                             239.4                       224.1           7    %                  7   %
+total revenue                         $1,314.6                    $1,088.1          21    %                 22   %
+americas software revenue growth in fy'20 was driven by growth in subscription revenue of 44% (actual and constant currency) as compared to fy'19, partially offset by a decline of 16% (15% constant currency) in perpetual support revenue, resulting in recurring revenue growth of 24% (25% constant currency).
+europe software revenue growth in fy'20 was driven by growth in subscription revenue of 67% (69% constant currency) as compared to fy'19, partially offset by a decline in perpetual support revenue, resulting in recurring revenue growth of 28% (30% constant currency).
+asia pacific software revenue growth in fy'20 was driven by growth in subscription revenue of 70% (actual and constant currency) as compared to fy'19, partially offset by declines of 86% (actual and constant currency) and 20% (actual and constant currency) in perpetual license and support revenue, respectively. recurring revenue growth was 26% (actual and constant currency).
+21
+gross margin
+(dollar amounts in millions)                          year ended september 30,
+
+2020                     2019                        percent change gross margin:
+license gross margin                                          $456.6                      $272.5                      68   %
+license gross margin percentage                                   90      %                   84   %
+support and cloud services gross margin                       $659.4                      $630.2                       5   %
+support and cloud services gross margin percentage                82      %                   83   %
+professional services                                           $8.1                       $27.6                     (71   )%
+professional services gross margin percentage                      6      %                   16   %
+total gross margin                                          $1,124.1                      $930.3                      21   %
+total gross margin percentage                                     77      %                   74   %
+non-gaap gross margin(1)                                    $1,165.5                      $970.0                      20   %
+non-gaap gross margin percentage(1)                               80      %                   77   %
+(1)   non-gaap financial measures are reconciled to gaap results under non-gaap financial measures below.
+
+license gross margin increased in fy'20 compared to fy'19 due to revenue increasing significantly as a result of asc 606 and the discontinuation of the cancellation clause, while cost of license expenses increased only slightly. license revenue growth was driven by an 88% (89% constant currency) increase in subscription license revenue year over year, partially offset by a 54% (53% constant currency) decrease in perpetual license revenue.
+support and cloud services gross margin decreased in fy'20 compared to fy'19 due to a decrease in perpetual support revenue and increases in costs associated with our cloud services business due to increased demand for those services, royalty expenses, and outside service costs. this was partially offset by increases in subscription support and cloud services revenue.
+professional services gross margin decreased in fy'20 compared to fy'19 primarily due to a decrease in revenue driven by the impact of the covid-19 pandemic and a revenue reversal on a fixed price professional services contract due to a change in the estimated cost to complete, partially offset by decreases in outside services and travel costs.
+operating expenses
+(dollar amounts in millions)                      year ended september 30,
+
+2020                     2019                        percent change sales and marketing                                   $435.5                      $417.4                       4    %
+% of total revenue                                        30      %                   33   %
+research and development                               256.6                       246.9                       4    %
+% of total revenue                                        18      %                   20   %
+general and administrative                             159.8                       127.9                      25    %
+% of total revenue                                        11      %                   10   %
+amortization of acquired intangible assets              28.7                        23.8                      20    %
+% of total revenue                                         2      %                    2   %
+restructuring and other charges, net                    32.7                        51.1                     (36   )%
+% of total revenue                                         2      %                    4   %
+total operating expenses                              $913.3                      $867.2                       5    %
+total headcount increased by 3% in fy'20 to 6,243 from 6,055 at the end of fy'19. headcount at the end of fy'20 includes approximately 130 people from onshape and other smaller acquisitions.
+operating expenses in fy'20 compared to fy'19 increased primarily due to the following:
+•   an increase in general and administrative expenses driven by a $17.6 million increase in compensation (including benefit costs), primarily related to stock-based compensation; a $6.1 million increase in professional fees; and a $5.5 million increase in acquisition-related charges;
+
+22
+•   a $37.3 million increase in sales and marketing compensation (including benefit costs) due to higher salaries related partially to higher headcount, higher commissions due to amortization of capitalized commissions under asc 606, and higher stock-based compensation;
+
+•   an increase in research and development costs primarily related to a $9.2 million increase in compensation (including benefit costs) primarily due to higher salaries and stock-based compensation; and
+
+•   an increase of $4.9 million in intangible amortization related to the acquisition of onshape;
+
+partially offset by:
+•   decreases of $16.1 million in travel costs and $8.3 million in event and meeting expenses, both of which primarily impacted sales and marketing, due to the covid-19 global pandemic; and
+
+•   an $18.4 million decrease in restructuring and other charges.
+
+restructuring and other charges in fy'20 primarily related to an employee restructuring plan in the first half of the fiscal year to shift resources to support our saas initiatives. restructuring and other charges in fy'19 largely related to the exit of our needham headquarters facility.
+interest expense
+(dollar amounts in millions)               year ended september 30,
+
+2020                     2019                     percent change interest expense                   $(76.4        )             $(43.0        )   78                  %
+interest expense includes interest under our credit facility and senior notes. interest expense was higher in fy'20 as compared to fy'19 primarily due to increased debt to complete the onshape acquisition: we had $1,018 million of total debt at september 30, 2020, compared to $673 million at september 30, 2019. additionally, we recognized $15 million of expense in fy'20 related to penalties for the early redemption of the 6.000% senior notes due 2024. for additional detail on the changes in our debt structure, see note 9. debt, included in the notes to consolidated financial statements in this annual report.
+the average interest rate on our total borrowings was 4.3% in fy'20 and 5.4% in fy'19. our average interest rate on the $1.0 billion in senior notes will be 3.8% in fy'21.
+other income (expense)
+(dollar amounts in millions)               year ended september 30,
+
+2020                     2019                     percent change interest income                           $3.8                        $4.1                      (7   )%
+other expense, net                        (3.5      )                 (3.8   )                  (6   )%
+other income (expense), net               $0.3                        $0.3                     (11   )%
+interest income represents earnings on the investment of our available cash and marketable securities.
+other expense, net includes foreign currency gains and losses and other non-operating gains and losses. foreign currency gains and losses include costs of hedging contracts, certain realized and unrealized foreign currency transaction gains or losses, and foreign exchange gains or losses resulting from the required period-end currency remeasurement of the assets and liabilities of our subsidiaries that use the u.s. dollar as their functional currency.
+23
+income taxes
+(dollar amounts in millions)                         year ended september 30,
+
+2020                 2019                     percent change income before income taxes            $134.7               $20.3             564                 %
+provision for income taxes               4.0                47.8                       (92       )%
+effective income tax rate                  3    %            235    %
+in fy'20 and fy'19, our tax rate differed from the u.s. statutory federal income tax rate due to our corporate structure in which our foreign taxes are at a net effective tax rate lower than the u.s. rate. a significant amount of our foreign earnings is generated by our subsidiaries organized in ireland. in fy'20 and fy'19 the foreign rate differential predominantly relates to these irish earnings.
+in fy'20, in addition to the foreign rate differential, our tax rate differed from the statutory federal income tax rate due to u.s. tax reform, the excess tax benefit related to stock-based compensation and the indirect effects of the adoption of asc 606. additionally, we recorded benefits for the reduction of the u.s. valuation allowance as a result of the onshape acquisition. a further reduction to the valuation allowance was also recorded to reflect the impact from the scheduling of the reversal of existing temporary differences resulting in deferred tax liabilities that cannot be offset against deferred tax assets.
+on march 27, 2020, the u.s. federal government enacted the coronavirus aid, relief, and economic security act (the "cares act"). the cares act is an emergency economic stimulus package in response to the covid-19 pandemic, which among other things contains numerous income tax provisions. we have determined that the impact of the cares act was not material to our consolidated financial statements.
+in fy'19, our effective tax rate was higher than the statutory federal income tax rate due in large part to the scheduling of the reversal of existing temporary differences resulting in deferred tax liabilities that cannot be offset against deferred tax assets requiring an increase to the u.s. valuation allowance, u.s. tax reform and foreign withholding taxes, an obligation of the u.s. parent. this is offset by foreign rate differences, the excess tax benefit related to stock-based compensation and the indirect effects of the adoption of asc 606.
+in q4'16, we received an assessment of approximately $12 million from the tax authorities in south korea. the assessment relates to various tax issues, primarily foreign withholding taxes. we have appealed and intend to vigorously defend our positions. we believe that upon completion of a multi-level appeal process it is more likely than not that our positions will be sustained. accordingly, we have not recorded a tax reserve for this matter. we paid this assessment in q1'17 and have recorded the amount in other assets, pending resolution of the appeal process. if the south korean tax authorities were to prevail then, in addition to the $12 million already assessed, the potential additional exposure through fy'20 would be approximately $17 million. we are continuing to work with our advisors during the court process and still believe our position is sustainable.
+in april 2020, we became aware of a potential new interpretation of a withholding tax law in a non-u.s. jurisdiction and its application to certain transactions that was not previously reasonably knowable by us. we have evaluated this new interpretation and made an estimate of the potential tax liability, a reserve for which was recorded in q3'20 and had an immaterial impact to our consolidated financial statements.
+operating measure arr arr (annual run rate) represents the annual value of our portfolio of active renewable customer contracts as of the end of the reporting period, including subscription software, cloud, and support contracts. arr includes iot and ar orders placed under our strategic alliance agreement with rockwell automation and includes orders placed to satisfy contractual quarterly minimum commitments.
+24
+we believe arr is a valuable operating metric to measure the health of a subscription business because it captures expected subscription and support cash generation from new customers, existing customer renewals and expansions, and includes the impact of churn, which reflects gross churn, offset by the impact of any pricing increases.
+because this measure represents the annual value of renewable customer contracts as of the end of a reporting period, arr does not represent revenue for any particular period or remaining revenue that will be recognized in future periods.
+non-gaap financial measures the non-gaap financial measures presented in the discussion of our results of operations and the respective most directly comparable gaap measures are:
+•   free cash flow-cash flow from operations
+
+•   non-gaap revenue-gaap revenue
+
+•   non-gaap gross margin-gaap gross margin
+
+•   non-gaap operating income-gaap operating income
+
+•   non-gaap operating margin-gaap operating margin
+
+•   non-gaap net income-gaap net income
+
+•   non-gaap diluted earnings or loss per share-gaap diluted earnings or loss per share
+
+free cash flow is cash flow from operations net of capital expenditures, which are expenditures for property and equipment and consist primarily of facility improvements (including our construction expenses for our new seaport headquarters in fy'19), office equipment, computer equipment, and software. we believe that free cash flow, in conjunction with cash from operations, is a useful measure of liquidity since capital expenditures are a necessary component of ongoing operations.
+the non-gaap financial measures other than free cash flow exclude, as applicable: fair value adjustments related to acquired deferred revenue and deferred costs; stock-based compensation expense; amortization of acquired intangible assets; acquisition-related and other transactional charges included in general and administrative expenses; restructuring and other charges, net; non-operating charges; and income tax adjustments.
+the items excluded from these non-gaap financial measures are normally included in the comparable measures calculated and presented in accordance with gaap. our management excludes these items when evaluating our ongoing performance and/or predicting our earnings trends, and therefore excludes them when presenting non-gaap financial measures. management uses non-gaap financial measures in conjunction with our gaap results, as should investors.
+fair value adjustment of acquired deferred revenue is a purchase accounting adjustment recorded to reduce acquired deferred revenue to the fair value of the remaining obligation, so our gaap revenue after an acquisition does not reflect the full amount of revenue that would have been reported if the acquired deferred revenue was not written down to fair value. we believe excluding these adjustments to revenue from these contracts (and associated costs in fair value adjustment of acquired deferred costs) is useful to investors as an additional means to assess revenue trends of our business.
+stock-based compensation is a non-cash expense relating to stock-based awards issued to executive officers, employees and outside directors, consisting of restricted stock units. we exclude this expense as it is a non-cash expense and we assess our internal operations excluding this expense and believe it facilitates comparisons to the performance of other companies in our industry.
+25
+amortization of acquired intangible assets is a non-cash expense that is impacted by the timing and magnitude of our acquisitions. we believe the assessment of our operations excluding these costs is relevant to our assessment of internal operations and comparisons to the performance of other companies in our industry.
+acquisition-related and other transactional charges included in general and administrative expenses are direct costs of potential and completed acquisitions and expenses related to acquisition integration activities, including transaction fees, due diligence costs, severance and professional fees. subsequent adjustments to our initial estimated amount of contingent consideration associated with specific acquisitions are also included within acquisition-related charges. other transactional charges include third-party costs related to structuring unusual transactions. we do not include these costs when reviewing our operating results internally. the occurrence and amount of these costs will vary depending on the timing and size of acquisitions.
+restructuring and other charges, net includes excess facility restructuring charges (credits); headquarters relocation charges; impairment and accretion expense charges related to the lease assets of exited facilities; sublease income from previously impaired facilities; and severance costs resulting from reductions of personnel driven by modifications to our business strategy. headquarters relocation charges are non-cash accelerated depreciation expense recorded in advance of exiting our prior headquarters facility due to changes in the estimated useful lives of fixed assets and overlapping rental expense for the needham and seaport facilities. we do not include these costs when reviewing our operating results internally. these costs may vary in size based on our restructuring plan.
+non-operating charges. in q2'20, we incurred an early redemption interest penalty and in q3'20, we wrote off debt issuance costs, both of which were related to the settlement of the 6.000% senior notes due 2024 and which are also excluded from our non-gaap financial measures as they are non-ordinary course in nature and not included in management's review of our results.
+income tax adjustments include the tax impact of the items above and assumes that we are profitable on a non-gaap basis in the u.s. and one foreign jurisdiction. it also eliminates the effect of the valuation allowance recorded against our net deferred tax assets in those jurisdictions. additionally, we exclude other material tax items that we do not include when reviewing our operating results internally.
+we use these non-gaap financial measures, and we believe that they assist our investors, to make period-to-period comparisons of our operational performance because they provide a view of our operating results without items that are not, in our view, indicative of our core operating results. we believe that these non-gaap financial measures help illustrate underlying trends in our business, and we use the measures to establish budgets and operational goals (communicated internally and externally) for managing our business and evaluating our performance. we believe that providing non-gaap financial measures also affords investors a view of our operating results that may be more easily compared to the results of other companies in our industry that use similar financial measures to supplement their gaap results.
+26
+the items excluded from the non-gaap financial measures often have a material impact on our financial results and such items often recur. accordingly, the non-gaap financial measures included in this annual report should be considered in addition to, and not as a substitute for or superior to, the comparable measures prepared in accordance with gaap. the following tables reconcile each of these non-gaap financial measures to its most closely comparable gaap measure on our financial statements.
+(in millions, except per share amounts)                                             year ended september 30,
+
+2020                      2019
+gaap revenue                                                                                                  $1,458.4                    $1,255.6
+fair value adjustment of acquired deferred revenue                                                                   -                         0.8
+non-gaap revenue                                                                                              $1,458.4                    $1,256.4
+gaap gross margin                                                                                             $1,124.1                      $930.3
+fair value adjustment of acquired deferred revenue                                                                   -                         0.8
+fair value adjustment to deferred services cost                                                                      -                        (0.3   )
+stock-based compensation                                                                                          14.0                        11.9
+amortization of acquired intangible assets included in cost of revenue                                            27.4                        27.3
+non-gaap gross margin                                                                                         $1,165.5                      $970.0
+gaap operating income                                                                                           $210.9                       $63.0
+fair value adjustment of acquired deferred revenue                                                                   -                         0.8
+fair value adjustment to deferred services cost                                                                      -                        (0.3   )
+stock-based compensation                                                                                         115.1                        86.4
+amortization of acquired intangible assets included in cost of revenue                                            27.4                        27.3
+amortization of acquired intangible assets                                                                        28.7                        23.8
+acquisition-related and other transactional charges included in general and administrative expenses                8.6                         3.1
+restructuring and other charges, net                                                                              32.7                        51.1
+non-gaap operating income                                                                                       $423.4                      $255.3
+gaap net income (loss)                                                                                          $130.7                      $(27.5   )
+fair value adjustment of acquired deferred revenue                                                                   -                         0.8
+fair value adjustment to deferred services cost                                                                      -                        (0.3   )
+stock-based compensation                                                                                         115.1                        86.4
+amortization of acquired intangible assets included in cost of revenue                                            27.4                        27.3
+amortization of acquired intangible assets                                                                        28.7                        23.8
+acquisition-related and other transactional charges included in general and administrative expenses                8.6                         3.1
+restructuring and other charges, net                                                                              32.7                        51.1
+non-operating charges(1)                                                                                          18.5                           -
+income tax adjustments(2)                                                                                        (63.3      )                 29.7
+non-gaap net income                                                                                             $298.4                      $194.5
+gaap diluted earnings (loss) per share                                                                           $1.12                      $(0.23   )
+fair value adjustment of acquired deferred revenue                                                                   -                        0.01
+stock-based compensation                                                                                          0.99                        0.73
+total amortization of acquired intangible assets                                                                  0.48                        0.43
+acquisition-related and other transactional charges included in general and administrative expenses               0.07                        0.03
+restructuring and other charges, net                                                                              0.28                        0.43
+non-operating charges(1)                                                                                          0.16                           -
+income tax adjustments(2)                                                                                        (0.54      )                 0.25
+non-gaap diluted earnings per share(3)                                                                           $2.57                       $1.64
+(1)   we recognized $15 million of expense in q2'20 related to penalties for the early redemption of the 6.000% senior notes due in 2024 and wrote off approximately $3 million of related debt issuance costs in q3'20.
+
+(2)   we have recorded a full valuation allowance against our u.s. net deferred tax assets and a valuation allowance against net deferred tax assets in certain foreign jurisdictions. as we are profitable on a non-gaap basis, the fy'20 and fy'19 non-gaap tax provisions are being calculated assuming there is no valuation allowance. income tax adjustments reflect the tax effects of non-gaap adjustments which are calculated by applying the applicable tax rate by jurisdiction to the non-gaap adjustments listed above.
+
+(3)   diluted earnings per share impact of non-gaap adjustments is calculated by dividing the dollar amount of the non-gaap adjustment by the non-gaap diluted weighted average shares outstanding for the respective year. non-gaap diluted weighted average shares outstanding is equal to gaap diluted weighted average shares outstanding unless we have a gaap net loss and non-gaap net income.
+
+27
+reconciliation of gaap and non-gaap diluted weighted average shares outstanding:
+(in millions)                                   year ended september 30,
+
+2020                     2019
+gaap diluted weighted average shares outstanding                 116.3                       117.7
+dilutive effect of stock-based compensation plans                    -                         1.0
+non-gaap diluted weighted average shares outstanding             116.3                       118.7
+operating margin impact of non-gaap adjustments:
+year ended september 30,
+
+2020                     2019
+gaap operating margin                                                                                            14.5      %                  5.0   %
+fair value of acquired deferred revenue                                                                             -      %                  0.1   %
+stock-based compensation                                                                                          7.9      %                  6.9   %
+total amortization of acquired intangible assets                                                                  3.8      %                  4.1   %
+acquisition-related and other transactional charges included in general and administrative expenses               0.6      %                  0.2   %
+restructuring and other charges, net                                                                              2.2      %                  4.1   %
+non-gaap operating margin                                                                                        29.0      %                 20.3   %
+critical accounting policies and estimates we have prepared our consolidated financial statements in accordance with accounting principles generally accepted in the united states of america. in preparing our financial statements, we make estimates, assumptions and judgments that can have a significant impact on our reported revenues, results of operations, and net income, as well as on the value of certain assets and liabilities on our balance sheet. these estimates, assumptions and judgments are made based on our historical experience and on other assumptions that we believe to be reasonable under the circumstances. these estimates may change as new events occur or additional information is obtained, and we may periodically be faced with uncertainties, the outcomes of which are not within our control and may not be known for a prolonged period of time.
+the accounting policies, methods and estimates used to prepare our financial statements are described generally in note 2. summary of significant accounting policies of notes to consolidated financial statements in this annual report. the most important accounting judgments and estimates that we made in preparing the financial statements involved:
+•   revenue recognition;
+
+•   accounting for income taxes; and
+
+•   valuation of assets and liabilities acquired in business combinations.
+
+a critical accounting policy is one that is both material to the presentation of our financial statements and requires us to make subjective or complex judgments that could have a material effect on our financial condition and results of operations. critical accounting policies require us to make assumptions about matters that are uncertain at the time of the estimate, and different estimates that we could have used, or changes in the estimates that are reasonably likely to occur, may have a material impact on our financial condition or results of operations. because the use of estimates is inherent in the financial reporting process, actual results could differ from those estimates.
+accounting policies, guidelines and interpretations related to our critical accounting policies and estimates are generally subject to numerous sources of authoritative guidance and are often reexamined by accounting standards rule makers and regulators. these rule makers and/or regulators may promulgate interpretations, guidance or regulations that may result in changes to our accounting policies, which could have a material impact on our financial position and results of operations.
+28
+revenue recognition effective october 1, 2018, we record revenues in accordance with the guidance provided by asc 606, revenue from contracts with customers. for a full description of our revenue accounting policy, please refer to note 2. summary of significant accounting policies, included in the notes to consolidated financial statements in this annual report.
+our sources of revenue include: (1) subscription, (2) perpetual license, (3) support for perpetual licenses and (4) professional services. subscriptions include term-based on-premises licenses, software-as-a-service (saas), and hosting services. revenue is derived from the licensing of computer software products and from related support and/or professional services contracts.
+judgments and estimates determination of performance obligations. our subscriptions are frequently sold as a bundle of products and services, typically pairing on-premises term software licenses with support and/or cloud services over the same term. on-premises software is typically determined to be a distinct performance obligation, and is thus recognized separately from the support and/or cloud components. on-premises software revenue is generally recognized at the point in time that the software is made available to the customer, while the support and cloud revenue components are recognized over the term of the contract. in cases where subscriptions include cloud functionality and on-premises software, an assessment has been performed to determine whether the cloud services are distinct from the on-premises software. in the substantial majority of instances, cloud services provide incremental functionality to customers and have been considered distinct and recognized separately from the on-premises software. this assessment could have a significant impact on the timing of revenue recognition and may change as our product offerings evolve.
+allocation of transaction price. we estimate the standalone selling price of each identified performance obligation and use that estimate to allocate the transaction price among said performance obligations. the estimated standalone selling price is determined using all information reasonably available to us, including market conditions and other observable inputs. significant judgment is used in determining the standalone selling prices of the on-premises license, support, and cloud components of our subscription products. these estimates are subject to change as our product offerings change and could have a significant impact due to the difference in the timing of revenue recognition for on-premises licenses and support and/or cloud.
+right to exchange. our multi-year, non-cancellable on-premises subscription contracts provide customers with an annual right to exchange software within the original subscription with other software. we account for this right as a refund liability. for most contracts, we use the expected value method to determine the refund liability associated with this right across a portfolio of contracts. where contracts are outside of the standard portfolio of contracts due to contract size, longer contract duration, or other unique contractual terms, we use the most likely amount method to determine the refund liability for each individual contract. in both circumstances, the transaction price is constrained based on our estimates, which impacts the amount of revenue recognized. changes in these estimates could significantly impact revenue for any given period.
+accounting for income taxes as part of the process of preparing our consolidated financial statements, we are required to calculate our income tax expense based on taxable income by jurisdiction. there are many transactions and calculations about which the ultimate tax outcome is uncertain; as a result, our calculations involve estimates by management. some of these uncertainties arise as a consequence of revenue-sharing, cost-reimbursement and transfer pricing arrangements among related entities and the differing tax treatment of revenue and cost items across various jurisdictions. if we were compelled to revise or to account differently for our arrangements, that revision could affect our recorded tax liabilities.
+the income tax accounting process also involves estimating our actual current tax liability, together with assessing temporary differences resulting from differing treatment of items for tax and accounting purposes. these differences result in deferred tax assets and liabilities, which are included within our
+29
+consolidated balance sheets. we must then assess the likelihood that our deferred tax assets will be recovered from future taxable income and, to the extent we believe that it is more likely than not that all or a portion of our deferred tax assets will not be realized, we must establish a valuation allowance as a charge to income tax expense.
+as of september 30, 2020, we have a valuation allowance of $171.3 million against net deferred tax assets in the u.s. and a valuation allowance of $34.1 million against net deferred tax assets in certain foreign jurisdictions. we have concluded, based on the weight of available evidence, that a full valuation allowance continues to be required against our u.s. net deferred tax assets as they are not more likely than not to be realized in the future. we will continue to reassess our valuation allowance requirements each financial reporting period.
+the valuation allowance recorded against net deferred tax assets of certain foreign jurisdictions is established primarily for our capital loss carryforwards, the majority of which do not expire. however, there are limitations imposed on the utilization of such capital losses that could further restrict the recognition of any tax benefits.
+prior to the passage of the u.s. tax act, the company asserted that substantially all of the undistributed earnings of its foreign subsidiaries were considered indefinitely invested and accordingly, no deferred taxes were provided. pursuant to the provisions of the u.s. tax act, these earnings were subjected to a one-time transition tax and there is therefore no longer a material cumulative basis difference associated with the undistributed earnings. we maintain our assertion to permanently reinvest these earnings outside the u.s. unless repatriation can be done substantially tax-free, with the exception of a foreign holding company formed in 2018 and our taiwan subsidiary. if we decide to repatriate any additional non-u.s. earnings in the future, we may be required to establish a deferred tax liability on such earnings. the amount of unrecognized deferred tax liability on the undistributed earnings would not be material.
+in the normal course of business, ptc and its subsidiaries are examined by various taxing authorities, including the internal revenue service (irs) in the u.s. we regularly assess the likelihood of additional assessments by tax authorities and provide for these matters as appropriate. we are currently under audit by tax authorities in several jurisdictions. audits by tax authorities typically involve examination of the deductibility of certain permanent items, transfer pricing, limitations on net operating losses and tax credits. although we believe our tax estimates are appropriate, the final determination of tax audits and any related litigation could result in material changes in our estimates.
+valuation of assets and liabilities acquired in business combinations in accordance with business combination accounting, we allocate the purchase price of acquired companies to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values. determining these fair values requires management to make significant estimates and assumptions, especially with respect to intangible assets.
+our identifiable intangible assets acquired consist of developed technology, core technology, tradenames, customer lists and contracts, and software support agreements and related relationships. developed technology consists of products that have reached technological feasibility. core technology represents a combination of processes, inventions and trade secrets related to the design and development of acquired products. customer lists and contracts and software support agreements and related relationships represent the underlying relationships and agreements with customers of the acquired company's installed base. we have generally valued intangible assets using a discounted cash flow model. critical estimates in valuing certain of the intangible assets include but are not limited to:
+•   future expected cash flows from software license sales, customer support agreements, customer contracts and related customer relationships and acquired developed technologies and trademarks and trade names and
+
+•   discount rates used to determine the present value of estimated future cash flows.
+
+30
+in addition, we estimate the useful lives of our intangible assets based upon the expected period over which we anticipate generating economic benefits from the related intangible asset.
+net tangible assets consist of the fair values of tangible assets less the fair values of assumed liabilities and obligations. except for deferred revenues, net tangible assets were generally valued by us at the respective carrying amounts recorded by the acquired company, if we believed that their carrying values approximated their fair values at the acquisition date. the values assigned to deferred revenue reflect an amount equivalent to the estimated cost plus an appropriate profit margin to perform the services related to the acquired company's software support contracts.
+in addition, uncertain tax positions and tax-related valuation allowances assumed in connection with a business combination are initially estimated as of the acquisition date and we reevaluate these items quarterly with any adjustments to our preliminary estimates being recorded to goodwill provided that we are within the measurement period (up to one year from the acquisition date) and we continue to collect information in order to determine their estimated values. subsequent to the measurement period or our final determination of the estimated value of uncertain tax positions or tax-related valuation allowances, whichever comes first, changes to these uncertain tax positions and tax-related valuation allowances will affect our provision for income taxes in our consolidated statements of operations.
+our estimates of fair value are based upon assumptions believed to be reasonable at that time, but which are inherently uncertain and unpredictable. assumptions may be incomplete or inaccurate, and unanticipated events and circumstances may occur, which may affect the accuracy or validity of such assumptions, estimates or actual results.
+when events or changes in circumstances indicate that the carrying value of a finite-lived intangible asset may not be recoverable, we perform an assessment of the asset for potential impairment. this assessment is based on projected undiscounted future cash flows over the asset's remaining life. if the carrying value of the asset exceeds its undiscounted cash flows, we record an impairment loss equal to the excess of the carrying value over the fair value of the asset, determined using projected discounted future cash flows of the asset.
+liquidity and capital resources
+(in millions)                                    september 30,
+
+2020                    2019
+cash and cash equivalents                                   $275.5                   $269.6
+restricted cash                                                0.5                      1.1
+marketable securities                                         59.1                     57.4
+total                                                       $335.1                   $328.1
+activity for the year included the following:
+cash provided by operating activities                       $233.8                   $285.1
+cash used in investing activities                           (526.0    )              (150.0   )
+cash provided by (used in) financing activities              297.4                   (123.0   )
+cash, cash equivalents and restricted cash we invest our cash with highly rated financial institutions and in diversified domestic and international money market mutual funds. cash and cash equivalents include highly liquid investments with original maturities of three months or less. in addition, we hold investments in marketable securities totaling approximately $59 million with an average maturity of 12 months. at september 30, 2020, cash and cash equivalents totaled $275 million, compared to $270 million at september 30, 2019.
+a significant portion of our cash is generated and held outside the u.s. as of september 30, 2020, we had cash and cash equivalents of $39 million in the u.s., $108 million in europe, $99 million in asia pacific (including india) and $29 million in other non-u.s. countries. all our marketable securities are held in the u.s. we have substantial cash requirements in the u.s., but we believe that the combination of our existing u.s. cash and cash equivalents, marketable securities, our ability to repatriate cash to the u.s. more cost effectively with the recent u.s. tax law changes, future u.s. operating cash flows and cash available under our credit facility will be sufficient to meet our ongoing u.s. operating expenses and known capital requirements.
+31
+cash provided by operating activities cash provided by operating activities was $234 million in fy'20 compared to $285 million in fy'19. the year-over-year decrease is primarily due to a $20 million increase in interest payments, a $17 million increase in restructuring payments, an $12 million decrease in tenant improvement reimbursements related to our seaport facility, and an increase in tax payments, offset by higher cash collections of accounts receivable.
+restructuring payments totaled $42 million in fy'20, compared to $25 million in fy'19. cash paid for income taxes was $53 million in fy'20 compared to $39 million in fy'19.
+cash used in investing activities
+(in millions)                                             year ended september 30,
+
+2020                       2019
+additions to property and equipment                                           $(20.2             )          $(64.4         )
+proceeds (purchases) of short- and long-term marketable securities, net                (1.8      )                  (1.1   )
+acquisitions of businesses, net of cash acquired                                     (483.5      )                 (86.7   )
+purchases of investments                                                                  -                         (7.5   )
+purchase of intangible assets                                                         (11.1      )                     -
+settlement of net investment hedges                                                    (9.4      )          9.7
+net cash used in investing activities                                         $(526.0            )          $(150.0        )
+cash used in investing activities reflects $483 million used for acquisitions in fy'20 ($469 million of which related to onshape), compared to $87 million in fy'19. for additional detail on our acquisitions, see note 6. acquisitions, included in the notes to consolidated financial statements in this annual report. our expenditures for property and equipment consist primarily of facility improvements (including our construction expenses for our new seaport headquarters in fy'19), office equipment, computer equipment, and software.
+cash provided by financing activities
+(in millions)                                           year ended september 30,
+
+2020                      2019
+borrowings (payments) on debt, net                                              $344.9                         $25.0
+repurchases of common stock                                                          -                        (115.0   )
+proceeds from issuance of common stock                                            18.3                          13.0
+debt issuance costs                                                              (17.1      )                      -
+contingent consideration                                                             -                          (1.6   )
+debt early redemption premium                                                    (15.0      )                      -
+payments of withholding taxes in connection with stock-based awards              (33.7      )                  (44.4   )
+net cash provided by (used in) financing activities                             $297.4                       $(123.0   )
+our net borrowings in fy'20 of $345 million were primarily used to fund the onshape acquisition. these net borrowings reflect the issuance of $1 billion in new notes in february 2020 and the repayment of $500 million of earlier issued notes in may 2020, as well as net repayments of $155 million under our revolving credit facility. in fy'19, net borrowings under the credit facility were $25 million, used to fund working capital requirements and the frustum acquisition.
+32
+outstanding debt as of september 30, 2020, we had:
+(in millions)                              september 30, 2020
+
+4.000% senior notes due 2028                                                    $500.0
+3.625% senior notes due 2025                                                     500.0
+credit facility revolver                                                          18.0
+total debt                                                                     1,018.0
+unamortized debt issuance costs for the senior notes                             (12.7   )
+total debt, net of issuance costs                                             $1,005.3
+undrawn under credit facility revolver                                          $982.0
+undrawn under credit facility revolver available for borrowing                  $956.5
+as of september 30, 2020, we were in compliance with all financial and operating covenants of the credit facility and the note indentures. any failure to comply with such covenants under the credit facility would prevent us from being able to borrow additional funds under the credit facility, and, as with any failure to comply with such covenants under the note indentures, could constitute a default that could cause all amounts outstanding to become due and payable immediately.
+our credit facility and our senior notes are described in note 9. debt to the condensed consolidated financial statements in this form 10-k.
+share repurchase authorization our articles of organization authorize us to issue up to 500 million shares of our common stock. we used cash from operations and borrowings under our credit facility to make such repurchases in fy'19. all shares of our common stock repurchased are automatically restored to the status of authorized and unissued.
+on november 13, 2020, the board of directors authorized us to repurchase $1 billion of our common stock through september 30, 2023. we may use cash from operations and borrowings under our credit facility to make any such repurchases.
+expectations for fiscal 2021
+we believe that existing cash and cash equivalents, together with cash generated from operations and amounts available under the credit facility, will be sufficient to meet our working capital and capital expenditure requirements (which we expect to be approximately $25 million in fy'21) through at least the next twelve months and to meet our known long-term capital requirements.
+our expected uses and sources of cash could change, payments due to us may be delayed due to the covid-19 pandemic, our cash position could be reduced, and we could incur additional debt obligations if we decide to retire debt, engage in strategic transactions, or repurchase shares, any of which could be commenced, suspended or completed at any time. any such repurchases or retirement of debt will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors. the amounts involved in any debt retirement or issuance, share repurchases, or strategic transactions may be material.
+33
+contractual obligations at september 30, 2020, our contractual obligations were as follows:
+(in millions)                                                  payments due by period
+
+total             less than             1-3 years             3-5 years             more than
+1 year                                                           5 years debt(1)                           $1,260.2                 $58.6                 $81.1                $570.5                $550.0
+operating leases(2)                  305.1                  44.7                  53.3                  36.8                 170.3
+purchase obligations(3)              100.9                  53.4                  44.8                   2.0                   0.7
+pension liabilities(4)                25.8                   3.8                   8.4                   9.5                   4.1
+unrecognized tax benefits(5)          16.1
+total                             $1,708.1                $160.5                $187.6                $618.8                $725.1
+(1)   includes required principal repayments and interest and commitment fees on our senior notes and our revolving credit facility based on the balance outstanding as of september 30, 2020 and the interest rates in effect as of september 30, 2020 (4.000% and 3.625% for the 2028 and 2025 senior notes, respectively, and 1.81% for our revolving credit facility). the credit facility matures on february 13, 2025, when all remaining amounts outstanding will be due and payable in full. principal and interest on any additional borrowing that may be required to refinance the credit facility upon its maturity are not included in the contractual obligations above.
+
+(2)   the future minimum lease payments above include minimum future lease payments for facilities under non-cancellable operating leases with original terms of greater than 12 months. see note 19. leases of notes to consolidated financial statements in this annual report for further discussion.
+
+(3)   purchase obligations represent minimum commitments due to third parties, including royalty contracts, research and development contracts, telecommunication contracts, information technology maintenance contracts in support of internal-use software and hardware, financing leases, operating leases with original terms of less than 12 months, and other marketing and consulting contracts. contracts for which our commitment is variable, based on volumes, with no fixed minimum quantities, and contracts that can be canceled without payment penalties have been excluded. the purchase obligations included above are in addition to amounts included in current liabilities and prepaid expenses recorded on our september 30, 2020 consolidated balance sheet.
+
+(4)   these obligations relate to our international pension plans and are not subject to fixed payment terms. payments have been estimated based on the plans' current funded status, planned employer contributions and actuarial assumptions. in addition, we may, at our discretion, make additional voluntary contributions to the plans. see note 14. pension plans of notes to consolidated financial statements in this annual report for further discussion.
+
+(5)   this liability, recorded on the consolidated balance sheet, is not subject to fixed payment terms and the amount and timing of payments, if any, which we will make related to this liability, are not known. see note 8. income taxes of notes to consolidated financial statements in this annual report for additional information.
+
+as of september 30, 2020, we had letters of credit and bank guarantees outstanding of approximately $16.4 million (of which $0.5 million was collateralized).
+off-balance sheet arrangements we have not created, and are not party to, any special-purpose or off-balance sheet entities for the purpose of raising capital, incurring debt or operating parts of our business that are not consolidated (to the extent of our ownership interest therein) into our financial statements. we have not entered into any transactions with unconsolidated entities whereby we have subordinated retained interests, derivative instruments or other contingent arrangements that expose us to material continuing risks, contingent liabilities, or any other obligation under a variable interest in an unconsolidated entity that provides financing, liquidity, market risk or credit risk support to us.
+recent accounting pronouncements in accordance with recently issued accounting pronouncements, we will be required to comply with certain changes in accounting rules and regulations, none of which are expected to have a material impact on our consolidated financial statements. refer to note 2. summary of significant accounting policies to the condensed consolidated financial statements in this form 10-k for all recently issued accounting pronouncements, which is incorporated herein by reference.
+34

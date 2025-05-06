@@ -1,0 +1,322 @@
+item 7. management's discussion and analysis of financial condition and results of operations financial presentation revenue from our cruise and cruise-related activities are categorized by us as "passenger ticket revenue" and "onboard and other revenue." passenger ticket revenue and onboard and other revenue vary according to product offering, the size of the ship in operation, the length of cruises operated and the markets in which the ship operates. our revenue is seasonal based on demand for cruises, which has historically been strongest during the summer months.
+passenger ticket revenue primarily consists of revenue for accommodations, meals in certain restaurants on the ship, certain onboard entertainment, and includes revenue for service charges and air and land transportation to and from the ship to the extent guests purchase these items from us. onboard and other revenue primarily consists of revenue from gaming, beverage sales, shore excursions, specialty dining, retail sales, spa services, photo services as well as charter revenue. we record onboard revenue from onboard activities we perform directly or that are performed by independent concessionaires, from which we receive a share of their revenue.
+our cruise operating expense is classified as follows:
+•       commissions, transportation and other primarily consists of direct costs associated with passenger ticket revenue. these costs include travel agent commissions, air and land transportation expenses, related credit card fees, costs associated with service charges, certain port expenses and the costs associated with shore excursions and hotel accomodations included as part of the overall cruise purchase price.
+
+•   onboard and other primarily consists of direct costs that are incurred in connection with onboard and other revenue. these include costs incurred in connection with shore excursions, beverage sales and gaming.
+
+•   payroll and related consists of the cost of wages and benefits for shipboard employees and costs for a third party that provides crew and other services for certain of our ships.
+
+•   fuel includes fuel costs, the impact of certain fuel hedges and fuel delivery costs.
+
+•   food consists of food costs for passengers and crew.
+
+•   other consists of repairs and maintenance (including dry-dock costs), ship insurance, charter costs and other ship expenses.
+
+critical accounting policies our consolidated financial statements have been prepared in accordance with u.s. gaap. the preparation of these consolidated financial statements requires us to make estimates, judgments and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of our consolidated financial statements and the reported amounts of revenue and expenses during the periods presented. we rely on historical experience and on various other assumptions that we believe to be reasonable under the circumstances to make these estimates and judgments. actual results could differ materially from these estimates. we believe that the following critical accounting policies reflect the significant estimates and assumptions used in the preparation of our consolidated financial statements. these critical accounting policies, which are presented in detail in our notes to our audited consolidated financial statements, relate to ship accounting, asset impairment and contingencies.
+ship accounting ships represent our most significant assets, and we record them at cost less accumulated depreciation. depreciation of ships is computed on a straight-line basis over the estimated service lives of primarily 30 years after a 15% reduction for the estimated residual value of the ship. improvement costs that we believe add value to our ships are capitalized to the ship and depreciated over the improvements' estimated useful lives. repairs and maintenance activities are charged to expense as incurred. we account for dry-dock costs under the direct expense method which requires us to expense all dry-dock costs as incurred.
+we determine the useful life of our ships based primarily on our estimates of the average useful life of the ships' major component systems, such as cabins, main diesels, main electric, superstructure and hull. in addition, we consider the impact of anticipated changes in the vacation market and technological conditions and historical useful lives of similarly-built ships. given the large and complex nature of our ships, our accounting estimates related to ships and determinations of ship improvement costs to be capitalized require considerable judgment and are inherently uncertain. should certain factors or circumstances cause us to revise our estimate of ship service lives or projected residual values, depreciation expense could be materially lower or higher. if circumstances cause us to change our assumptions in making determinations as to whether ship improvements should be capitalized, the amounts we expense each year as repairs and maintenance costs could increase, partially offset by a decrease in depreciation expense. if we reduced our estimated average 30-year ship service life by one year, depreciation expense for the year ended december 31, 2014 would have
+39
+
+increased by $7.3 million. in addition, if our ships were estimated to have no residual value, depreciation expense for the same period would have increased by $36.5 million. we believe our estimates for ship accounting are reasonable and our methods are consistently applied. we believe that depreciation expense is based on a rational and systematic method to allocate our ships' costs to the periods that benefit from the ships' usage.
+asset impairment we review our long-lived assets, principally ships, for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. assets are grouped and evaluated at the lowest level for which there are identifiable cash flows that are largely independent of the cash flows of other groups of assets. we consider historical performance and future estimated results in our evaluation of potential impairment and then compare the carrying amount of the asset to the estimated future cash flows expected to result from the use of the asset. if the carrying amount of the asset exceeds the estimated expected undiscounted future cash flows, we measure the amount of the impairment by comparing the carrying amount of the asset to its fair value. we estimate fair value based on the best information available making whatever estimates, judgments and projections considered necessary. the estimation of fair value is generally measured by discounting expected future cash flows at discount rates commensurate with the risk involved.
+goodwill and other indefinite-lived assets, principally tradenames, are reviewed for impairment on an annual basis or earlier if there is an event or change in circumstances that would indicate that the carrying value of these assets could not be fully recovered.
+we believe our estimates and judgments with respect to our long-lived assets, principally ships, and goodwill and other indefinite-lived intangible assets are reasonable. nonetheless, if there was a material change in assumptions used in the determination of such fair values or if there is a material change in the conditions or circumstances that influence such assets, we could be required to record an impairment charge. as of december 31, 2014, our annual review supports the carrying value of these assets.
+contingencies periodically, we assess potential liabilities related to any lawsuits or claims brought against us or any asserted claims, including tax, legal and/or environmental matters. although it is typically very difficult to determine the timing and ultimate outcome of such actions, we use our best judgment to determine if it is probable that we will incur an expense related to the settlement or final adjudication of such matters and whether a reasonable estimation of such probable loss, if any, can be made. in assessing probable losses, we take into consideration estimates of the amount of insurance recoveries, if any. in accordance with the guidance on accounting for contingencies, we accrue a liability when we believe a loss is probable and the amount of loss can be reasonably estimated. due to the inherent uncertainties related to the eventual outcome of litigation and potential insurance recoveries, although we believe that our estimates and judgments are reasonable, it is possible that certain matters may be resolved for amounts materially different from any estimated provisions or previous disclosures.
+non-gaap financial measures we use certain non-gaap financial measures, such as net revenue, adjusted net revenue, net yield, adjusted net yield, net cruise cost, adjusted net cruise cost excluding fuel, adjusted ebitda, adjusted net income and adjusted eps, to enable us to analyze our performance. see "terms used in this annual report" for the definition of these non-gaap financial measures. we utilize net revenue and net yield to manage our business on a day-to-day basis and believe that they are the most relevant measures of our revenue performance because they reflect the revenue earned by us net of significant variable costs. in measuring our ability to control costs in a manner that positively impacts net income, we believe changes in net cruise cost and adjusted net cruise cost excluding fuel to be the most relevant indicators of our performance.
+as our business includes the sourcing of passengers and deployment of vessels outside of north america, a portion of our revenue and expenses are denominated in foreign currencies, particularly euro and british pound sterling, which are subject to fluctuations in currency exchange rates versus our reporting currency, the u.s. dollar. in order to monitor results excluding these fluctuations, we calculate certain non-gaap measures on a constant currency basis whereby current period revenue and expenses denominated in foreign currencies are converted to u.s. dollars using currency exchange rates of the comparable period. we believe that presenting these non-gaap measures on both a reported and constant currency basis is useful in providing a more comprehensive view of trends in our business.
+we believe that adjusted ebitda is appropriate as a supplemental financial measure as it is used by management to assess operating performance. we believe that adjusted ebitda is a useful measure in determining the company's performance as it reflects certain operating drivers of the company's business, such as sales growth, operating costs, marketing, general and administrative expense and other operating income and expense. adjusted ebitda is not a defined term under gaap. adjusted ebitda is not intended to be a measure of liquidity or cash flows from operations or a measure comparable to net income as it does not take into account certain requirements such as capital expenditures and related depreciation, principal and interest payments and tax payments and it includes other supplemental adjustments.
+40
+
+in addition, adjusted net income and adjusted eps are non-gaap financial measures that exclude certain charges and are used to supplement gaap net income and eps. we use adjusted net income and adjusted eps as key performance measures of our earnings performance, and we believe that both management and investors benefit from referring to these non-gaap financial measures in assessing our performance and when planning, forecasting, and analyzing future periods. these non-gaap financial measures also facilitate management's internal comparison to our historical performance. the charges excluded in the presentation of adjusted net income and adjusted eps may vary from period to period; accordingly, our presentation of adjusted net income and adjusted eps may not be indicative of future adjustments or results.
+you are encouraged to evaluate each adjustment used in calculating our non-gaap financial measures and the reasons we consider our non-gaap financial measures appropriate for supplemental analysis. in evaluating our non-gaap financial measures, you should be aware that in the future we may incur expenses similar to the adjustments in our presentation. our non-gaap financial measures have limitations as analytical tools, and you should not consider these measures in isolation or as a substitute for analysis of our results as reported under gaap. our presentation of our non-gaap financial measures should not be construed as an inference that our future results will be unaffected by unusual or non-recurring items. our non-gaap financial measures may not be comparable to other companies. please see a historical reconciliation of these measures to the most comparable gaap measure presented in our consolidated financial statements below in the "results of operations" section.
+summary of significant 2014 events
+·   in january, we took delivery of norwegian getaway.
+
+·   in march, we completed a secondary equity offering resulting in the sale of 15,000,000 ordinary shares of nclh by the selling shareholders.
+
+·   in april, nclh's board of directors authorized, and nclh announced, a three-year share repurchase program for up to $500.0
+million.
+
+·   in july, we entered into agreements with meyer werft for two additional breakaway plus class ships for delivery in the spring of 2018 and the fall of 2019.
+
+·   in september, nclh entered into the merger agreement to acquire prestige.
+
+·   in november, we completed the acquisition of prestige.
+
+·       in november, we purchased a ship from a third party to join the oceania fleet which will be named sirena. after its current charter ends in march 2016, we will extensively refurbish the ship to oceania standards and it will be a sister ship to the r-class ships.
+
+·                                         in december, an incident onboard oceania's insignia resulted in the cancellation of certain voyages. repairs on the ship are on schedule for a return to service in march 2015. this resulted in a reduction to diluted eps for the full year 2014 of $0.02.
+
+the acquisition of prestige is expected to positively impact passenger ticket revenue and, to a lesser extent, onboard and other revenue from the addition of prestige's eight ships which command premium pricing as a result of their upper premium and luxury product offerings.
+executive overview total revenue increased 21.6% to $3.1 billion for the year ended december 31, 2014 compared to $2.6 billion for the year ended december 31, 2013. net revenue for the year ended december 31, 2014 increased 25.0% to $2.4 billion from $1.9 billion in the same period in 2013 with an improvement in both net yield of 4.3% and capacity days of 19.8%.
+for the year ended december 31, 2014, we had net income attributable to nclh and diluted eps of $338.4 million and $1.62, respectively. operating income increased 27.0% to $502.9 million for the year ended december 31, 2014 from $395.9 million for the year ended december 31, 2013.
+we had adjusted net income and adjusted eps of $480.6 million and $2.27, respectively, for the year ended december 31, 2014, which includes $138.0 million of adjustments primarily consisting of $57.5 million of expenses related to the acquisition of prestige, $28.3 million of expenses related to non-cash compensation, $15.4 million of expenses related to financing transactions in conjunction with the acquisition of prestige, $13.0 million related to the fair value adjustment of deferred revenue and $12.6 million related to the amortization of intangible assets. a 35.6% improvement in adjusted ebitda was achieved for the same period primarily due to the increase in net income. we refer you to our "results of operations" below for a calculation of net revenue, net yield, adjusted net income, adjusted eps and adjusted ebitda.
+41
+
+results of operations we reported total revenue, total cruise operating expense, operating income and net income as follows (in thousands, except per share data):
+year ended december 31,
+
+2014                    2013                    2012
+total revenue                                                           $3,125,881              $2,570,294              $2,276,246
+total cruise operating expense                                          $1,946,624              $1,657,659              $1,478,433
+operating income                                                          $502,941                $395,887                $357,093
+net income attributable to norwegian cruise line holdings ltd.            $338,352                $101,714                $168,556
+eps:
+basic                                                                        $1.64                   $0.50                   $0.95
+diluted                                                                      $1.62                   $0.49                   $0.94
+the following table sets forth operating data as a percentage of total revenue:
+year ended december 31,
+
+2014                 2013                   2012
+revenue passenger ticket                                                          70.8    %              70.6    %             70.5    %
+onboard and other                                                         29.2    %              29.4    %             29.5    %
+total revenue                                                            100.0    %             100.0    %            100.0    %
+cruise operating expense commissions, transportation and other                                     16.1    %              17.7    %             18.0    %
+onboard and other                                                          7.2    %               7.6    %              7.7    %
+payroll and related                                                       14.5    %              13.3    %             12.9    %
+fuel                                                                      10.4    %              11.8    %             12.5    %
+food                                                                       5.4    %               5.3    %              5.5    %
+other                                                                      8.7    %               8.8    %              8.4    %
+total cruise operating expense                                            62.3    %              64.5    %             65.0    %
+other operating expense marketing, general and administrative                                     12.9    %              11.7    %             11.0    %
+depreciation and amortization                                              8.7    %               8.4    %              8.3    %
+total other operating expense                                             21.6    %              20.1    %             19.3    %
+operating income                                                          16.1    %              15.4    %             15.7    %
+non-operating income (expense)
+interest expense, net                                                     (4.9   )%             (11.0   )%             (8.3   )%
+other income (expense)                                                    (0.3   )%               0.1    %                -    %
+total non-operating income (expense)                                      (5.2   )%             (10.9   )%             (8.3   )%
+net income before income taxes                                            10.9    %               4.5    %              7.4    %
+income tax benefit (expense)                                               0.1    %              (0.5   )%                -    %
+net income                                                                11.0    %               4.0    %              7.4    %
+net income attributable to non-controlling interest                        0.1    %                 -    %                -    %
+net income attributable to norwegian cruise line holdings ltd.            10.9    %               4.0    %              7.4    %
+42
+
+due to the abbreviated period of consolidation of prestige's results, certain metrics are presented both on an as reported basis and a basis excluding the results of prestige ("norwegian stand-alone").
+the following table sets forth selected statistical information:
+year ended december 31,
+
+2014                                                    2013                        2012
+as                          norwegian                    as                          as reported                    stand-alone                  reported                    reported passengers carried                 2,133,981                    2,118,438                   1,628,278                   1,503,107
+passenger cruise days             13,634,200                   13,403,000                  11,400,906                  10,332,914
+capacity days                     12,512,459                   12,252,155                  10,446,216                   9,602,730
+occupancy percentage       109.0               %       109.4                %       109.1               %       107.6               %
+net revenue, adjusted net revenue, gross yield, net yield and adjusted net yield were calculated as follows (in thousands, except capacity days and yield data):
+year ended december 31,
+
+2014                                                                                2013                        2013                           2012
+as                  norwegian                     norwegian                          as                             as                         as reported                stand-alone                   stand-alone                    reported                       reported                   reported constant currency                                          constant currency passenger                                $2,212,547                 $2,116,004                    $2,117,499                  $1,815,869                     $1,814,397                 $1,604,563
+ticket revenue onboard and other revenue                   913,334                    898,182                       898,528                     754,425                        754,425                    671,683
+total revenue                             3,125,881                  3,014,186                     3,016,027                   2,570,294                      2,568,822                  2,276,246
+less:
+commissions, transportation                 503,722                    471,981                       474,466                     455,816                        455,286                    410,531
+and other expense onboard and other expense                   224,000                    218,033                       218,379                     195,526                        195,526                    173,916
+net revenue                               2,398,159                  2,324,172                     2,323,182                   1,918,952                      1,918,010                  1,691,799
+non-gaap adjustment:
+deferred revenue (1)                         10,052                          -                             -                           -                              -                          -
+adjusted net revenue                     $2,408,211                 $2,324,172                    $2,323,182                  $1,918,952                     $1,918,010                 $1,691,799
+capacity days                            12,512,459                 12,252,155                    12,252,155                  10,446,216                     10,446,216                  9,602,730
+gross yield                                 $249.82                    $246.01                       $246.16                     $246.05                        $245.91                    $237.04
+net yield                                   $191.66                    $189.69                       $189.61                     $183.70                        $183.61                    $176.18
+adjusted net yield                          $192.47                    $189.69                       $189.61                     $183.70                        $183.61                    $176.18
+(1)   reflects deferred revenue fair value adjustments totaling $10.1 million related to the acquisition of prestige that were made pursuant to business combination accounting rules.
+
+43
+
+gross cruise cost, net cruise cost, net cruise cost excluding fuel and adjusted net cruise cost excluding fuel were calculated as follows (in thousands, except capacity days and per capacity day data):
+year ended december 31,
+
+2014                                                                                2013                        2013                           2012
+as                  norwegian                     norwegian                          as                             as                         as reported                stand-alone                   stand-alone                    reported                       reported                   reported constant currency                                          constant currency total cruise                                               $1,946,624                 $1,863,781                    $1,864,814                  $1,657,659                     $1,655,971                 $1,478,433
+operating expense marketing, general and                                        403,169                    374,630                       374,080                     301,155                        300,719                    251,183
+administrative expense gross cruise cost                                           2,349,793                  2,238,411                     2,238,894                   1,958,814                      1,956,690                  1,729,616
+less:
+commissions, transportation                                   503,722                    471,981                       474,466                     455,816                        455,286                    410,531
+and other expense onboard and other expense                                     224,000                    218,033                       218,379                     195,526                        195,526                    173,916
+net cruise cost                                             1,622,071                  1,548,397                     1,546,049                   1,307,472                      1,305,878                  1,145,169
+less: fuel expense                                            326,231                    315,345                       315,345                     303,439                        303,439                    283,678
+net cruise cost excluding                                   1,295,840                  1,233,052                     1,230,704                   1,004,033                      1,002,439                    861,491
+fuel less non-gaap adjustments:
+non-cash share-based compensation related to                        -                          -                             -                      18,527                         18,527                          -
+the ipo (1)
+non-cash compensation payroll and related (2)                   7,693                      7,693                         7,693                           -                              -                          -
+non-cash share-based compensation (3)                          20,627                     20,627                        20,627                       8,898                          8,898                          -
+secondary equity offerings' expenses (4)                        2,075                      2,075                         2,075                       2,251                          2,251                          -
+acquisition expenses (5)                                       57,513                     48,566                        48,566                           -                              -                          -
+other (6)                                                       3,804                      3,804                         3,804                       3,373                          3,373                          -
+adjusted net cruise cost                                   $1,204,128                 $1,150,287                    $1,147,939                    $970,984                       $969,390                   $861,491
+excluding fuel capacity days                                              12,512,459                 12,252,155                    12,252,155                  10,446,216                     10,446,216                  9,602,730
+gross cruise cost per                                         $187.80                    $182.70                       $182.73                     $187.51                        $187.31                    $180.12
+capacity day net cruise cost per capacity                                  $129.64                    $126.38                       $126.19                     $125.16                        $125.01                    $119.25
+day net cruise cost excluding                                     $103.56                    $100.64                       $100.45                      $96.11                         $95.96                     $89.71
+fuel per capacity day adjusted net cruise cost                                       $96.23                     $93.88                        $93.69                      $92.95                         $92.80                     $89.71
+excluding fuel per capacity day
+(1)   non-cash share-based compensation expenses related to the ipo, which are included in marketing, general and administrative expense.
+
+(2)   non-cash compensation expenses related to the crew pension plan, which are included in payroll and related expense.
+
+(3)   non-cash share-based compensation expenses related to equity grants, which are included in marketing, general and administrative expense.
+
+(4)   expenses related to the secondary equity offerings, which are included in marketing, general and administrative expense.
+
+(5)   expenses related to the acquisition of prestige, including legal, accounting and consulting services, as well as integration and severance costs, which are included in marketing, general and administrative expense.
+
+(6)   primarily expenses related to the corporate reorganization and the settlement of a 2007 breach of contract claim, which are included in marketing, general and administrative expense.
+
+44
+
+adjusted net income and adjusted eps were calculated as follows (in thousands, except share and per share data):
+year ended december 31,
+
+2014                                                      2013                         2012
+as                     norwegian                           as                           as reported                   stand-alone                     reported                     reported net income attributable to norwegian cruise line holdings ltd.                $338,352                      $369,724                     $101,714                     $168,556
+net income attributable to non-controlling interest                              4,249                         4,249                        1,172                            -
+net income                                                                     342,601                       373,973                      102,886                      168,556
+non-gaap adjustments:
+non-cash share-based compensation related to the ipo (1)                             -                             -                       18,527                        4,500
+non-cash compensation payroll and related (2)                                    7,693                         7,693                            -                            -
+non-cash share-based compensation (3)                                           20,627                        20,627                        9,408                            -
+taxes related to changes in corporate structure                                  5,247                         5,247                           (5   )                        -
+(4)
+secondary equity offerings' expenses (5)                                         2,075                         2,075                        2,251                            -
+debt related expenses (6)                                                       15,397                        23,762                      160,573                            -
+acquisition expenses (7)                                                        57,513                        48,566                            -                            -
+deferred revenue (8)                                                            13,004                             -                            -                            -
+amortization of intangible assets (9)                                           12,600                             -                            -                            -
+other (10)                                                                       3,804                         3,804                        2,150                            -
+adjusted net income                                                           $480,561                      $485,747                     $295,790                     $173,056
+diluted weighted-average shares outstanding                                212,017,784                   209,684,848                  209,239,484                  179,023,683
+diluted eps                                                                      $1.62                         $1.78                        $0.49                        $0.94
+adjusted eps                                                                     $2.27                         $2.32                        $1.41                        $0.97
+(1)   non-cash share-based compensation expenses related to the ipo, which are included in marketing, general and administrative expense.
+
+(2)   non-cash compensation expenses related to the crew pension plan, which are included in payroll and related expense.
+
+(3)   non-cash share-based compensation expenses related to equity grants, which are included in marketing, general and administrative expense.
+
+(4)   taxes related to the corporate reorganization, which are included in income tax benefit (expense).
+
+(5)   expenses related to the secondary equity offerings, which are included in marketing, general and administrative expense.
+
+(6)            write-off of deferred financing fees, premiums paid and other expenses related to prepayments of debt, which are included in interest expense, net.
+
+(7)   expenses related to the acquisition of prestige, including legal, accounting and consulting services, as well as integration and severance costs, which are included in marketing, general and administrative expense.
+
+(8)   deferred revenue fair value adjustments related to the acquisition of prestige that were made pursuant to business combination accounting rules, which are primarily included in net revenue.
+
+(9)   amortization of intangible assets related to the acquisition of prestige, which are included in depreciation and amortization expense.
+
+(10)   primarily expenses related to the corporate reorganization and the settlement of a 2007 breach of contract claim, which are included in marketing, general and administrative expense.
+
+45
+
+ebitda and adjusted ebitda was calculated as follows (in thousands):
+year ended december 31,
+
+2014                                             2013                      2012
+as                norwegian               as reported                       as reported              stand-alone                                           reported net income attributable to norwegian cruise line holdings ltd.            $338,352                 $369,724                  $101,714                 $168,556
+interest expense, net                                                      151,754                  150,871                   282,602                  189,930
+income tax expense (benefit)                                                (2,267   )               (2,279   )                11,802                      706
+depreciation and amortization expense                                      273,147                  253,153                   215,593                  189,537
+ebitda                                                                     760,986                  771,469                   611,711                  548,729
+net income attributable to non-controlling interest                          4,249                    4,249                     1,172                        -
+other (income) expense                                                      10,853                       57                    (1,403   )               (2,099   )
+non-cash share-based compensation related to the ipo (1)                         -                        -                    18,527                        -
+non-cash compensation payroll and related (2)                                7,693                    7,693                         -                        -
+non-cash share-based compensation (3)                                       20,627                   20,627                    11,623                    9,004
+secondary equity offerings' expenses (4)                                     2,075                    2,075                     2,251                        -
+acquisition expenses (5)                                                    57,513                   48,566                         -                        -
+deferred revenue (6)                                                        10,052                        -                         -                        -
+other (7)                                                                    3,804                    3,804                     3,314                        -
+adjusted ebitda                                                           $877,852                 $858,540                  $647,195                 $555,634
+(1)   non-cash share-based compensation expenses related to the ipo, which are included in marketing, general and administrative expense.
+
+(2)   non-cash compensation expenses related to the crew pension plan, which are included in payroll and related expense.
+
+(3)   non-cash share-based compensation expenses related to equity grants, which are included in marketing, general and administrative expense.
+
+(4)   expenses related to the secondary equity offerings, which are included in marketing, general and administrative expense.
+
+(5)   expenses related to the acquisition of prestige, including legal, accounting and consulting services, as well as integration and severance costs, which are included in marketing, general and administrative expense.
+
+(6)   deferred revenue fair value adjustments related to the acquisition of prestige that were made pursuant to business combination accounting rules, which are included in net revenue.
+
+(7)   primarily expenses related to the corporate reorganization and the settlement of a 2007 breach of contract claim, which are included in marketing, general and administrative expense.
+
+year ended december 31, 2014 ("2014") compared to year ended december 31, 2013 ("2013")
+revenue total revenue increased 21.6% to $3.1 billion in 2014 compared to $2.6 billion in 2013. net revenue increased 25.0% in 2014, primarily due to an increase in capacity days of 19.8%. the increase in capacity days was primarily due to the delivery of norwegian breakaway in april 2013 and norwegian getaway in january 2014. the net yield improvement of 4.3% was due to higher net ticket and net onboard and other revenue. adjusted net revenue excludes a deferred revenue fair value adjustment of $10.1 million related to the acquisition of prestige. the improvement in adjusted net yield was primarily the result of a 3.3% increase in norwegian stand-alone net yield (3.2% on a constant currency basis) and partially due to the addition of prestige's brands to the fleet.
+expense total cruise operating expense increased 17.4% in 2014 compared to 2013 primarily due to the increase in capacity days as discussed above. total other operating expense increased 30.9% in 2014 compared to 2013 primarily due to transaction expenses related to the acquisition of prestige and certain inaugural and launch-related costs for norwegian getaway and an increase in depreciation and amortization expense related to the addition of norwegian breakaway and norwegian getaway. on a capacity day basis, net cruise cost increased 3.6% due to the increase in expenses explained above partially offset by a decrease in fuel expense. the fuel price per metric ton, excluding the impact of hedges was $605 in 2014 compared to $686 in 2013. we experienced a negative impact in 2014 of $10.3 million on our hedge portfolio due to recent reductions in fuel prices compared to a benefit of $4.7 million in 2013. net of hedges, fuel price per metric ton decreased to $625 in 2014 compared to $675 in 2013. the company's fuel consumption per capacity day decreased 3.1%. on a capacity day basis, net cruise cost excluding fuel increased 7.8% primarily due to costs related to the acquisition of prestige and certain general and administrative costs and adjusted net cruise cost excluding fuel per capacity day
+46
+
+increased 3.5%. adjusted net cruise cost excluding fuel was relatively unchanged on a norwegian stand-alone constant currency basis.
+interest expense, net decreased to $151.8 million in 2014 from $282.6 million in 2013. interest expense, net for 2014 reflected an increase in average debt outstanding associated with newbuild financings and debt incurred in connection with the acquisition of prestige, partially offset by lower interest rates from the benefits from the redemption of higher rate debt and refinancing transactions. in addition, 2014 reflects $15.4 million of expenses related to financing transactions in conjunction with the acquisition of prestige while 2013 reflects $160.6 million of expenses associated with debt prepayments.
+in 2014 we had an income tax benefit of $2.3 million compared to an income tax expense of $11.8 million for 2013. during the fourth quarter of 2013, we completed the implementation of a global tax platform, which had a favorable impact on the amount of income subject to u.s. corporate tax. this favorable impact continued through calendar year 2014. in addition, during the first quarter of 2014, we received information which allowed us to elect a tax method to calculate deductible interest expense which resulted in a tax benefit of $11.1 million including a $5.3 million non-recurring benefit.
+year ended december 31, 2013 ("2013") compared to year ended december 31, 2012 ("2012")
+revenue total revenue increased 12.9% to $2.6 billion in 2013 compared to $2.3 billion in 2012. net revenue increased 13.4% in 2013, primarily due to an increase in capacity days of 8.8% related to the delivery of norwegian breakaway and an increase in net yield of 4.3%. the increase in net yield was due to an increase in passenger ticket pricing and higher onboard and other revenue, partially due to the introduction of norwegian breakaway to the fleet. on a constant currency basis, net yield increased 4.2% in 2013 compared to 2012.
+expense total cruise operating expense increased 12.1% in 2013 compared to 2012 primarily due to an increase in capacity days, expenses related to planned dry-docks and fuel expense, partially offset by the timing of certain expenses. the increase in fuel expense was primarily the result of a 1.7% increase in the average fuel price to $675 per metric ton in 2013 from $664 in 2012. total other operating expense increased 17.3% in 2013 compared to 2012 primarily due to non-cash expenses related to share-based compensation recognized upon the realization of our ipo, the timing of certain expenses and depreciation expense related to the addition of norwegian breakaway. on a capacity day basis, net cruise cost increased 5.0% on an as reported and 4.8% on a constant currency basis due to the expenses discussed above. adjusted net cruise cost excluding fuel per capacity day increased 3.6% and 3.4% on an as reported and constant currency basis, respectively, mainly due to the timing of certain expenses.
+interest expense, net increased to $282.6 million in 2013 from $189.9 million in 2012 primarily due to $160.6 million of expenses associated with debt prepayments partially offset by lower interest rates resulting from the benefits from the redemption of higher rate debt and refinancing transactions.
+income tax expense increased to $11.8 million in 2013 from $0.7 million in 2012 primarily due to the change in our u.s. tax status from a partnership to a corporation in connection with our ipo.
+liquidity and capital resources general as of december 31, 2014, our liquidity was $509.8 million consisting of $84.8 million in cash and cash equivalents and $425.0 million available under our revolving credit facility. our primary ongoing liquidity requirements are to finance working capital, capital expenditures and debt service.
+as of december 31, 2014, we had a working capital deficit of $1.8 billion. this deficit included $817.2 million of advance ticket sales, which represents the total revenue we collect in advance of sailing dates and accordingly are substantially more like deferred revenue balances rather than actual current cash liabilities. our business model, along with our revolving credit facility, allows us to operate with a working capital deficit and still meet our operating, investing and financing needs.
+our existing debt agreements restrict, and any of our future debt arrangements may restrict, among other things, the ability of our subsidiaries, including nclc, to pay distributions to nclh and our ability to pay cash dividends to our shareholders. we are a holding company and depend upon our subsidiaries for their ability to pay distributions to us to finance any dividend or pay any other obligations of nclh. however, we do not believe that these restrictions have had or are expected to have an impact on our ability to meet any cash obligations.
+47
+
+sources and uses of cash in this section, references to 2014 refer to the year ended december 31, 2014, references to 2013 refer to the year ended december 31, 2013 and references to 2012 refer to the year ended december 31, 2012.
+net cash provided by operating activities was $635.6 million in 2014 compared to $475.3 million in 2013 and $398.6 million in 2012. the change in net cash provided by operating activities in 2014 reflects net income in 2014 of $342.6 million compared to net income in 2013 of $102.9 million, as well as timing differences in cash receipts and payments relating to operating assets and liabilities. the net income in 2013 included fees of $124.2 million related to prepayment of debt and $11.4 million of deferred income taxes. the increase in net cash provided by operating activities in 2013 compared to 2012 was mainly due to timing differences in cash receipts and payments relating to operating assets and liabilities primarily with an increase in advance ticket sales. the 2012 balance included net income of $168.6 million and $6.0 million related to the premium received from the issuance of $100.0 million of senior unsecured notes.
+net cash used in investing activities was $1.9 billion in 2014, primarily due to payments related to (i) the acquisition of prestige (ii) the delivery of norwegian getaway, and (iii) our breakaway plus class ships and other ship improvements and shoreside projects. net cash used in investing activities was $894.9 million in 2013, primarily related to the payments for construction and delivery of norwegian breakaway and construction of norwegian getaway, as well as other ship improvements and shoreside projects. net cash used in investing activities was $303.8 million in 2012, primarily related to payments for construction of norwegian breakaway and norwegian getaway, the purchase of norwegian sky, and other ship improvements and shoreside projects.
+net cash provided by financing activities was $1.3 billion in 2014, primarily due to borrowings of an incremental $700.0 million under our $1,375.0 million term loan facility, an additional $350.0 million on our $350.0 million senior secured term loan facility and borrowings under the breakaway two loan and credit facilities related to our breakaway plus class ships partially offset by repayments of our revolving credit facility and other borrowings. in november 2014, we also issued the $680.0 million 5.25% senior unsecured notes. net cash provided by financing activities was $430.5 million in 2013, primarily due to the issuance of our $300.0 million 5% senior unsecured notes as well as borrowings under other credit facilities and the proceeds from the issuance of ordinary shares partially offset by repayments of our $450.0 million 11.75% senior secured notes and revolving credit facilities, and a payment related to the norwegian sky purchase agreement. net cash used in financing activities was $108.2 million in 2012, primarily due to repayments of our revolving credit facilities, other borrowings and loan arrangement fees which were partially offset by borrowings on our revolving credit facilities and by the issuance of $100.0 million of senior unsecured notes.
+future capital commitments future capital commitments consist of contracted commitments, including future expected capital expenditures for business enhancements and ship construction contracts. as of december 31, 2014, anticipated capital expenditures together with amounts for ship construction and related export credit financing were as follows (in thousands, based on the euro/u.s. dollar exchange rate as of december 31, 2014):
+full year
+
+2015                      2016                      2017
+ship construction                                                                                 $975,782                  $648,378                  $891,064
+ship financing                                                                                    (683,663   )              (477,197   )              (666,112   )
+ship construction, net of financing                                                               $292,119                  $171,181                  $224,952
+business enhancement capital expenditures, including roi capital expenditures (1)(2)              $154,000                  $160,000                  $156,000
+incremental roi capital expenditures for exhaust gas scrubbers                                     $28,000                    $8,000                        $-
+(1)   2015 includes $51.0 million in roi capital expenditures and the investment for development of harvest caye, our future cruise destination in belize
+
+(2)   excludes amounts for exhaust gas scrubbers
+
+we have orders with meyer werft for four breakaway plus class ships for delivery in the fall of 2015, spring of 2017, spring of 2018 and fall of 2019. these ships will be the largest in our fleet, reaching approximately 164,600 gross tons and up to 4,200 berths each and will be similar in design and innovation to our breakaway class ships. the combined contract price of these four ships is approximately €3.0 billion, or $3.6 billion based on the euro/u.s. dollar exchange rate as of december 31, 2014. we have export credit financing in place that provides financing for 80% of their contract prices. we also have a contract with italy's fincantieri shipyard to build a luxury cruise ship to be named seven seas explorer. the contract price of the ship is approximately €343.0 million or approximately $415.0 million, based on the euro/u.s. dollar exchange rate as of december 31, 2014. we have export credit financing in place that provides financing for 80% of the ship's contract price. seven seas explorer will be delivered in summer of 2016.
+48
+
+in connection with the contracts to build these ships, we do not anticipate any contractual breaches or cancellation to occur. however, if any would occur, it could result in, among other things, the forfeiture of prior deposits or payments made by us, subject to certain refund guarantees, and potential claims and impairment losses which may materially impact our business, financial condition and results of operations.
+capitalized interest for the years ended december 31, 2014, 2013 and 2012 was $22.0 million, $26.3 million and $22.1 million, respectively, primarily associated with the construction of our newbuild ships.
+off-balance sheet transactions none.
+contractual obligations as of december 31, 2014, our contractual obligations, with initial or remaining terms in excess of one year, including interest payments on long-term debt obligations, were as follows (in thousands):
+total            less than             1-3                 3-5             more than
+1 year             years               years             5 years
+
+long-term debt(1)                       $6,184,104          $576,947          $1,108,375          $2,739,293        $1,759,489
+due to affiliate(2)                         56,492            37,948              18,544                   -                 -
+operating leases(3)                         42,329             7,810              13,877               9,811            10,831
+ship construction contracts(4)           3,913,248           897,818           1,347,015           1,668,415                 -
+port facilities(5)                         212,636            30,411              58,749              41,261            82,215
+interest(6)                                863,278           177,061             324,174             212,136           149,907
+other(7)                                   120,424            70,538              41,573               6,313             2,000
+total                                  $11,392,511        $1,798,533          $2,912,307          $4,677,229        $2,004,442
+(1)   net of unamortized original issue discount of $1.1 million and includes premiums aggregating $0.9 million. also includes capital leases.
+
+(2)   primarily related to the purchase of norwegian sky.
+
+(3)   primarily for offices, motor vehicles and office equipment.
+
+(4)   for our newbuild ships based on the euro/u.s. dollar exchange rate as of december 31, 2014. export credit financing is in place from syndicates of banks.
+
+(5)   primarily for our usage of certain port facilities.
+
+(6)   includes fixed and variable rates with libor held constant as of december 31, 2014.
+
+(7)   future commitments for service, maintenance and other business enhancement capital expenditure contracts.
+
+the table above does not include $11.2 million of unrecognized tax benefits (we refer you to the notes to the consolidated financial statements note-11 "income tax").
+other certain of our service providers may require collateral in the normal course of our business. the amount of collateral may change based on certain terms and conditions.
+as a routine part of our business, depending on market conditions, exchange rates, pricing and our strategy for growth, we regularly consider opportunities to enter into contracts for the building of additional ships. we may also consider the sale of ships, potential acquisitions and strategic alliances. if any of these were to occur, they may be financed through the incurrence of additional permitted indebtedness, through cash flows from operations, or through the issuance of debt, equity or equity-related securities.
+funding sources our debt agreements contain covenants that, among other things, require us to maintain a minimum level of liquidity, as well as limit our net funded debt-to-capital ratio, maintain certain other ratios and restrict our ability to pay dividends. our ships and substantially all other property and equipment are pledged as collateral for our debt. we believe we were in compliance with these covenants as of december 31, 2014.
+49
+
+the impact of changes in world economies and especially the global credit markets has created a challenging environment and may reduce future consumer demand for cruises and adversely affect our counterparty credit risks. in the event this environment deteriorates, our business, financial condition and results of operations could be adversely impacted.
+we believe our cash on hand, expected future operating cash inflows, additional available borrowings under our existing credit facility and our ability to issue debt securities or raise additional equity, will be sufficient to fund operations, debt payment requirements, capital expenditures and maintain compliance with covenants under our debt agreements over the next twelve-month period. there is no assurance that cash flows from operations and additional financings will be available in the future to fund our future obligations.

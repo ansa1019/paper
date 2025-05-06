@@ -1,0 +1,1432 @@
+risk factors) above and in other documents that we file or furnish with the sec. should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those indicated or anticipated by such forward-looking statements. accordingly, you are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date they are made. except to the extent required by law, we do not undertake, and expressly disclaim, any duty or obligation to update publicly any forward-looking statement after the date the statement is made, whether as a result of new information, future events, changes in assumptions or otherwise.
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 7a.  qualitative and quantitative disclosures about market risk                                           │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+we are exposed to interest rate volatility with regard to future issuances of fixed-rate debt, and existing and future issuances of floating-rate debt. primary exposures include u.s. treasury rates, libor, and commercial paper rates. from time to time, we use interest rate swaps and forward-starting interest rate swaps to hedge our exposure to interest rate changes, to reduce the volatility of our financing costs and, based on current and projected market conditions, achieve a desired proportion of fixed versus floating-rate debt. generally under these swaps, we agree with a counterparty to exchange the difference between fixed-rate and floating-rate interest amounts based on an agreed upon notional principal amount.  in september 2014, we entered into an additional forward-starting interest rate swap for a $250 million notional amount.
+information regarding our interest rate swap transactions is set forth in note 10 to our consolidated financial statements in part ii, item 8 of this form 10-k.  these financial instruments are sensitive to changes in interest rates.  on august 31, 2014, we had $1.0 billion in long-term debt obligations that had floating interest rates.  a one percentage point increase or decrease in interest rates would increase or decrease the annual interest expense we recognize and the cash we pay for interest expense by approximately $10 million.
+in connection with our purchase and option agreement with alliance boots and the transactions contemplated thereby, our exposure to foreign currency risks, primarily with respect to the british pound sterling, and to a lesser extent the euro and certain other foreign currencies, is expected to increase.  we are exposed to the translation of foreign currency earnings to the u.s. dollar as a result of our 45% interest in alliance boots, which we account for using the equity method of accounting on a three-month lag.  this exposure will further increase if the second step transaction is completed.  foreign currency forward contracts and other derivative instruments may be used from time to time in some instances to hedge in full or in part certain risks relating to foreign currency denominated assets and liabilities, intercompany transactions, and in connection with acquisitions, joint ventures or investments outside the united states.  as of august 31, 2014 and august 31, 2013, we did not have any outstanding foreign exchange derivative instruments.
+changes in amerisourcebergen common stock price and equity volatility may have a significant impact on the value of the warrants to acquire amerisourcebergen common stock described in note 10 to our consolidated financial statements in part ii, item 8 of this form 10-k.  as of august 31, 2014, a one dollar change in amerisourcebergen's common stock would, holding other factors constant, increase or decrease the fair value of the company's warrants by $22 million and a one percent change in amerisourcebergen's equity volatility would, holding other factors constant, increase or decrease the fair value of the company's warrants by $2 million.   additionally, the company holds an investment in amerisourcebergen common stock.  as of august 31, 2014, a one dollar change in amerisourcebergen's common stock would increase or decrease the fair value of the company's investment by $12
+million.
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 8. financial statements and supplementary data                                                            │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+consolidated statements of earnings walgreen co. and subsidiaries for the years ended august 31, 2014, 2013 and 2012
+(in millions, except per share amounts)
+2014            2013            2012
+────────────────────────────────────────────────────────────────────────────────────────
+net sales                                 $  76,392       $  72,217       $  71,633
+cost of sales                                54,823          51,098          51,291
+gross profit                                 21,569          21,119          20,342
+selling, general and administrative          17,992          17,543          16,878
+expenses gain on sale of business                          -              20               -
+equity earnings in alliance boots               617             344               -
+operating income                              4,194           3,940           3,464
+interest expense, net                          (156  )         (165  )          (88  )
+other (expense) income                         (481  )          120               -
+earnings before income tax provision          3,557           3,895           3,376
+income tax provision                          1,526           1,445           1,249
+net earnings                                  2,031           2,450           2,127
+net earnings attributable to                    (99  )            -               -
+noncontrolling interests net earnings attributable to walgreen     $   1,932       $   2,450       $   2,127
+co.
+net earnings per common share             $    2.03       $    2.59       $    2.43
+attributable to walgreen co. - basic net earnings per common share                  2.00            2.56            2.42
+attributable to walgreen co. - diluted average shares outstanding                    953.1           946.0           874.7
+dilutive effect of stock options               12.1             9.2             5.4
+average diluted shares                        965.2           955.2           880.1
+the accompanying notes to consolidated financial statements are integral parts of these statements.
+consolidated statements of comprehensive income walgreen co. and subsidiaries for the years ended august 31, 2014, 2013 and 2012
+(in millions)
+comprehensive income                           2014           2013           2012
+───────────────────────────────────────────────────────────────────────────────────
+net earnings                               $  2,031       $  2,450       $  2,127
+other comprehensive income (loss), net of tax:
+postretirement liability                        (48  )          (5  )          52
+changes in unrecognized gain on                 106              1              -
+available-for-sale investments unrealized loss on cash flow hedges             (27  )           -              -
+share of other comprehensive loss of            (41  )         (59  )           -
+alliance boots cumulative translation adjustments              286           (103  )           -
+total other comprehensive income (loss)         276           (166  )          52
+total comprehensive income                    2,307          2,284          2,179
+comprehensive income attributable to            (99  )           -              -
+noncontrolling interests comprehensive income attributable to       $  2,208       $  2,284       $  2,179
+walgreen co.
+the accompanying notes to consolidated financial statements are integral parts of these statements.
+consolidated statements of shareholders' equity walgreen co. and subsidiaries for the years ended august 31, 2014, 2013 and 2012
+(in millions, except shares and per share amounts)
+eq...
+at...
+to wa...                                                           ac...
+co.                                              em...          ot...
+co...          co...       tr...                       st...          co...
+st...          st...       st...          pa...          lo...          in...          re...          non...       to...
+sh...          am...       am...          ca...          re...          (l...          ea...          int...       eq...
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+b...
+a...    88...       $   80    $  (4...  )    $  834       $  (34  )    $   16       $  18...       $     -    $  14...
+3...
+2...
+n...      -            -         -            -            -            -          2,...             -       2,...
+e...
+d...
+d...
+(...      -            -         -            -            -            -          (8...  )          -       (8...  )
+p...
+s...
+t...
+s...    (3...  )         -       (1...  )         -            -            -            -             -       (1...  )
+p...
+e...
+s...
+p...    6,...            -       229          (75  )         -            -            -             -       154
+a...
+o...
+p...
+s...      -            -         -           99            -            -            -             -        99
+c...
+e...
+s...      -            -         -            -           15            -            -             -        15
+l...
+r...
+s...
+i...
+f...
+i...    83...            0       2,...           78            -            -            -             -       2,...
+in a...
+b...
+p...
+l...
+n...
+of      -            -         -            -            -           52            -             -        52
+$...
+t...
+e...
+b...
+a...    94...       $   80    $  (2...  )    $  936       $  (19  )    $   68       $  20...       $     -    $  18...
+3...
+2...
+n...      -            -         -            -            -            -          2,...             -       2,...
+e...
+d...
+d...
+(...      -            -         -            -            -            -          (1...  )          -       (1...  )
+p...
+s...
+t...
+s...    (1...  )         -       (6...  )         -            -            -            -             -       (6...  )
+p...
+e...
+s...
+p...    16...            -       486           34            -            -            -             -       520
+a...
+o...
+p...
+s...      -            -         -          104            -            -            -             -       104
+c...
+e...
+s...      -            -         -            -            8            -            -             -         8
+l...
+r...
+c...
+c...
+t...
+n...      -            -         -            -            -          (1...  )         -             -       (1...  )
+of
+$...
+t...
+b...
+s...
+of o...
+c...
+l...
+of a...      -            -         -            -            -          (59  )         -             -       (59  )
+b...
+n...
+of
+$...
+t...
+b...
+u...
+g...
+on a...      -            -         -            -            -            1            -             -         1
+i...
+n...
+of t...
+p...
+l...
+n...
+of      -            -         -            -            -           (5  )         -             -        (5  )
+$3
+t...
+b...
+b...
+a...    94...       $   80    $  (3...  )    $  1,...       $  (11  )    $  (98  )    $  21...       $     -    $  19...
+3...
+2...
+n...      -            -         -            -            -            -          1,...            99       2,...
+e...
+d...
+d...
+(...      -            -         -            -            -            -          (1...  )          -       (1...  )
+p...
+s...
+t...
+s...    (1...  )         -       (7...  )         -            -            -            -             -       (7...  )
+p...
+e...
+s...
+p...    15...            -       622          (16  )         -            -            -             -       606
+a...
+o...
+p...
+s...      -            -         -          114            -            -            -             -       114
+c...
+e...
+s...      -            -         -            -            6            -            -             -         6
+l...
+r...
+c...
+c...
+t...
+n...      -            -         -            -            -          286            -             -       286
+of
+$...
+t...
+e...
+s...
+of o...
+c...
+l...
+of a...      -            -         -            -            -          (41  )         -             -       (41  )
+b...
+n...
+of
+$...
+t...
+b...
+u...
+g...
+on a...
+i...      -            -         -            -            -          106            -             -       106
+n...
+of
+$...
+t...
+e...
+u...
+l...
+on c...
+f...
+h...      -            -         -            -            -          (27  )         -             -       (27  )
+n...
+of
+$...
+t...
+b...
+p...
+r...
+l...
+n...      -            -         -            -            -          (48  )         -             -       (48  )
+of
+$...
+t...
+b...
+o...      -            -         -            -            -            -            -             5         5
+b...
+a...    95...       $   80    $  (3...  )    $  1,...       $   (5  )    $  178       $  22...       $   104    $  20...
+3...
+2...
+the accompanying notes to consolidated financial statements are integral parts of these statements.
+consolidated balance sheets walgreen co. and subsidiaries at august 31, 2014 and 2013
+(in millions, except shares and per share amounts)
+assets current assets                                  2014            2013
+─────────────────────────────────────────────────────────────────────────
+cash and cash equivalents                  $   2,646       $   2,106
+accounts receivable, net                       3,218           2,632
+inventories                                    6,076           6,852
+other current assets                             302             284
+total current assets                          12,242          11,874
+non-current assets property and equipment, at cost, less accumulated depreciation and                  12,257          12,138
+amortization equity investment in alliance boots            7,248           6,261
+alliance boots call option                         -             839
+goodwill                                       2,359           2,410
+other non-current assets                       3,076           1,959
+total non-current assets                      24,940          23,607
+total assets                               $  37,182       $  35,481
+liabilities and equity current liabilities short-term borrowings                      $     774       $     570
+trade accounts payable                         4,315           4,635
+accrued expenses and other liabilities         3,701           3,577
+income taxes                                     105             101
+total current liabilities                      8,895           8,883
+non-current liabilities long-term debt                                 3,736           4,477
+deferred income taxes                          1,048             600
+other non-current liabilities                  2,942           2,067
+total non-current liabilities                  7,726           7,144
+commitments and contingencies (see note
+12)
+equity preferred stock, $.0625 par value;
+authorized 32 million shares; none                 -               -
+issued common stock, $.078125 par value;
+authorized 3.2 billion shares; issued             80              80
+and outstanding 1,028,180,150 shares in
+2014 and 2013
+paid-in capital                                1,172           1,074
+employee stock loan receivable                    (5  )          (11  )
+retained earnings                             22,229          21,523
+accumulated other comprehensive income           178             (98  )
+(loss)
+treasury stock at cost, 77,793,261
+shares in 2014 and 81,584,572 shares in       (3,197  )       (3,114  )
+2013
+total walgreen co. equity                     20,457          19,454
+noncontrolling interests                         104               -
+total equity                                  20,561          19,454
+total liabilities and equity               $  37,182       $  35,481
+the accompanying notes to consolidated financial statements are integral parts of these statements.
+consolidated statements of cash flows walgreen co. and subsidiaries for the years ended august 31, 2014, 2013 and 2012
+(in millions)
+cash flows from operating activities             2014            2013            2012
+──────────────────────────────────────────────────────────────────────────────────────────
+net earnings                                $   2,031       $   2,450       $   2,127
+adjustments to reconcile net earnings to net cash provided by operating activities -
+depreciation and amortization                   1,316           1,283           1,166
+change in fair value of warrants and             (385  )         (120  )            -
+related amortization loss on exercise of call option                   866               -               -
+deferred income taxes                             177             148             265
+stock compensation expense                        114             104              99
+equity earnings in alliance boots                (617  )         (344  )            -
+other                                             181             113              43
+changes in operating assets and liabilities -
+accounts receivable, net                         (616  )         (449  )          394
+inventories                                       860             321           1,083
+other current assets                              (10  )           18              (4  )
+trade accounts payable                           (339  )          182            (439  )
+accrued expenses and other liabilities            195             424            (184  )
+income taxes                                       17             103            (228  )
+other non-current assets and liabilities          103              68             109
+net cash provided by operating                  3,893           4,301           4,431
+activities cash flows from investing activities additions to property and equipment            (1,106  )       (1,212  )       (1,550  )
+return of restricted cash                           -               -             191
+proceeds from sale of assets                      206             145             123
+business and intangible asset                    (344  )         (630  )         (491  )
+acquisitions, net of cash received purchases of short term investments held          (59  )          (66  )            -
+to maturity proceeds from short term investments               58              16               -
+held to maturity proceeds (payments) from sale of                   93              20             (45  )
+business investment in amerisourcebergen                  (493  )         (224  )            -
+investment in alliance boots                        -               -          (4,025  )
+other                                             (86  )          (45  )          (63  )
+net cash used for investing activities         (1,731  )       (1,996  )       (5,860  )
+cash flows from financing activities proceeds from issuance of long-term debt            -           4,000           3,000
+payments of long-term debt                       (550  )       (4,300  )            -
+proceeds from financing leases                    268               -               -
+stock purchases                                  (705  )         (615  )       (1,191  )
+proceeds related to employee stock plans          612             486             165
+cash dividends paid                            (1,199  )       (1,040  )         (787  )
+other                                             (48  )          (27  )          (17  )
+net cash (used for) provided by                (1,622  )       (1,496  )        1,170
+financing activities changes in cash and cash equivalents net increase (decrease) in cash and cash          540             809            (259  )
+equivalents cash and cash equivalents at beginning          2,106           1,297           1,556
+of year cash and cash equivalents at end of year    $   2,646       $   2,106       $   1,297
+the accompanying notes to consolidated financial statements are integral parts of these statements.
+notes to consolidated financial statements
+(1)  summary of major accounting policies description of business the company is principally in the retail drugstore business and its operations are within one reportable segment.
+at august 31, 2014, there were 8,309 drugstore and other locations in all 50 states, the district of columbia, puerto rico and u.s. virgin islands.  prescription sales were 64.2% of total sales for fiscal 2014 compared to
+62.9% in 2013 and 63.2% in 2012.
+basis of presentation the consolidated financial statements include the accounts of the company and its subsidiaries. all intercompany transactions have been eliminated. the consolidated financial statements are prepared in accordance with accounting principles generally accepted in the united states of america and include amounts based on management's prudent judgments and estimates. actual results may differ from these estimates.
+the company's 45% proportionate share of earnings in the alliance boots gmbh (alliance boots) equity method investment is included in consolidated net earnings.  the company reports its share of equity earnings in alliance boots within the operating section in the consolidated statements of earnings because operations of alliance boots are integral to walgreens.  the companies share common board of director members, recognize purchasing synergies through walgreens boots alliance development gmbh, a 50/50 joint venture, as well as engage in intercompany sales transactions on select front-end merchandise.  because of the three-month lag and the timing of the closing of this investment, only the ten months of august through may's results of operations are reflected in the equity earnings in alliance boots included in the company's reported net earnings for year ended august 31, 2013 compared to twelve months operating results for june through may in the current fiscal year.
+the company directly owns a 50% interest in walgreens boots alliance development gmbh and indirectly owns an additional ownership interest through its 45% ownership in alliance boots, representing a direct and indirect economic interest of 72.5%. the financial results of the walgreens boots alliance development gmbh joint venture are fully consolidated into the company's consolidated financial statements and reported without a lag.  as the joint venture is included within the company's operating results, alliance boots proportionate share of walgreens boots alliance development gmbh earnings is removed from equity earnings and presented as a component of noncontrolling interests.
+other matters subsidiary issuer information walgreens boots alliance, inc. (wba) is a new corporation incorporated on september 2, 2014 under the laws of delaware and is currently a direct 100% owned finance subsidiary of the company. walgreens boots alliance, inc. is anticipated to be the issuer of one or more series of unsecured, unsubordinated notes (wba notes) in connection with the financing of a portion of the cash consideration payable in connection with the second step transaction, the refinancing of substantially all of alliance boots' total borrowings in connection with the second step transaction and/or the payment of related fees and expenses. following the completion of the second step transaction, a portion of the net proceeds from the issuance of the wba notes may also be used for general corporate purposes, including the repayment and/or refinancing of existing company obligations. the company will guarantee the wba notes and such guarantee will be full and unconditional.
+the company anticipates that neither the wba notes nor any other potential company or wba financings in connection with the second step transaction will contain any significant restrictions on the ability of the company's subsidiaries to make dividend payments, loans or advances to the company or wba.
+in addition, the company is the issuer of five series of senior unsecured notes (company notes) and the borrower under two revolving credit facilities (company credit facilities).  neither the company notes nor company credit facilities are guaranteed by any of the company's subsidiaries.  the company notes and company credit facilities do not contain any significant restrictions on the ability of the company's subsidiaries to make dividend payments, loans or advances to the company.
+other information in addition, this amendment no. 1 on form 10-k/a corrects the number of warrants to purchase shares of amerisourcebergen common stock issued to the company and alliance boots gmbh in note 10 to 11,348,456; the number of unvested stock options at august 31, 2014, in note 14 to 18,896,912 and typographical errors in note 1 and note
+8.
+cash and cash equivalents cash and cash equivalents include cash on hand and all highly liquid investments with an original maturity of three months or less. credit and debit card receivables from banks, which generally settle within two business days, of
+$229 million and $160 million were included in cash and cash equivalents at august 31, 2014 and 2013, respectively.  at august 31, 2014 and 2013, the company had $1.9 billion and $1.6 billion, respectively, in money market funds, all of which was included in cash and cash equivalents.
+the company's cash management policy provides for controlled disbursement. as a result, the company had outstanding checks in excess of funds on deposit at certain banks. these amounts, which were $267 million at august 31, 2014, and $274 million at august 31, 2013, are included in trade accounts payable in the accompanying consolidated balance sheets.
+allowance for doubtful accounts the provision for bad debt is based on both historical write-off percentages and specifically identified receivables. activity in the allowance for doubtful accounts was as follows (in millions):
+2014          2013          2012
+────────────────────────────────────────────────────────────────────────
+balance at beginning of year    $   154       $    99       $   101
+bad debt provision                   86           124           107
+write-offs                          (67  )        (69  )       (109  )
+balance at end of year          $   173       $   154       $    99
+inventories inventories are valued on a lower of last-in, first-out (lifo) cost or market basis.  at august 31, 2014 and 2013, inventories would have been greater by $2.3 billion and $2.1 billion, respectively, if they had been valued on a lower of first-in, first-out (fifo) cost or market basis.  as a result of declining inventory levels, the fiscal
+2014, 2013 and 2012 lifo provisions were reduced by lifo liquidations of $187 million, $194 million and $268
+million, respectively.  inventory includes product costs, inbound freight, warehousing costs and vendor allowances not classified as a reduction of advertising expense.
+equity method investments the company uses the equity method to account for investments in companies if the investment provides the ability to exercise significant influence, but not control, over operating and financial policies of the investee.  the company's proportionate share of the net income or loss of these companies is included in consolidated net earnings.  judgment regarding the level of influence over each equity method investment includes considering key factors such as the company's ownership interest, representation on the board of directors, participation in policy-making decisions and material intercompany transactions.
+the company purchases inventory from alliance boots in the ordinary course of business.  these related party inventory purchases, which began in fiscal 2013, were not material in fiscal 2014 or 2013.
+the underlying net assets of the company's equity method investment in alliance boots include goodwill and indefinite-lived intangible assets.  these assets are evaluated for impairment annually or more frequently if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying value.  based on the company's evaluation as of august 31, 2014, the fair value of one alliance boots pharmaceutical wholesale reporting unit did not exceed its carrying amount by a significant amount.  goodwill allocated to this reporting unit by alliance boots as of may 31, 2014 was £255 million, £115 million based on the company's 45% ownership percentage (approximately $193 million using may 31, 2014 exchange rates).  the company utilizes a three-month lag in reporting its share of equity income in alliance boots, including this reporting unit.  the company will continue to monitor this reporting unit in accordance with accounting standards codification 350, intangibles - goodwill and other.
+property and equipment depreciation is provided on a straight-line basis over the estimated useful lives of owned assets. leasehold improvements and leased properties under capital leases are amortized over the estimated useful life of the property or over the term of the lease, whichever is shorter. estimated useful lives range from 10 to 39 years for land improvements, buildings and building improvements; and 2 to 13 years for equipment. major repairs, which extend the useful life of an asset, are capitalized; routine maintenance and repairs are charged against earnings.
+the majority of the business uses the composite method of depreciation for equipment. therefore, gains and losses on retirement or other disposition of such assets are included in earnings only when an operating location is closed, completely remodeled or impaired. fully depreciated property and equipment are removed from the cost and related accumulated depreciation and amortization accounts. property and equipment consists of (in millions):
+land and land improvements                       2014         2013
+────────────────────────────────────────────────────────────────────
+owned locations                             $   3,059    $   3,203
+distribution centers                               93           97
+other locations                                   266          219
+buildings and building improvements owned locations                                 3,927        3,805
+leased locations (leasehold improvements        2,041        1,811
+only)
+distribution centers                              582          620
+other locations                                   351          351
+equipment locations                                       5,454        5,334
+distribution centers                            1,170        1,190
+other locations                                   935          755
+capitalized system development costs              688          581
+capital lease properties                          530          215
+19,096       18,181
+less: accumulated depreciation and              6,839        6,043
+amortization
+$  12,257    $  12,138
+depreciation expense for property and equipment was $923 million in fiscal 2014, $894 million in fiscal 2013 and
+$841 million in fiscal 2012.
+the company capitalizes application stage development costs for significant internally developed software projects, such as upgrades to the store point-of-sale system. these costs are amortized over a five-year period. amortization expense was $111 million in fiscal 2014, $100 million in fiscal 2013 and $70 million in fiscal 2012.  unamortized costs at august 31, 2014 and august 31, 2013, were $410 million and $374 million, respectively.
+goodwill and other intangible assets goodwill represents the excess of the purchase price over the fair value of assets acquired and liabilities assumed.  the company accounts for goodwill and intangibles under asc topic 350, intangibles - goodwill and other, which does not permit amortization, but requires the company to test goodwill and other indefinite-lived assets for impairment annually or whenever events or circumstances indicate impairment may exist.
+impaired assets and liabilities for store closings the company tests long-lived assets for impairment whenever events or circumstances indicate that a certain asset may be impaired. store locations that have been open at least five years are reviewed for impairment indicators at least annually. once identified, the amount of the impairment is computed by comparing the carrying value of the assets to the fair value, which is based on the discounted estimated future cash flows. impairment charges included in selling, general and administrative expenses were $167 million in fiscal 2014, primarily resulting from the company's store optimization plan.  impairment charges recognized in fiscal 2013 and 2012 were $30 million and $27
+million, respectively.
+the company also provides for future costs related to closed locations. the liability is based on the present value of future rent obligations and other related costs (net of estimated sublease rent) to the first lease option date.
+the reserve for store closings, including $137 million from locations closed under the company's optimization plan, was $257 million as of august 31, 2014 compared to $123 million as of august 31 2013. see note 2 for additional disclosure regarding the company's reserve for future costs related to closed locations.
+financial instruments the company had $151 million and $197 million of outstanding letters of credit at august 31, 2014 and 2013, respectively, which guarantee the purchase of foreign goods, and additional outstanding letters of credit of $259
+million and $263 million at august 31, 2014 and 2013, respectively, which guarantee payments of insurance claims.
+the insurance claim letters of credit are annually renewable and will remain in place until the insurance claims are paid in full. letters of credit of $9 million and $4 million were outstanding at august 31, 2014, and august
+31, 2013, respectively, to guarantee performance of construction contracts. the company pays a facility fee to the financing bank to keep these letters of credit active. the company had real estate development purchase commitments of $169 million and $185 million at august 31, 2014 and 2013, respectively.
+the company uses interest rate swaps to manage its interest rate exposure associated with some of its fixed-rate borrowings.  at august 31, 2014, the company had $1 billion of fixed-rate debt swapped to floating designated as fair value hedges.  the company also manages its interest rate exposure associated with its anticipated debt issuance.  in fiscal 2014, the company entered into a series of forward starting interest rate swap transactions locking in the then current three-month libor interest rate on $1.5 billion of anticipated debt issuance.  these forward starting swap transactions are designated as cash flow hedges.  the company's fair value and cash flow hedges are accounted for according to asc topic 815, derivatives and hedging, and measured at fair value in accordance with asc topic 820, fair value measurement and disclosures.  see notes 10 and 11 for additional disclosure regarding financial instruments.
+revenue recognition the company recognizes revenue at the time the customer takes possession of the merchandise. customer returns are immaterial. sales taxes are not included in revenue.
+gift cards the company sells walgreens gift cards to retail store customers and through its website.  the company does not charge administrative fees on unused gift cards and most gift cards do not have an expiration date.  income from gift cards is recognized when (1) the gift card is redeemed by the customer; or (2) the likelihood of the gift card being redeemed by the customer is remote (gift card breakage) and there is no legal obligation to remit the value of unredeemed gift cards to the relevant jurisdictions.  the company's gift card breakage rate is determined based upon historical redemption patterns.  gift card breakage income, which is included in selling, general and administrative expenses, was not significant in fiscal 2014, 2013 or 2012.
+loyalty program the company's rewards program, balance ® rewards, is accrued as a charge to cost of sales at the time a point is earned.  points are funded internally and through vendor participation, and are credited to cost of sales at the time a vendor-sponsored point is earned.  breakage is recorded as points expire as a result of a member's inactivity or if the points remain unredeemed after three years.  breakage income, which is reported in cost of sales, was not significant in fiscal 2014 or 2013.
+cost of sales cost of sales is derived based upon point-of-sale scanning information with an estimate for shrinkage and is adjusted based on periodic inventories.  in addition to product costs, cost of sales includes warehousing costs, purchasing costs, freight costs, cash discounts and vendor allowances.
+vendor allowances vendor allowances are principally received as a result of purchases, sales or promotion of vendors' products.
+allowances are generally recorded as a reduction of inventory and are recognized as a reduction of cost of sales when the related merchandise is sold.  those allowances received for promoting vendors' products are offset against advertising expense and result in a reduction of selling, general and administrative expenses to the extent of advertising costs incurred, with the excess treated as a reduction of inventory costs.
+selling, general and administrative expenses selling, general and administrative expenses mainly consist of store salaries, occupancy costs, and expenses directly related to stores.  in addition, other costs included are headquarters' expenses, advertising costs (net of advertising revenue) and insurance.
+advertising costs advertising costs, which are reduced by the portion funded by vendors, are expensed as incurred.  net advertising expenses, which are included in selling, general and administrative expenses, were $265 million in fiscal 2014,
+$286 million in fiscal 2013 and $291 million in fiscal 2012.  included in net advertising expenses were vendor advertising allowances of $256 million in fiscal 2014, $240 million in fiscal 2013 and $239 million in fiscal 2012.
+insurance the company obtains insurance coverage for catastrophic exposures as well as those risks required by law to be insured.  it is the company's policy to retain a significant portion of certain losses related to workers'
+compensation, property, comprehensive general, pharmacist and vehicle liability.  liabilities for these losses are recorded based upon the company's estimates for claims incurred and are not discounted.  the provisions are estimated in part by considering historical claims experience, demographic factors and other actuarial assumptions.
+available-for-sale investments the company, alliance boots and amerisourcebergen corporation (amerisourcebergen) entered into a framework agreement dated as of march 18, 2013, pursuant to which walgreens and alliance boots together were granted the right to purchase a minority equity position in amerisourcebergen, beginning with the right, but not the obligation, to purchase up to 19,859,795 shares of amerisourcebergen common stock (approximately 7 percent of the then fully diluted equity of amerisourcebergen, assuming the exercise in full of the warrants described below) in open market transactions.  as of august 31, 2014, the company held 11.5 million shares of amerisourcebergen common stock which are classified as available-for-sale.  see note 6 for additional disclosure regarding the company's available-for-sale investments.
+warrants the company and alliance boots were each issued (a) a warrant to purchase shares of amerisourcebergen common stock exercisable during a six-month period beginning in march 2016, and (b) a warrant to purchase shares of amerisourcebergen common stock exercisable during a six-month period beginning in march 2017.  the company's warrants are valued at the date of issuance and the end of the period using a monte carlo simulation.  key assumptions used in the valuation include risk-free interest rates using constant maturity treasury rates; the dividend yield for amerisourcebergen's common stock; amerisourcebergen's common stock price at the valuation date;
+amerisourcebergen's equity volatility; the number of shares of amerisourcebergen's common stock outstanding; the number of employee stock options and the exercise price; and the details specific to the warrants. the fair value of the company's warrants on march 18, 2013, the date of issuance, was $77 million.  the company recorded the fair value of its warrants as a non-current asset with a corresponding deferred credit in its consolidated balance sheets.  the deferred credit attributable to the warrants will be amortized over the life of the warrants.  the fair value of the company's warrants at august 31, 2014 and 2013 was $553 million and $188 million, respectively, resulting in the company recording other income of $366 million and $111 million within its consolidated statements of earnings.  the increase in the fair value of the warrants was primarily attributable to the increase in the price of amerisourcebergen's common stock.  in addition, the company recorded $19 million and $9 million in fiscal
+2014 and 2013, respectively, of other income relating to the amortization of the deferred credit.  see note 10 for additional disclosure regarding the company's warrants.
+pre-opening expenses non-capital expenditures incurred prior to the opening of a new or remodeled store are expensed as incurred.
+stock-based compensation plans in accordance with asc topic 718, compensation - stock compensation, the company recognizes compensation expense on a straight-line basis over the employee's vesting period or to the employee's retirement eligible date, if earlier.  total stock-based compensation expense for fiscal 2014, 2013 and 2012 was $114 million, $104 million and
+$99 million, respectively.  the recognized tax benefit was $31 million, $30 million and $9 million for fiscal 2014,
+2013 and 2012, respectively.  unrecognized compensation cost related to non-vested awards at august 31, 2014, was
+$188 million.  this cost is expected to be recognized over a weighted average of three years.  see note 14 for more information on the company's stock-based compensation plans.
+interest expense the company capitalized $6 million, $7 million and $9 million of interest expense as part of significant construction projects during fiscal 2014, 2013 and 2012, respectively.  interest paid, which is net of capitalized interest, was $161 million in fiscal 2014, $158 million in fiscal 2013 and $108 million in fiscal 2012.
+income taxes the company accounts for income taxes according to the asset and liability method.  under this method, deferred tax assets and liabilities are recognized based upon the estimated future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases.  deferred tax assets and liabilities are measured pursuant to tax laws using rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled.  the effect on deferred tax assets and liabilities of a change in tax rate is recognized in income in the period that includes the enactment date.  valuation allowances are established when necessary to reduce deferred tax assets to the amounts more likely than not to be realized.
+in determining the company's provision for income taxes, an annual effective income tax rate based on full-year income, permanent differences between book and tax income, and statutory income tax rates are used.  the effective income tax rate also reflects the company's assessment of the ultimate outcome of tax audits in addition to any foreign-based income deemed to be taxable in the united states.  discrete events such as audit settlements or changes in tax laws are recognized in the period in which they occur.
+the company is subject to routine income tax audits that occur periodically in the normal course of business.  u.s.
+federal, state and local and foreign tax authorities raise questions regarding the company's tax filing positions, including the timing and amount of deductions and the allocation of income among various tax jurisdictions.  in evaluating the tax benefits associated with its various tax filing positions, the company records a tax benefit for uncertain tax positions using the highest cumulative tax benefit that is more likely than not to be realized.
+adjustments are made to the liability for unrecognized tax benefits in the period in which the company determines the issue is effectively settled with the tax authorities, the statute of limitations expires for the return containing the tax position or when more information becomes available.  the company's liability for unrecognized tax benefits, including accrued penalties and interest, is included in other long-term liabilities on the consolidated balance sheets and in income tax expense in the consolidated statements of earnings.
+earnings per share the dilutive effect of outstanding stock options on earnings per share is calculated using the treasury stock method.  stock options are anti-dilutive and excluded from the earnings per share calculation if the exercise price exceeds the average market price of the common shares.  outstanding options to purchase common shares that were anti-dilutive and excluded from earnings per share totaled 3,510,395, 12,316,949 and 32,593,870 in fiscal 2014,
+2013 and 2012, respectively.
+new accounting pronouncements in may 2014, the financial accounting standards board (fasb) issued asu 2014-09, revenue from contracts with customers, as a new topic, asc topic 606.  the new revenue recognition standard provides a five-step analysis of transactions to determine when and how revenue is recognized.  the core principle is that a company should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.  this asu is effective for annual periods beginning after december 15, 2016 (fiscal 2018) and shall be applied retrospectively to each period presented or as a cumulative-effect adjustment as of the date of adoption.  the company is evaluating the effect of adopting this new accounting guidance, but does not expect adoption will have a material impact on the company's results of operations, cash flows or financial position.
+in april 2014, the fasb issued asu 2014-08, reporting discontinued operations and disclosures of disposals of components of an entity. this asu raises the threshold for a disposal to qualify as discontinued operations and requires new disclosures for individually material disposal transactions that do not meet the definition of a discontinued operation. under the new standard, companies report discontinued operations when they have a disposal that represents a strategic shift that has or will have a major impact on operations or financial results.  this update will be applied prospectively and is effective for annual periods, and interim periods within those years, beginning after december 15, 2014 (fiscal 2016). early adoption is permitted provided the disposal was not previously disclosed.  this update will not have a material impact on the company's reported results of operations and financial position.  this asu is non-cash in nature and will not affect the company's cash position.
+in may 2013, the fasb reissued an exposure draft on lease accounting that would require entities to recognize assets and liabilities arising from lease contracts on the balance sheet.  the proposed exposure draft states that lessees and lessors should apply a "right-of-use model" in accounting for all leases.  under the proposed model, lessees would recognize an asset for the right to use the leased asset, and a liability for the obligation to make rental payments over the lease term. when measuring the asset and liability, variable lease payments are excluded, whereas renewal options that provide a significant economic incentive upon renewal would be included.  the accounting by a lessor would reflect its retained exposure to the risks or benefits of the underlying leased asset.
+a lessor would recognize an asset representing its right to receive lease payments based on the expected term of the lease. the lease expense from real estate based leases would continue to be recorded under a straight-line approach, but other leases not related to real estate would be expensed using an effective interest method that would accelerate lease expense. a final standard is currently expected to be issued in calendar 2014 and would be effective no earlier than annual reporting periods beginning on january 1, 2017 (fiscal 2018 for the company).  the proposed standard, as currently drafted, would have a material impact on the company's financial position and the impact on the company's reported results of operations is being evaluated.  the impact of this exposure draft is non-cash in nature and would not affect the company's cash position.
+(2)  store closures in march 2014, the board of directors approved a plan to close underperforming stores in efforts to optimize and focus resources in a manner intended to increase shareholder value.  total pre-tax charges associated with the plan are estimated to be between $240 million and $280 million.  in fiscal 2014, the company incurred pre-tax charges of
+$209 million as a result of closing 67 stores; $137 million from lease termination costs, $71 million from asset impairment charges and $1 million of other charges.
+(3)  leases the company owns approximately 20% of its operating locations; the remaining locations are leased premises.
+initial terms are typically 20 to 25 years, followed by additional terms containing renewal options at five-year intervals, and may include rent escalation clauses.  the commencement date of all lease terms is the earlier of the date the company becomes legally obligated to make rent payments or the date the company has the right to control the property.  the company recognizes rent expense on a straight-line basis over the term of the lease.  in addition to minimum fixed rentals, some leases provide for contingent rentals based upon a portion of sales.
+the company continuously evaluates its real estate portfolio in conjunction with its capital needs.  in fiscal
+2014, the company entered into several sale-leaseback transactions.  in some of these transactions, the company negotiated fixed rate renewal options which constitute a form of continuing involvement, resulting in the assets remaining on the balance sheet and a corresponding finance lease obligation.
+minimum rental commitments at august 31, 2014, under all leases having an initial or remaining non-cancelable term of more than one year are shown below (in millions):
+financing obligation       capital lease       operating lease
+───────────────────────────────────────────────────────────────────────────────────────────────────
+2015                            $                    18    $             43    $            2,569
+2016                                                 18                  41                 2,533
+2017                                                 18                  39                 2,493
+2018                                                 18                  38                 2,407
+2019                                                 18                  38                 2,295
+later                                             1,328                 665                22,168
+total minimum lease payments    $                 1,418    $            864    $           34,465
+the capital and finance lease amounts include $1.5 billion of imputed interest and executory costs.  total minimum lease payments have not been reduced by minimum sublease rentals of approximately $141 million on leases due in the future under non-cancelable subleases.
+the company provides for future costs related to closed locations.  the liability is based on the present value of future rent obligations and other related costs (net of estimated sublease rent) to the first lease option date.
+in fiscal 2014, 2013 and 2012, the company recorded charges of $177 million, $43 million and $20 million, respectively, for facilities that were closed or relocated under long-term leases, including stores closed through the company's store optimization plan.  these charges are reported in selling, general and administrative expenses on the consolidated statements of earnings.
+the changes in reserve for facility closings and related lease termination charges include the following (in millions):
+year ended august 31,
+2014          2013
+────────────────────────────────────────────────────────────────────────────
+balance - beginning of period               $         123       $   117
+provision for present value of non-cancellable lease payments of closed              171            34
+facilities assumptions about future sublease income, terminations and changes in                    (8  )         (6  )
+interest rates interest accretion                                     14            15
+cash payments, net of sublease income                 (43  )        (37  )
+balance - end of period                     $         257       $   123
+the company remains secondarily liable on 20 assigned leases.  the maximum potential undiscounted future payments are $33 million at august 31, 2014.  lease option dates vary, with some extending to 2041.
+rental expense, which includes common area maintenance, insurance and taxes, was as follows (in millions):
+2014           2013           2012
+───────────────────────────────────────────────────────────────────────────
+minimum rentals                 $  2,687       $  2,644       $  2,585
+contingent rentals                     5              6              6
+less: sublease rental income         (22  )         (22  )         (20  )
+$  2,670       $  2,628       $  2,571
+(4)  acquisitions and divestitures in june 2014, the company completed the sale of a majority interest in its subsidiary, take care employer solutions, llc (take care employer) to water street healthcare partners (water street).  at the same time, water street made an investment in chs health services (chs), an unrelated entity and merged chs with take care employer to create a leading worksite health company dedicated to improving the cost and quality of employee health care.
+water street owns a majority interest in the new company while walgreens owns a significant minority interest and has representatives on the new company's board of directors.  the value of the investment at august 31, 2014 was
+$67 million.  the company recognized an immaterial gain on the transaction.
+in november 2013, the company completed its acquisition of certain assets of kerr drug and its affiliates for $173
+million, subject to adjustment in certain circumstances.  this acquisition included 76 retail locations as well as a specialty pharmacy business and a distribution center.  the preliminary purchase accounting for the kerr drug acquisition added $45 million to goodwill and $54 million to intangible assets, primarily prescription files and payer contracts, with $74 million allocated to net tangible assets.  this allocation is subject to change as the company finalizes purchase accounting.
+the aggregate purchase price of all business and intangible asset acquisitions, excluding kerr drug, was $171
+million in fiscal 2014.  these acquisitions added $13 million to goodwill and $119 million to intangible assets, primarily prescription files.  the remaining fair value relates to immaterial amounts of tangible assets, less liabilities assumed.  operating results of businesses acquired have been included in the consolidated statements of earnings from their respective acquisition dates forward and were not material.
+in fiscal 2013, the company acquired stephen l. lafrance holdings, inc. (usa drug) for $436 million net of assumed cash.  this acquisition increased the company's presence in the mid-south region of the country.  the purchase price allocation for this acquisition added $220 million to goodwill and $156 million to intangible assets, primarily prescription files and non-compete agreements, with $60 million allocated to net tangible assets, primarily inventory.  the company also acquired an 80% interest in cystic fibrosis foundation pharmacy llc for $29
+million net of assumed cash and a call option to acquire the remaining 20% interest in 2015.  the investment provides joint ownership in a specialty pharmacy for cystic fibrosis patients and their families and a provider of new product launch support and call center services for drug manufacturers.  the investment added $16 million to goodwill and $21 million to intangible assets, primarily payer contracts.
+(5)  equity method investments equity method investments as of august 31, 2014 and 2013, were as follows (in millions, except percentages):
+2014                                2013
+carrying            ownership       carrying            ownership value              percentage       value              percentage
+─────────────────────────────────────────────────────────────────────────────────────────────────────────
+alliance boots                     $         7,248            45  %    $         6,261            45  %
+other equity method investments                 74      30% - 50  %                  7      30% - 50  %
+total equity method investments    $         7,322                     $         6,268
+alliance boots on august 2, 2012, pursuant to a purchase and option agreement dated june 18, 2012, by and among the company, alliance boots gmbh and ab acquisitions holdings limited (the purchase and option agreement), the company acquired
+45% of the issued and outstanding share capital of alliance boots in exchange for $4.025 billion in cash and approximately 83.4 million shares of company common stock.  on august 5, 2014, the company entered into an amendment to the purchase and option agreement, which among other things, accelerated the option period from august
+5, 2014 to february 5, 2015.  the purchase and option agreement, as amended on august 5, 2014, provides, subject to the satisfaction or waiver of specified conditions, a call option that gives the company the right, but not the obligation, to acquire the remaining 55% of alliance boots (second step transaction) in exchange for an additional
+£3.1 billion in cash (approximately $5.2 billion using august 31, 2014 exchange rates) as well as an additional
+144.3 million company shares, subject to certain adjustments.  pursuant to the amended option agreement, the company exercised its option on august 5, 2014.  in certain circumstances, if the second step transaction does not close, the company's ownership of alliance boots will reduce from 45% to 42% in exchange for nominal consideration.
+the company's equity earnings, initial investment and the call option exclude the alliance boots minority interest in galenica ltd. (galenica).  the alliance boots investment in galenica was distributed to the alliance boots shareholders other than the company in may 2013, which had no impact on the company's financial results.
+the call option, prior to its amendment and subsequent exercise, was valued using a monte carlo simulation using assumptions surrounding walgreens equity value as well as the potential impacts of certain provisions of the purchase and option agreement that are described in the form 8-k filed by the company on june 19, 2012.  the call option was accounted for at cost and subsequently adjusted for foreign currency translation gains or losses.  the final purchase price allocation resulted in $6.1 billion of the total consideration being allocated to the investment and $866 million being allocated to the call option based on their relative fair values.  the amendment to the call option was accounted for as a non-monetary exchange with the amended call option valued as an out-of-
+the-money option using a monte carlo simulation.  the $866 million remeasurement loss was recorded in other
+(expense)/income on the consolidated statements of earnings.
+the company accounts for its 45% investment in alliance boots using the equity method of accounting.   investments accounted for under the equity method are recorded initially at cost and subsequently adjusted for the company's share of the net income or loss and cash contributions and distributions to or from these entities.  because the underlying net assets in alliance boots are denominated in a foreign currency, translation gains or losses will impact the recorded value of the company's investment.  the company utilizes a three-month lag in reporting equity income in alliance boots.  due to the lag and timing of the investment, only 10 months results of alliance boots were recorded in fiscal 2013 compared to 12 months of results recorded in fiscal 2014.  the company's investment is recorded as "equity investment in alliance boots" in the consolidated balance sheets.
+the company's initial investment in alliance boots exceeded its proportionate share of the net assets of alliance boots by $2.4 billion.  this premium of $2.4 billion is recognized as part of the carrying value in the company's equity investment in alliance boots.  the difference is primarily related to the fair value of alliance boots indefinite-lived intangible assets and goodwill.  the company's equity method income from the investment in alliance boots is adjusted to reflect the amortization of fair value adjustments in certain definite-lived assets of alliance boots.  the company's incremental amortization expense associated with the alliance boots investment was approximately $42 million in fiscal 2014.  in fiscal 2013, the company recognized approximately $57 million, including the inventory step-up, which was amortized over the first inventory turn.
+during july 2013, the uk government enacted a law to reduce the uk corporate tax rate effective april 2014 with a further reduction scheduled to take effect in april 2015.  the non-cash impact of $71 million was recorded in fiscal 2014 due to the three-month lag.
+other equity method investments other equity method investments relate to joint ventures associated with the company's infusion and respiratory business and its equity method investment received through the sale of the take care employer business.  these investments are included within other non-current assets on the consolidated balance sheets.  the company's share of equity income is reported within selling, general and administrative expenses in the consolidated statements of earnings.
+summarized financial information summarized financial information for the company's equity method investees is as follows:
+balance sheet (in millions)
+at august 31,
+2014(1)       2013(1)
+───────────────────────────────────────────────────────────
+current assets             $          8,768    $    8,906
+non-current assets                   21,525        19,484
+current liabilities                   7,791         7,204
+non-current liabilities              11,285        12,228
+shareholders' equity(2)              11,217         8,958
+income statement (in millions)
+year ended august 31,
+2014(3)         2013       2012
+──────────────────────────────────────────────────────────────────────────────────────────────
+net sales                                   $                 37,305    $  30,446    $    37
+gross profit                                                   7,927        6,391         17
+net earnings                                                   1,446        1,022          2
+share of income from investments                                 618          345          1
+accounted for using the equity method(3)
+(1) net assets in alliance boots are translated at the may 31, 2014 spot rate of $1.68 to one british pound sterling, corresponding to the three-month lag.  fiscal 2013 net assets in alliance boots were translated at a spot rate of $1.52 to one british pound sterling.
+(2) shareholders' equity at august 31, 2014 and 2013, includes $257 million and $374 million related to non-
+controlling interests, respectively.
+(3) the company utilizes a three-month lag in reporting its share of equity income in alliance boots.  the fiscal year ended august 31, 2013 included only ten month's results for alliance boots because of the three-month lag and the timing of the investment on august 2, 2012, compared to twelve months results recorded in fiscal 2014.
+earnings in alliance boots are translated at the average exchange rate of $1.61 and $1.57 to one british pound sterling for the years ended august 31, 2014 and 2013 respectively.  walgreens boots alliance development gmbh operations are excluded from these results as the company consolidates the joint venture.
+(6)  available-for-sale investments in conjunction with its long-term relationship with amerisourcebergen, the company has the right to acquire up to
+7% of the common shares of amerisourcebergen through open market transactions.  the company's cost basis of common shares acquired in fiscal 2014 and 2013 were $493 million and $224 million, respectively.  the available-for-sale investment is classified as long-term and reported at fair value within other non-current assets in the consolidated balance sheets.  the company also holds other investments with maturities greater than 90 days that are reported at fair value within other current assets in the consolidated balance sheets.
+fair value adjustments are based on quoted stock prices with the unrealized holding gains and losses reported in other comprehensive income.  unrealized holding gains at august 31, 2014 and 2013 were $170 million and $1 million, respectively.  see note 11 for additional fair value disclosures.  available-for-sale investments reported at fair value at august 31, 2014 and 2013 were $887 million and $225 million, respectively.
+(7)  goodwill and other intangible assets goodwill and other indefinite-lived intangible assets are not amortized, but are evaluated for impairment annually during the fourth quarter, or more frequently if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying value.  as part of the company's impairment analysis for each reporting unit, the company engaged a third party appraisal firm to assist in the determination of estimated fair value for each unit.  this determination included estimating the fair value using both the income and market approaches.  the income approach requires management to estimate a number of factors for each reporting unit, including projected future operating results, economic projections, anticipated future cash flows and discount rates.  the market approach estimates fair value using comparable marketplace fair value data from within a comparable industry grouping.
+the determination of the fair value of the reporting units and the allocation of that value to individual assets and liabilities within those reporting units requires the company to make significant estimates and assumptions.
+these estimates and assumptions primarily include, but are not limited to: the selection of appropriate peer group companies; control premiums appropriate for acquisitions in the industries in which the company competes; the discount rate; terminal growth rates; and forecasts of revenue, operating income, depreciation and amortization and capital expenditures.  the allocation requires several analyses to determine the fair value of assets and liabilities including, among other things, purchased prescription files, customer relationships and trade names.
+although the company believes its estimates of fair value are reasonable, actual financial results could differ from those estimates due to the inherent uncertainty involved in making such estimates.  changes in assumptions concerning future financial results or other underlying assumptions could have a significant impact on either the fair value of the reporting units, the amount of the goodwill impairment charge, or both.  the company also compared the sum of the estimated fair values of its reporting units to the company's total value as implied by the market value of its equity and debt securities.  this comparison indicated that, in total, its assumptions and estimates were reasonable.  however, future declines in the overall market value of the company's equity and debt securities may indicate that the fair value of one or more reporting units has declined below its carrying value.
+one measure of the sensitivity of the amount of goodwill impairment charges to key assumptions is the amount by which each reporting unit "passed" (fair value exceeds the carrying amount) or "failed" (the carrying amount exceeds fair value) the first step of the goodwill impairment test.  the company's reporting units' fair values exceeded their carrying amounts ranging from approximately 12% to more than 117%.
+generally, changes in estimates of expected future cash flows would have a similar effect on the estimated fair value of the reporting unit.  that is, a 1% change in estimated future cash flows would change the estimated fair value of the reporting unit by approximately 1%.  the estimated long-term rate of net sales growth can have a significant impact on the estimated future cash flows, and therefore, the fair value of each reporting unit.  of the other key assumptions that impact the estimated fair values, most reporting units have the greatest sensitivity to changes in the estimated discount rate.  the company believes that its estimates of future cash flows and discount rates are reasonable, but future changes in the underlying assumptions could differ due to the inherent uncertainty in making such estimates.
+changes in the carrying amount of goodwill consist of the following activity (in millions):
+2014           2013
+─────────────────────────────────────────────────────────
+net book value - september 1    $  2,410       $  2,161
+acquisitions                          58            236
+sale of business                     (92  )           -
+other(1)                             (17  )          13
+net book value - august 31      $  2,359       $  2,410
+(1)  "other" primarily represents immaterial purchase accounting adjustments for the company's acquisitions.
+in june 2014, the company completed the sale of a majority interest in its subsidiary, take care employer.  as a result, $92 million of goodwill allocated to this business was removed from goodwill on the consolidated balance sheet.
+in november 2013, the company purchased certain assets of kerr drug and its affiliates for $173 million, subject to adjustment in certain circumstances.  the company recorded $45 million of goodwill and $54 million of intangible assets in conjunction with the preliminary purchase accounting for this acquisition.
+in september 2012, the company purchased the regional drugstore chain usa drug from stephen l. lafrance holdings, inc. and members of the lafrance family for $436 million, net of assumed cash and selected other assets (primarily prescription files).  in december 2012, the company purchased an 80% interest in cystic fibrosis foundation pharmacy llc for $29 million, net of assumed cash.  the usa drug and cystic fibrosis acquisitions added $220
+million and $16 million of goodwill, respectively.
+the carrying amount and accumulated amortization of intangible assets consists of the following (in millions):
+gross intangible assets                    2014           2013
+───────────────────────────────────────────────────────────────────
+purchased prescription files           $  1,079       $  1,099
+favorable lease interests                   382            381
+purchasing and payer contracts              301            347
+non-compete agreements                      151            153
+trade names                                 199            199
+other amortizable intangible assets           4              4
+total gross intangible assets             2,116          2,183
+accumulated amortization purchased prescription files               (474  )        (467  )
+favorable lease interests                  (174  )        (143  )
+purchasing and payer contracts             (145  )        (147  )
+non-compete agreements                      (70  )         (67  )
+trade names                                 (69  )         (49  )
+other amortizable intangible assets          (4  )          (3  )
+total accumulated amortization             (936  )        (876  )
+total intangible assets, net           $  1,180       $  1,307
+amortization expense for intangible assets was $282 million in fiscal 2014, $289 million in fiscal 2013 and $255
+million in fiscal 2012.  the weighted-average amortization period for purchased prescription files was six years for fiscal 2014 and seven years for fiscal 2013.  the weighted-average amortization period for favorable lease interests was 11 years for fiscal 2014 and 2013.  the weighted-average amortization period for purchasing and payer contracts was 13 years for fiscal 2014 and 2013.  the weighted-average amortization period for non-compete agreements was five years for fiscal 2014 and six years for fiscal 2013.  the weighted-average amortization period for trade names was 12 years for fiscal 2014 and 12 years for fiscal 2013.  the weighted-average amortization period for other amortizable intangible assets was eight years for fiscal 2014 and 10 years for fiscal 2013.
+expected amortization expense for intangible assets recorded at august 31, 2014, not including amounts related to alliance boots that will be amortized through equity method investment income, is as follows (in millions):
+2015       2016       2017       2018       2019
+─────────────────────────────────────────────────────
+$   250    $   210    $   167    $   129    $   106
+(8)  income taxes the components of earnings before income tax provision were (in millions):
+2014        2013
+──────────────────────────────────
+u.s.        $  3,386    $  3,477
+non-u.s.         171         418
+total       $  3,557    $  3,895
+the provision for income taxes consists of the following (in millions):
+current provision -         2014           2013           2012
+───────────────────────────────────────────────────────────────────
+federal                 $  1,207       $  1,122       $    890
+state                        109            134            120
+non-u.s.                      35             15              -
+1,351          1,271          1,010
+deferred provision -
+federal                      183            174            251
+state                         (3  )          (2  )         (12  )
+non-u.s.                      (5  )           2              -
+175            174            239
+income tax provision    $  1,526       $  1,445       $  1,249
+the difference between the statutory federal income tax rate and the effective tax rate is as follows:
+2014       2013       2012
+federal statutory rate                   35.0  %    35.0  %    35.0  %
+state income taxes, net of federal        1.9  %     2.2  %     2.1  %
+benefit loss on alliance boots call option(1)     8.5  %     0.0  %     0.0  %
+foreign income taxed at non-us rate      -3.1  %    -0.3  %     0.0  %
+other                                     0.6  %     0.2  %    -0.1  %
+effective income tax rate                42.9  %    37.1  %    37.0  %
+(1) upon the amendment and immediate exercise of the call option to acquire the remaining 55% ownership of alliance boots, the company was required to compare the fair value of the amended option with the book value of the original option with a gain or loss recognized for the difference.  the fair value of the amended option resulted in a financial statement loss of $866 million.  the loss on the alliance boots call option will be, in part, a capital loss and available to be carried forward and offset future capital gains through fiscal 2020.  the loss also contributed to the increased valuation allowance amount reported in the deferred income tax table below.
+the deferred tax assets and liabilities included in the consolidated balance sheets consist of the following (in millions):
+deferred tax assets -               2014        2013
+──────────────────────────────────────────────────────
+postretirement benefits         $    247    $    218
+compensation and benefits            166         136
+insurance                             98         121
+accrued rent                         166         157
+tax benefits                         430         159
+stock compensation                   131         159
+other                                140          96
+subtotal                           1,378       1,046
+less: valuation allowance            223          19
+total deferred tax assets          1,155       1,027
+deferred tax liabilities -
+accelerated depreciation           1,244       1,369
+inventory                            407         396
+intangible assets                     64          53
+equity method investment             355          21
+deferred income                      208           4
+subtotal                           2,278       1,843
+net deferred tax liabilities    $  1,123    $    816
+at august 31, 2014, the company has recorded deferred tax assets of $430 million, primarily reflecting the benefit of $1.0 billion in federal and $713 million in state ordinary and capital losses.  these deferred tax assets will expire at various dates from 2015 through 2033, with the majority of the federal losses expiring in 2019 and 2020.
+the company believes it is more likely than not that the benefit from certain net operating and capital loss carryforwards will not be realized.  in recognition of this risk, the company has recorded a valuation allowance of
+$223 million on certain deferred tax assets relating to these loss carryforwards as of august 31, 2014.
+income taxes paid were $1.2 billion for fiscal years 2014, 2013 and 2012.
+asc topic 740, income taxes, provides guidance regarding the recognition, measurement, presentation and disclosure in the financial statements of tax positions taken or expected to be taken on a tax return, including the decision whether to file in a particular jurisdiction.  as of august 31, 2014, all unrecognized tax benefits were reported as long-term liabilities on the consolidated balance sheet.  as of august 31, 2013, $32 million of unrecognized tax benefits were reported as current income tax liabilities, with the balance classified as long-term liabilities on the consolidated balance sheet.
+the following table provides a reconciliation of the total amounts of unrecognized tax benefits (in millions):
+2014          2013          2012
+────────────────────────────────────────────────────────────────────────────────────
+balance at beginning of year                $   208       $   197       $    94
+gross increases related to tax positions         55            18           100
+in a prior period gross decreases related to tax positions        (82  )        (32  )        (49  )
+in a prior period gross increases related to tax positions         46            30            53
+in the current period settlements with taxing authorities             (22  )         (2  )         (1  )
+lapse of statute of limitations                 (12  )         (3  )          -
+balance at end of year                      $   193       $   208       $   197
+at august 31, 2014, 2013 and 2012, $105 million, $116 million and $118 million, respectively, of unrecognized tax benefits would favorably impact the effective tax rate if recognized.  during the next twelve months, the company does not expect a material change in the amount of the unrecognized tax benefits.
+the company recognizes interest and penalties in the income tax provision in its consolidated statements of earnings.  at august 31, 2014, and august 31, 2013, the company had accrued interest and penalties of $21 million and $28 million, respectively.  for the year ended august 31, 2014, the amount reported in income tax expense related to interest and penalties was an immaterial benefit.
+the company files a consolidated u.s. federal income tax return, as well as income tax returns in various states.
+it is no longer under audit examination for u.s. federal income tax purposes for any years prior to fiscal 2012.
+with few exceptions, it is no longer subject to state and local income tax examinations by tax authorities for years before fiscal 2007.
+the company has received tax holidays from swiss cantonal income taxes relative to its swiss operations.  the income tax holidays are expected to extend through september 2022.  the holidays had an immaterial impact on the company's results during the current fiscal year.  at august 31, 2014, the company has an unrecorded deferred tax liability for temporary differences related to its investments in certain foreign subsidiaries of approximately $85
+million.
+(9)  short-term borrowings and long-term debt short-term borrowings and long-term debt consist of the following at august 31 (in millions):
+short-term borrowings -                       2014       2013
+───────────────────────────────────────────────────────────────
+current maturities of loans assumed through the purchase of land and buildings; various interest rates from     $     8    $     2
+5.000% to 8.750%; various maturities from 2015 to 2035
+1.000% unsecured notes due 2015, net of        750          -
+unamortized discount unsecured variable rate notes due 2014,          -        550
+net of unamortized discount other                                           16         18
+total short-term borrowings                $   774    $   570
+long-term debt -
+1.000% unsecured notes due 2015, net of         -         749
+unamortized discount
+1.800% unsecured notes due 2017, net of       999         998
+unamortized discount
+5.250% unsecured notes due 2019, net of unamortized discount and interest rate      1,010         994
+swap fair market value adjustment (see note 10)
+3.100% unsecured notes due 2022, net of     1,199       1,199
+unamortized discount
+4.400% unsecured notes due 2042, net of       496         496
+unamortized discount loans assumed through the purchase of land and buildings; various interest           40          43
+rates from 5.000% to 8.750%; various maturities from 2015 to 2035
+3,744       4,479
+less current maturities                        -8          -2
+total long-term debt                     $  3,736    $  4,477
+on september 13, 2012, the company received net proceeds from a public offering of $4.0 billion of notes with varying maturities and interest rates, the majority of which are fixed rate.
+the following details each tranche of notes issued on september 13, 2012:
+interest payment dates march 13, june 13, september 13 and interest rate                       december 13; commencing on december notes issued                        variable; three-month u.s. dollar   13, 2012
+(in millions)    maturity date       libor, reset quarterly, plus 50     march 13 and september 13;
+550    march 13, 2014      basis points                        commencing on march 13, 2013
+750    march 13, 2015      fixed 1.000%                        march 15 and september 15;
+1,000    september 15, 2017  fixed 1.800%                        commencing on march 15, 2013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+1,200    september 15, 2022  fixed 3.100%                        march 15 and september 15;
+commencing on march 15, 2013
+500    september 15, 2042  fixed 4.400%                        march 15 and september 15;
+commencing on march 15, 2013
+$          4,000
+the company paid in full its $550 million obligation that matured in march 2014.  the company may redeem the fixed rate notes at its option, at any time in whole, or from time to time in part, at a redemption price equal to the greater of: (1) 100% of the principal amount of the notes being redeemed; and (2) the sum of the present values of the remaining scheduled payments of principal and interest thereon (not including any portion of such payments of interest accrued as of the date of redemption), discounted to the date of redemption on a semiannual basis
+(assuming a 360-day year consisting of twelve 30-day months) at the treasury rate (as defined), plus 12 basis points for the notes due 2015, 20 basis points for the notes due 2017, 22 basis points for the notes due 2022 and
+25 basis points for the notes due 2042.  if a change of control triggering event occurs, the company will be required, unless it has exercised its right to redeem the notes, to offer to purchase the notes at a purchase price equal to 101% of their principal amount, plus accrued and unpaid interest, if any, on the notes repurchased to the date of repurchase.  the notes are unsecured senior debt obligations and rank equally with all other unsecured and unsubordinated indebtedness of the company.  total issuance costs relating to the notes, including underwriting discounts and fees, were $26 million.  the fair value of the notes as of august 31, 2014 and 2013 was $3.4 billion and $3.9 billion, respectively.  fair value for these notes was determined based upon quoted market prices.
+on january 13, 2009, the company issued notes totaling $1.0 billion bearing an interest rate of 5.250% paid semiannually in arrears on january 15 and july 15 of each year, beginning on july 15, 2009.  the notes will mature on january 15, 2019.  the company may redeem the notes, at any time in whole or from time to time in part, at its option at a redemption price equal to the greater of: (1) 100% of the principal amount of the notes to be redeemed; or (2) the sum of the present values of the remaining scheduled payments of principal and interest, discounted to the date of redemption on a semiannual basis at the treasury rate, plus 45 basis points, plus accrued interest on the notes to be redeemed to, but excluding, the date of redemption.  if a change of control triggering event occurs, unless the company has exercised its option to redeem the notes, it will be required to offer to repurchase the notes at a purchase price equal to 101% of the principal amount of the notes plus accrued and unpaid interest to the date of redemption.  the notes are unsecured senior debt obligations and rank equally with all other unsecured senior indebtedness of the company.  the notes are not convertible or exchangeable.  total issuance costs relating to this offering were $8 million, primarily underwriting fees.  the fair value of the notes as of august 31, 2014 and 2013, was $1.1 billion and $1.1 billion, respectively.  fair value for these notes was determined based upon quoted market prices.
+we have periodically borrowed under our commercial paper program during the current fiscal year, and may continue to borrow in future periods.  we had average daily short-term borrowings of $4 million of commercial paper outstanding at a weighted average interest rate of 0.23% for the fiscal year ended august 31, 2014.  we had no commercial paper outstanding at august 31, 2014.  in connection with the commercial paper program, the company maintains two unsecured backup syndicated lines of credit that total $1.35 billion.  the first $500 million facility expires on july 20, 2015, and allows for the issuance of up to $250 million in letters of credit.  the second $850 million facility expires on july 23, 2017, and allows for the issuance of up to $200 million in letters of credit.  the issuance of letters of credit under either of these facilities reduces available borrowings.  the company's ability to access these facilities is subject to compliance with the terms and conditions of the credit facilities, including financial covenants.  the covenants require the company to maintain certain financial ratios related to minimum net worth and priority debt, along with limitations on the sale of assets and purchases of investments.  at august 31, 2014, the company was in compliance with all such covenants.  the company pays a facility fee to the financing banks to keep these lines of credit active.  at august 31, 2014, there were no letters of credit issued against these credit facilities and the company does not anticipate any future letters of credit to be issued against these facilities.
+(10)  financial instruments the company uses derivative instruments to manage its interest rate exposure associated with some of its fixed-rate borrowings.  the company does not use derivative instruments for trading or speculative purposes.  all derivative instruments are recognized in the consolidated balance sheets at fair value.  the company designates interest rate swaps as fair value hedges of fixed-rate borrowings.  for derivatives designated as fair value hedges, the change in the fair value of both the derivative instrument and the hedged item are recognized in earnings in the current period.  the company's forward starting interest rate swaps used to hedge anticipated debt issuances are designated as cash flow hedges.  changes in the fair value of cash flow hedges deemed effective are recognized in other comprehensive income.  at the inception of a hedge transaction, the company formally documents the hedge relationship and the risk management objective for undertaking the hedge.  in addition, it assesses both at inception of the hedge and on an ongoing basis whether the derivative in the hedging transaction has been highly effective in offsetting changes in fair value of the hedged item and whether the derivative is expected to continue to be highly effective.  the impact of any ineffectiveness is recognized currently in earnings.
+counterparties to derivative financial instruments expose the company to credit-related losses in the event of nonperformance, but the company regularly monitors the credit worthiness of each counterparty.
+fair value hedges in prior fiscal years, the company entered into a series of interest rate swaps converting $750 million of its
+5.250% fixed rate notes to a floating interest rate based on the six-month libor in arrears plus a constant spread and an interest rate swap converting $250 million of its 5.250% fixed rate notes to a floating interest rate based on the one-month libor in arrears plus a constant spread.  all swap termination dates coincide with the notes maturity date, january 15, 2019.  the changes in fair value of the notes attributable to the hedged risk are included in short-term and long-term debt on the consolidated condensed balance sheets.  no material gains or losses were recorded in fiscal 2014 or 2013 from ineffectiveness.
+cash flow hedges in the current fiscal year, the company entered into a series of forward starting interest rate swap transactions locking in the then current three-month libor interest rate on $1.5 billion of anticipated debt issuance, with expected maturity tenures of 10 and 30 years.  the swap transactions are designated as cash flow hedges.  changes in the fair value of swaps are recorded in other comprehensive income.  any ineffectiveness is recognized in interest expense on the consolidated balance sheets.
+the notional amounts of derivative instruments outstanding at august 31, 2014 and 2013, were as follows (in millions):
+derivatives designated as fair value hedges:                                 2014           2013
+────────────────────────────────────────────────────────────────────
+interest rate swaps                     $     1,000    $     1,000
+derivatives designated as cash flow hedges:
+forward interest rate swaps                   1,500              -
+the changes in fair value of the company's debt that was swapped from fixed to variable rate and designated as fair value hedges are included in long-term debt on the consolidated balance sheets (see note 9).  at august 31, 2014, the cumulative fair value adjustments resulted in an increase in long-term debt of $12 million compared to a decrease in fair value of $3 million at august 31, 2013.
+changes in fair value of the cash flow hedges are included in other comprehensive income, with any ineffectiveness recorded directly to interest expense.  the fair value change in fiscal 2014 reported in other comprehensive income was $44 million, $27 million net of tax, at august 31, 2014.  upon termination of the cash flow hedges, cumulative changes included in other comprehensive income will be amortized with the debt's cash flow.  no material fair value changes or ineffectiveness was recorded through other comprehensive income in fiscal 2014.
+the fair value and balance sheet presentation of derivative instruments at august 31, 2014 and 2013, were as follows (in millions):
+location in consolidated asset derivatives designated as hedges:   balance sheets                   2014        2013
+────────────────────────────────────────────────────────────────────────────────────────────────
+interest rate swaps                       other non-current assets         $     16    $     1
+liability derivatives designated as cash flow hedges:
+forward interest rate swaps               other non-current liabilities          44          -
+warrants the company, alliance boots and amerisourcebergen corporation entered into a framework agreement dated as of march
+18, 2013, pursuant to which (1) walgreens and alliance boots together were granted the right to purchase a minority equity position in amerisourcebergen, beginning with the right, but not the obligation, to purchase up to
+19,859,795 shares of amerisourcebergen common stock (approximately 7 percent of the then fully diluted equity of amerisourcebergen, assuming the exercise in full of the warrants described below) in open market transactions; (2)
+the company and alliance boots were each  issued (a) a warrant to purchase up to 11,348,456  shares of amerisourcebergen common stock at an exercise price of $51.50 per share exercisable during a six-month period beginning in march 2016, and (b) a warrant to purchase up to 11,348,456 shares of amerisourcebergen common stock at an exercise price of $52.50 per share exercisable during a six-month period beginning in march 2017.  the parties and affiliated entities also entered into certain related agreements governing relations between and among the parties thereto, including the shareholders agreement, the transaction rights agreement and the limited liability company agreement of wab holdings llc, a newly formed limited liability company jointly owned by the company and alliance boots for the purpose of acquiring and holding amerisourcebergen common stock, described in the company's current report on form 8-k filed on march 20, 2013.
+the company reports its warrants at fair value.  see note 11 for additional fair value measurement disclosures.
+the fair value and balance sheet presentation of derivative instruments not designated as hedges at august 31, 2014
+and 2013, was as follows (in millions):
+asset derivatives not designated as  location in consolidated hedges:                              balance sheets              2014         2013
+─────────────────────────────────────────────────────────────────────────────────────────
+warrants                             other non-current assets    $     553    $     188
+(11)  fair value measurements the company measures certain assets and liabilities in accordance with asc topic 820, fair value measurements and disclosures. asc topic 820 defines fair value as the price that would be received for an asset or paid to transfer a liability in an orderly transaction between market participants on the measurement date. in addition, it establishes a fair value hierarchy that prioritizes observable and unobservable inputs used to measure fair value into three broad levels:
+level 1 -  quoted prices in active markets that are accessible at the measurement date for identical assets and liabilities. the fair value hierarchy gives the highest priority to level 1 inputs.
+level 2 -  observable inputs other than quoted prices in active markets.
+level 3 -  unobservable inputs for which there is little or no market data available. the fair value hierarchy gives the lowest priority to level 3 inputs.
+assets and liabilities measured at fair value on a recurring basis were as follows (in millions):
+august 31, 2014       level 1       level 2       level 3
+────────────────────────────────────────────────────────────────────────────────────────────────────
+assets:
+money market funds                    $            1,879    $    1,879    $        -    $  -
+interest rate swaps(1)                                16             -            16       -
+investment in amerisourcebergen(2)                   887           887             -       -
+warrants(3)                                          553             -           553       -
+liabilities:
+forward interest rate swaps(4)                        44             -            44       -
+august 31, 2013       level 1       level 2       level 3
+────────────────────────────────────────────────────────────────────────────────────────────────────
+assets:
+money market funds                    $            1,636    $    1,636    $        -    $  -
+interest rate swaps(1)                                 1             -             1       -
+investment in amerisourcebergen(2)                   225           225             -       -
+warrants(3)                                          188             -           188       -
+(1)  interest rate swaps are valued using the six-month and one-month libor in arrears rates.  see note 10 for additional disclosure regarding financial instruments.
+the investment in amerisourcebergen corporation is valued using the closing stock price of
+(2)  amerisourcebergen as of the balance sheet dates.  see note 6 for additional disclosures on available-for-sale investments.
+warrants were valued using a monte carlo simulation.  key assumptions used in the valuation include risk-free interest rates using constant maturity treasury rates; the dividend yield for
+(3)  amerisourcebergen's common stock; amerisourcebergen's common stock price at the valuation date;
+amerisourcebergen's equity volatility; the number of shares of amerisourcebergen's common stock outstanding; the number of amerisourcebergen employee stock options and the exercise price; and the details specific to the warrants.
+(4) forward interest rate swaps are valued using three-month libor in arrears rates.  see note 10 for additional disclosure regarding financial instruments.
+assets measured at fair value on a nonrecurring basis were as follows (in millions):
+august 31, 2014            level 1    level 2       level 3
+────────────────────────────────────────────────────────────────────────────────────────────────
+assets:
+alliance boots call option    $                  -    $  -          $        -    $          -
+august 31, 2013            level 1    level 2       level 3
+assets:
+alliance boots call option    $                839    $  -          $        -    $        839
+the call option was valued using a monte carlo simulation.  key assumptions used in the valuation include expected term, walgreens equity value, the value of alliance boots and the potential impacts of certain provisions of the purchase and option agreement dated june 18, 2012, by and among the company, alliance boots and ab acquisitions holdings limited.  the option was amended, and exercised, on august 5, 2014, resulting in a new fair value determination that resulted in a loss on the option of $866 million.
+the company reports its debt instruments under the guidance of asc topic 825, financial instruments, which requires disclosure of the fair value of the company's debt in the footnotes to the consolidated financial statements.  see note 9 for further details.
+(12)  commitments and contingencies the company is involved in legal proceedings and is subject to investigations, inspections, audits, inquiries and similar actions by governmental authorities, arising in the normal course of the company's business, including the matters described below.  legal proceedings, in general, and securities and class action litigation, in particular, can be expensive and disruptive.  some of these suits may purport or may be determined to be class actions and/or involve parties seeking large and/or indeterminate amounts, including punitive or exemplary damages, and may remain unresolved for several years.  from time to time, the company is also involved in legal proceedings as a plaintiff involving antitrust, tax, contract, intellectual property and other matters.  gain contingencies, if any, are recognized when they are realized.  the results of legal proceedings are often uncertain and difficult to predict, and the costs incurred in litigation can be substantial, regardless of the outcome.  the company believes that its defenses and assertions in pending legal proceedings have merit, and does not believe that any of these pending matters, after consideration of applicable reserves and rights to indemnification, will have a material adverse effect on the company's consolidated financial position.  however, substantial unanticipated verdicts, fines and rulings do sometimes occur.  as a result, the company could from time to time incur judgments, enter into settlements or revise its expectations regarding the outcome of certain matters, and such developments could have a material adverse effect on its results of operations in the period in which the amounts are accrued and/or its cash flows in the period in which the amounts are paid.
+on a quarterly basis, the company assesses its liabilities and contingencies for outstanding legal proceedings and reserves are established on a case-by-case basis for those legal claims for which management concludes that it is probable that a loss will be incurred and that the amount of such loss can be reasonably estimated. substantially all of these contingencies are subject to significant uncertainties and, therefore, determining the likelihood of a loss and/or the measurement of any loss can be complex.  with respect to litigation and other legal proceedings where the company has determined that a loss is reasonably possible, the company is unable to estimate the amount or range of reasonably possible loss in excess of amounts reserved due to the inherent difficulty of predicting the outcome of and uncertainties regarding such litigation and legal proceedings.  the company's assessments are based on estimates and assumptions that have been deemed reasonable by management, but that may prove to be incomplete or inaccurate, and unanticipated events and circumstances may occur that might cause the company to change those estimates and assumptions.  therefore, it is possible that an unfavorable resolution of one or more pending litigation or other contingencies could have a material adverse effect on the company's consolidated financial statements in a future fiscal period.  management's assessment of current litigation and other legal proceedings, including the corresponding accruals, could change because of the discovery of facts with respect to legal actions or other proceedings pending against the company which are not presently known. adverse rulings or determinations by judges, juries, governmental authorities or other parties could also result in changes to management's assessment of current liabilities and contingencies.  accordingly, the ultimate costs of resolving these claims may be substantially higher or lower than the amounts reserved.
+on june 11, 2013, the company entered into a settlement and memorandum of agreement (the agreement) with the united states department of justice and the united states drug enforcement administration (dea) that settled and resolved all administrative and civil matters arising out of dea's previously-disclosed concerns relating to the company's distribution and dispensing of controlled substances. under the terms of the agreement, the company paid an $80
+million settlement amount, surrendered its dea registrations for six pharmacies in florida until may 26, 2014, and for its jupiter, florida distribution center until sept. 13, 2014, and agreed to implement certain remedial actions.  in addition, the company dismissed with prejudice its petition with the united states court of appeals for the district of columbia circuit that challenged certain enforcement authority of the dea. on july 31, 2013 and august 13, 2013, putative shareholders filed derivative actions in federal court in the northern district of illinois against the walgreens board of directors and walgreen co. as a nominal defendant (collectively, the defendants), arising out of the company's june 2013 settlement with the dea described above.  the actions assert claims for breach of fiduciary duty on the grounds that the directors allegedly should have prevented the events that led to the settlement.  the plaintiffs filed an amended consolidated complaint on october 4, 2013, pursuant to which they seek damages and other relief on behalf of the company.  the defendants filed their motion to dismiss on december 3, 2013.  subsequent thereto, the plaintiffs filed an opposition brief on february 7, 2014 and the defendants filed their reply brief on march 10, 2014.  in june 2014, the parties executed a settlement term sheet reflecting an agreement in principle to settle this matter, subject to, among other things, the execution of final settlement documentation and court approval.  on september 11, 2014, the defendants, denying all wrongdoing and liability, entered into a stipulation and agreement of settlement whereby the company agreed to certain corporate governance measures and the payment of up to $3.5 million for plaintiffs' counsel fees and costs in exchange for a complete release of all claims against all defendants.  the court entered an order preliminarily approving the stipulation and agreement of settlement on september 19, 2014.  a final hearing to approve the settlement is scheduled for december 9, 2014.  settlement of this matter on the agreed terms would not have a material adverse effect on the company's consolidated financial position, results of operations or cash flows.
+(13)  capital stock the company's long-term capital policy is to maintain a strong balance sheet and financial flexibility; reinvest in its core strategies; invest in strategic opportunities that reinforce its core strategies and meet return requirements; and return surplus cash flow to shareholders in the form of dividends and share repurchases over the long term.  in connection with the company's capital policy, the board of directors set a long-term dividend payout ratio target between 30 and 35 percent of net income.  on july 13, 2011, the board of directors authorized the 2012
+repurchase program, which allows for the repurchase of up to $2.0 billion of the company's common stock prior to its expiration on december 31, 2015.  in august 2014, the board of directors approved the 2014 share repurchase program, which replaces the 2012 repurchase program, that allows for the purchase of up to $3.0 billion of the company's common stock prior to its expiration on august 31, 2016.
+activity related to these programs was as follows (in millions):
+fiscal year ended
+2014                    2013       2012
+─────────────────────────────────────────────────────────────────────────────────
+2012 stock repurchase program    $                  -    $     -    $     1,151
+2014 stock repurchase program                       -          -              -
+$                  -    $     -    $     1,151
+the company determines the timing and amount of repurchases from time to time based on its assessment of various factors including prevailing market conditions, alternate uses of capital, liquidity, the economic environment and other factors.  the timing and amount of these purchases may change at any time and from time to time.  the company has and may from time to time in the future repurchase shares on the open market through rule 10b5-1 plans, which enable a company to repurchase shares at times when it otherwise might be precluded from doing so under insider trading laws.
+in addition, the company continued to repurchase shares to support the needs of the employee stock plans.  shares totaling $705 million were purchased to support the needs of the employee stock plans during fiscal 2014 as compared to $615 million in fiscal 2013.  at august 31, 2014, 48.4 million shares of common stock were reserved for future issuances under the company's various employee benefit plans.
+(14)  stock compensation plans the walgreen co. omnibus incentive plan (the "omnibus plan") which became effective in fiscal 2013, provides for incentive compensation to walgreens non-employee directors, officers and employees, and consolidates into a single plan several previously existing equity compensation plans: the executive stock option plan, the long-term performance incentive plan, the broad based employee stock option plan, and the nonemployee director stock plan
+(collectively, the "former plans").  as of the effective date of the omnibus plan, no further grants may be made under the former plans and shares that were available for issuance under the former plans and not subject to outstanding awards became available for issuance (in addition to newly authorized shares) under the omnibus plan.
+a total of 60.4 million shares became available for delivery under the omnibus plan.
+a summary of the equity awards authorized and available for future grants under the omnibus plan and former plans follows:
+available for future grants at august 31, 2013     56,454,499
+newly authorized options                                    -
+granted                                           (11,209,853  )
+cancellation and forfeitures                        1,417,145
+plan termination                                    1,690,451
+available for future grants at august 31, 2014     48,352,242
+a summary of the company's stock options outstanding under the omnibus plan and former plans follows:
+weighted-
+weighted-      average remaining       aggregate intrinsic average exercise       contractual term                     value options                    shares                        price                (years)             (in millions)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+outstanding at         41,216,173       $                34.69                   6.14    $                  548
+august 31, 2013
+granted                 6,744,582                        60.70
+exercised             (13,832,509  )                     35.47
+expired/forfeited      (2,211,422  )                     42.54
+outstanding at         31,916,824       $                39.28                   6.40    $                  674
+august 31, 2014
+unvested at august     18,896,912       $                43.33                   7.93    $                  326
+31, 2014
+exercisable at         12,433,713       $                32.97                   4.04    $                  343
+august 31, 2014
+the fair value of each option grant was determined using the black-scholes option pricing model with the following weighted-average assumptions used in fiscal 2014, 2013 and 2012:
+2014           2013           2012
+risk-free interest rate(1)                    1.98  %        1.15  %        1.73  %
+average life of option (years)(2)              6.9            7.0            7.9
+volatility(3)                                26.27  %       24.94  %       27.02  %
+dividend yield(4)                             2.48  %        2.44  %        2.90  %
+weighted-average grant-date fair value    $  12.88       $   6.75       $   8.08
+(1)  represents the u.s. treasury security rates for the expected term of the option.
+(2)  represents the period of time that options granted are expected to be outstanding.  the company analyzed separate groups of employees with similar exercise behavior to determine the expected term.
+(3)  volatility was based on historical and implied volatility of the company's common stock.
+(4)  represents the company's cash dividend for the expected term.
+the intrinsic value for options exercised in fiscal 2014, 2013 and 2012 was $346 million, $159 million and $22
+million, respectively.  the total fair value of options vested in fiscal 2014, 2013 and 2012 was $58 million, $51
+million and $125 million, respectively.
+cash received from the exercise of options in fiscal 2014 was $490 million compared to $471 million in the prior year.  the related tax benefit realized was $130 million in fiscal 2014 compared to $60 million in the prior year.
+the walgreen co. 1982 employees stock purchase plan permits eligible employees to purchase common stock at 90% of the fair market value at the date of purchase.  employees may make purchases by cash or payroll deductions up to certain limits.  the aggregate number of shares that may be purchased under this plan is 94 million.  at august 31,
+2014, 15 million shares were available for future purchase.
+restricted performance shares issued under the omnibus and former plans offer performance-based incentive awards and equity-based awards to key employees.  restricted stock units are also equity-based awards with performance requirements that are granted to middle managers and key employees.  the restricted performance shares and restricted stock unit awards are both subject to restrictions as to continuous employment except in the case of death, normal retirement or total and permanent disability.  in accordance with asc topic 718, compensation - stock compensation, compensation expense is recognized on a straight-line basis over the employee's vesting period or to the employee's retirement eligible date, if earlier.
+a summary of information relative to the company's restricted stock units follows:
+weighted-average grant-date outstanding shares                   shares                           fair value
+──────────────────────────────────────────────────────────────────────────────────
+outstanding at august 31, 2013    3,497,838       $                        41.57
+granted                             679,658                                60.76
+dividends                            79,073                                    -
+forfeited                          (265,651  )                             43.63
+vested                             (710,851  )                             35.09
+outstanding at august 31, 2014    3,280,067       $                        45.40
+a summary of information relative to the company's performance shares follows:
+weighted-average grant-date outstanding shares                   shares                           fair value
+──────────────────────────────────────────────────────────────────────────────────
+outstanding at august 31, 2013    2,217,610       $                        32.99
+granted                             615,921                                65.08
+forfeited                          (163,473  )                             44.01
+vested                             (606,926  )                             28.31
+outstanding at august 31, 2014    2,063,132       $                        44.85
+the company also issues shares to nonemployee directors.  each director receives an equity grant of shares every year on november 1.  the number of shares granted is determined by dividing $175,000 by the price of a share of common stock on november 1.  each nonemployee director may elect to receive this annual share grant in the form of shares or deferred stock units.  in fiscal 2014, nonemployee directors received a share grant of 2,892 shares compared to 4,789 shares and 4,788 shares in fiscal 2013 and 2012, respectively.  new directors in any fiscal year earned a prorated amount.  payment of the annual retainer is paid in the form of cash, which may be deferred.
+a summary of total stock-based compensation expense follows (in millions):
+2014       2013       2012
+─────────────────────────────────────────────────────────
+stock options             $    52    $    51    $    62
+restricted stock units         48         33         24
+performance shares              8         15          7
+share walgreens                 6          5          6
+$   114    $   104    $    99
+(15)  retirement benefits the principal retirement plan for employees is the walgreen profit-sharing retirement trust, to which both the company and participating employees contribute.  the company's contribution, which has historically related to fifo earnings before interest and taxes and a portion of which is in the form of a guaranteed match, is determined annually at the discretion of the board of directors.  the profit-sharing provision was $355 million in fiscal
+2014, $342 million in fiscal 2013 and $283 million in fiscal 2012.  the company's contributions were $328 million in fiscal 2014, $262 million in fiscal 2013 and $372 million in fiscal 2012.
+the company provides certain health insurance benefits for retired employees who meet eligibility requirements, including age, years of service and date of hire.  the costs of these benefits are accrued over the service life of the employee.  in fiscal 2012, the company amended its prescription drug program for certain medicare-eligible retirees to a group-based company-sponsored medicare part d program, or employer group waiver program, effective january 1, 2013.  the company's postretirement health benefit plan is not funded.
+components of net periodic benefit costs (in millions):
+2014          2013          2012
+──────────────────────────────────────────────────────────────────────────────
+service cost                          $     8       $     9       $    13
+interest cost                              17            14            22
+amortization of actuarial loss             11            12             8
+amortization of prior service cost        (23  )        (22  )        (10  )
+total postretirement benefit cost     $    13       $    13       $    33
+change in benefit obligation (in millions):
+2014          2013
+───────────────────────────────────────────────────────────────
+benefit obligation at september 1    $   350       $   342
+service cost                               8             9
+interest cost                             17            14
+amendments                               (23  )          -
+actuarial loss (gain)                     88            (1  )
+benefit payments                         (19  )        (20  )
+participants' contributions                6             6
+benefit obligation at august 31      $   427       $   350
+change in plan assets (in millions):
+2014          2013
+──────────────────────────────────────────────────────────────────────
+plan assets at fair value at september 1    $     -       $     -
+participants' contributions                       6             6
+employer contributions                           13            14
+benefits paid                                   (19  )        (20  )
+plan assets at fair value at august 31      $     -       $     -
+funded status (in millions):
+2014             2013
+──────────────────────────────────────────────────────────────
+funded status at august 31    $     (427  )    $     (350  )
+amounts recognized in the consolidated balance sheets (in millions):
+2014          2013
+───────────────────────────────────────────────────────────────────
+current liabilities (present value of    $  (11   )    $  (10   )
+expected 2015 net benefit payments)
+non-current liabilities                     (416  )       (340  )
+net liability recognized at august 31    $  (427  )    $  (350  )
+amounts recognized in accumulated other comprehensive (income) loss (in millions):
+2014          2013
+──────────────────────────────────────────────────
+prior service credit    $  (228  )    $  (228  )
+net actuarial loss          225           148
+amounts expected to be recognized as components of net periodic costs for fiscal year 2015 (in millions):
+2015
+────────────────────────────────────
+prior service credit    $   (24  )
+net actuarial loss           19
+the measurement date used to determine postretirement benefits is august 31.
+the discount rate assumption used to compute the postretirement benefit obligation at year-end was 4.40% for 2014
+and 5.20% for 2013.  the discount rate assumption used to determine net periodic benefit cost was 5.05%, 4.15% and
+5.40% for fiscal years ending 2014, 2013 and 2012, respectively.
+the consumer price index assumption used to compute the postretirement benefit obligation was 2.00% for 2014 and
+2013.
+future benefit costs were estimated assuming medical costs would increase at a 7.15% annual rate, gradually decreasing to 5.25% over the next nine years and then remaining at a 5.25% annual growth rate thereafter.
+a one percentage point change in the assumed medical cost trend rate would have the following effects (in millions):
+1% increase          1% decrease
+────────────────────────────────────────────────────────────────────────────
+effect on service and interest cost    $  (1           )    $            1
+effect on postretirement obligation       (3           )                 7
+estimated future federal subsidies are immaterial for all periods presented. future benefit payments are as follows
+(in millions):
+estimated future benefit payments
+───────────────────────────────────────────────────
+2015         $                                 12
+2016                                           13
+2017                                           14
+2018                                           16
+2019                                           17
+2020-2024                                     112
+the expected benefit to be paid net of the estimated federal subsidy during fiscal year 2015 is $12 million.
+(16)  supplementary financial information significant non-cash transactions in fiscal 2014 include $322 million for additional capital lease obligations.
+significant non-cash transactions in fiscal 2013 include $77 million related to the initial valuation of the amerisourcebergen warrants.  significant non-cash transactions in fiscal 2012 include $3 billion in stock issuance relating to the investment in alliance boots.
+included in the consolidated balance sheets captions are the following assets and liabilities (in millions):
+accounts receivable -                           2014           2013
+────────────────────────────────────────────────────────────────────────
+accounts receivable                         $  3,391       $  2,786
+allowance for doubtful accounts (see            (173  )        (154  )
+note 1)
+$  3,218       $  2,632
+other non-current assets -
+intangible assets, net (see note 7)         $  1,180       $  1,307
+investment in amerisourcebergen                  887            225
+warrants                                         553            188
+other                                            456            239
+$  3,076       $  1,959
+accrued expenses and other liabilities -
+accrued salaries                            $  1,123       $    928
+taxes other than income taxes                    377            420
+insurance                                        185            285
+profit sharing                                   259            239
+other                                          1,757          1,705
+$  3,701       $  3,577
+other non-current liabilities -
+postretirement healthcare benefits          $    416       $    340
+accrued rent                                     409            382
+insurance                                        428            403
+other                                          1,689            942
+$  2,942       $  2,067
+summary of quarterly results (unaudited)
+(in millions, except per share amounts)
+quarter ended
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+november       february          may       august          fiscal year fiscal 2014
+net sales                        $         18,329    $    19,605    $  19,401    $  19,057       $       76,392
+gross profit                                5,152          5,650        5,440        5,327               21,569
+net earnings attributable to walgreen                                      695            754          722         (239  )             1,932
+co.
+per common share -
+basic                            $           0.73    $      0.79    $    0.76    $   (0.25  )    $         2.03
+diluted                                      0.72           0.78         0.75        (0.25  )              2.00
+cash dividends declared per      $          0.315    $     0.315    $   0.315    $  0.3375       $       1.2825
+common share fiscal 2013
+net sales                        $         17,316    $    18,647    $  18,313    $  17,941       $       72,217
+gross profit                                5,099          5,607        5,222        5,191               21,119
+net earnings                                  413            756          624          657                2,450
+per common share -
+basic                            $           0.44    $      0.80    $    0.66    $    0.69       $         2.59
+diluted                                      0.43           0.79         0.65         0.69                 2.56
+cash dividends declared per      $          0.275    $     0.275    $   0.275    $   0.315       $        1.140
+common share common stock prices (unaudited)
+the following table sets forth the sales price ranges of the company's common stock by quarter during the fiscal years ended august 31, 2014 and august 31, 2013 as reported by the consolidated transaction reporting system.
+quarter ended
+─────────────────────────────────────────────────────────────────────────────────────────────────
+november       february         may       august       fiscal year fiscal 2014  high    $          60.93    $     69.84    $  71.97    $   76.39    $        76.39
+low                48.18          54.86       62.80        57.75             48.18
+fiscal 2013  high    $          36.95    $     41.95    $  50.77    $   51.26    $        51.26
+low                32.16          34.27       39.96        44.12             32.16
+management's report on internal control our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in exchange act rule 13a-15(f).  under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in internal control -
+integrated framework (1992) issued by the committee of sponsoring organizations of the treadway commission (coso).
+based on our evaluation, management concluded that our internal control over financial reporting was effective as of august 31, 2014.  deloitte & touche llp, the company's independent registered public accounting firm, has audited our internal control over financial reporting, as stated in its report which is included herein.
+/s/  gregory d. wasson                      /s/  timothy r. mclevish gregory d. wasson                           timothy r. mclevish president and chief executive officer       executive vice president and chief financial officer reports of independent registered public accounting firms to the board of directors and shareholders of walgreen co.:
+we have audited the accompanying consolidated balance sheets of walgreen co. and subsidiaries (the "company") as of august 31, 2014 and 2013, and the related consolidated statements of earnings, comprehensive income, shareholders'
+equity, and cash flows for each of the three years in the period ended august 31, 2014. these financial statements are the responsibility of the company's management. our responsibility is to express an opinion on these financial statements based on our audits.  we did not audit the financial statements of alliance boots gmbh ("alliance boots"), the company's investment in which is accounted for by use of the equity method (see note 5 to the consolidated financial statements), for the years ended august 31, 2014 and 2013.  the accompanying 2014 and 2013
+consolidated financial statements of the company include its equity investment in alliance boots of $7,248 million and $6,261 million as of august 31, 2014 and 2013, respectively, and its equity earnings in alliance boots of $617
+million and $344 million for the years ended august 31, 2014 and 2013, respectively.  the financial statements of alliance boots as of and for the year ended may 31, 2014 and for the ten months ended may 31, 2013, prepared in accordance with international financial reporting standards as issued by the international accounting standards board, were audited by other auditors whose report has been furnished to us, and our opinion, insofar as it relates to the amounts included for the company's equity investment and equity earnings in alliance boots, on the basis of international financial reporting standards as issued by the international accounting standards board, is based on the report of the other auditors.  we have applied auditing procedures to the adjustments to reflect the company's equity investment and equity earnings in alliance boots in accordance with accounting principles generally accepted in the united states of america.
+we conducted our audits in accordance with the standards of the public company accounting oversight board (united states). those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. an audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. an audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. we believe that our audits and the report of the other auditors provide a reasonable basis for our opinion.
+in our opinion, based on our audits and the report of the other auditors, such consolidated financial statements present fairly, in all material respects, the financial position of walgreen co. and subsidiaries as of august 31,
+2014 and 2013, and the results of their operations and their cash flows for each of the three years in the period ended august 31, 2014, in conformity with accounting principles generally accepted in the united states of america.
+we have also audited, in accordance with the standards of the public company accounting oversight board (united states), the company's internal control over financial reporting as of august 31, 2014, based on the criteria established in internal control - integrated framework (1992) issued by the committee of sponsoring organizations of the treadway commission and our report dated october 20, 2014 expressed an unqualified opinion on the company's internal control over financial reporting based on our audit.
+/s/ deloitte & touche llp chicago, illinois october 20, 2014 (except for the other matters section of note 1 as to which the date is november 3, 2014)
+to the board of directors and shareholders of walgreen co.:
+we have audited the internal control over financial reporting of walgreen co. and subsidiaries (the "company") as of august 31, 2014, based on criteria established in internal control - integrated framework (1992) issued by the committee of sponsoring organizations of the treadway commission. the company's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying management's report on internal control.
+our responsibility is to express an opinion on the company's internal control over financial reporting based on our audit.
+we conducted our audit in accordance with the standards of the public company accounting oversight board (united states). those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. we believe that our audit provides a reasonable basis for our opinion.
+a company's internal control over financial reporting is a process designed by, or under the supervision of, the company's principal executive and principal financial officers, or persons performing similar functions, and effected by the company's board of directors, management, and other personnel to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. a company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+because of the inherent limitations of internal control over financial reporting, including the possibility of collusion or improper management override of controls, material misstatements due to error or fraud may not be prevented or detected on a timely basis. also, projections of any evaluation of the effectiveness of the internal control over financial reporting to future periods are subject to the risk that the controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+in our opinion, the company maintained, in all material respects, effective internal control over financial reporting as of august 31, 2014, based on the criteria established in internal control - integrated framework
+(1992) issued by the committee of sponsoring organizations of the treadway commission.
+we have also audited, in accordance with the standards of the public company accounting oversight board (united states), the consolidated financial statements as of and for the year ended august 31, 2014 of the company and our report dated october 20, 2014 (except for the other matters section of note 1 as to which the date is november 3,
+2014) expressed an unqualified opinion on those financial statements based on our audit and the report of other auditors.
+/s/ deloitte & touche llp chicago, illinois october 20, 2014
+to the board of alliance boots gmbh:
+we have audited the non-statutory consolidated financial statements of alliance boots gmbh and its subsidiaries
+(the "group", not presented separately herein), which comprise the group statements of financial position as at 31
+may 2014 and 2013, and the related group income statements, group statements of comprehensive income, group statements of changes in equity and group statements of cash flows for the year ended 31 may 2014 and ten months ended 31 may 2013.  these non-statutory consolidated financial statements are the responsibility of the group's management.  our responsibility is to express an opinion on these non-statutory consolidated financial statements based on our audits.
+we conducted our audits in accordance with the standards of the public company accounting oversight board (united states).  those standards require that we plan and perform the audit to obtain reasonable assurance about whether the non-statutory consolidated financial statements are free from material misstatement.  an audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the non-statutory consolidated financial statements.  an audit also includes assessing the accounting principles used and the significant accounting estimates made by management, as well as evaluating the overall presentation of the non-statutory consolidated financial statements.  we believe that our audits provide a reasonable basis for our opinion.
+in our opinion, the non-statutory consolidated financial statements present fairly, in all material respects, the financial position of the group as at 31 may 2014 and 2013, and the results of its operations and its cash flows for the year ended 31 may 2014 and ten months ended 31 may 2013 in conformity with international financial reporting standards as issued by the international accounting standards board, including the requirements of ias
+34, interim financial reporting.
+/s/
+kpmg llp london united kingdom
+16 july 2014
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 9.  changes in and disagreements with accountants on accounting and financial disclosure                  │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+none.
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 9a.  controls and procedures                                                                              │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+evaluation of disclosure controls and procedures management conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the period covered by this form 10-k.  the controls evaluation was conducted under the supervision and with the participation of the company's management, including its chief executive officer (ceo) and chief financial officer (cfo). based upon the controls evaluation, our ceo and cfo have concluded that, as of the end of the period covered by this report, our disclosure controls and procedures were effective to provide reasonable assurance that information required to be disclosed in our exchange act reports is recorded, processed, summarized and reported within the time periods specified by the sec, and that such information is accumulated and communicated to management, including the ceo and cfo, as appropriate to allow timely decisions regarding required disclosure.
+report on internal control over financial reporting management's report on internal control over financial reporting and the report of deloitte & touche llp, the company's independent registered public accounting firm, related to their assessment of the effectiveness of internal control over financial reporting are included in part ii, item 8 of this form 10-k and are incorporated in this item 9a by reference.
+changes in internal control over financial reporting in connection with the evaluation pursuant to exchange act rule 13a-15(d) of the company's internal control over financial reporting (as defined in exchange act rule 13a-15(f)) by the company's management, including its ceo and cfo, no changes during the quarter ended august 31, 2014 were identified that have materially affected, or are reasonably likely to materially affect, the company's internal control over financial reporting.  the company plans to transition to a new general ledger system in the fiscal quarter ending november 30, 2014.  this is part of an ongoing initiative to enhance the overall design and operating effectiveness of the company's financial reporting controls and is not in response to an identified internal control deficiency.  management believes that controls over project development and implementation are adequate to assure there will be no material effect, or a reasonable likelihood of a material effect, on our internal control over financial reporting.
+inherent limitations on effectiveness of controls our management, including the ceo and cfo, do not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all errors and all fraud.  a control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system's objectives will be met.  the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs.  further, because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, within the company have been detected.  these inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can occur because of simple error or mistake.  controls can also be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls.  the design of any system of controls is based in part on certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions.  projections of any evaluation of controls effectiveness to future periods are subject to risks.  over time, controls may become inadequate because of changes in conditions or deterioration in the degree of compliance with policies or procedures.
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 9b.  other information                                                                                    │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+walgreens boots alliance, inc.
+walgreens boots alliance, inc. is a new corporation incorporated on september 2, 2014 under the laws of delaware and is a direct wholly-owned subsidiary of walgreens.  to date, walgreens boots alliance has not conducted any activities other than those incident to its formation and the matters contemplated by the reorganization merger agreement (described below).  walgreens boots alliance currently has no material assets, operations, revenues or cash flows.
+reorganization merger agreement on october 17, 2014, walgreens entered into an agreement and plan of merger (the reorganization merger agreement)
+by and among walgreens, ontario merger sub, inc., an illinois corporation and indirect wholly owned subsidiary of walgreens (merger sub), and walgreens boots alliance.  the reorganization merger agreement provides that merger sub will merge with and into walgreens (the reorg merger), with walgreens surviving the reorg merger as a wholly owned subsidiary of walgreens boots alliance.  at the effective time of the reorg merger, issued and outstanding shares of walgreens common stock will be converted automatically into the right to receive shares of walgreens boots alliance common stock, on a one-for-one basis.  walgreens shareholders will own the same number of shares of walgreens boots alliance common stock as they own of walgreens common stock immediately prior to the completion of the reorg merger, and, after taking into account the completion of the second step transaction, such shares will represent the same ownership percentage of walgreens boots alliance as they would have of walgreens immediately following the completion of the second step transaction without the reorg merger.
+the completion of the reorg merger depends on the satisfaction or waiver of several conditions, including the following:
+•  adoption of the reorganization merger agreement and approval of the reorg merger by walgreens shareholders;
+no law, statute, rule or regulation, order, judgment, writ, injunction, decree, settlement or stipulation
+•  exists or has been enacted, entered, promulgated or enforced by any governmental authority, which prohibits or makes illegal the completion of the reorg merger;
+•  receipt of necessary regulatory approvals, licenses and third party consents;
+the satisfaction or waiver of each of the conditions to closing set forth in the purchase and option
+•  agreement with respect to the second step transaction, and written confirmation by each of the parties to the purchase and option agreement that each such party stands ready to, and will, consummate the second step transaction immediately following the consummation of the reorg merger;
+the registration statement on form s-4 filed by walgreens boots alliance in connection with the issuance of
+•  walgreens boots alliance common stock in the reorg merger shall have become effective under the securities act, as amended, and there shall be no stop order suspending such effectiveness and no proceeding for such purpose shall be pending before or threatened by the sec;
+•  the approval of the listing of walgreens boots alliance common stock to be issued in connection with the reorg merger on such national stock exchanges as determined by walgreens; and the receipt by walgreens of an opinion from wachtell, lipton, rosen & katz to the effect that the reorg
+•  merger will qualify as a "reorganization" within the meaning of section 368(a) of the internal revenue code of 1956, as amended (the code) and/or a transaction described in section 351 of the code.
+walgreens may terminate the reorganization merger agreement at any time, even after adoption by walgreens'
+shareholders, if walgreens' board of directors determines to do so.  in addition, the reorganization merger agreement will automatically terminate upon the termination of the purchase and option agreement prior to the completion of the second step transaction.
+the foregoing description of the reorganization merger agreement is qualified in its entirety by reference to the full text of the reorganization merger agreement, which is attached as exhibit 2.3 hereto and incorporated herein by reference.
+annual meeting of shareholders walgreen co. does not expect to hold an annual meeting of shareholders while the second step of the alliance boots transaction and reorganization of walgreens into a new holding company structure (the "reorganization") are pending and will hold an annual meeting during its fiscal year ending august 31, 2015 only if the reorganization has not been completed.  if the reorganization is completed, it is currently intended for walgreens boots alliance, inc. to hold its initial annual meeting of stockholders during its fiscal year ended august 31, 2015 as promptly as practicable following the completion of the reorganization.  if the reorganization is completed by the first quarter of calendar 2015 as currently expected, walgreens boots alliance plans to hold its initial annual meeting of stockholders ("wba annual meeting") on may 20, 2015 at a time and place to be specified in its proxy statement relating to that meeting.  the wba annual meeting will be held only if the reorganization is completed.
+if you want walgreens boots alliance to consider including a proposal in its proxy statement relating to the wba annual meeting following completion of the reorganization, you must have delivered it in writing to walgreens boots alliance's corporate secretary, walgreens boots alliance, inc., 108 wilmot road, deerfield, illinois 60015 by november 28, 2014 (or, if the date of the wba annual meeting is moved by more than 30 days, the deadline will be a reasonable time before walgreens boots alliance begins to print and send its proxy materials, which date will be announced by walgreens boots alliance), and such proposal and your submission thereof must comply with applicable sec rules and regulations regarding the inclusion of stockholder proposals in company-sponsored proxy materials.
+if you want to present a proposal or nominate a candidate for election to the walgreens boots alliance board of directors at the wba annual meeting following completion of the reorganization but do not wish to have it included in walgreens boots alliance's proxy statement, you must submit the proposal in writing to walgreens boots alliance's corporate secretary, walgreens boots alliance, inc., 108 wilmot road, deerfield, illinois 60015 on or after january 20, 2015 and no later than february 19, 2015 (or, if the date of  the wba annual meeting is changed to be before april 20, 2015 or after july 19, 2015, then between (i) the close of business on the 120th day prior to the date of the wba annual meeting and (ii) the later of the close of business on the 90th day prior to the date of the wba annual meeting or the close of business on the 10th day after the first public announcement of the date of the wba annual meeting).  stockholder proposals must be in proper written form and must meet the detailed disclosure requirements set forth in walgreens boots alliance's bylaws, including a description of the proposal, the relationship between the proposing stockholder and the underlying beneficial owner, if any, and such parties'
+stock holdings and derivative positions in walgreens boots alliance's securities.  walgreens boots alliance's bylaws also require that stockholder proposals concerning nomination of directors provide additional disclosure, including such information walgreens boots alliance deems appropriate to ascertain the nominee's qualifications to serve on its board of directors, disclosure of compensation arrangements between the nominee, the nominating stockholder and the underlying beneficial owner, if any, and any other information required to comply with the proxy rules and applicable law.  if you would like a copy of these provisions, please contact walgreens boots alliance's corporate secretary at the above address, or access walgreens boots alliance's bylaws filed as an exhibit to the s-4 registration statement filed by walgreens boots alliance in connection with the reorganization.
+failure to comply with walgreens boots alliance's bylaw procedures and deadlines may preclude presentation and consideration of the matter or nomination of the applicable candidate for election at the wba annual meeting.
+╔═ § ═════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                 ║
+║                                                    part iii                                                     ║
+║                                                                                                                 ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 10.  directors, executive officers and corporate governance                                               │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+the information required by item 10, with the exception of the information relating to the executive officers of the company, which is presented in part i above under the heading "executive officers of the registrant," is incorporated herein by reference to the following sections of the company's proxy statement relating to its next annual meeting of shareholders (the "proxy statement"):  proposal 1, election of directors; the board of directors, board committees and corporate governance; and section 16(a) beneficial ownership reporting compliance, or will be included in an amendment to this form 10-k.  walgreen co. does not expect to hold an annual meeting of shareholders while the second step transaction and the reorganization are pending and will hold an annual meeting during its fiscal year ending august 31, 2015 only if the reorganization has not been completed.
+the company has adopted a code of business conduct applicable to all employees, officers and directors that incorporates policies and guidelines designed to deter wrongdoing and to promote honest and ethical conduct and compliance with applicable laws and regulations.  the company has also adopted a code of ethics for financial executives.  this code applies to and has been signed by the chief executive officer, the chief financial officer and the controller.  the company intends to promptly disclose on its website in accordance with applicable rules required disclosure of changes to or waivers, if any, of the code of ethics for financial executives or the code of business conduct for directors and executive officers.
+charters of all committees of the company's board of directors, as well as the company's corporate governance guidelines and code of ethics for financial executives and code of business conduct, are available on the company's website at investor.walgreens.com or, upon written request and free of charge, in printed hardcopy form.  written requests should be sent to walgreen co., attention: shareholder relations, mail stop #1833, 108 wilmot road, deerfield, illinois 60015.
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 11.  executive compensation                                                                               │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+the information required by item 11 is incorporated herein by reference to the following sections of the company's proxy statement: director compensation; and executive compensation, or will be included in an amendment to this form 10-k.
+the material incorporated herein by reference to the material under the caption "compensation committee report" in the proxy statement, or included in an amendment to this form 10-k shall be deemed furnished, and not filed, in this form 10-k, and shall not be deemed incorporated by reference into any filing under the securities act of 1933, as amended, or the securities exchange act of 1934, as amended, as a result of this furnishing, except to the extent that the company specifically incorporates it by reference.
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 12.  security ownership of certain beneficial owners and management and related stockholder matters       │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+the information required by item 12 is incorporated herein by reference to the following sections of the company's proxy statement: security ownership of certain beneficial owners and management; and equity compensation plans, or will be included in an amendment to this form 10-k.
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 13.  certain relationships and related transactions and director independence                             │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+the information required by item 13 is incorporated herein by reference to the following sections of the company's proxy statement: certain relationships and related transactions; and the board of directors, board committees and corporate governance, or will be included in an amendment to this form 10-k.
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 14.  principal accounting fees and services                                                               │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+the information required by item 14 is incorporated herein by reference to the following sections of the company's proxy statement: independent registered public accounting firm fees and services, or will be included in an amendment to this form 10-k.
+╔═ § ═════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                 ║
+║                                                     part iv                                                     ║
+║                                                                                                                 ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 15.  exhibits and financial statement schedules                                                           │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+(a)  documents filed as part of this report:
+financial statements.  the following financial statements, supplementary data, and reports of independent
+(1)  public accountants appearing in part ii, item 8 of this form 10-k and are incorporated herein by reference.
+consolidated statements of earnings, comprehensive income and shareholders' equity for the years ended august
+31, 2014, 2013 and 2012
+consolidated balance sheets at august 31, 2014 and 2013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+consolidated statements of cash flows for the years ended august 31, 2014, 2013 and 2012
+notes to consolidated financial statements management's report on internal control reports of independent registered public accounting firms
+(2)  financial statement schedules and supplementary information schedules i, ii, iii, iv and v are not submitted because they are not applicable or not required or because the required information is included in the financial statements referenced in (1) above or the notes thereto.
+other financial statements -
+separate financial statements of the registrant have been omitted because it is primarily an operating company, and all of its subsidiaries are included in the consolidated financial statements.
+alliance boots gmbh on august 2, 2012, we completed a 45% equity investment in alliance boots gmbh that we account for using the equity method of accounting.  sec rule 3-09 of regulation s-x requires that we include or incorporate by reference alliance boots gmbh financial statements in this form 10-k if our investment was considered to be significant in the context of rule 3-09 for the year ended august 31, 2014.  alliance boots gmbh audited consolidated financial statements and accompanying notes (prepared in accordance with ifrs and audited in accordance with u.s. gaas), including the statements of financial position at march 31, 2014 and 2013 of alliance boots and its subsidiaries
+(the group) and the related group income statements, group statements of comprehensive income, group statements of changes in equity and group statements of cash flows for each of the years in the three-year period ended march 31,
+2014 are filed as exhibit 99.1 hereto and incorporated herein by reference.
+(3)  exhibits. exhibits 10.1 through 10.66 constitute management contracts or compensatory plans or arrangements required to be filed as exhibits pursuant to item 15(b) of this form 10-k.
+the agreements included as exhibits to this report are included to provide information regarding their terms and not intended to provide any other factual or disclosure information about the company or the other parties to the agreements. the agreements may contain representations and warranties by each of the parties to the applicable agreement that were made solely for the benefit of the other parties to the applicable agreement, and:
+•    should not in all instances be treated as categorical statements of fact, but rather as a way of allocating the risk to one of the parties if those statements prove to be inaccurate;
+•    may have been qualified by disclosures that were made to the other party in connection with the negotiation of the applicable agreement, which disclosures are not necessarily reflected in the agreement;
+•    may apply standards of materiality in a way that is different from what may be viewed as material to you or other investors; and
+•    were made only as of the date of the applicable agreement or such other date or dates as may be specified in the agreement and are subject to more recent developments.
+accordingly, these representations and warranties may not describe the actual state of affairs as of the date they were made or at any other time.
+(b)
+exhibits exhibit no.  description                                        sec document reference purchase and option agreement by and among         incorporated by reference to exhibit 2.1 to
+2.1*         walgreen co., alliance boots gmbh  and ab          walgreen co.'s current report on form 8-k (file acquisitions holdings limited dated june 18,       no. 1-00604) filed with the sec on june 19,
+2012  and related annexes.                         2012.
+amendment no. 1, dated august 5, 2014, to the purchase and option agreement and walgreen co.
+shareholders agreement, by and among walgreen co., alliance boots gmbh, ab acquisitions          incorporated by reference to exhibit 2.1 to
+2.2*         holdings limited, walgreen scotland investments    walgreen co.'s current report on form 8-k (file lp, kkr sprint (european ii) limited, kkr          no. 1-00604) filed with the sec on august 6, sprint (2006) limited and kkr sprint (kpe)         2014.
+limited, alliance santé participations s.a., stefano pessina and kohlberg kravis roberts &
+co. l.p.
+agreement and plan of merger, dated october 17,
+2.3          2014, by and among walgreen co., walgreens         previously filed with the original form 10-k on boots alliance, inc. and ontario merger sub,       october 20, 2014.
+inc.
+incorporated by reference to exhibit 3.1 to
+3.1          amended and restated articles of incorporation     walgreen co.'s current report on form 8-k (file of walgreen co.                                    no. 1-00604) filed with the sec on january 19,
+2011.
+incorporated by reference to exhibit 3.1 to
+3.2          amended and restated by-laws of walgreen co.,      walgreen co.'s current report on form 8-k (file as amended effective as of august 2, 2012.         no. 1-00604) filed with the sec on august 6,
+2012.
+indenture, dated as of july 17, 2008, between      incorporated by reference to exhibit 4.1 to
+4.1**        walgreen co. and wells fargo bank, national        walgreen co.'s registration statement on form association, as trustee.                           s-3asr (file no. 333-198443 filed with the sec on september 16, 2014.
+incorporated by reference to exhibit 4.1 to
+4.2          form of 5.25% note due 2019.                       walgreen co.'s current report on form 8-k (file no. 1-00604) filed with the sec on january 13,
+2009.
+incorporated by reference to exhibit 4.2 to
+4.3          form of 1.000% note due 2015.                      walgreen co.'s current report on form 8-k (file no. 1-00604) filed with the sec on september
+13, 2012.
+incorporated by reference to exhibit 4.3 to
+4.4          form of 1.800% note due 2017.                      walgreen co.'s current report on form 8-k (file no. 1-00604) filed with the sec on september
+13, 2012.
+incorporated by reference to exhibit 4.4 to
+4.5          form of 3.100% note due 2022.                      walgreen co.'s current report on form 8-k (file no. 1-00604) filed with the sec on september
+13, 2012.
+incorporated by reference to exhibit 4.5 to
+4.6          form of 4.400% note due 2042.                      walgreen co.'s current report on form 8-k (file no. 1-00604) filed with the sec on september
+13, 2012.
+shareholders agreement, dated as of august 2,
+2012, among walgreen co., stefano pessina, kkr     incorporated by reference to exhibit 4.1 to sprint (european ii) limited, kkr sprint (2006)    walgreen co.'s current report on form 8-k (file
+4.7          limited and kkr sprint (kpe) limited, alliance     no. 1-00604) filed with the sec on august 6, santé participations s.a., kohlberg kravis         2012.
+roberts & co. l.p. and certain other investors party thereto.
+amendment no. 1, dated august 5, 2014, to the purchase and option agreement and walgreen co.
+shareholders agreement, by and among walgreen co., alliance boots gmbh, ab acquisitions          incorporated by reference to exhibit 2.1 to
+4.8          holdings limited, walgreen scotland investments    walgreen co.'s current report on form 8-k (file lp, kkr sprint (european ii) limited, kkr          no. 1-00604) filed with the sec on august 6, sprint (2006) limited and kkr sprint (kpe)         2014.
+limited, alliance santé participations s.a., stefano pessina and kohlberg kravis roberts &
+co. l.p.
+10.1         walgreen co. management incentive plan (as         previously filed with the original form 10-k on amended and restated effective july 1, 2014).      october 20, 2014.
+incorporated by reference to exhibit 10.1 to
+10.2         walgreen co. 2011 cash-based incentive plan.       walgreen co.'s current report on form 8-k (file no. 1-00604) filed with the sec on january 17,
+2012.
+incorporated by reference to exhibit 10.1 to
+10.3         walgreen co. 2013 omnibus incentive plan.          walgreen co.'s current report on form 8-k (file no. 1-00604) filed with the sec on january 14,
+2013.
+incorporated by reference to exhibit 10.1 to
+10.4         amendment no. 1 to walgreen co. 2013 omnibus       walgreen co.'s quarterly report on form 10-q incentive plan.                                    for the quarter ended may 31, 2014 (file no.
+1-00604).
+incorporated by reference to exhibit 10.3 to
+10.5         form of restricted stock unit award agreement      walgreen co.'s current report on form 8-k (file
+(effective july 2014).                             no. 1-00604) filed with the sec on august 6,
+2014.
+incorporated by reference to exhibit 10.4 to
+10.6         form of performance share award agreement          walgreen co.'s current report on form 8-k (file
+(effective july 2014).                             no. 1-00604) filed with the sec on august 6,
+2014.
+incorporated by reference to exhibit 10.5 to
+10.7         form of stock option award agreement (effective    walgreen co.'s current report on form 8-k (file july 2014).                                        no. 1-00604) filed with the sec on august 6,
+2014.
+incorporated by reference to exhibit 10.4 to
+10.8         forms of restricted stock unit award agreement     walgreen co.'s annual report on form 10-k for
+(effective october 2013).                          the fiscal year ended august 31, 2013 (file no.
+1-00604).
+incorporated by reference to exhibit 10.3 to
+10.9         form of performance share award agreement          walgreen co.'s current report on form 8-k (file
+(effective january 10, 2013).                      no. 1-00604) filed with the sec on january 14,
+2013.
+incorporated by reference to exhibit 10.4 to
+10.10        form of stock option award agreement (effective    walgreen co.'s current report on form 8-k (file january 10, 2013).                                 no. 1-00604) filed with the sec on january 14,
+2013.
+10.11        form of amendment to stock option award            previously filed with the original form 10-k on agreements                                         october 20, 2014.
+walgreen co. long-term performance incentive       incorporated by reference to exhibit 10.1 to
+10.12        plan (amendment and restatement of the walgreen    walgreen co.'s current report on form 8-k (file co. restricted performance share plan).            no. 1-00604) filed with the sec on january 11,
+2007.
+walgreen co. long-term performance incentive       incorporated by reference to exhibit 10.2 to
+10.13        plan amendment no. 1 (effective january 10,        walgreen co.'s quarterly report on form 10-q
+2007).                                             for the quarter ended february 28, 2007 (file no. 1-00604).
+incorporated by reference to exhibit 10.1 to
+10.14        walgreen co. long-term performance incentive       walgreen co.'s current report on form 8-k (file plan amendment no. 2.                              no. 1-00604) filed with the sec on april 14,
+2011.
+incorporated by reference to exhibit 10.5 to
+10.15        form of restricted stock unit award agreement      walgreen co.'s annual report on form 10-k for
+(august 15, 2011 grants).                          the fiscal year ended august 31, 2011 (file no.
+1-00604).
+incorporated by reference to exhibit 10.7 to
+10.16        form of restricted stock unit award agreement      walgreen co.'s annual report on form 10-k for
+(effective november 1, 2012).                      the fiscal year ended august 31, 2012 (file no.
+1-00604).
+incorporated by reference to exhibit 10.8 to
+10.17        form of performance share contingent award         walgreen co.'s annual report on form 10-k for agreement (effective september 1, 2011).           the fiscal year ended august 31, 2011 (file no.
+1-00604).
+walgreen co. executive stock option plan (as       incorporated by reference to exhibit 99.1 to
+10.18        amended and restated effective january 13,         walgreen co.'s current report on form 8-k (file
+2010).                                             no. 1-00604) filed with the sec on january 20,
+2010.
+form of stock option agreement (benefit            incorporated by reference to exhibit 10.11 to
+10.19        indicator 512 - 515) (effective september 1,       walgreen co.'s annual report on form 10-k for
+2011).                                             the fiscal year ended august 31, 2011 (file no.
+1-00604).
+form of stock option agreement (benefit            incorporated by reference to exhibit 10.12 to
+10.20        indicator 516 and above) (effective september      walgreen co.'s annual report on form 10-k for
+1, 2011).                                          the fiscal year ended august 31, 2011 (file no.
+1-00604).
+incorporated by reference to exhibit 10 to
+10.21        walgreen co. 1986 executive deferred               walgreen co.'s annual report on form 10-k for compensation/capital accumulation plan.            the fiscal year ended august 31, 1986 (file no.
+1-00604).
+incorporated by reference to exhibit 10 to
+10.22        walgreen co. 1988 executive deferred               walgreen co.'s quarterly report on form 10-q compensation/capital accumulation plan.            for the quarter ended november 30, 1987 (file no. 1-00604).
+amendments to walgreen co. 1986 and 1988           incorporated by reference to exhibit 10 to
+10.23        executive deferred compensation/ capital           walgreen co.'s quarterly report on form 10-q accumulation plans.                                for the quarter ended november 30, 1988 (file no. 1-00604).
+walgreen co. 1992 executive deferred               incorporated by reference to exhibit 10 to
+10.24        compensation/capital accumulation plan series      walgreen co.'s annual report on form 10-k for
+1.                                                 the fiscal year ended august 31, 1992 (file no.
+1-00604).
+walgreen co. 1992 executive deferred               incorporated by reference to exhibit 10 to
+10.25        compensation/capital accumulation plan series      walgreen co.'s annual report on form 10-k for
+2.                                                 the fiscal year ended august 31, 1992 (file no.
+1-00604).
+walgreen co. 1997 executive deferred               incorporated by reference to exhibit 10(c) to
+10.26        compensation/capital accumulation plan series      walgreen co.'s quarterly report on form 10-q
+1.                                                 for the quarter ended february 28, 1997 (file no. 1-00604).
+walgreen co. 1997 executive deferred               incorporated by reference to exhibit 10(d) to
+10.27        compensation/capital accumulation plan series      walgreen co.'s quarterly report on form 10-q
+2.                                                 for the quarter ended february 28, 1997 (file no. 1-00604).
+incorporated by reference to exhibit 10(g) to
+10.28        walgreen co. 2001 executive deferred               walgreen co.'s annual report on form 10-k for compensation/capital accumulation plan.            the fiscal year ended august 31, 2001 (file no.
+1-00604).
+incorporated by reference to exhibit 10(g) to
+10.29        walgreen co. 2002 executive deferred               walgreen co.'s annual report on form 10-k for compensation/capital accumulation plan.            the fiscal year ended august 31, 2002 (file no.
+1-00604).
+amendment to the walgreen co. 1986, 1988, 1992     incorporated by reference to exhibit 10.3 to
+(series 1), 1992 (series 2), 1997 (series 1),      walgreen co.'s quarterly report on form 10-q
+10.30        1997 (series 2), 2001 and 2002 executive           for the fiscal quarter ended february 28, 2009
+deferred compensation/ capital accumulation        (file no. 1-00604).
+plans.
+walgreen co. 2006 executive deferred               incorporated by reference to exhibit 10(b) to
+10.31        compensation/capital accumulation plan             walgreen co.'s quarterly report on form 10-q
+(effective january 1, 2006).                       for the fiscal quarter ended november 30, 2005
+(file no. 1-00604).
+incorporated by reference to exhibit 10.1 to
+10.32        walgreen co. 2011 executive deferred               walgreen co.'s current report on form 8-k (file compensation plan.                                 no. 1-00604) filed with the sec on november 12,
+2010.
+incorporated by reference to exhibit 10.1 to
+10.33        amendment no. 1 to the walgreen co. 2011           walgreen co.'s current report on form 8-k (file executive deferred compensation plan.              no. 1-00604) filed with the sec on january 19,
+2011.
+walgreen co. executive deferred profit-sharing     incorporated by reference to exhibit 10.2 to
+10.34        plan, as amended and restated effective january    walgreen co.'s current report on form 8-k (file
+1, 2012.                                           no. 1-00604) filed with the sec on july 15,
+2011.
+incorporated by reference to exhibit 10.5 to
+10.35        amendment to walgreen co. executive deferred       walgreen co.'s current report on form 8-k (file profit-sharing plan.                               no. 1-00604) filed with the sec on january 14,
+2013.
+10.36        amendment number two to the walgreen co.           previously filed with the original form 10-k on executive deferred profit-sharing plan.            october 20, 2014.
+incorporated by reference to exhibit 10(d) to
+10.37        share walgreens stock purchase/option plan         walgreen co.'s quarterly report on form 10-q
+(effective october 1, 1992), as amended.           for the quarter ended february 28, 2003 (file no. 1-00604).
+share walgreens stock purchase/option plan         incorporated by reference to exhibit 10(h)(ii)
+10.38        amendment no. 4 (effective july 15, 2005), as      to walgreen co.'s annual report on form 10-k amended.                                           for the fiscal year ended august 31, 2005 (file no. 1-00604).
+incorporated by reference to exhibit 10(b) to
+10.39        share walgreens stock purchase/option plan         walgreen co.'s quarterly report on form 10-q amendment no. 5 (effective october 11, 2006).      for the quarter ended november 30, 2006 (file no. 1-00604).
+incorporated by reference to exhibit 10(j) to
+10.40        walgreen select senior executive retiree           walgreen co.'s annual report on form 10-k for medical expense plan.                              the fiscal year ended august 31, 1996 (file no.
+1-00604).
+walgreen select senior executive retiree           incorporated by reference to exhibit 10(a) to
+10.41        medical expense plan amendment no. 1 (effective    walgreen co.'s quarterly report on form 10-q august 1, 2002).                                   for the quarter ended february 28, 2003 (file no. 1-00604).
+incorporated by reference to exhibit 10.1 to
+10.42        walgreen co. 162(m) deferred compensation plan,    walgreen co.'s current report on form 8-k (file as amended and restated.                           no. 1-00604) filed with the sec on october 17,
+2011.
+walgreen co. nonemployee director stock plan,      incorporated by reference to exhibit 10(a) to
+10.43        as amended and restated (effective january 14,     walgreen co.'s quarterly report on form 10-q
+2004).                                             for the quarter ended february 29, 2004 (file no. 1-00604).
+incorporated by reference to exhibit 10(a) to
+10.44        walgreen co. nonemployee director stock plan       walgreen co.'s quarterly report on form 10-q amendment no. 1 (effective october 12, 2005).      for the quarter ended november 30, 2005 (file no. 1-00604).
+incorporated by reference to exhibit 10(f) to
+10.45        walgreen co. nonemployee director stock plan       walgreen co.'s quarterly report on form 10-q amendment no. 2 (effective october 11, 2006).      for the quarter ended november 30, 2006 (file no. 1-00604).
+incorporated by reference to exhibit 10.43 to
+10.46        walgreen co. nonemployee director stock plan       walgreen co.'s annual report on form 10-k for amendment no. 3 (effective september 1, 2009).     the fiscal year ended august 31, 2010 (file no.
+1-00604).
+form of change of control employment               incorporated by reference to exhibit 10 to
+10.47        agreements.                                        walgreen co.'s current report on form 8-k dated october 18, 1988 (file no. 1-00604).
+incorporated by reference to exhibit 10 to
+10.48        amendment to employment agreements adopted july    walgreen co.'s annual report on form 10-k for
+12, 1989.                                          the fiscal year ended august 31, 1989 (file no.
+1-00604).
+form of amendment to change of control             incorporated by reference to exhibit 10.2 to
+10.49        employment agreements (effective january 1,        walgreen co.'s quarterly report on form 10-q
+2009).                                             for the fiscal quarter ended february 28, 2009
+(file no. 1-00604).
+incorporated by reference to exhibit 10.1 to
+10.50        walgreen co. executive severance and change in     walgreen co.'s current report on form 8-k (file control plan effective january 1, 2013.            no. 1-00604) filed with the sec on july 16,
+2012.
+incorporated by reference to exhibit 10.1 to
+10.51        first amendment to the walgreen co. executive      walgreen co.'s quarterly report on form 10-q severance and change in control plan               for the fiscal quarter ended february 28, 2014
+(file no. 1-00604).
+executive stock option plan - stock option         incorporated by reference to exhibit 10.8 to
+10.52        agreement made as of october 10, 2008 between      walgreen co.'s quarterly report on form 10-q alan g. mcnally and walgreen co.                   for the fiscal quarter ended november 30, 2008
+(file no. 1-00604).
+long-term performance incentive plan -
+restricted stock unit award agreement made as      incorporated by reference to exhibit 10.9 to
+10.53        of october 10, 2008 (and the non-competition,      walgreen co.'s quarterly report on form 10-q non-solicitation and confidentiality agreement     for the fiscal quarter ended november 30, 2008
+attached thereto) between alan g. mcnally and      (file no. 1-00604).
+walgreen co.
+incorporated by reference to exhibit 10.55 to
+10.54        offer letter agreement dated august 9, 2011        walgreen co.'s annual report on form 10-k for between thomas j. sabatino and walgreen co.        the fiscal year ended august 31, 2011 (file no.
+1-00604).
+incorporated by reference to exhibit 10.1 to
+10.55        offer letter agreement dated july 30, 2014         walgreen co.'s current report on form 8-k (file between timothy r. mclevish and walgreen co.       no. 1-00604) filed with the sec on august 4,
+2014
+incorporated by reference to exhibit 99.1 to
+10.56        drugstore.com, inc., 1998 stock plan, as           walgreen co.'s registration statement on form amended.                                           s-8 (file no. 333-174811) filed with the sec on june 9, 2011.
+incorporated by reference to exhibit 99.2 to
+10.57        drugstore.com, inc., 2008 equity incentive         walgreen co.'s registration statement on form plan, as amended.                                  s-8 (file no. 333-174811) filed with the sec on june 9, 2011.
+secondment agreement dated september 27, 2013      incorporated by reference to exhibit 10.52 to
+10.58        between alliance boots management services         walgreen co.'s annual report on form 10-k for limited and walgreen co.                           the fiscal year ended august 31, 2013 (file no.
+1-00604).
+assignment letter dated september 27, 2013         incorporated by reference to exhibit 10.53 to
+10.59        between alexander gourlay and alliance boots       walgreen co.'s annual report on form 10-k for management services ltd.                           the fiscal year ended august 31, 2013 (file no.
+1-00604).
+assignment agreement dated  november 15, 2012      incorporated by reference to exhibit 10.3 to
+10.60        between walgreen co. and jeffrey berkowitz         walgreen co.'s quarterly report on form 10-q
+(including the walgreen co. long-term global       for the fiscal quarter ended february 28, 2014
+assignment relocation policy attached thereto).    (file no. 1-00604).
+incorporated by reference to exhibit 10.2 to
+10.61        retirement agreement and release between           walgreen co.'s quarterly report on form 10-q walgreen co. and graham w. atkinson.               for the fiscal quarter ended february 28, 2014
+(file no. 1-00604).
+incorporated by reference to exhibit 10.2 to
+10.62        retirement agreement and release between           walgreen co.'s quarterly report on form 10-q walgreen co. and robert zimmerman.                 for the fiscal quarter ended may 31, 2014 (file no. 1-00604).
+consulting services agreement entered as of        incorporated by reference to exhibit 10.3 to
+10.63        april 29, 2014 between walgreen co. and robert     walgreen co.'s quarterly report on form 10-q zimmerman.                                         for the fiscal quarter ended may 31, 2014 (file no. 1-00604).
+transition and separation agreement dated          incorporated by reference to exhibit 10.2 to
+10.64        august 4, 2014 between walgreen co. and wade d.    walgreen co.'s current report on form 8-k (file miquelon                                           no. 1-00604) filed with the sec on august 4,
+2014.
+retirement agreement and release dated august      incorporated by reference to exhibit 10.1 to
+10.65        5, 2014 between walgreen co. and kermit            walgreen co.'s current report on form 8-k (file crawford.                                          no. 1-00604) filed with the sec on august 6,
+2014.
+consulting services agreement entered as of        incorporated by reference to exhibit 10.2 to
+10.66        august 5, 2014 between walgreen co. and kermit     walgreen co.'s current report on form 8-k (file crawford.                                          no. 1-00604) filed with the sec on august 6,
+2014.
+credit agreement, dated as of july 23, 2012, among walgreen co., the lenders party thereto,     incorporated by reference to exhibit 10.2 to
+10.67        bank of america, n.a., as administrative agent     walgreen co.'s current report on form 8-k (file and a letter of credit issuer, and wells fargo     no. 1-00604) filed with the sec on july 26, bank, national association, as a letter of         2012.
+credit issuer.
+second amendment to credit agreement, dated as of july 23, 2012, by and among walgreen co., the lenders party thereto, bank of america, n.a., as administrative agent and a letter of      incorporated by reference to exhibit 10.3 to
+10.68        credit issuer and wells fargo bank, national       walgreen co.'s current report on form 8-k (file association, as a letter of credit issuer          no. 1-00604) filed with the sec on july 26,
+(including the credit agreement, dated as of       2012.
+july 20, 2011, as amended by such second amendment to credit agreement, as an exhibit thereto).
+shareholders' agreement, dated as of august 2,     incorporated by reference to exhibit 10.1 to
+10.69        2012, by and among alliance boots gmbh, ab         walgreen co.'s current report on form 8-k (file acquisition holdings limited and walgreen co.      no. 1-00604) filed with the sec on august 6,
+2012.
+framework agreement, dated as of march 18,
+2013, by and among walgreen co., alliance boots    incorporated by reference to exhibit 10.1 to gmbh and amerisourcebergen corporation,            walgreen co.'s current report on form 8-k (file
+10.70        including as annex b-1 thereto, the form of        no. 1-00604) filed with the sec on march 20, warrant 1 and, as annex b-2 thereto, the form      2013.
+of warrant 2 (walgreen co. was issued 50% of each of the referenced warrants).
+shareholders agreement, dated as of march 18,      incorporated by reference to exhibit 10.2 to
+10.71        2013, by and among walgreen co., alliance boots    walgreen co.'s current report on form 8-k (file gmbh and amerisourcebergen corporation.            no. 1-00604) filed with the sec on march 20,
+2013.
+transaction rights agreement, dated as of march    incorporated by reference to exhibit 10.3 to
+18, 2013, by and among walgreen co., walgreens     walgreen co.'s current report on form 8-k (file
+10.72        pharmacy strategies, llc, alliance boots gmbh,     no. 1-00604) filed with the sec on march 20, alliance boots luxembourg s.à r.l., and wab        2013.
+holdings llc.
+limited liability company agreement of wab         incorporated by reference to exhibit 99.9 to holdings llc, dated as of march 18, 2013, by       the schedule 13d (file no. 005-77989) filed
+10.73        and between walgreens pharmacy strategies, llc     with the sec by walgreen co., et. al., with and alliance boots luxembourg s.à r.l.             respect to amerisourcebergen corporation common stock on april 15, 2014.
+nomination and support agreement, dated as of      incorporated by reference to exhibit 99.1 to
+10.74        september 5, 2014, between jana partners llc       walgreen co.'s current report on form 8-k (file and walgreen co.                                   no. 1-00604) filed with the sec on september 8,
+2014.
+12.          computation of ratio of earnings to fixed          previously filed with the original form 10-k on charges.                                           october 20, 2014.
+21.          subsidiaries of the registrant.                    previously filed with the original form 10-k on october 20, 2014.
+23.1         consent of deloitte & touche llp.                  filed herewith.
+23.2         consent of kpmg llp.                               filed herewith.
+23.3         consent of kpmg llp.                               filed herewith.
+certification of the chief executive officer
+31.1         pursuant to section 302 of the sarbanes-oxley      filed herewith.
+act of 2002.
+certification of the chief financial officer
+31.2         pursuant to section 302 of the sarbanes-oxley      filed herewith.
+act of 2002.
+certification of the chief executive officer
+32.1         pursuant to section 906 of the sarbanes-oxley      furnished herewith.
+act of 2002, 18 u.s.c. section 1350.
+certification of the chief financial officer
+32.2         pursuant to section 906 of the sarbanes-oxley      furnished herewith.
+act of 2002, 18 u.s.c. section 1350.
+alliance boots gmbh audited consolidated financial statements comprised of the group statements of financial position at march 31,      incorporated by reference to exhibit 99.1 to
+2014 and 2013, and the related group income        walgreen co.'s current report on form 8-k (file
+99.1         statements, group statements of comprehensive      no. 1-00604) filed with the sec on may 15, income, group statements of changes in equity      2014.
+and group statements of cash flows for each of the years in the three-year period ended march
+31, 2014.
+101.ins      xbrl instance document                             filed herewith.
+101.sch      xbrl taxonomy extension schema document            filed herewith.
+101.cal      xbrl taxonomy extension calculation linkbase       filed herewith.
+document
+101.def      xbrl taxonomy extension definition linkbase        filed herewith.
+document
+101.lab      xbrl taxonomy extension label linkbase document    filed herewith.
+101.pre      xbrl taxonomy extension presentation linkbase      filed herewith.
+document
+*  schedules and exhibits have been omitted pursuant to item 601(b)(2) of regulation s-k.  copies of any omitted schedule or exhibit will be furnished supplementally to the sec upon request.
+other instruments defining the rights of holders of long-term debt of the registrant and its consolidated
+**  subsidiaries may be omitted from exhibit 4 in accordance with item 601(b)(4)(iii)(a) of regulation s-k.
+copies of any such agreements will be furnished supplementally to the sec upon request.
+signatures pursuant to the requirements of section 13 or 15(d) of the securities exchange act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+walgreen co.
+november 3, 2014 by: /s/ timothy r. mclevish timothy r. mclevish executive vice president and chief financial officer index exhibit no.  description
+23.1         consent of deloitte & touche llp.
+23.2         consent of kpmg llp.
+23.3         consent of kpmg llp.
+31.1         certification of the chief executive officer pursuant to section 302 of the sarbanes-oxley act of
+2002.
+31.2         certification of the chief financial officer pursuant to section 302 of the sarbanes-oxley act of
+2002.
+32.1         certification of the chief executive officer pursuant to section 906 of the sarbanes-oxley act of
+2002, 18 u.s.c. section 1350.
+32.2         certification of the chief financial officer pursuant to section 906 of the sarbanes-oxley act of
+2002, 18 u.s.c. section 1350.
+101.ins      xbrl instance document
+101.sch      xbrl taxonomy extension schema document
+101.cal      xbrl taxonomy extension calculation linkbase document
+101.def      xbrl taxonomy extension definition linkbase document
+101.lab      xbrl taxonomy extension label linkbase document
+101.pre      xbrl taxonomy extension presentation linkbase document
+item 7.                  management's discussion and analysis of financial condition and results of operations

@@ -1,0 +1,490 @@
+item 1a.  risk factors.
+the following discussion of risk factors known to us contains important information for the understanding of our "forward-looking statements," which are discussed immediately following item 7a. of this form 10-k and elsewhere. these risk factors should also be read in conjunction with item 7. management's discussion and analysis of financial condition and results of operations, and the consolidated financial statements and related notes included in this form 10-k.
+we urge you to consider carefully the risks described below, as well as in other reports and materials that we file with the sec and the other information included or incorporated by reference in this form 10-k. if any of the risks described below or elsewhere in this form 10-k were to materialize, our business, financial condition, results of operations, cash flows or prospects could be materially adversely affected. in such case, the trading price of our common stock could decline and you could lose part or all of your investment. additional risks and uncertainties not currently known to us or that we currently deem immaterial may also materially adversely affect our financial condition, results of operations and cash flows.
+demand for the majority of our services is substantially dependent on the levels of expenditures by the oil and gas industry.  the current significant oil and gas industry downturn has resulted in reduced demand for oilfield services, which has had, and may continue to have, a significant adverse impact on our financial condition, results of operations and cash flows. if these conditions worsen or oil and gas prices do not improve, further reductions in spending by the oil and gas industry could have a material adverse effect on our financial condition, results of operations and cash flows.
+demand for the majority of our services depends substantially on the level of expenditures by the oil and gas industry for the exploration, development and production of oil and natural gas reserves. these expenditures are generally dependent on the industry's view of future oil and natural gas prices and are sensitive to the industry's view of future economic growth and the resulting impact on demand for oil and natural gas. since 2014, oil and gas prices have declined significantly, resulting in lower expenditures by the oil and gas industry.  as a result, many of our customers have reduced or delayed their oil and gas exploration and production spending, reducing the demand for our services and exerting downward pressure on the prices that we charge.  these conditions have had, and may continue to have, an adverse impact on our financial condition.
+continued low oil and gas prices or a further decline in oil and gas prices could cause a reduction in cash flows for our customers, which could have significant adverse effects on the financial condition of some of our customers. this could result in project modifications, delays or cancellations, general business disruptions, and delays in payment of, or nonpayment of, amounts that are owed to us. these effects could have a material adverse effect on our financial condition, results of operations and cash flows.
+the prices for oil and natural gas have historically been volatile and can be affected by a variety of factors, including:
+●   demand for hydrocarbons, which is affected by general economic and business conditions;
+
+●   the ability or willingness of the organization of petroleum exporting countries ("opec") to set and maintain production levels for oil;
+
+●   oil and gas production levels by non-opec countries;
+
+●   the level of excess production capacity;
+
+●   political and economic uncertainty and geopolitical unrest;
+
+●   the level of worldwide oil and gas exploration and production activity;
+
+●   access to potential resources;
+
+●   governmental policies and subsidies;
+
+●   the costs of exploring for, producing and delivering oil and gas;
+
+●   technological advances affecting energy consumption; and
+
+●   weather conditions.
+
+there can be no assurance that the demand or pricing for oil and natural gas will follow historic patterns or recover in the near term.  continued or worsening conditions in the oil and gas industry could further adversely affect our financial condition, results of operations and cash flows.
+7
+a significant portion of our revenue is derived from our non-united states operations, which exposes us to risks inherent in doing business in each of the approximately 85 countries in which we operate.
+our non-united states operations accounted for approximately 76% of our consolidated revenue in 2015, 71% in 2014 and 73% in 2013. operations in countries other than the united states are subject to various risks, including:
+●   volatility in political, social and economic conditions in certain areas;
+
+●   exposure to possible expropriation of our assets or other governmental actions;
+
+●   social unrest, acts of terrorism, war or other armed conflict;
+
+●   confiscatory taxation or other adverse tax policies;
+
+●   deprivation of contract rights;
+
+●   trade and economic sanctions or other restrictions imposed by the european union, the united states or other countries;
+
+●   restrictions under the united states foreign corrupt practices act or similar legislation in other countries;
+
+●   restrictions on the repatriation of income or capital;
+
+●   currency exchange controls;
+
+●   inflation; and
+
+●   currency exchange rate fluctuations and devaluations.
+
+we completed the wind down of our service operations in iran during the second quarter of 2013. prior to this, certain of our non-us subsidiaries provided oilfield services to the national iranian oil company and certain of its affiliates ("nioc"). we have reclassified the results of this business as a discontinued operation. all prior periods have been restated accordingly.
+our residual transactions or dealings with the government of iran during 2015 consisted of payments of taxes and other typical governmental charges. certain of our non-us subsidiaries maintained depository accounts at the dubai branch of bank saderat iran ("saderat"), and at bank tejarat ("tejarat") in tehran and in kish for the deposit by nioc of amounts owed to non-us subsidiaries of schlumberger for prior services rendered in iran and for the maintenance of such amounts previously received. one non-us subsidiary also maintains an account at tejarat for payment of local expenses such as taxes and utilities. we anticipate that we will discontinue our dealings with saderat and tejarat following the receipt of all amounts owed to us for prior services rendered in iran.
+our failure to comply with foreign corrupt practices act ("fcpa") and other laws could have a negative impact on our ongoing operations.
+we are subject to complex us and foreign laws and regulations, such as the fcpa, the u.k. bribery act and various other anti-bribery and anti-corruption laws.  we are also subject to trade sanction laws that restrict certain operations in various countries or with certain persons.  the internal controls, policies and procedures, and employee training and compliance programs we have implemented to deter prohibited practices may not be effective in preventing employees, contractors or agents from violating or circumventing such internal policies and violating applicable laws and regulations.  any determination that we have violated or are responsible for violations of anti-bribery or anti-corruption laws could have a material adverse effect on our financial condition.  violations of international and us laws and regulations may result in fines and penalties, criminal sanctions, administrative remedies, restrictions on business conduct and could have a material adverse effect on our reputation and our business, operating results and financial condition.
+environmental compliance costs and liabilities could reduce our earnings and cash available for operations.
+we are subject to increasingly stringent laws and regulations relating to importation and use of hazardous materials, radioactive materials, chemicals and explosives and to environmental protection, including laws and regulations governing air emissions, hydraulic fracturing, water discharges and waste management. we incur, and expect to continue to incur, capital and operating costs to comply with environmental laws and regulations. the technical requirements of these laws and regulations are becoming increasingly complex, stringent and expensive to implement. these laws may provide for "strict liability" for remediation costs, damages to natural resources or threats to public health and safety. strict liability can render a party liable for damages without regard to negligence or fault on the part of the party. some environmental laws provide for joint and several strict liability for remediation of spills and releases of hazardous substances.
+we use and generate hazardous substances and wastes in our operations. in addition, many of our current and former properties are, or have been, used for industrial purposes. accordingly, we could become subject to material liabilities relating to the investigation and cleanup of potentially contaminated properties, and to claims alleging personal injury or property damage as the result of exposures to, or releases of, hazardous substances. in addition, stricter enforcement of existing laws and regulations, new laws and regulations, the
+8
+discovery of previously unknown contamination or the imposition of new or increased requirements could require us to incur costs or become the basis of new or increased liabilities that could reduce our earnings and our cash available for operations.
+we could be subject to substantial liability claims, which could adversely affect our financial condition, results of operations and cash flows.
+the technical complexities of our operations expose us to a wide range of significant health, safety and environmental risks. our offerings involve production-related activities, radioactive materials, chemicals, explosives and other equipment and services that are deployed in challenging exploration, development and production environments. an accident involving these services or equipment, or a failure of a product, could cause personal injury, loss of life, damage to or destruction of property, equipment or the environment, or suspension of operations. our insurance may not protect us against liability for some kinds of events, including events involving pollution, or against losses resulting from business interruption. moreover, we may not be able to maintain insurance at levels of risk coverage or policy limits that we deem adequate. any damages caused by our services or products that are not covered by insurance, or are in excess of policy limits or are subject to substantial deductibles, could adversely affect our financial condition, results of operations and cash flows.
+demand for our products and services could be reduced by existing and future legislation or regulations.
+environmental advocacy groups and regulatory agencies in the united states and other countries have been focusing considerable attention on the emissions of carbon dioxide, methane and other greenhouse gasses and their potential role in climate change.  existing or future legislation and regulations related to greenhouse gas emissions and climate change, as well as government initiatives to conserve energy or promote the use of alternative energy sources, may significantly curtail demand for and production of fossil fuels such as oil and gas in areas of the world where our customers operate and thus adversely affect future demand for our services. this may, in turn, adversely affect our financial condition, results of operations and cash flows.
+some international, national, state and local governments and agencies have also adopted laws and regulations or are evaluating proposed legislation and regulations that are focused on the extraction of shale gas or oil using hydraulic fracturing. hydraulic fracturing is a stimulation treatment routinely performed on oil and gas wells in low-permeability reservoirs. specially engineered fluids are pumped at high pressure and rate into the reservoir interval to be treated, causing cracks in the target formation. proppant, such as sand of a particular size, is mixed with the treatment fluid to keep the cracks open when the treatment is complete. future hydraulic fracturing-related legislation or regulations could limit or ban hydraulic fracturing, or lead to operational delays and increased costs, and therefore reduce demand for our pressure pumping services. if such additional international, national, state or local legislation or regulations are enacted, it could adversely affect our financial condition, results of operations and cash flows.
+if we are unable to maintain technology leadership, this could adversely affect any competitive advantage we hold.
+the oilfield service industry is highly competitive.  our ability to continually provide competitive technology and services can impact our ability to defend, maintain or increase prices for our services, maintain market share, and negotiate acceptable contract terms with our customers.  if we are unable to continue to develop and produce competitive technology or deliver it to our clients in a timely and cost-competitive manner in the various markets we serve, it could adversely affect our financial condition, results of operations and cash flows.
+limitations on our ability to protect our intellectual property rights, including our trade secrets, could cause a loss in revenue and any competitive advantage we hold.
+some of our products or services, and the processes we use to produce or provide them, have been granted patent protection, have patent applications pending or are trade secrets. our business may be adversely affected if our patents are unenforceable, the claims allowed under our patents are not sufficient to protect our technology, our patent applications are denied, or our trade secrets are not adequately protected. our competitors may be able to develop technology independently that is similar to ours without infringing on our patents or gaining access to our trade secrets, which could adversely affect our financial condition, results of operations and cash flows.
+we may be subject to litigation if another party claims that we have infringed upon its intellectual property rights.
+the tools, techniques, methodologies, programs and components we use to provide our services may infringe upon the intellectual property rights of others. infringement claims generally result in significant legal and other costs and may distract management from running our core business. royalty payments under licenses from third parties, if available, would increase our costs. additionally, developing non-infringing technologies would increase our costs. if a license were not available, we might not be able to continue providing a particular service or product, which could adversely affect our financial condition, results of operations and cash flows.
+9
+failure to obtain and retain skilled technical personnel could impede our operations.
+we require highly skilled personnel to operate and provide technical services and support for our business. competition for the personnel required for our businesses intensifies as activity increases. in periods of high utilization it may become more difficult to find and retain qualified individuals. this could increase our costs or have other adverse effects on our operations.
+severe weather conditions may affect our operations.
+our business may be materially affected by severe weather conditions in areas where we operate. this may entail the evacuation of personnel and stoppage of services. in addition, if particularly severe weather affects platforms or structures, this may result in a suspension of activities. any of these events could adversely affect our financial condition, results of operations and cash flows.
+cybersecurity risks and threats could affect our business.
+we rely heavily on information systems to conduct our business.  there can be no assurance that the systems we have designed to prevent or limit the effects of cyber incidents or attacks will be sufficient to prevent or detect such incidents or attacks, or to avoid a material impact on our systems when such incidents or attacks do occur.  if our systems for protecting against cybersecurity risks are circumvented or breached, this could result in the loss of our intellectual property or other proprietary information, including customer data, and disruption of our business operations.
+our ability to complete the proposed merger with cameron is subject to various closing conditions and the receipt of consents and approvals from government entities which may impose conditions that could materially adversely affect cameron or schlumberger or cause the merger to be abandoned.
+the merger agreement contains certain closing conditions, including approval of the proposed merger by cameron stockholders, the absence of injunctions or other legal restrictions and that no material adverse effect shall have occurred with respect to either company. on december 17, 2015, cameron stockholders voted to adopt our proposed merger.  also, in november 2015 the u.s. department of justice cleared our proposed merger without any conditions.  however, we will be unable to complete the merger until consents and approvals are received from the european commission and various other governmental entities.  regulatory entities have broad discretion in administering the governing regulations and may impose certain requirements or obligations as conditions for their approval. the merger agreement may require us to accept conditions from these regulators that could adversely affect the combined company. if the regulatory clearances are not received, or they are not received on terms that satisfy the conditions set forth in the merger agreement, then we will not be obligated to complete the merger. we can provide no assurance that the various closing conditions will be satisfied and that the necessary approvals will be obtained, or that any required conditions will not materially adversely affect the combined company following the merger. in addition, we can provide no assurance that these conditions will not result in the abandonment or delay of the merger.
+failure to complete the proposed merger with cameron could negatively impact our stock price and our future business and financial results.
+if the proposed merger is not completed, our ongoing business may be adversely affected and we would be subject to several risks, including a decline in the market price of our common stock, negative customer perception and diversion of management's focus on pursuing other opportunities that could be beneficial to us, in each case, without realizing any of the benefits that might have resulted had the merger been completed.
+multiple lawsuits have been filed against us and cameron challenging the proposed merger, and an adverse ruling in any such lawsuit may prevent the merger from being completed.
+after the announcement of the proposed merger, four putative class action lawsuits were commenced on behalf of stockholders of cameron against cameron and its directors, as well as against us and schlumberger holding corporation and rain merger sub (both of which are indirect wholly-owned subsidiaries). these lawsuits were consolidated for all purposes and a consolidated amended class action complaint (the "consolidated complaint") was filed. the consolidated complaint seeks various remedies, including enjoining the merger from being consummated, rescission of the merger to the extent already implemented and the plaintiffs' costs and fees.  additional lawsuits with similar allegations may be filed. while we believe these lawsuits are without merit and we intend to vigorously defend against such claims, the outcome of any such litigation is inherently uncertain.  one of the conditions to the closing of the merger is that no law, order, injunction, judgment, decree, ruling or other similar requirement shall be in effect that prohibits the completion of the merger. accordingly, if any of the plaintiffs are successful in obtaining an injunction prohibiting the completion of the merger, then that injunction may prevent the merger from becoming effective, or delay its becoming effective.
+we may fail to realize the anticipated benefits of the proposed merger.
+the success of the proposed merger will depend on, among other things, our ability to combine our business with that of cameron in a manner that facilitates growth opportunities and realizes anticipated synergies. however, we must successfully combine both businesses in a manner that permits these benefits to be realized. in addition, we must achieve the anticipated synergies without
+10
+adversely affecting current revenues and investments in future growth. if we are not able to successfully achieve these objectives, the anticipated benefits of the merger may not be realized fully, may take longer to realize than expected, or may never be realized.
+potential issues and difficulties we may encounter in the integration process include the following:
+·   difficulties in managing the expanded operations of a significantly larger and more complex combined company;
+
+·   lost sales and customers as a result of certain customers of either or both of the two companies deciding not to do business with the combined company, or deciding to decrease their level of business in order to reduce their reliance on a single company;
+
+·   integrating personnel from the two companies while maintaining focus on providing consistent, high quality products and customer service;
+
+·   potential unknown liabilities and unforeseen increased expenses, delays or regulatory conditions associated with the merger; and
+
+·   performance shortfalls at one or both of the two companies as a result of the diversion of management's attention caused by completing the merger and integrating the companies' operations.
+
+business issues currently faced by cameron may impact our operations.
+to the extent that cameron currently has or is perceived by customers to have operational challenges, such as on-time performance, safety issues or workforce issues, those challenges may raise concerns by our existing customers following the merger, which may limit or impede our future ability to obtain additional work from those customers.
+item 7.  management's discussion and analysis of financial condition and results of operations.
+the following discussion and analysis contains forward-looking statements, including, without limitation, statements relating to our plans, strategies, objectives, expectations, intentions and resources. such forward-looking statements should be read in conjunction with our disclosures under "item 1a. risk factors" of this form 10-k.
+executive overview schlumberger revenue of $35.5 billion in 2015 represented a drop of 27% from 2014 due to customer spending falling as commodity prices weakened during the year. revenue in north america decreased 39%, driven by a land rig count that ended the year 68% lower than the peak seen in 2014 as well as by pricing pressure that intensified during the year. north american offshore revenue fell more modestly as rigs in the us gulf of mexico shifted from exploration to development work, although the overall market in north america was the weakest for oilfield services since 1986. internationally, revenue declined 21% as customers cut budgets and pressured service pricing, with these effects often exacerbated by activity disruptions, project delays and cancellations.
+in the oil markets, the negative sentiments that had dominated the year accelerated during the fourth quarter after some early optimism earlier in the summer. the impact of opec lifting production targets to produce at maximum rates, combined with production in north america from unconventional resources declining slower than expected following the april peak, has led to supply continuing to exceed increasing demand. as a result, commodity prices fell dramatically, with oil dropping to a 12-year low by the end of the year. these weaker fundamentals drove industry exploration and production (e&p) capital investment significantly lower, resulting in the first two-year sequential decline in spend in 30 years.
+in the natural gas markets, us production grew to a record of 75 bcf/d, as new fields in the us gulf of mexico were brought into production and supplies from unconventional shale gas and tight oil reservoirs continued to grow. this trend is expected to continue with newly completed pipeline capacity in the northeast united states bringing new supplies. a relatively mild start to the winter together with north american gas storage levels well above the five-year average will keep natural gas prices low. internationally, european gas demand growth returned to positive territory.  despite this increased demand, storage levels are at record highs due to ample supply from the north sea and russia, as well as from liquefied natural gas (lng). demand rebounded in asia but remained in a downward trend overall. as lng exports from australia grow, the region is likely to remain oversupplied with low natural gas prices persisting.
+schlumberger's financial performance in 2015 was significantly impacted by the large decrease in land activity, particularly in the us, where the year-end land rig count was less than 700 rigs. this created massive overcapacity in the land market that impacted pricing levels across a broad range of oilfield services. internationally, revenue in the europe, cis & africa area fell by 26% as a result of the weakening russian ruble, and due to a drop in exploration activities in the united kingdom and norway geomarkets. in latin america, revenue declined 22% due to decreased activity in mexico, brazil, and colombia as a result of sustained budget cuts that led to rig count reductions. middle east & asia area revenue decreased 17% on lower activity in the asia pacific region, particularly in australia, although this was partially offset by robust activity in the gulf cooperation council countries, particularly saudi arabia, kuwait, and oman.
+among the groups, reservoir characterization performance was negatively impacted by sustained cuts in exploration spending, currency weaknesses, and operational disruptions from exhausted customer budgets that affected wireline activities, particularly in the europe, cis & africa and middle east & asia areas. in the drilling group, the drop in drilling activity coupled with persistent pricing pressure, currency weaknesses and operational disruptions lowered drilling & measurements and m-i swaco revenues across all geographies but most significantly in the europe, cis & africa area. production group performance was mainly affected by the fall in north american land activity as exhausted customer budgets led to a continued decline in rig count and increased pricing pressure.
+in this uncertain environment, schlumberger continues to focus on what it can control.  throughout the year, schlumberger took a number of actions to streamline and resize its organization as it continues to navigate the current market downturn. in spite of current conditions, schlumberger remains constructive in its view of the market outlook in the medium term, and continues to believe that the underlying balance of supply and demand will tighten, driven by growth in demand, weakening supply as the massive e&p investment cuts take effect, and by the size of the annual supply replacement challenge.
+15
+fourth quarter 2015 results product groups
+(stated in millions)
+
+fourth quarter 2015                                third quarter 2015
+income                                             income before                                             before revenue                   taxes                    revenue                   taxes reservoir characterization   $2,154                    $520                     $2,321                    $614
+drilling                           2,953               494                            3,219               594
+production                         2,671               303                            2,974               330
+eliminations &amp; other             (34     )                  (29    )                (42     )                 (17   )
+pretax operating income                                       1,288                                             1,521
+corporate &amp; other (1)                                      (179    )                                         (198   )
+interest income (2)                                    8                                                  8
+interest expense (3)                                            (83    )                                          (78   )
+charges &amp; credits (4)                                    (2,136    )                                            -
+$7,744                    $(1,102         )        $8,472                    $1,253
+geographic areas
+(stated in millions)
+
+fourth quarter 2015             third quarter 2015
+income                                                  income before                                                  before revenue               taxes                    revenue                         taxes north america                    $1,955               $139                     $2,273                           $202
+latin america                     1,407               324                            1,422                       295
+europe/cis/africa                 2,059               428                            2,274                       505
+middle east &amp; asia            2,248               507                            2,372                       641
+eliminations &amp; other             75                       (110    )        131                              (122   )
+pretax operating income                                      1,288                                             1,521
+corporate &amp; other (1)                                     (179    )                                         (198   )
+interest income (2)                                   8                                                            8
+interest expense (3)                                           (83    )                                          (78   )
+charges &amp; credits (4)                                   (2,136    )                                            -
+$7,744               $(1,102         )        $8,472                         $1,253
+(1)   comprised principally of certain corporate expenses not allocated to the segments, stock-based compensation costs, amortization expense associated with certain intangible assets, certain centrally managed initiatives and other nonoperating items.
+
+(2)   excludes interest income included in the segments' income (fourth quarter 2015: $6 million; third quarter 2015: $6 million).
+
+(3)   excludes interest expense included in the segments' income (fourth quarter 2015: $8 million; third quarter 2015: $8 million).
+
+(4)   charges and credits are described in detail in note 3 to the consolidated financial statements.
+
+fourth-quarter revenue of $7.7 billion decreased $728 million, or 9%, sequentially with international revenue of $5.7 billion decreasing $354 million, or 6%, and north america revenue decreasing $318 million, or 14%.  pricing pressure accounted for more than one-third of the overall sequential revenue decline, with the remainder attributable to a combination of lower activity levels and currency impacts.
+internationally, fourth-quarter revenue decreased 6% sequentially due to the combination of customer budget cuts, the start of the seasonal winter slow-down, persistent pricing pressure, currency weakness and the near absence of the usual year-end product, software, and multiclient seismic license sales.  europe/cis/africa area revenue decreased 9% sequentially mainly in russia and
+16
+central asia due to weakness in the russian ruble, the start of the seasonal winter slow-down in russia as summer projects wound down, and activity reductions in the caspian region.  solid activity in the nigeria & gulf of guinea and north africa geomarkets was offset largely by lower activity in the uk, central & west africa and angola geomarkets as rig count declined and projects ended.  middle east & asia area revenue declined 5% sequentially mainly due to lower activity in australia and the asia-pacific region as a result of customer budget cuts and project completions.  revenue from the middle east geomarkets was also lower as solid activity in kuwait and iraq was more than offset by reductions in the rest of the region due to the effects of service pricing concessions, project cancellations, delayed start-ups of new projects, and abrupt activity disruptions as budgets were exhausted. latin america area revenue decreased 1% sequentially, mainly on significantly lower activity in the colombia & peru, brazil, and argentina, bolivia & chile geomarkets due to customer budget cuts and currency weakness.  these effects were largely offset by multiclient seismic license sales in mexico.
+north america fourth-quarter revenue declined 14% sequentially, largely mirroring the us land rig count decline of 15% as customer cash flows diminished and e&p budgets were exhausted. land revenue fell 18% from lower activity and persistent pricing pressure, while offshore revenue decreased 4%. the usual year-end surge in multiclient seismic license sales was largely muted.
+fourth-quarter pretax operating income of $1.3 billion decreased $233 million, or 15%, sequentially with international pretax operating income of $1.26 billion decreasing 13%, and north america pretax operating income decreasing 31%.
+fourth-quarter 2015 pretax operating margin of 16.6% decreased 132 basis points (bps) sequentially.  internationally, pretax operating margin of 22.0% decreased 170 bps sequentially as pricing pressure across the areas was partially offset by streamlining the cost and resource base.  in addition, project cancellations, delayed start-ups of new projects, and abrupt activity disruptions all contributed to the sequential reduction in pretax operating margin, particularly in the middle east & asia area.  middle east & asia pretax operating margin decreased 448 bps to 22.5%, europe/cis/africa fell 138 bps to 20.8%, while latin america increased 229 bps to 23.0% mainly due to strong margins from multiclient seismic license sales in mexico and central america.  north america pretax operating margin declined 175 bps 7.1% as a result of pricing pressure that impacted all services and products.
+reservoir characterization group fourth-quarter revenue of $2.2 billion declined 7% sequentially, primarily due to sustained cuts in exploration spending, the start of the seasonal winter slow-down, currency weakness, and operational disruptions from exhausted customer budgets that impacted wireline activities, particularly in the europe/cis/africa and middle east & asia areas.  this decline was partially offset by marine seismic surveys and multiclient seismic license sales in mexico.  year-end product and software sales were largely muted.
+pretax operating margin of 24.2% declined 230 bps sequentially as the contribution of high-margin multiclient seismic sales was more than offset by a decline in high-margin wireline services.
+drilling group fourth-quarter revenue of $3.0 billion decreased 8% sequentially, primarily from a drop in drilling activity, persistent pricing pressure, the start of the seasonal winter slow-down, currency weakness, and operational disruptions from exhausted customer budgets that impacted drilling & measurements and m-i swaco revenues, mainly in the europe/cis/africa and middle east & asia areas.
+pretax operating margin of 16.7% contracted 173 bps sequentially as revenue declined on pricing weakness and abrupt operational disruptions.
+production group fourth-quarter revenue of $2.7 billion decreased 10% sequentially with 80% of the decrease attributable to a further decline in north american land activity as exhausted customer budgets led to a further decline in rig count and increased pricing pressure. market pricing for pressure pumping services dropped to even more unsustainable levels.
+pretax operating margin of 11.3% increased 24 bps sequentially despite lower activity and increasing pricing weakness in pressure pumping services.  the decline in pressure pumping margin was largely offset by the combination of accretive margin contributions from schlumberger production management projects in latin america and higher net earnings from the onesubsea joint venture.
+17
+full-year 2015 results product groups
+(stated in millions)
+
+2015                                                                   2014
+income                                            income before                                            before revenue          taxes                         revenue             taxes reservoir characterization         $9,501          $2,450                        $12,905             $3,708
+drilling                           13,563                 2,538                   18,128                    3,805
+production                         12,548                 1,585                   17,763                    3,193
+eliminations &amp; other             (137   )               (63    )                (216    )                (130   )
+pretax operating income                                   6,510                                            10,576
+corporate &amp; other (1)                                  (768    )                                         (848   )
+interest income (2)                                30                                                31
+interest expense (3)                                       (316    )                                         (347   )
+charges &amp; credits (4)                                (2,575    )                                       (1,773   )
+$35,475          $2,881                        $48,580             $7,639
+geographic areas
+(stated in millions)
+
+2015                                                                2014
+income                                            income before                                            before revenue         taxes                         revenue             taxes north america                    $9,811         $999                          $16,151             $3,057
+latin america                     6,014                1,315                    7,699                    1,639
+europe/cis/africa                 9,284                1,979                   12,515                    2,765
+middle east &amp; asia            9,898                2,661                   11,875                    3,273
+eliminations &amp; other            468                 (444    )                 340                     (158   )
+pretax operating income                                6,510                                            10,576
+corporate &amp; other (1)                               (768    )                                         (848   )
+interest income (2)                             30                                                31
+interest expense (3)                                    (316    )                                         (347   )
+charges &amp; credits (4)                             (2,575    )                                       (1,773   )
+$35,475         $2,881                        $48,580             $7,639
+(1)   comprised principally of certain corporate expenses not allocated to the segments stock-based compensation costs, amortization expense associated with certain intangible assets, certain centrally managed initiatives and other nonoperating items.
+
+(2)   excludes interest income included in the segments' income (2015: $22 million; 2014: $20 million).
+
+(3)   excludes interest expense included in the segments' income (2015: $30 million; 2014: $22 million).
+
+(4)   charges and credits are described in detail in note 3 to the consolidated financial statements.
+
+full-year 2015 revenue of $35.5 billion decreased $13.1 billion, or 27%, versus the same period last year with international revenue of $25.2 billion decreasing $6.9 billion, or 21%, and north america revenue of $9.8 billion decreasing $6.3 billion, or 39%.
+internationally, revenue decreased 21% year-on-year due to customer budget cuts and service pricing concessions as customers responded to lower commodity prices.  revenue was also impacted by the fall of certain currencies against the us dollar, which accounted for more than one-third of the revenue decline.  europe/cis/africa area revenue decreased 26%, mainly due to the
+18
+weakness in the russian ruble.  exploration activities in the uk and norway fell as customer spending decelerated.  in sub-saharan africa, offshore rigs demobilized as exploration decreased.  in north africa, work progressed slowly while libya activity remained muted, as onshore operations were limited due to security concerns.  revenue in the latin america area declined 22% due to significantly lower activity levels in mexico, brazil and colombia because of sustained budget cuts that led to rig count reductions.  the impact of the devaluation of the venezuela bolivar also affected the revenue decline in the venezuela, trinidad and tobago geomarket.   middle east & asia area revenue decreased 17% due to a double-digit drop in revenue in the asia-pacific region, particularly in australia.  this decrease arose from reduced activity and pricing concessions, but was partially offset by robust activity in the gulf cooperation council countries in the middle east, particularly in saudi arabia, kuwait and oman.  activity in iraq continued to decline.
+north america full-year 2015 revenue decreased 39% year-on-year mainly from land which was down 45%, while offshore decreased 17% compared to the same period of 2014. the decrease in land was driven by severe activity and pricing declines as customer spending was cut.  with the year-end us land rig count 68% lower than the 2014 peak, the massive over-capacity in the land services market offers no signs of pricing recovery in the short- to medium-term.  offshore activity in the us gulf of mexico remained resilient, although revenue did decline as work shifted from exploration to development activities driven by customer budget cuts.
+full-year 2015 pretax operating income of $6.5 billion decreased $4.1 billion, or 38%, versus the same period last year with international pretax operating income of $6.0 billion decreasing 22% and north america pretax operating income of $1.0 billion decreasing 67%.
+full-year 2015 pretax operating margin of 18.4% decreased 342 bps compared to 2014.  internationally, pretax operating margin of 23.6% decreased 29 bps year-on-year.  middle east & asia pretax operating margin decreased 67 bps to 26.9%, latin america expanded 58 bps to 21.9%, and europe/cis/africa declined 79 bps to 21.3%.  despite the revenue decline from pricing concessions and an increasingly unfavorable shift in revenue mix from offshore exploration to development, pretax operating margins were essentially flat internationally as a result of proactive cost and resource management.  north america pretax operating margin declined 874 bps year-on-year to 10.2% on decreased pressure pumping activity and pricing weakness on land.
+reservoir characterization group full-year 2015 revenue of $9.5 billion was 26% lower than the same period last year primarily due to sustained customer cuts in exploration and discretionary spending that impacted wireline and testing technologies and software sales.  revenue also decreased due to lower westerngeco marine vessel utilization and reduced multiclient sales.
+year-on-year, pretax operating margin decreased 294 bps to 25.8% as a result of an unfavorable overall revenue mix reflecting the decline in high-margin exploration activity as well as lower high-margin multiclient and software sales.
+drilling group full-year 2015 revenue of $13.6 billion was 25% lower than the previous year primarily due to the severe drop in rig count in north america, reduced activity levels and service pricing concessions internationally that mainly affected drilling & measurements and m-i swaco technologies. unfavorable currency effects in russia and venezuela also contributed to the decline.
+year-on-year, pretax operating margin decreased 228 bps to 18.7%, primarily due to a decrease in higher-margin activities of drilling & measurements as well as pricing concessions.  despite the revenue decline, prompt action on cost management and the benefit of a local cost structure that minimized the impact of unfavorable currency effects on pretax operating income helped limit the operating margin decline.
+production group full-year 2015 revenue of $12.5 billion decreased 29% year-on-year, with approximately two-thirds of the decline attributable to well services pressure pumping technologies as a result of activity reductions and pricing pressure as the land rig count declined dramatically in north america.
+year-on-year, pretax operating margin declined 535 bps to 12.6% as lower activity and increasing pricing pressure continued in north america land.
+19
+full-year 2014 results product groups
+(stated in millions)
+
+2014                                                                   2013
+income                                                 income before                                                 before revenue          taxes                         revenue                   taxes reservoir characterization        $12,905          $3,708                        $13,050                  $3,711
+drilling                           18,128                 3,805                   16,792                   3,238
+production                         17,763                 3,193                   15,646                   2,624
+eliminations &amp; other             (216   )              (130    )                (222    )               (229   )
+pretax operating income                                  10,576                                            9,344
+corporate &amp; other (1)                                  (848    )                                        (726   )
+interest income (2)                                31                                                         22
+interest expense (3)                                       (347    )                                        (369   )
+charges and credits (4)                                  (1,773    )                                         420
+$48,580          $7,639                        $45,266                  $8,691
+geographic areas
+(stated in millions)
+
+2014                                                                 2013
+income                                                 income before                                                 before revenue         taxes                         revenue                   taxes north america                    $16,151         $3,057                        $13,897                  $2,735
+latin america                      7,699                1,639                    7,754                   1,589
+europe/cis/africa                 12,515                2,765                   12,411                   2,593
+middle east &amp; asia            11,875                3,273                   10,767                   2,697
+eliminations &amp; other             340                 (158    )                 437                    (270   )
+pretax operating income                                10,576                                            9,344
+corporate &amp; other (1)                                (848    )                                        (726   )
+interest income (2)                              31                                                         22
+interest expense (3)                                     (347    )                                        (369   )
+charges and credits (4)                                (1,773    )                                         420
+$48,580         $7,639                        $45,266                  $8,691
+(1)   comprised principally of certain corporate expenses not allocated to the segments, stock-based compensation costs, amortization expense associated with certain intangible assets, certain centrally managed initiatives and other nonoperating items.
+
+(2)   excludes interest income included in the segments' income (2014: $20 million; 2013: $11 million).
+
+(3)   excludes interest expense included in the segments' income (2014: $22 million; 2013: $22 million).
+
+(4)   charges and credits are described in detail in note 3 to the consolidated financial statements.
+
+full-year 2014 revenue of $48.6 billion grew $3.3 billion, or 7%, versus the same period last year with international revenue of $32.1 billion increasing $1.2 billion, or 4%, and north america revenue of $16.2 billion growing $2.3 billion, or 16%.
+internationally, higher activities in a number of geomarkets, both offshore and in key land markets, contributed to the increase.  the increase was led by the middle east & asia, which increased 10%, mainly from robust drilling and exploration results in saudi arabia, australia, the united arab emirates and oman.  europe/cis/africa increased 1%, led by the sub-saharan africa region on strong
+20
+development and exploration activities, particularly in central west africa, angola and continental europe geomarkets.  norway also experienced strong growth driven by market share gains and higher rig-related services for a number of customers.  latin america, however, decreased 1% primarily because of lower activity and pricing in brazil and mexico which was partially offset by strong activity in argentina and ecuador.
+north america revenue increased 16% mainly due to land, which was up 22%, while offshore was down 3%.  the increase in land was driven by market share gains in pressure pumping, artificial lift and drilling services.   the pressure pumping growth was augmented by improvements in operational efficiency and the introduction of new technologies.  the decrease in offshore revenue was attributable to lower drilling and exploration activities, and due to a series of operational delays that impacted several product lines earlier in the year combined with lower multiclient sales.
+full-year 2014 pretax operating income of $10.6 billion grew $1.2 billion, or 13%, versus the same period last year with international pretax operating income of $7.7 billion increasing 12% and north america pretax operating income of $3.1 billion increasing 12%.
+full-year 2014 pretax operating margin of 21.8% increased 113 bps compared to 2013, as pretax operating margins internationally were up 168 bps, to 23.9%, while north america pretax operating margin was down 75 bps, to 18.9%.  the increase in international area margins reflected increased high-margin exploration activities, market share gains, growth in accretive integration-related activities and premium pricing on new technology introductions.  the north america margin contraction reflected pressure pumping commodity inflation.
+reservoir characterization group full-year 2014 revenue of $12.9 billion was down 1% compared to 2013.  revenue increased in testing services, from higher offshore exploration, and software integrated solutions, driven by software sales across all international areas.  however, these increases were offset by lower westerngeco marine vessel utilization and reduced multiclient seismic sales.
+year-on-year, pretax operating margin increased 30 bps, to 28.7%, largely due to the higher-margin exploration activities that benefited wireline technologies and testing services.  higher margin software sales also contributed to the improvement.   these increases were partially offset by lower profitability in westerngeco due to lower vessel utilization and multiclient seismic sales.
+drilling group full-year 2014 revenue of $18.1 billion was 8% higher than 2013, primarily due to the robust demand for drilling & measurements services and m-i swaco technologies as activity strengthened in the north america and middle east & asia areas.  land rig revenue from the may 2014 acquisition of saxon also contributed to the growth.
+year-on-year, pretax operating margin increased 171 bps, to 21.0%, primarily due to the increase in higher-margin exploration activities of drilling & measurements in north america offshore and in the international markets.  improved profitability on integrated drilling services activities also contributed to the margin increase.
+production group full-year 2014 revenue of $17.8 billion increased 14% compared to 2013, primarily from well services pressure pumping technologies driven by market share gains, improvements in operational efficiency and the introduction of new technologies.  schlumberger production management (spm) revenue grew as projects in latin america continued to progress ahead of work plans.  revenue from the expanding artificial lift business also contributed to the year-on-year growth.
+year-on-year, pretax operating margin increased 121 bps, to 18.0%, mainly on improved profitability for well services and well intervention, particularly internationally.  spm activities also contributed to the margin expansion.  however, these improvements were partially offset by the decrease in margins in north america due to pressure pumping commodity cost inflation.
+21
+interest and other income interest and other income consisted of the following:
+(stated in millions)
+
+2015                                                  2014              2013
+interest income                             $52               $51               $33
+earnings of equity method investments       184               240               132
+$236              $291              $165
+the decrease in earnings of equity method investments in 2015 as compared to 2014 primarily reflects the effects of the downturn in the oil and gas industry, which has negatively impacted the majority of schlumberger's investments in affiliates, particularly those in north america.
+the increase in earnings of equity method investments in 2014 as compared to 2013 primarily reflects the strong performance of a drilling service company in which schlumberger has an investment, as well as the impact of the first full year of results from the onesubsea joint venture.
+interest expense interest expense of $346 million in 2015 decreased by $23 million compared to 2014 primarily as the effect of an increase in the weighted average debt balance of approximately $0.5 billion was more than offset by a 30 bps decrease in the weighted average borrowing rates from 2.8% in 2014 to 2.5% in 2015.
+interest expense of $369 million in 2014 decreased by $22 million compared to 2013 primarily as the effect of an increase in the weighted average debt balance of approximately $1.1 billion was more than offset by a 40 bps decrease in the weighted average borrowing rates from 3.2% in 2013 to 2.8% in 2014.
+other research & engineering and general & administrative expenses, as a percentage of revenue, were as follows:
+2015                          2014            2013
+
+research &amp; engineering       3.1   %         2.5   %         2.6   %
+general &amp; administrative     1.4   %         1.0   %         0.9   %
+income taxes the schlumberger effective tax rate was 25.9% in 2015, 25.2% in 2014, and 21.3% in 2013.
+the schlumberger effective tax rate is sensitive to the geographic mix of earnings. when the percentage of pretax earnings generated outside of north america increases, the schlumberger effective tax rate will generally decrease. conversely, when the percentage of pretax earnings generated outside of north america decreases, the schlumberger effective tax rate will generally increase.
+the effective tax rate for each of 2015, 2014 and 2013 was significantly impacted by the charges and credits described in note 3 to the consolidated financial statements because they were only partially tax effective.  excluding the impact of these charges and credits, the effective tax rate was 20.2% in 2015, 21.9% in 2014 and 22.9% in 2013.  the decrease in the effective tax rate, excluding the impact of charges and credits, was primarily attributable to the change in the geographic mix of earnings and the favorable resolution of tax examinations in certain jurisdictions.
+charges and credits schlumberger recorded significant charges and credits in continuing operations during 2015, 2014 and 2013. these charges and credits, which are summarized below, are more fully described in note 3 to the consolidated financial statements.
+22
+the following is a summary of the 2015 charges and credits, all of which were classified as impairments & other in the consolidated statement of income:
+(stated in millions)
+
+pretax                 tax                   net workforce reductions                          $920                $107                  $813
+fixed asset impairments                        776                 141                   635
+inventory write-downs                          269                  27                   242
+impairment of spm project                      182                  36                   146
+facility closures                              177                  37                   140
+geopolitical events                             77                   -                    77
+currency devaluation loss in venezuela          49                   -                    49
+contract termination costs                      41                   2                    39
+other                                           84                   7                    77
+$2,575                $357                $2,218
+the following is a summary of the 2014 charges and credits, all of which were classified as impairments & other in the consolidated statement of income:
+(stated in millions)
+
+pretax                 tax                   net westerngeco restructuring                     $806                 $25                  $781
+currency devaluation loss in venezuela         472                   -                   472
+workforce reduction                            296                  37                   259
+impairment of spm project                      199                  72                   127
+$1,773                $134                $1,639
+the following is a summary of the 2013 charges and credits:
+(stated in millions)
+
+pretax                tax                 net gain on formation of onesubsea joint venture (1)   $(1,028     )         $-                  $(1,028     )
+impairment of equity method investments (2)        364                   19                  345
+provision for accounts receivable (3)              152                   30                  122
+currency devaluation loss in venezuela (2)         92                         -              92
+$(420       )         $49                 $(469       )
+(1)   classified as gain on formation of onesubsea in the consolidated statement of income.
+
+(2)   classified in impairments &amp; other in the consolidated statement of income.
+
+(3)   classified in cost of revenue in the consolidated statement of income.
+
+net debt net debt represents gross debt less cash, short-term investments and fixed income investments, held to maturity. management believes that net debt provides useful information regarding the level of schlumberger's indebtedness by reflecting cash and investments that could be used to repay debt.
+23
+details of changes in net debt follow:
+(stated in millions)
+
+2015                                                                                               2014                   2013
+income from continuing operations before concontrolling interests                     $2,135                 $5,711                 $6,843
+gain on formation of onesubsea joint venture                                               -                      -                 (1,028   )
+impairments and other charges                                                          2,575                  1,773                    608
+depreciation and amortization (1)                                                      4,078                  4,094                  3,879
+earnings of equity method investments, less dividends received                          (125   )               (113   )                (71   )
+pension and other postretirement benefits expense                                        438                    355                    518
+stock-based compensation expense                                                         326                    329                    315
+pension and other postretirement benefits funding                                       (346   )               (390   )               (538   )
+(increase) decrease in working capital (2)                                              (478   )                (36   )                 90
+other                                                                                    202                   (528   )                 74
+cash flow from operations                                                              8,805                 11,195                 10,690
+capital expenditures                                                                  (2,410   )             (3,976   )             (3,943   )
+spm investments                                                                         (953   )               (740   )               (902   )
+multiclient seismic data capitalized                                                    (486   )               (321   )               (394   )
+free cash flow (3)                                                                     4,956                  6,158                  5,451
+dividends paid                                                                        (2,419   )             (1,968   )             (1,608   )
+proceeds from employee stock plans                                                       448                    825                    537
+stock repurchase program                                                              (2,182   )             (4,678   )             (2,596   )
+803                    337                  1,784
+business acquisitions and investments, net of cash acquired plus debt assumed           (478   )             (1,501   )               (610   )
+payment for onesubsea transaction                                                          -                      -                   (600   )
+discontinued operations - settlement with u.s. department of justice (4)                (233   )                  -                      -
+other                                                                                   (252   )                220                     94
+(increase) decrease in net debt                                                         (160   )               (944   )                668
+net debt, beginning of period                                                         (5,387   )             (4,443   )             (5,111   )
+net debt, end of period                                                              $(5,547   )            $(5,387   )            $(4,443   )
+(1)   includes depreciation of property, plant and equipment and amortization of intangible assets, multiclient seismic data costs and spm investments.
+
+(2)   includes severance payments of approximately $810 million during 2015.
+
+(3)   "free cash flow" represents cash flow from operations less capital expenditures, spm investments and multiclient seismic data capitalized. management believes that this is an important measure because it represents funds available to reduce debt and pursue opportunities that enhance shareholder value such as acquisitions and returning cash to shareholders through stock repurchases and dividends.
+
+(4)   refer to note 20 to the consolidated financial statements for details.
+
+(stated in millions)
+
+dec. 31,                   dec. 31,                   dec. 31, components of net debt                       2015                  2014                       2013
+cash                                         $2,793                     $3,130                     $3,472
+short-term investments                               10,241                      4,371                      4,898
+fixed income investments, held to maturity   418                        442                        363
+long-term debt - current portion                     (3,011    )                (1,244    )                (1,819   )
+short-term borrowings                                (1,546    )                (1,521    )                  (964   )
+long-term debt                                      (14,442    )               (10,565    )               (10,393   )
+$(5,547           )        $(5,387           )        $(4,443          )
+key liquidity events during 2015, 2014 and 2013 included:
+·   on august 26, 2015, schlumberger and cameron jointly announced that they had entered into a definitive merger agreement in which cameron will merge with schlumberger holdings corporation, an indirect wholly-owned united states subsidiary of schlumberger. under the terms of the agreement, cameron shareholders will receive 0.716 shares of schlumberger
+
+24
+limited common stock and a cash payment of $14.44 in exchange for each cameron share of common stock outstanding. in connection with this transaction, schlumberger holdings corporation will acquire approximately 137 million shares of common stock from schlumberger limited and transfer these shares to cameron's shareholders. additionally, schlumberger holdings corporation will pay cash of approximately $2.8 billion in connection with this transaction. the transaction remains subject to certain regulatory approvals and other customary closing conditions. it is anticipated that the closing of this transaction will occur in the first quarter of 2016.
+
+in order to partially fund the purchase of the 137 million shares of common stock from schlumberger limited that will be transferred to cameron stockholders, schlumberger holdings corporation issued the following notes during the fourth quarter of 2015:
+-   $500 million of 1.90% senior notes due 2017;
+
+-   $1.3 billion of 2.35% senior notes due 2018;
+
+-   $1.6 billion of 3.00% senior notes due 2020;
+
+-   $850 million of 3.63% senior notes due 2022; and
+
+-   $1.75 billion of 4.00% senior notes due 2025.
+
+schlumberger holdings corporation expects to use a combination of cash on hand and commercial paper borrowings to finance the difference between the proceeds received from the issuance of these notes and the cash required to complete the cameron merger.
+·   during the fourth quarter of 2013, schlumberger issued $1.5 billion of 3.65% senior notes due 2023.
+
+·   during the fourth quarter of 2013, schlumberger issued €0.5 billion of 1.50% guaranteed notes due 2019.
+
+·   during the second quarter of 2013, schlumberger paid cameron $600 million in connection with the formation of the onesubsea joint venture.
+
+·   on april 17, 2008, the schlumberger board of directors (the "board") approved an $8 billion share repurchase program for shares of schlumberger common stock, to be acquired before december 31, 2011. on july 21, 2011, the board approved an extension of this repurchase program to december 31, 2013. this program was completed during the third quarter of 2013.
+
+on july 18, 2013, the board approved a new $10 billion share repurchase program to be completed at the latest by june 30, 2018. schlumberger had repurchased $8.6 billion of shares under this new share repurchase program as of december 31, 2015.
+the following table summarizes the activity under these share repurchase programs during 2015, 2014 and 2013:
+(stated in thousands, except per share amounts)
+
+total cost                    total number                      average price of shares                     of shares                         paid per purchased                     purchased                         share
+2015   $2,182,180                             26,751.0                 $81.57
+2014   $4,677,687                             47,545.9                 $98.38
+2013   $2,596,447                             31,349.5                 $82.82
+on january 21, 2016, the board approved a new $10 billion share repurchase program for schlumberger common stock.  this new program will take effect once the remaining $1.4 billion authorized to be repurchased under the july 18, 2013 program is exhausted.
+·   net cash provided by operating activities was $8.8 billion in 2015, $11.2 billion in 2014 and $10.7 billion in 2013. the decrease in operating cash flows in 2015 as compared to 2014 was largely attributable to lower earnings before non-cash charges and credits and depreciation and amortization expense while the increase in operating cash flows in 2014 as compared to 2013 was largely attributable to higher earnings before non-cash charges and credits and depreciation and amortization expense.
+
+·   dividends paid during 2015, 2014 and 2013 were $2.4 billion, $2.0 billion and $1.6 billion, respectively.
+
+on january 15, 2015, schlumberger announced that its board approved a 25% increase in the quarterly dividend, to $0.50.
+on january 16, 2014, schlumberger announced that its board approved a 28% increase in the quarterly dividend, to $0.40.
+25
+·   capital expenditures were $2.4 billion in 2015, $4.0 billion in 2014 and $3.9 billion in 2013. capital expenditures are expected to be approximately $2.4 billion in 2016.
+
+·   during the fourth quarter of 2015, schlumberger made a $500 million cash investment into a new spm project. schlumberger is obligated to make a further $500 million cash investment into this project during the first quarter of 2016.
+
+●   during 2015, 2014 and 2013 schlumberger made contributions of $346 million, $390 million and $538 million, respectively, to its postretirement benefit plans. the us pension plans were 86% funded at both december 31, 2015 and 2014 based on the projected benefit obligation.
+
+schlumberger's international defined benefit pension plans were a combined 93% funded at december 31, 2015 based on the projected benefit obligation. this compares to 94% funded at december 31, 2014.
+schlumberger currently anticipates contributing approximately $350 million to its postretirement benefit plans in 2016, subject to market and business conditions.
+schlumberger maintains a €5.0 billion guaranteed euro medium term note program. this program provides for the issuance of various types of debt instruments such as fixed or floating rate notes in euro, us dollar or other currencies.  schlumberger has issued €0.5 billion 1.50% guaranteed notes due 2019 under this program.
+as of december 31, 2015, schlumberger had $13.0 billion of cash and short-term investments on hand. schlumberger had separate committed debt facility agreements aggregating $3.8 billion with commercial banks, of which $1.4 billion was available and unused as of december 31, 2015. the $3.8 billion of committed debt facility agreements included $3.5 billion of committed facilities, which support commercial paper programs. schlumberger believes that these amounts are sufficient to meet future business requirements for at least the next 12 months.
+the total outstanding commercial paper borrowings were $2.383 billion as of december 31, 2015 and $1.538 billion as of december 31, 2014.
+summary of contractual obligations
+(stated in millions)
+
+accumulated total             2016                        2017-2018             2019-2020              after 2020
+debt (1)                                      $18,999                    $4,558                $4,152                $2,511                  $7,778
+interest on fixed rate debt obligations (2)         2,444                   401                   740                   653                     650
+operating leases                                    1,428                   261                   367                   274                     526
+purchase obligations and other (3)                  1,922                 1,734                   120                    49                      19
+$24,793                    $6,954                $5,379                $3,487                  $8,973
+(1)   excludes future payments for interest.
+
+(2)   excludes interest on $4.7 billion of variable rate debt, which had a weighted average interest rate of 1.0% as of december 31, 2015.
+
+(3)   represents an estimate of contractual obligations in the ordinary course of business. although these contractual obligations are considered enforceable and legally binding, the terms generally allow schlumberger the option to reschedule and adjust its requirements based on business needs prior to the delivery of goods. this amount also reflects a $500 million cash investment into an spm project that schlumberger is obligated to make during the first quarter of 2016.
+
+refer to note 18, pension and other benefit plans, of the consolidated financial statements for details regarding schlumberger's pension and other postretirement benefit obligations.
+as discussed in note 14, income taxes, of the consolidated financial statements, included in the schlumberger consolidated balance sheet at december 31, 2015 is approximately $1.3 billion of liabilities associated with uncertain tax positions in the over 100 jurisdictions in which schlumberger conducts business. due to the uncertain and complex application of tax regulations, combined with the difficulty in predicting when tax audits throughout the world may be concluded, schlumberger cannot make reliable estimates of the timing of cash outflows relating to these liabilities.
+schlumberger has outstanding letters of credit/guarantees that relate to business performance bonds, custom/excise tax commitments, facility lease/rental obligations, etc. these were entered into in the ordinary course of business and are customary practices in the various countries where schlumberger operates.
+26
+critical accounting policies and estimates the preparation of financial statements and related disclosures in conformity with accounting principles generally accepted in the united states requires schlumberger to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities and the reported amounts of revenue and expenses. the following accounting policies involve "critical accounting estimates" because they are particularly dependent on estimates and assumptions made by schlumberger about matters that are inherently uncertain.
+schlumberger bases its estimates on historical experience and on various assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. actual results may differ from these estimates under different assumptions or conditions.
+multiclient seismic data schlumberger capitalizes the costs associated with obtaining multiclient seismic data. the carrying value of the multiclient seismic data library at december 31, 2015 and 2014 was $1.03 billion and $793 million, respectively. such costs are charged to cost of revenue based on the percentage of the total costs to the estimated total revenue that schlumberger expects to receive from the sales of such data. however, under no circumstances will an individual survey carry a net book value greater than a 4-year, straight-line amortized value.
+the carrying value of surveys is reviewed for impairment annually as well as when an event or change in circumstance indicates an impairment may have occurred. adjustments to the carrying value are recorded when it is determined that estimated future revenues, which involve significant judgment on the part of schlumberger, would not be sufficient to recover the carrying value of the surveys. significant adverse changes in schlumberger's estimated future cash flows could result in impairment charges in a future period. for purposes of performing the annual impairment test of the multiclient library, larger surveys (which are typically prefunded by customers) are analyzed for impairment on a survey-by-survey basis and smaller surveys are analyzed based on two pools of surveys: united states and non-united states. the united states and non-united states pools were determined to be the most appropriate level at which to perform the impairment review based upon a number of factors, including (i) various macroeconomic factors that influence the ability to successfully market surveys, and (ii) the focus of the sales force and related costs.
+allowance for doubtful accounts schlumberger maintains an allowance for doubtful accounts in order to record accounts receivable at their net realizable value. judgment is involved in recording and making adjustments to this reserve. allowances have been recorded for receivables believed to be uncollectible, including amounts for the resolution of potential credit and other collection issues such as disputed invoices. depending on how such potential issues are resolved, or if the financial condition of schlumberger customers were to deteriorate resulting in an impairment of their ability to make payments, adjustments to the allowance may be required.
+schlumberger operates in more than 85 countries. at december 31, 2015, only four of those countries individually accounted for greater than 5% of schlumberger's accounts receivable balance, of which only two (venezuela and mexico) accounted for greater than 10%.  schlumberger has experienced delays in payment from its national oil company customer in venezuela.  during the fourth quarter of 2015, schlumberger entered into an agreement with its national oil company customer in venezuela to receive certain fixed assets in lieu of payment of approximately $200 million of accounts receivable.
+goodwill, intangible assets and long-lived assets schlumberger records the excess of purchase price over the fair value of the tangible and identifiable intangible assets acquired and liabilities assumed as goodwill. the goodwill relating to each of schlumberger's reporting units is tested for impairment annually as well as when an event, or change in circumstances, indicates an impairment may have occurred.
+under generally accepted accounting principles, schlumberger has the option to first assess qualitative factors to determine whether the existence of events or circumstances leads to a determination that it is more likely than not that the fair value of one of its reporting units is greater than its carrying amount. if, after assessing the totality of events or circumstances, schlumberger determines it is more likely than not that the fair value of a reporting unit is greater than its carrying amount, there is no need to perform any further testing. however, if schlumberger concludes otherwise, then it is required to perform the first step of a two-step impairment test by calculating the fair value of the reporting unit and comparing the fair value with the carrying amount of the reporting unit. if the fair value of the reporting unit is less than its carrying value, an impairment loss is recorded to the extent that the implied fair value of the goodwill of the reporting unit is less than its carrying value.
+schlumberger has the option to bypass the qualitative assessment for any reporting unit in any period and proceed directly to performing the first step of the two-step goodwill impairment test.
+27
+for purposes of performing the impairment test for goodwill, schlumberger's reporting units are its three groups: reservoir characterization, drilling and production. schlumberger elected to perform the qualitative assessment described above for purposes of its annual goodwill impairment test in 2015. based on this assessment, schlumberger concluded that it was more likely than not that the fair value of each of its reporting units was greater than its carrying amount. accordingly, no further testing was required.
+long-lived assets, including fixed assets, intangible assets and investments in spm projects, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable. in reviewing for impairment, the carrying value of such assets is compared to the estimated undiscounted future cash flows expected from the use of the assets and their eventual disposition. if such cash flows are not sufficient to support the asset's recorded value, an impairment charge is recognized to reduce the carrying value of the long-lived asset to its estimated fair value, as was the case for certain assets in 2015 and 2014. the determination of future cash flows as well as the estimated fair value of long-lived assets involves significant estimates on the part of management. if there is a material change in economic conditions or other circumstances influencing the estimate of future cash flows or fair value, schlumberger could be required to recognize impairment charges in the future.
+income taxes schlumberger conducts business in more than 100 tax jurisdictions, a number of which have tax laws that are not fully defined and are evolving. schlumberger's tax filings are subject to regular audits by the tax authorities. these audits may result in assessments for additional taxes that are resolved with the authorities or, potentially, through the courts. schlumberger recognizes the impact of a tax position in its financial statements if that position is more likely than not of being sustained on audit, based on the technical merits of the position.  tax liabilities are recorded based on estimates of additional taxes which will be due upon the conclusion of these audits. estimates of these tax liabilities are made based upon prior experience and are updated in light of changes in facts and circumstances. however, due to the uncertain and complex application of tax regulations, the ultimate resolution of audits may result in liabilities that could be materially different from these estimates. in such an event, schlumberger will record additional tax expense or tax benefit in the period in which such resolution occurs.
+pension and postretirement benefits schlumberger's pension and postretirement benefit obligations are described in detail in note 18 to the consolidated financial statements. the obligations and related costs are calculated using actuarial concepts, which include critical assumptions related to the discount rate, expected rate of return on plan assets and medical cost trend rates. these assumptions are important elements of expense and/or liability measurement and are updated on an annual basis, or upon the occurrence of significant events.
+the discount rate that schlumberger uses reflects the prevailing market rate of a portfolio of high-quality debt instruments with maturities matching the expected timing of the payment of the benefit obligations. the following summarizes the discount rates utilized by schlumberger for its various pension and postretirement benefit plans:
+●   the discount rate utilized to determine the liability for schlumberger's united states pension plans and postretirement medical plans was 4.50% at december 31, 2015 and 4.15% at december 31, 2014.
+
+●   the weighted-average discount rate utilized to determine the liability for schlumberger's international pension plans was 4.36% at december 31, 2015 and 4.07% at december 31, 2014.
+
+●   the weighted-average discount rate utilized to determine expense for schlumberger's united states pension plans and postretirement medical plans decreased from 4.85% in 2014 to 4.15% in 2015.
+
+●   the weighted-average discount rate utilized to determine expense for schlumberger's international pension plans decreased from 4.76% in 2014 to 4.07% in 2015.
+
+the expected rate of return for schlumberger's retirement benefit plans represents the average rate of return expected to be earned on plan assets over the period that benefits included in the benefit obligation are expected to be paid. the expected rate of return for schlumberger's united states pension plans has been determined based upon expected rates of return for the investment portfolio, with consideration given to the distribution of investments by asset class and historical rates of return for each individual asset class. the weighted average expected rate of return on plan assets for the united states pension plans was 7.25% in both 2015 and 2014. the weighted average expected rate of return on plan assets for the international pension plans was 7.50% in both 2015 and 2014. a lower expected rate of return would increase pension expense.
+schlumberger's medical cost trend rate assumptions are developed based on historical cost data, the near-term outlook and an assessment of likely long-term trends. the overall medical cost trend rate assumption utilized to determine the 2015 postretirement medical expense was 7.0% graded to 5.0% over the next ten years. the overall medical trend rate assumption utilized to determine the postretirement medical liability at december 31, 2015 was 7.0% graded to 5.0% over the next ten years.
+28
+the following illustrates the sensitivity to changes in certain assumptions, holding all other assumptions constant, for the united states and international pension plans:
+(stated in millions)
+
+effect on 2015          effect on pretax pension          dec. 31, 2015
+change in assumption   expense                 liability
+25 basis point decrease in discount rate   +$68                    +$457
+25 basis point increase in discount rate   -$65                    -$431
+25 basis point decrease in expected return on plan assets   +$25                             -
+25 basis point increase in expected return on plan assets   -$24                             -
+the following illustrates the sensitivity to changes in certain assumptions, holding all other assumptions constant, for schlumberger's united states postretirement medical plans:
+(stated in millions)
+
+effect on 2015           effect on pretax pension           dec. 31, 2015
+change in assumption   expense                  liability
+25 basis point decrease in discount rate   +$6                      +$39
+25 basis point increase in discount rate   -$5                      -$37
+100 basis point decrease per annum in medical cost trend rate   -$6                      -$33
+100 basis point increase per annum in medical cost trend rate   +$7                      +$37
+investments in affiliated companies investments in affiliated companies on the consolidated balance sheet primarily reflects schlumberger's investments in privately held companies, some of which are in the startup or development stages and are often still defining their strategic direction. such investments are inherently risky and their success is dependent on factors such as technology development, market acceptance and their ability to raise additional funds. the technology being developed by these companies may never materialize and they could fail. schlumberger monitors its portfolio to determine if any investment is other-than-temporarily impaired. if an investment is considered to be other-than-temporarily impaired, it is written down to its fair value, as was the case for certain investments in 2015 and 2013.

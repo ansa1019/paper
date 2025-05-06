@@ -1,0 +1,924 @@
+item 7.   management's discussion and analysis of consolidated financial condition and results of operations (dollars in millions, except per share, per ounce and per pound amounts)
+
+the following management's discussion and analysis ("md&a") provides information that management believes is relevant to an assessment and understanding of the consolidated financial condition and results of operations of newmont mining corporation and its subsidiaries (collectively, "newmont," the "company," "our" and "we"). we use certain non-gaap financial measures in our md&a. for a detailed description of each of the non-gaap measures used in this md&a, please see the discussion under "non-gaap financial measures" beginning on page 74. references to "a$" refer to australian currency, "c$" to canadian currency and "nz$" to new zealand currency. this item should be read in conjunction with our consolidated financial statements and the notes thereto included in this annual report.
+overview newmont is one of the world's largest gold producers and is the only gold company included in the s&p 500 index and fortune 500. we have been included in the dow jones sustainability index-world for eight consecutive years and have adopted the world gold council's conflict-free gold policy. we are also engaged in the exploration for and acquisition of gold and copper properties. we have significant operations and/or assets in the united states, australia, peru, indonesia, ghana and new zealand.
+our vision is to be recognized and respected for exceptional economic, environmental and social performance.
+we continue to position the business to capture benefits of economic recovery and demand growth in the current volatile commodity market environment. our team has spent considerable time over the past twenty-one months optimizing our project portfolio so that when the time is right, we can move forward with developing projects that generate value. we are focused on providing sustainable efficiency, productivity and cost improvements over the next three years and expect to deliver significant cost and cash savings improvement initiatives. one of the programs we launched in 2013 to achieve these improvements was the full potential program ("full potential"). full potential is designed to leverage our industry experience and discipline to accelerate the delivery of business improvement opportunities across our operations and support areas, resulting in improved levels of operating cash flow.
+2014 highlights are included below and discussed further in results of consolidated operations.
+2014 operating highlights.
+·   sales of $7,292;
+
+·   average realized gold and copper prices of $1,258 per ounce and $2.65 per pound, respectively.
+
+·   consolidated gold production of approximately 5.2 million ounces (4.8 million attributable ounces) at costs applicable to sales of $706 per ounce;
+
+·   consolidated copper production of approximately 271 million pounds (191 million attributable pounds) at costs applicable to sales of $2.88 per pound;
+
+·   gold operating margin (see "non-gaap financial measures" on page 74) of $552 per ounce;
+
+·   net income attributable to newmont stockholders of $1.02 per share, adjusted net income (see "non-gaap financial measures" on page 74) of $1.09 per share; and
+
+·   gold and copper reserves of 82.2 million ounces and 7,930 million pounds, respectively, at december 31, 2014.
+
+our global project pipeline.
+we manage our wider project portfolio to maintain flexibility to address the development risks associated with our projects including permitting, local community and government support, engineering and procurement availability, technical issues, escalating costs and other associated risks that could adversely impact the timing and costs of certain opportunities.
+projects included in our global pipeline comprise an important part of the company's growth strategy and reflect opportunities throughout the development cycle.  the most advanced projects, including early stage development and projects in or near the execution phase are described below.  the exploration, construction and execution of these projects may require significant funding to complete.
+45
+newmont mining corporation turf vent shaft, nevada. the turf no. 3 vent shaft project is in the construction phase, is planned to achieve commercial production in late 2015 and is expected to add between 100,000 and 150,000 ounces of production annually. capital costs for the project are estimated at approximately $400. the turf no. 3 vent shaft project provides the ventilation required to increase production, and decrease mine costs over the 11 year mine life at leeville.
+merian, suriname. on july 29, 2014 the board of directors of newmont approved full funding for the merian project in suriname and construction began in august 2014.  following the project approval by newmont, the government of suriname granted the right of exploitation on august 22, 2014. the government of suriname opted for a 25% equity ownership in the merian project and made their earn-in payments at the end of 2014. the project allows newmont to pursue a new district with upside potential and the opportunity to grow and extend the operating life of the south american region. average life of mine estimated gold production (on a 100% basis) of 300,000 to 400,000 ounces per year is expected, once merian comes into production in late 2016. total capital spend on the project is expected to range from $600 to $700 on an attributable basis. at december 31, 2014, gold reserves at merian contained 104,700 thousand tons of probable reserves, grading 0.034 ounces per ton for 3.6 million ounces on an attributable basis.
+waihi correnso, new zealand. waihi correnso is in the construction phase and is planned to achieve commercial production in 2015. total capital costs of the project are estimated at approximately $30 to $35. the project is an extension of the operating favona, moonlight and trio underground mines and will leverage the existing surface and processing infrastructure. the correnso deposit is a conventional high grade vein, and offers upside resource potential in and around waihi.
+conga, peru. due to local political and community protests, construction and development activities at the conga project were largely suspended in november 2011. the results of the peruvian central government initiated environmental impact assessment ("eia") independent review were announced on april 20, 2012 and confirmed our initial eia met peruvian and international standards. the review made recommendations to provide additional water capacity and social funds, which we have largely accepted. we announced our decision to move the project forward on a "water first" approach on june 22, 2012. in the first half of 2014, a conga restart study was completed to identify and test alternatives to advancing development of the project.  following this assessment, a new plan was developed to reduce spending to focus on only the most critical work - protecting people and assets, engaging with communities, and maintaining existing project infrastructure - while maintaining optionality. newmont will not proceed with the full development of conga without social acceptance, solid project economics and potentially another partner to help defray costs and risk. total property, plant and mine development, excluding capitalized interest, was $1,609 at december 31, 2014. at december 31, 2014 we reported 303,400 thousand tons of probable reserves, grading 0.021 ounces per ton for 6.5 million attributable ounces of gold reserves and 0.28% copper for 1,690 million attributable pounds of copper reserves at conga. construction of conga and the implementation of the independent eia review recommendations will continue provided it can be done in a safe manner with risk-adjusted returns that justify future investment. should we be unable to continue with the current development plan at conga, we may reprioritize and reallocate capital to other alternatives, which may result in a potential accounting impairment. see item1a, risk factors, above for a description of political risks related to the project's development.
+long canyon, nevada. the project has completed the definition stage of development for the first phase of long canyon. we have submitted the environmental impact statement ("eis") to the federal and state permitting agencies for approval, and we continue to progress the exploration program in the long canyon district. at december 31, 2014, we reported 18,400 thousand tons of probable reserves, grading 0.067 ounce per ton for 1.2 million ounces of gold reserves at long canyon. an investment decision is expected in early 2015.
+tanami expansion, australia. the goal of the tanami expansion project is to increase production and lower all-in sustaining costs per ounce of the mine. incremental improvements are driven by bringing ounces forward, mining additional ounces at depth and leveraging the fixed costs of the mine and processing facilities. the scope for this project includes a ventilation upgrade, additional mining equipment, additional mine access (dual access) and increasing process plant capacity and recovery. an investment decision is expected in 2015.
+subika underground, ghana. subika underground is in the confirmation stage of development as work continues to optimize the mine plan and reduce costs. the project is expected to produce approximately 200,000 ounces of gold per year and an investment decision is expected in late 2015 or 2016.
+ahafo mill expansion, ghana. we continue to evaluate development alternatives for this project. current engineering efforts are focused on reducing the scale of the project. the potential improved economics and feasibility of the project will be assessed, and the project considered for an investment decision in the second half of 2015.
+46
+newmont mining corporation summary of consolidated financial and operating performance years ended december, 31
+
+2014                                                                        2013                    2012
+sales                                                         $7,292                  $8,414                  $9,964
+income (loss) from continuing operations                        $369                 $(2,856    )             $2,187
+net income (loss)                                               $329                 $(2,795    )             $2,111
+net income (loss) attributable to newmont stockholders          $508                 $(2,534    )             $1,802
+per common share, basic:
+income (loss) from continuing operations                       $1.10                  $(5.21    )              $3.79
+net income (loss)                                              $1.02                  $(5.09    )              $3.64
+adjusted net income (loss) (1)                                  $545                    $623                  $1,843
+adjusted net income (loss) per share, basic (1)                $1.09                   $1.25                   $3.72
+consolidated gold ounces (thousands)
+produced                                                       5,231                   5,463                   5,583
+sold                                                           5,240                   5,489                   5,466
+consolidated copper pounds (millions)
+produced                                                         271                     262                     254
+sold                                                             264                     258                     257
+average price received, net:
+gold (per ounce)                                              $1,258                  $1,393                  $1,662
+copper (per pound)                                             $2.65                   $2.98                   $3.43
+consolidated costs applicable to sales: (2)
+gold (per ounce)                                                $706                    $772                    $684
+copper (per pound)                                             $2.88                   $4.12                   $2.32
+operating margin: (1)
+gold (per ounce)                                                $552                    $621                    $978
+copper (per pound)                                            $(0.23    )             $(1.14    )              $1.11
+(1)   see "non-gaap financial measures" beginning on page 74.
+
+(2)   excludes development ounces.
+
+(3)   excludes depreciation and amortization and reclamation and remediation.
+
+consolidated financial performance sales decreased 13% in 2014 compared to 2013 due to lower average realized gold and copper prices and lower consolidated gold ounces sold. the average realized gold price decreased 10% to $1,258 per ounce in 2014 from $1,393 per ounce in 2013. the average realized copper price, including $28 unfavorable mark to market adjustments on provisionally priced copper sales, decreased 11% to $2.65 per pound in 2014 compared to $2.98 per pound in 2013. consolidated gold ounces sold decreased 14% in 2014 compared to 2013 due to lower production from north america primarily driven by the sale of midas and la herradura; australia / new zealand due to the sale of jundee; and lower recoveries in south america; partially offset by higher production from indonesia and africa due to a full year of commercial production from akyem. costs applicable to sales decreased 16% in 2014 compared to 2013 due primarily to lower direct operating costs from continuous improvement projects, divestitures of operating assets and higher inventory adjustments in the prior year associated with lower metal prices, partially offset by the addition of akyem, which reached commercial production in the fourth quarter of 2013.
+47
+newmont mining corporation liquidity our financial position was as follows:
+at december 31,
+
+2014                                            2013
+cash and cash equivalents         $2,403                $1,555
+debt                              $6,646                $6,740
+net debt                          $4,243                $5,185
+investments                         $407                  $517
+newmont stockholders' equity     $10,274                $9,993
+during 2014, our debt and liquidity positions were affected by the following:
+●   net cash provided from continuing operations of $1,451;
+
+●   included in net cash provided from continuing operations are income and mining taxes paid (net of refunds) of $187;
+
+●   capital expenditures of $1,110;
+
+●   proceeds from the sale of assets of $661
+
+●   repayment of debt of $85, net of debt proceeds;
+
+●   proceeds from the sale of noncontrolling interests of $179; and
+
+●   dividends paid to common shareholders of $114.
+
+in addition to the cash held on the balance sheet at december 31, 2014, we also maintain a $3,000 corporate revolving credit facility that matures in march 2019.  at december 31, 2014, we had no borrowings outstanding under the facility.
+accounting developments for a discussion of recently adopted accounting pronouncements and recently issued accounting pronouncements, see note 2 to the consolidated financial statements.
+critical accounting policies listed below are the accounting policies that we believe are critical to our financial statements due to the degree of uncertainty regarding the estimates or assumptions involved and the magnitude of the asset, liability, revenue or expense being reported. our discussion of financial condition and results of operations is based upon the information reported in our consolidated financial statements.  the preparation of these consolidated financial statements in conformity with accounting principles generally accepted in the united states ("gaap") requires us to make assumptions and estimates that affect the reported amounts of assets, liabilities, revenues, and expenses, as well as the disclosure of contingent assets and liabilities as of the date of our financial statements.  we base our assumptions and estimates on historical experience and various other sources that we believe to be reasonable under the circumstances.  actual results may differ from the estimates we calculate due to changes in circumstances, global economics and politics, and general business conditions.  a summary of our significant accounting policies is detailed in note 2 - summary of significant accounting policies, risk and uncertainties in part ii, item 8 of this report.  we have outlined below those policies identified as being critical to the understanding of our business and results of operations and that require the application of significant management judgment.
+depreciation and amortization expenditures for new facilities or equipment and expenditures that extend the useful lives of existing facilities or equipment are capitalized and depreciated using the straight-line method at rates sufficient to amortize such costs over the estimated future lives of such facilities or equipment and their components. these lives do not exceed the estimated mine life based on proven and probable reserves as the useful lives of these assets are considered to be limited to the life of the relevant mine.
+48
+newmont mining corporation costs incurred to develop new properties are capitalized as incurred where it has been determined that the property can be economically developed based on the existence of proven and probable reserves. at our surface mines, these costs include costs to further delineate the ore body and remove overburden to initially expose the ore body. at our underground mines, these costs include the cost of building access ways, shaft sinking and access, lateral development, drift development, ramps and infrastructure development. all such costs are amortized using the units-of-production ("uop") method over the estimated life of the ore body based on estimated recoverable ounces to be produced from proven and probable reserves.
+mine development costs incurred after the commencement of production are amortized using the uop method based on estimated recoverable ounces to be produced from proven and probable reserves. to the extent that such costs benefit the entire ore body, they are amortized over the estimated recoverable ounces or pounds in proven and probable reserves of the entire ore body. costs incurred to access specific ore blocks or areas that only provide benefit over the life of that block or area are amortized over the estimated recoverable ounces or pounds in proven and probable reserves of that specific ore block or area.
+the calculation of the uop rate of amortization, and therefore the annual amortization charge to operations, could be materially impacted to the extent that actual production in the future is different from current forecasts of production based on proven and probable reserves. this would generally occur to the extent that there were significant changes in any of the factors or assumptions used in determining reserves. these changes could include: (i) an expansion of proven and probable reserves through exploration activities; (ii) differences between estimated and actual costs of production, due to differences in grade, metal recovery rates and foreign currency exchange rates; and (iii) differences between actual commodity prices and commodity price assumptions used in the estimation of reserves. if reserves decreased significantly, amortization charged to operations would increase; conversely, if reserves increased significantly, amortization charged to operations would decrease. such changes in reserves could similarly impact the useful lives of assets depreciated on a straight-line basis, where those lives are limited to the life of the mine, which in turn is limited to the life of the proven and probable reserves.
+the expected useful lives used in depreciation and amortization calculations are determined based on applicable facts and circumstances, as described above. significant judgment is involved in the determination of useful lives, and no assurance can be given that actual useful lives will not differ significantly from the useful lives assumed for the purpose of depreciation and amortization calculations.
+carrying value of stockpiles stockpiles represent ore that has been extracted from the mine and is available for further processing. mine sequencing may result in mining material at a faster rate than can be processed. we generally process the highest ore grade material first to maximize metal production; however, a blend of gold ore stockpiles may be processed to balance hardness and/or metallurgy in order to maximize throughput and recovery. processing of lower grade stockpiled ore may continue after mining operations are completed. sulfide copper ores are subject to oxidation over time which can reduce expected future recoveries. stockpiles are measured by estimating the number of tons added and removed from the stockpile, the number of contained ounces or pounds (based on assay data), and the estimated metallurgical recovery rates (based on the expected processing method). stockpile ore tonnages are verified by periodic surveys. costs are added to stockpiles based on current mining costs, including applicable overhead and depreciation and amortization relating to mining operations. costs are removed at each stockpile's average cost per recoverable ounce of gold or pound of copper as material is processed.
+49
+newmont mining corporation the following is a summary of our ore stockpiles:
+at december 31,                     at december 31,
+
+2014                           2013             2014               2013
+($ in millions)                     ($ per ounce)
+gold carlin             $227                  $300          $185                $243
+phoenix              54                    56           456                 314
+twin creeks         276                   306           207                 207
+yanacocha           236                   290           363                 487
+boddington          320                   247           348                 322
+tanami               14                    12           584                 773
+jundee                -                     7             -                 892
+waihi                 2                     2           634                 929
+kalgoorlie          116                   107           108                 102
+batu hijau          224                   232           346                 415
+ahafo               376                   292           324                 299
+akyem               100                    35           232                 105
+total            $1,945                $1,886          $256                $263
+at december 31,                       at december 31,
+
+2014                            2013               2014               2013
+($ in millions)                     ($ per pound)
+copper phoenix              $11                     $13         $0.45               $0.49
+boddington            70                      57          0.74                0.68
+batu hijau         1,018                   1,058          0.80                0.98
+total             $1,099                  $1,128         $0.79               $0.95
+we record stockpiles at the lower of average cost or net realizable value ("nrv"), and carrying values are evaluated at least quarterly. nrv represents the estimated future sales price based on short-term and long-term metals prices, less estimated costs to complete production and bring the product to sale. the primary factors that influence the need to record write-downs of stockpiles include short-term and long-term metals prices and costs for production inputs such as labor, fuel and energy, materials and supplies, as well as realized ore grades and recovery rates. the company recorded write-downs to reduce the carrying value of stockpiles to net realizable value of $385, $1,040 and $24 in 2014, 2013 and 2012, respectively, as components of cost applicable to sales and depreciation and amortization. the significant assumptions in determining the stockpile nrv for each mine site reporting unit at december 31, 2014 included production cost and capitalized expenditure assumptions unique to each operation, a long-term gold price of $1,300 per ounce, a long-term copper price of $3.00 per pound and a u.s. to australian dollar long-term exchange rate of $0.87 per a$1.00. if short-term and long-term commodity prices decrease, future processing costs increase, or other negative factors occur, it may be necessary to record a write-down of ore on stockpiles to nrv.
+the nrv measurement involves the use of estimates and assumptions unique to each mining operation regarding current and future operating and capital costs, metal recoveries, production levels, commodity prices, proven and probable reserve quantities, engineering data and other factors. a high degree of judgment is involved in determining such assumptions and estimates and no assurance can be given that actual results will not differ significantly from those estimates and assumptions.
+50
+newmont mining corporation the following is a summary of the historical stockpile cost and estimated future processing costs:
+at december 31, 2014
+
+($ per ounce)
+historical                 estimated                     total costs                    future                 estimated processing                production costs                     costs gold carlin                      $185                      $737                      $922
+phoenix                      456                       806                     1,262
+twin creeks                  207                       596                       803
+yanacocha                    363                       409                       772
+boddington                   348                       933                     1,281
+tanami                       584                       225                       809
+waihi                        634                       256                       890
+kalgoorlie                   108                     1,106                     1,214
+batu hijau                   346                       828                     1,174
+ahafo                        324                       712                     1,036
+akyem                        232                       515                       747
+weighted average            $256                      $750                    $1,006
+at december 31, 2014
+
+($ per pound)
+historical                 estimated                     total costs                    future                 estimated processing                production costs                     costs copper phoenix                    $0.45                     $1.55                     $2.00
+boddington                  0.74                      1.97                      2.71
+batu hijau                  0.80                      1.91                      2.71
+weighted average           $0.79                     $1.91                     $2.70
+carrying value of ore on leach pads ore on leach pads represent ore that has been mined and placed on leach pads where a solution is applied to the surface of the heap to dissolve the gold or extract the copper. costs are added to ore on leach pads based on current mining costs, including applicable amortization relating to mining operations. costs are removed from ore on leach pads as ounces are recovered based on the average cost per estimated recoverable ounce of gold or pound of copper on the leach pad.
+estimates of recoverable ore on the leach pads are calculated from the quantities of ore placed on the leach pads (measured tons added to the leach pads), the grade of ore placed on the leach pads (based on assay data) and a recovery percentage (based on ore type). in general, leach pads recover between 50% and 95% of the recoverable ounces in the first year of leaching, declining each year thereafter until the leaching process is complete.
+although the quantities of recoverable ore placed on the leach pads are reconciled by comparing the grades of ore placed on pads to the quantities of ore actually recovered (metallurgical balancing), the nature of the leaching process inherently limits the ability to precisely monitor inventory levels. as a result, the metallurgical balancing process is constantly monitored and estimates are refined based on actual results over time. historically, our operating results have not been materially impacted by variations between the estimated and actual recoverable quantities of ore on our leach pads. variations between actual and estimated quantities resulting from changes in assumptions and estimates that do not result in write-downs to nrv are accounted for on a prospective basis. the company recorded write-downs to reduce the carrying value of leach pads to net realizable value of $254, $157 and $4 in 2014, 2013 and 2012, respectively, as components of cost applicable to sales and depreciation and amortization. the significant assumptions in determining the nrv for each mine site reporting unit at december 31, 2014 apart from production cost and capitalized expenditure assumptions unique to each operation included a long-term gold price of $1,300 per ounce and copper price of $3.00 per pound. if short-term and long-term commodity prices decrease, future processing costs increase, or other negative factors occur, it may be necessary to record a write-down of ore on leach pads to nrv.
+51
+newmont mining corporation the following is a summary of our ore on leach pads:
+at december 31,                    at december 31,
+
+2014                          2013           2014               2013
+($ in millions)                        ($ per ounce)
+gold carlin            $172                $139          $590                   $449
+twin creeks          9                  21           376                    470
+la herradura         -                  57             -                  1,095
+yanacocha          223                 214           633                    809
+total             $404                $431          $605                   $643
+at december 31,                   at december 31,
+
+2014                     2013           2014               2013
+($ in millions)                   ($ per pound)
+copper phoenix   $38                 $40           $0.62               $0.85
+the following is a summary of our ore on leach pad historical cost and estimated future processing:
+at december 31, 2014
+
+($ per ounce)
+historical                 estimated             total costs                    future             estimated processing             production costs             costs gold carlin                      $590                      $594             $1,184
+twin creeks                  376                      $878             $1,254
+yanacocha                    633                       424                     1,057
+weighted average            $605                      $515             $1,120
+at december 31, 2014
+
+($ per pound)
+historical                estimated                 total costs                     future                    estimated processing                production costs                     costs copper phoenix   $0.62                     $0.91                     $1.53
+carrying value of long-lived assets we review and evaluate our long-lived assets for impairment when events or changes in circumstances indicate that the related carrying amounts may not be recoverable. asset impairment is considered to exist if the total estimated pre-tax future cash flows on an undiscounted basis are less than the carrying amount of the asset. an impairment loss is measured and recorded based on discounted estimated future cash flows. future cash flows are estimated based on estimated quantities of recoverable minerals, expected gold and other commodity prices (considering current and historical prices, trends and related factors), production levels, operating costs, capital requirements and reclamation costs, all based on life-of-mine plans. the significant assumptions in determining the future cash flows for each mine site reporting unit at december 31, 2014 apart from production cost and capitalized expenditure assumptions unique to each operation, included a long-term gold price of $1,300 per ounce, a long-term copper price of $3.00 per pound and u.s. to australian dollar long-term exchange rate of $0.87 per a$1.00. during 2014, 2013 and 2012, we recorded impairments of $26, $4,352, and $52, respectively, to reduce the carrying value of property, plant and mine development as part of write-down of property, plant and mine development.
+existing proven and probable reserves and value beyond proven and probable reserves, including mineralization other than proven and probable reserves are included when determining the fair value of mine site reporting units at acquisition and,
+52
+newmont mining corporation subsequently, in determining whether the assets are impaired. the term "recoverable minerals" refers to the estimated amount of gold or other commodities that will be obtained after taking into account losses during ore processing and treatment. estimates of recoverable minerals from such exploration stage mineral interests are risk adjusted based on management's relative confidence in such materials. in estimating future cash flows, assets are grouped at the lowest level for which there are identifiable cash flows that are largely independent of future cash flows from other asset groups.
+as discussed above under depreciation and amortization, various factors could impact our ability to achieve our forecasted production schedules from proven and probable reserves. additionally, production, capital and reclamation costs could differ from the assumptions used in the cash flow models used to assess impairment. the ability to achieve the estimated quantities of recoverable minerals from exploration stage mineral interests involves further risks in addition to those factors applicable to mineral interests where proven and probable reserves have been identified, due to the lower level of confidence that the identified mineralized material could ultimately be mined economically. assets classified as exploration potential have the highest level of risk that the carrying value of the asset can be ultimately realized, due to the still lower level of geological confidence and economic modeling.
+derivative instruments with the exception of the call spread transactions (as described in note 12 to the consolidated financial statements), all financial instruments that meet the definition of a derivative are recorded on the balance sheet at fair value. changes in the fair value of derivatives are recorded in the statements of consolidated income, except for the effective portion of the change in fair value of derivatives that are designated as cash flow hedges. management applies judgment in estimating the fair value of instruments that are highly sensitive to assumptions regarding commodity prices, market volatilities, foreign currency exchange rates and interest rates. variations in these factors could materially affect amounts credited or charged to earnings to reflect the changes in fair value of derivatives. certain derivative contracts are accounted for as cash flow hedges, whereby the effective portion of changes in fair value of these instruments are deferred in accumulated other comprehensive income (loss) and will be recognized in the statements of consolidated income when the underlying transaction designated as the hedged item impacts earnings. the derivative contracts accounted for as cash flow hedges are designated against foreign currency expenditures, diesel purchases, or future debt interest payments where management believes the forecasted transaction is probable of occurring. to the extent that management determines that the forecasted transactions are no longer probable of occurring, gains and losses deferred in accumulated other comprehensive income (loss) would be reclassified to the statements of consolidated income immediately.
+reclamation and remediation obligations reclamation costs are allocated to expense over the life of the related assets and are periodically adjusted to reflect changes in the estimated present value resulting from the passage of time and revisions to the estimates of either the timing or amount of the reclamation and remediation costs. reclamation obligations are based on when the spending for an existing environmental disturbance will occur. we review, on at least an annual basis, the reclamation obligation at each mine.
+reclamation obligations for inactive mines are accrued based on management's best estimate of the costs expected to be incurred at a site. such cost estimates include, where applicable, ongoing care, maintenance and monitoring costs. changes in estimates at inactive mines are reflected in earnings in the period an estimate is revised.
+accounting for reclamation and remediation obligations requires management to make estimates unique to each mining operation of the future costs we will incur to complete the reclamation and remediation work required to comply with existing laws and regulations. actual costs incurred in future periods could differ from amounts estimated. additionally, future changes to environmental laws and regulations could increase the extent of reclamation and remediation work required. any such increases in future costs could materially impact the amounts charged to earnings for reclamation and remediation.
+income and mining taxes we recognize the expected future tax benefit from deferred tax assets when the tax benefit is considered to be more likely than not of being realized. assessing the recoverability of deferred tax assets requires management to make significant estimates related to expectations of future taxable income. estimates of future taxable income are based on forecasted cash flows and the application of existing tax laws in each jurisdiction. refer above to carrying value of long-lived assets for a discussion of the factors that could cause future cash flows to differ from estimates. to the extent that future cash flows and taxable income differ significantly from estimates, our ability to realize deferred tax assets recorded at the balance sheet date could be impacted. additionally, future changes in tax laws in the jurisdictions in which we operate could limit our ability to obtain the future tax benefits represented by our deferred tax assets recorded at the reporting date.
+53
+newmont mining corporation our operations involve dealing with uncertainties and judgments in the application of complex tax regulations in multiple jurisdictions. the final taxes paid are dependent upon many factors, including negotiations with taxing authorities in various jurisdictions and resolution of disputes arising from federal, state, and international tax audits. we recognize potential liabilities and record tax liabilities for anticipated tax audit issues in the u.s. and other tax jurisdictions based on our estimate of whether, and the extent to which, additional taxes will be due. we adjust these reserves in light of changing facts and circumstances; however, due to the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from our current estimate of the tax liabilities. if our estimate of tax liabilities proves to be less than the ultimate assessment, an additional charge to expense would result. if an estimate of tax liabilities proves to be greater than the ultimate assessment, a tax benefit would result. we recognize interest and penalties, if any, related to unrecognized tax benefits in income and mining tax benefit (expense).
+consolidated financial results the following analysis summarizes the changes in consolidated gold sales:
+years ended december 31,
+
+2014                                                            2013                    2012
+consolidated gold sales:
+gross before provisional pricing                  $6,619                  $7,694                  $9,115
+provisional pricing mark-to-market                    (1    )                (17    )                  4
+gross after provisional pricing                    6,618                   7,677                   9,119
+treatment and refining charges                       (26    )                (32    )                (36   )
+net                                               $6,592                  $7,645                  $9,083
+consolidated gold ounces sold (thousands):         5,240                   5,489                   5,466
+average realized gold price (per ounce):
+gross before provisional pricing                  $1,263                  $1,402                  $1,668
+provisional pricing mark-to-market                     -                      (3    )                  1
+gross after provisional pricing                    1,263                   1,399                   1,669
+treatment and refining charges                        (5    )                 (6    )                 (7   )
+net                                               $1,258                  $1,393                  $1,662
+the change in consolidated gold sales is due to:
+2014 vs. 2013           2013 vs. 2012
+change in consolidated ounces sold         $(350             )               $39
+change in average realized gold price                 (709   )            (1,481   )
+change in treatment and refining charges   6                                   4
+$(1,053           )           $(1,438   )
+54
+newmont mining corporation gold sales decreased $1,053 in 2014 compared to 2013 due to a $135 per ounce decrease in the average net realized price and a decrease of 249,000 ounces sold primarily related to the sales of midas, la herradura and jundee. gold sales decreased $1,438 in 2013 compared to 2012 due to a $269 per ounce decrease in the average net realized price, partially offset by 23,000 more ounces sold.  for a complete discussion regarding variations in gold volumes, see results of consolidated operations below.
+the following analysis reflects the changes in consolidated copper sales:
+years ended december 31,
+
+2014                                                            2013                   2012
+consolidated copper sales:
+gross before provisional pricing                    $803                   $850                   $926
+provisional pricing mark-to-market                   (28    )               (10    )                22
+gross after provisional pricing                      775                    840                    948
+treatment and refining charges                       (75    )               (71    )               (67   )
+net                                                 $700                   $769                   $881
+consolidated copper pounds sold (millions):          264                    258                    257
+average realized copper price (per pound):
+gross before provisional pricing                   $3.04                  $3.29                  $3.60
+provisional pricing mark-to-market                 (0.11    )             (0.04    )              0.09
+gross after provisional pricing                     2.93                   3.25                   3.69
+treatment and refining charges                     (0.28    )             (0.27    )             (0.26   )
+net                                                $2.65                  $2.98                  $3.43
+the change in consolidated copper sales is due to:
+2014 vs. 2013         2013 vs. 2012
+change in consolidated pounds sold                     $20                    $4
+change in average realized copper price                (85   )              (112   )
+change in treatment and refining charges                (4   )                (4   )
+$(69   )             $(112   )
+copper sales decreased $69 in 2014 compared to 2013 due to a $0.33 per pound decrease in the average net realized price partially offset by an increase of 6 million pounds sold. copper sales decreased $112 in 2013 compared to 2012 due primarily to a $0.45 per pound decrease in the average net realized price. for a complete discussion regarding variations in copper volumes, see results of consolidated operations below.
+55
+newmont mining corporation the following is a summary of consolidated gold and copper sales, net:
+years ended december 31,
+
+2014                                        2013                    2012
+gold north america:
+carlin                        $1,143                  $1,390                  $1,828
+phoenix                          271                     295                     305
+twin creeks                      509                     728                     718
+la herradura                     152                     258                     354
+2,075                   2,671                   3,205
+south america:
+yanacocha                      1,210                   1,458                   2,202
+australia/new zealand:
+boddington                       867                   1,038                   1,184
+tanami                           437                     449                     302
+jundee                           181                     398                     537
+waihi                            167                     157                     104
+kalgoorlie                       409                     460                     569
+2,061                   2,502                   2,696
+indonesia:
+batu hijau                        80                      57                     106
+africa:
+ahafo                            569                     793                     874
+akyem                            597                     164                       -
+1,166                     957                     874
+6,592                   7,645                   9,083
+copper north america:
+phoenix                          134                      92                      96
+australia/new zealand:
+boddington                       173                     211                     224
+indonesia:
+batu hijau                       393                     466                     561
+700                     769                     881
+$7,292                  $8,414                  $9,964
+56
+newmont mining corporation the following is a summary of costs applicable to sales and depreciation and amortization:
+costs applicable to sales                                   depreciation and amortization years ended december 31,                                        years ended december 31,
+2014                                        2013                    2012               2014                   2013                    2012
+gold north america:
+carlin                          $795                    $767                    $767              $162                    $142                  $137
+phoenix                          160                     164                     111                35                      32                    22
+twin creeks                      207                     273                     256                43                      80                    61
+la herradura                      89                     177                     132                29                      34                    21
+1,251                   1,381                   1,266               269                     288                   241
+south america:
+yanacocha                        663                     684                     669               338                     333                   254
+australia/new zealand:
+boddington                       585                     805                     623               104                     165                   159
+tanami                           251                     270                     250                72                      81                    50
+jundee                            85                     206                     172                34                      80                    50
+waihi                             76                     103                      97                24                      31                    23
+kalgoorlie                       284                     342                     277                18                      23                    18
+1,281                   1,726                   1,419               252                     380                   300
+indonesia:
+batu hijau                        81                     107                      71                20                      22                    12
+africa:
+ahafo                            249                     307                     314                62                      78                    75
+akyem                            172                      32                       -                86                      13                     -
+421                     339                     314               148                      91                    75
+3,697                   4,237                   3,739             1,027                   1,114                   882
+copper north america:
+phoenix                          108                      52                      60                18                      11                     9
+australia/new zealand:
+boddington                       158                     195                     150                25                      37                    34
+indonesia:
+batu hijau                       494                     815                     385               121                     163                    76
+760                   1,062                     595               164                     211                   119
+other corporate and other                -                       -                       -                38                      37                    31
+-                       -                       -                38                      37                    31
+$4,457                  $5,299                  $4,334            $1,229                  $1,362                $1,032
+costs applicable to sales decreased in 2014 compared to 2013 due primarily to reduction in direct operating costs from continuous improvement projects, divestitures of operating assets and higher inventory adjustments in the prior year associated with lower metal prices, partially offset by the addition of akyem, which reached commercial production in the fourth quarter of 2013. direct operating costs decreased 9% in 2014 compared to 2013. costs applicable to sales increased in 2013 compared to 2012 due primarily to higher inventory adjustments due to lower gold and copper price assumptions.  for a complete discussion regarding variations in operations, see results of consolidated operations below.
+depreciation and amortization expense decreased in 2014 from 2013 due to the sale of jundee and midas in 2014 as well as inventory adjustments during 2013 that occurred as a result of decreased metal prices. depreciation and amortization expense increased in 2013 from 2012 due to inventory adjustments as a result of decreases in metal prices. depreciation and amortization expense fluctuates as capital expenditures increase or decrease and as production levels increase or decrease due to the use of the units-of-production amortization method for mineral interests and mine development. for a complete discussion, see results of consolidated operations, below.
+57
+newmont mining corporation exploration expense decreased to $164 in 2014 from $247 in 2013 due to decreases in both brownfields and greenfields expenditures in all our regions. exploration expense decreased in 2013 from $356 in 2012 due to decreases in both brownfields and greenfields expenditures in all our regions. exploration activities in a number of countries including solomon islands, papua new guinea and cote d'ivoire have been discontinued.
+during 2014, we added 1.8 million ounces to proven and probable reserves, which was offset by 5.5 million ounces of depletion. reserve additions and reductions were primarily due to reserve conversions, optimizations, model updates and updated operating costs and recoveries which resulted in net increases (before depletion) in australia/new zealand (0.6 million ounces), south america (0.6 million ounces), north america (0.4 million ounces), and africa (0.2 million ounces). in addition, we removed 2.5 million ounces from proven and probable reserves due to the divestment of la herradura, jundee and midas operations.
+during 2013, we removed 4.6 million ounces from proven and probable reserves, along with 6.2 million ounces of depletion. reserve reductions were primarily due to updated models, revised designs, and a decrease in gold price assumptions which resulted in net decreases (before depletion) in australia/new zealand (2.9 million ounces), north america (1.7 million ounces), africa (0.9 million ounces), and indonesia (0.1 million ounces). south america reserves increased due to conversion of mineralized material at the merian project in suriname and at yanacocha (1.0 million ounces). the estimated impact of the change in gold price assumption on these reserve reductions was a decrease of (2.5) million ounces.
+during 2012, we added 5.5 million ounces to proven and probable reserves, with 6.2 million ounces of depletion. reserve additions were primarily due to conversion of mineralized material at the merian project in suriname (1.8 million ounces), carlin underground, (1.7 million ounces) and la herradura (0.6 million ounces) with the remaining additions coming from open pit and underground sources in all regions (1.4 million ounces). the estimated impact of the change in gold price assumption on these reserve additions was an increase of 1.5 million ounces.
+advanced projects, research and development expense includes development project management costs and feasibility studies. advanced projects, research and development expense decreased 27% in 2014 compared to 2013 due to the sale of la herradura, deferment of various studies, reductions in project and technical services costs, reduced spending at conga and euronimba, and the decision to advance the merian project to execution as most costs are capitalized in that stage. advanced projects, research and development expense decreased 36% in 2013 compared to 2012 due to spending decreases in nevada as well as fewer projects undertaken in other regions than originally anticipated.
+general and administrative expense decreased to $186 in 2014, compared to $203 in 2013, primarily due to lower labor costs and a reduction in contracted services and legal fees. general and administrative expense decreased in 2013 compared to $212 in 2012 due to lower labor costs. general and administrative expense as a percentage of sales was 2.6% in 2014, compared to 2.4% and 2.1% in 2013 and 2012, respectively.
+write-downs totaled $26, $4,352 and $52 for 2014, 2013 and 2012, respectively. the 2014 write-down was primarily related to non-essential equipment in carlin, phoenix, corporate and other and other south america, specifically for certain assets at conga that have been sold.
+the 2013 write-down was primarily related to assets at boddington and long canyon resulting from a decrease in the company's long-term gold and copper price assumptions combined with rising operating costs.
+the 2012 write-down was primarily due to an impairment of the falc jv diamond project as well as write-downs of non-essential surface equipment at conga.
+other expense, net was $205, $300 and $449 for 2014, 2013 and 2012, respectively. the decrease in 2014 from 2013 is due to lower community development, restructuring, and transaction/acquisition related costs. the decrease in 2013 from 2012 is due to lower hope bay care and maintenance costs and regional administration and community development expenses, partially offset by higher transaction costs related to tmac.
+58
+newmont mining corporation other income, net was $157, $349 and $278 for 2014, 2013 and 2012, respectively. the decrease in 2014 over 2013 is due to lower gain from sale of investments and foreign currency exchange gains, partially offset by a higher gain on asset sales and lower other-than-temporary impairment of marketable equity securities.  gains were recorded on the sale of midas in the first quarter of 2014 and the sale of jundee and mccoy cove, a non-operating property in nevada, in the third quarter of 2014 as well as a gain on the sale of la herradura in the fourth quarter of 2014. the increase in 2013 over 2012 is due to a gain on the sale of the canadian oil sands investment and higher foreign currency exchange gains, partially offset by higher other-than-temporary impairments of marketable equity securities and lower income from developing projects.
+interest expense, net was $361, $303 and $249 for 2014, 2013 and 2012, respectively. capitalized interest totaled $23, $88 and $107 in each year, respectively. interest expense, net increased in 2014 compared to 2013 due to decreased capitalized interest. capitalized interest decreased from capital projects being completed in the fourth quarter of 2013 at akyem and phoenix copper leach and other projects being deferred. interest expense, net increased in 2013 from 2012 due to decreased capitalized interest and higher drawdowns on the corporate revolving credit facility, as well as 12 months of interest on the 2022 and 2042 senior notes that were issued in march of 2012.
+the company's income and mining tax benefit (expense) consisted of:
+years ended december 31,
+
+2014                                                                                      2013                                    2012
+income (loss) before income and mining                                         $506                                 $(3,606   )                              $3,114
+tax and other items income tax benefit (expense) at statutory rate               35    %          $(177   )            35    %           $1,262                35    %          $(1,090   )
+reconciling items:
+tax benefit generated on change in form of a non-u.s.         -                   -                 -                     -               (22   )%              694
+subsidiary percentage depletion                                        (24   )%            122                 4    %              134                (9   )%              267
+change in valuation allowance on                             15    %            (75   )           (19   )%             (665   )            23    %             (716   )
+deferred tax assets tax benefit from capital loss on sale of assets             (13   )%             65                 -                     -                 -                     -
+tax planning on sale of canadian oil sands and                -                   -                 2    %               61                 -                     -
+canadian capital gains tax rate mining and other taxes                                        7    %            (34   )            (1   )%              (45   )             2    %              (77   )
+state tax benefit on asset impairment                         -                   -                 2    %               62                 -                     -
+disallowed loss on midas sale                                 2    %            (13   )             -                     -                 -                     -
+u.s. tax effect of minority interest attributable to          5    %            (25   )             0    %               10                (0   )%                7
+non-u.s. investees effect of foreign earnings, net of credits                   (3   )%             13                (1   )%              (19   )            (0   )%                6
+other                                                         2    %             (9   )            (1   )%              (45   )            (1   )%               33
+income and mining tax benefit (expense)                      26    %          $(133   )            21    %             $755                28    %            $(876   )
+income and mining tax expense was $133, resulting in an effective tax rate of 26%. this compares to income tax benefit of $755 and an expense of $876, or effective tax rates of 21% and 28% for 2013 and 2012 respectively. the company's effective tax rate is driven by a number of factors as illustrated in the table above. the percentage impact of these items is exaggerated during the current year due to lower pretax income. the 2014 rate differs from 2013 and 2012 due primarily to changes in the company's valuation allowance. in 2014, the company increased its valuation allowance because of stockpile inventory adjustments at batu hijau and capital losses generated during the year. this increase was partially offset by a decrease in the company's tax credits (due to tax refunds, reduction in estimated foreign taxes for the current year, settlements of income tax audits, and the impact of the jundee sale). in addition to the changes in valuation allowance, the company's effective tax rate for the current year is favorably influenced by a larger impact from percentage depletion due to the jurisdictional mix of the company's income.
+the company's effective tax rate is influenced by a number of factors, including the company's income, the geographic distribution of that income, the non-recognition of tax assets, percentage depletion, changes in tax laws, and the impact of specific transactions and assessments. as a result, the company expects that the effective tax rate will fluctuate, sometimes significantly, in future periods. see note 8 of the notes to the financial statements for more information regarding deferred tax assets.
+59
+newmont mining corporation valuation of deferred tax assets the company accounts for income taxes using the liability method, recognizing certain temporary differences between the financial reporting basis of the company's liabilities and assets and the related income tax basis for such liabilities and assets. this method generates either a net deferred income tax liability or asset for the company, as measured by the statutory tax rates in effect. the company derives its deferred income tax charge or benefit by recording the change in either the net deferred income tax liability or asset balance for the year. mining taxes represent state and provincial taxes levied on mining operations. as the mining taxes are calculated as a percentage of mining profits, the company classifies them as income taxes. with respect to earnings derived from the operation of the company's consolidated subsidiaries, the company has not provided deferred taxes in those situations where the earnings are indefinitely reinvested (including situations where the carrying value of the net equity of such entities for financial reporting purposes exceeds the tax basis of such equity).
+the company's deferred income tax assets include certain future tax benefits. the company records a valuation allowance against any portion of those deferred income tax assets when it believes, based on the weight of available evidence, it is more likely than not that some or all of the deferred income tax asset will not be realized. the valuation of deferred tax assets requires judgment in assessing how the company's future performance will affect tax attributes that have been recognized in our financial statements or tax returns. our accounting for deferred tax consequences represents our best estimate of those future events. changes in our current estimates, due to anticipated or unanticipated events, could have a material impact on our financial condition and operating results.
+at december 31, 2014, the company's valuation allowance was $2,817, leaving net deferred tax assets of $1,242 on the company's balance sheet. realization is dependent on generating sufficient taxable income in the period for which our net deferred tax assets reverse. although realization is not assured, management believes it is more likely than not that its net deferred tax assets will be realized. the amount of the deferred tax asset considered realizable, however, could be reduced in the near term if estimates of future taxable income during the temporary difference reversal period are reduced. for additional risk factors that could impact the company's ability to realize the deferred tax assets, see note 2, summary of significant accounting policies, risks and uncertainties.
+in assessing the need for a valuation allowance, the company considered both positive and negative evidence related to the likelihood of realizing the deferred tax assets. if, based on the weight of all available evidence, it is more likely than not the deferred tax assets will be realized; the company did not record a valuation allowance. certain categories of evidence carried more weight in the company's analysis than others based on the following factors:
+·   the extent to which the evidence may be objectively verified;
+
+·   the nature, frequency and severity of projected cumulative pretax losses, if any, in the three-year period ending december 31, 2015;
+
+·   the strength and trend of earnings in future years;
+
+·   the nature of temporary differences and predictability of reversal patterns of existing temporary differences;
+
+·   the sensitivity of future forecasted results to commodity prices and other factors; and
+
+·   prudent and feasible tax planning strategies readily available that may alter the timing of reversal of the temporary difference.
+
+this assessment is completed on a taxing jurisdiction basis and the income projections included in our assessment are based on the following significant assumptions: a long-term gold price of $1,300 per ounce, a long-term copper price of $3.00 per pound and a u.s. to australian dollar long-term exchange rate of $0.87 per a$1.00. the company specifically assessed risks related to decreased commodity prices, the effect those prices would have on the company's operations, potential future impairments, and a continuation of the company's cumulative loss position.
+the company concluded that, absent a material decrease to the company's long term commodity pricing assumptions, the company's ability to access its deferred tax assets in the u.s., australia, and peru that are not currently subject to a valuation allowance will not be impacted.
+further, the company concluded that the net deferred tax assets of its canadian entities required a full valuation allowance. the company has also recorded valuation allowance for net operating losses in australia and france. in addition, the company retained a full valuation allowance on our tax credits in the u.s. and capital losses in both the u.s. and australia.
+60
+newmont mining corporation net loss (income) from noncontrolling interests was $179, $261, and $(309) in 2014, 2013, 2012, respectively.  the loss from noncontrolling interests decreased in 2014 from 2013 due to increased earnings at batu hijau, partially offset by decreased earnings at yanacocha and a change in our ownership interest in tmac to 44.69% from 70.4%.  the loss from noncontrolling interests increased in 2013 from 2012 due to decreased earnings at batu hijau and yanacocha.
+equity income (loss) of affiliates was $(4), $(5), and $(51) in 2014, 2013, and 2012, respectively. the equity loss from affiliates decreased slightly in 2014 from 2013 due to decreased costs at euronimba, mostly offset by decreased earnings from la zanja.  the equity loss from affiliates decreased in 2013 from 2012 primarily due to decreased costs at euronimba.
+we have a 46.94% interest in minera la zanja, s.r.l. ("la zanja"), near the city of cajamarca, peru. the remaining interest is held by compañia de minas buenaventura, s.a.a. ("buenaventura").
+we have a 43.50% interest in euronimba ltd. ("euronimba"), with the remaining interests held by bhp billiton (43.50%) and areva (13%). euronimba owns 95% of the nimba iron ore project located in the republic of guinea, which is in the early stages of development.
+we have a 28.75% interest in novo resources corporation ("novo"). novo owns a majority of the beaton's creek discovery with millennium minerals in the pilbara region of western australia.
+income (loss) from discontinued operations includes a retained royalty obligation ("holt") from holloway mining company. holloway mining company, which owned the holt-mcdermott property, was sold to st. andrew goldfields ltd. ("st. andrew") in 2006. the company records adjustments based on short and long-term gold prices, discount rate assumptions and resource estimates published by st. andrew. in 2014, we recognized a $40 charge, net of tax benefit of $18. in 2013, we recognized a $61 benefit, net of tax expense of $28. in 2012, we recognized a $76 charge, net of tax benefit of $4. due to the nature of the sliding scale royalty calculation, changes in expected production, discount rates and gold price could have a significant impact on the fair value of the liability.
+other comprehensive loss, net of tax was $301 in 2014 and included non-cash adjustments for a $107 net loss in value of marketable securities primarily related to regis resources, ltd. and gabriel resources, ltd., a $23 net loss on the translation of subsidiaries with non-u.s. dollar functional currencies, a $125 net loss related to pension and other post-retirement benefit adjustments primarily as a result of utilizing a lower discount rate and updated mortality tables, and a $46 net loss on derivatives designated as cash flow hedges due mainly to foreign currency hedge losses. other comprehensive loss, net of tax was $671 in 2013 and included non-cash adjustments for a $577 net loss in value of marketable securities primarily related to canadian oil sands trust, regis resources ltd., paladin energy, ltd. and gabriel resources ltd., a $31 net loss on the translation of subsidiaries with non-u.s. dollar functional currencies, a $152 net gain related to pension and other post-retirement benefit adjustments mainly as a result of changes in actuarial estimates, and a $215 net loss on derivatives designated as cash flow hedges due mainly to foreign currency hedge losses. other comprehensive loss, net of tax was $161 in 2012 and included non-cash adjustments for a $161 net loss in value of marketable securities primarily related to canadian oil sands trust and gabriel resources ltd., partially offset by gains related to regis resources ltd., a $14 net gain on the translation of subsidiaries with non-u.s. dollar functional currencies, a $51 net loss related to pension and other post-retirement benefit adjustments primarily as a result of utilizing a lower discount rate, and a $40 net gain on derivatives designated as cash flow hedges due mainly to foreign currency hedge gains.
+61
+newmont mining corporation results of consolidated operations gold or copper produced                                     costs applicable to sales (1)                              depreciation and amortization                                all-in sustaining costs (2)
+
+2014                                            2013                   2012              2014                  2013                   2012              2014               2013                2012           2014                   2013                    2012
+gold                                                             (ounces in thousands)                                                  ($ per ounce)                                         ($ per ounce)                                                     ($ per ounce)
+north america                      1,631                  1,951                  1,960             $759                   $711                   $655          $164                $148                $125            $1,007                    $977                  $1,050
+south america                        970                  1,017                  1,346              687                    671                    505           350                 326                 192               988                   1,041                   1,054
+australia / new zealand            1,640                  1,748                  1,648              785                    966                    878           154                 213                 186               975                   1,176                   1,200
+indonesia                             76                     48                     68            1,123                  2,332                  1,071           269                 472                 179             1,458                   2,804                   1,687
+africa                               914                    699                    561              456                    487                    596           160                 131                 142               647                     784                     970
+total/weighted-average             5,231                  5,463                  5,583             $706                   $772                   $684          $203                $210                $167            $1,002                  $1,113                  $1,177
+attributable to newmont (3)        4,845                  5,065                  4,977
+copper                                                            (pounds in millions)                                                  ($ per pound)                                         ($ per pound)                                                     ($ per pound)
+north america                         46                     35                     30            $2.36                  $1.74                  $2.20         $0.39               $0.36               $0.33             $2.83                   $2.38                   $3.79
+australia / new zealand               69                     66                     67             2.38                   2.75                   2.29          0.38                0.52                0.51              3.09                    3.35                    3.00
+indonesia                            156                    161                    157             3.24                   5.17                   2.36          0.80                1.04                0.46              4.14                    6.34                    3.91
+total/weighted-average               271                    262                    254            $2.88                  $4.12                  $2.32         $0.62               $0.81               $0.42             $3.65                   $5.07                   $3.66
+attributable to newmont (3)          191                    179                    173
+copper                                                           (tonnes in thousands)
+north america                         21                     16                     14
+australia / new zealand               31                     30                     30
+indonesia                             71                     73                     71
+total/weighted-average               123                    119                    115
+attributable to newmont               86                     81                     78
+(1)   excludes depreciation and amortization and reclamation and remediation.
+
+(2)   see "non-gaap financial measures" on page 74.
+
+(3)   includes 67, 65, and 53 attributable ounces in 2014, 2013, and 2012, respectively, from our non-consolidated interest in la zanja and 58, 56, and 31 attributable ounces in 2014, 2013, and 2012, respectively, from our non-consolidated interest in duketon.
+
+2014 compared to 2013
+consolidated gold ounces produced decreased 4% due to:
+●   lower production from north america due to planned stripping campaigns at carlin and twin creeks as well as the sale of midas and la herradura during the year; and
+
+●   lower production from australia / new zealand due primarily to the sale of jundee during the year; and
+
+●   lower production from south america due to lower leach recoveries from fewer beginning ounces on leach pads at the beginning of the period; partially offset by
+
+●   higher production from africa due to a full year of commercial production from akyem; and
+
+●   higher production from indonesia due to accessing phase 6 ore at batu hijau.
+
+consolidated copper pounds produced increased 3% due primarily to a full year of production from the phoenix copper leach facility.
+costs applicable to sales per consolidated gold ounce sold decreased 9% as a result of 11% lower direct operating costs from continuous improvement projects, lower cost production at akyem and higher inventory adjustments in the prior year associated with lower gold prices. costs applicable to sales per consolidated copper pound sold decreased 30% due to accessing phase 6 ore at batu hijau, lower direct operating costs and higher inventory adjustments in the prior year associated with lower copper prices.
+depreciation and amortization per consolidated gold ounce and copper pound sold decreased 3% and 23% due to inventory adjustments as a result of decreases in metal prices in 2013.
+62
+newmont mining corporation
+2013 compared to 2012
+consolidated gold ounces produced decreased 2% due to:
+●   lower production from south america due to lower leach grade placed on the leach pads as well as lower mill grade and recovery; and
+
+●   lower production from indonesia due to lower gold grade and recovery related to processing lower grade stockpiled material; and
+
+●   lower production from north america due to the suspension of an explosives permit related to a land dispute at la herradura; partially offset by
+
+●   higher production from africa due to new production from akyem and higher throughput and recovery from ahafo; and
+
+●   higher production from australia / new zealand due to increased production at tanami and waihi.
+
+consolidated copper pounds produced increased 3% due to higher recovery at batu hijau, partially offset by lower grade milled.
+costs applicable to sales per consolidated gold ounce sold increased 13% due to inventory adjustments associated with lower gold prices. costs applicable to sales per consolidated copper pound sold increased 78% due to inventory adjustments at batu hijau and boddington associated with lower copper prices.
+depreciation and amortization per consolidated gold ounce and copper pound sold increased 26% and 93%, respectively, due to inventory adjustments as a result of decreases in metal prices in 2013.
+north america operations gold or copper produced                                 costs applicable to sales (1)                         depreciation and amortization                               all-in sustaining costs (3)
+
+2014                                       2013                   2012              2014               2013                2012           2014               2013                2012           2014                   2013                   2012
+gold                                                        (ounces in thousands)                                         ($ per ounce)                                         ($ per ounce)                                                    ($ per ounce)
+carlin                          907                  1,025                  1,005          $878                $755                $783          $179                $140                $141            $1,072                   $968                  $1,091
+phoenix                         211                    234                    181           720                 731                 588           159                 141                 114               883                    911                   1,032
+twin creeks                     389                    509                    562           517                 527                 463           108                 154                 110               820                    668                     734
+la herradura (2)                124                    183                    212           742                 967                 621           243                 186                 101             1,042                  1,601                   1,151
+total/weighted-average        1,631                  1,951                  1,960          $759                $711                $655          $164                $148                $125            $1,007                   $977                  $1,050
+copper                                                       (pounds in millions)                                         ($ per pound)                                         ($ per pound)                                                    ($ per pound)
+phoenix                          46                     35                     30         $2.36               $1.74               $2.20         $0.39               $0.36               $0.33             $2.83                  $2.38                   $3.79
+(tonnes in thousands)
+phoenix                          21                     16                     14
+(1)   excludes depreciation and amortization and reclamation and remediation.
+
+(2)   our proportionate 44% share.
+
+(3)   all-in sustaining costs is a non-gaap financial measure. see page 74 for a reconciliation.
+
+2014 compared to 2013
+carlin, usa. gold ounces produced decreased 12% due primarily to planned stripping campaigns, partially offset by higher mill 6 throughput and higher mill 5 recovery as a result of continuous improvement projects.  costs applicable to sales per ounce increased 16% due to lower ounces sold and planned stripping campaign at gold quarry. this was partially offset by lower operating costs associated with continuous improvement projects. depreciation and amortization per ounce increased 28% due to lower ounces sold and higher inventory adjustments.
+phoenix, usa. gold ounces produced decreased 10% due to planned lower grades mined and lower mill throughput as a result of harder ore, partially offset by higher recoveries. copper pounds produced increased 31% due to production from the phoenix copper leach facility which was completed in the fourth quarter of 2013. costs applicable to sales per ounce decreased 2% due to lower operating costs as well as a higher allocation of costs to copper. costs applicable to sales per pound increased 36% due to lower
+63
+newmont mining corporation copper mill grade and higher allocation of costs to copper. depreciation and amortization increased 13% per ounce and 8% per pound due to higher amortization rates and a full year of phoenix copper leach facility in commercial production.
+twin creeks, usa. gold ounces produced decreased 24% following the sale of midas as well as a planned stripping campaign. costs applicable to sales per ounce decreased 2% primarily due to lower operating costs associated with continuous improvement projects. depreciation and amortization per ounce decreased 30% due to the midas sale.
+la herradura, mexico. gold ounces produced decreased 32% due to the sale of la herradura during the fourth quarter and the timing of leach recoveries as the mine ramped back up to full production following the receipt of the explosives permit. costs applicable to sales per ounce decreased 23% due to higher leach placement with the ramp up of production after receiving the explosives permit. depreciation and amortization per ounce increased 31% due to the new mill and additional mining equipment as well as lower production.  on october 6, 2014, we completed the sale of our 44% interest in la herradura to fresnillo.
+2013 compared to 2012
+carlin, usa. gold ounces produced increased slightly due to a full year of production from emigrant. costs applicable to sales per ounce decreased 4% due to higher production and lower royalties while partially offset by inventory adjustments as a result of lower metal prices. depreciation and amortization per ounce was substantially unchanged from the prior year.
+phoenix, usa. gold ounces produced increased 29% due to higher throughput, grade, and recovery at phoenix. copper pounds produced increased 17% due to new production from the copper leach project in addition to higher mill throughput and higher mill recoveries. costs applicable to sales per ounce increased 24% due to higher allocation of costs to gold and higher processing costs due to adverse weather conditions. costs applicable to sales per pound decreased 21% due to higher copper leach production, higher mill throughput, higher mill recoveries and lower allocation of costs to copper. depreciation and amortization increased 24% per ounce and 9% per pound due to assets placed in service in 2012.
+twin creeks, usa. gold ounces produced decreased 9% due to lower mill grade and lower throughput at midas as well as lower leach production and lower throughput at the twin creeks autoclave. costs applicable to sales per ounce increased 14% primarily due to lower production levels. depreciation and amortization per ounce increased 40% primarily due to lower production and higher amortization at midas.
+la herradura, mexico. gold ounces produced decreased 14% due to the suspension of the explosives permit related to a land dispute. costs applicable to sales per ounce increased 56% due to the suspension of the explosives permit and leach pad inventory adjustments related to the suspended permits. depreciation and amortization per ounce increased 84% due to the inventory leach pad adjustments.
+south america operations gold ounces produced                                costs applicable to sales (1)                         depreciation and amortization                           all-in sustaining costs (2)
+
+2014                                      2013                   2012              2014               2013                2012           2014               2013                2012           2014               2013                  2012
+gold                                                              (in thousands)       ($ per ounce)                                         ($ per ounce)                                         ($ per ounce)
+yanacocha                      970                  1,017                  1,346       $687                $671                $505          $350                $326                $192          $943                $1,004                $989
+attributable to newmont:
+yanacocha (51.35%)             498                    523                    691
+la zanja (46.94%)               67                     65                     53
+565                    588                    744
+(1)   excludes depreciation and amortization and reclamation and remediation.
+
+(2)   all-in sustaining costs is a non-gaap financial measure. see page 74 for a reconciliation.
+
+2014 compared to 2013
+yanacocha, peru. gold ounces produced decreased 5% due primarily to lower leach production from fewer beginning ounces on leach pads at the beginning of the period. costs applicable to sales per ounce increased 2% due to lower production, partially offset by lower production costs as a result of full potential projects that increased haul efficiency including fuel and tire savings. depreciation and amortization per ounce increased 7% due to higher asset retirement costs and lower ounces sold.
+64
+newmont mining corporation
+2013 compared to 2012
+yanacocha, peru. gold ounces produced decreased 24% due to lower leach grade placed on the leach pads as well as lower mill grade and recovery. costs applicable to sales per ounce increased 33% due to inventory adjustments from a decrease in gold price in 2013, lower production, and lower by-product credits partially offset by lower worker's participation and lower headcount. depreciation and amortization per ounce increased 70% due to the portion of the inventory adjustments associated with amortization, higher asset retirement costs, and lower production.
+australia / new zealand operations gold or copper produced                                    costs applicable to sales (1)                             depreciation and amortization                               all-in sustaining costs (2)
+
+2014                                        2013                   2012              2014               2013                    2012              2014               2013                2012           2014                  2013                    2012
+gold                                                         (ounces in thousands)                                                ($ per ounce)                                         ($ per ounce)                                                    ($ per ounce)
+boddington                       696                    704                    724          $849                  $1,083                   $877          $149                $222                $223             $972                  $1,222                  $1,065
+tanami                           345                    323                    183           727                     832                  1,386           208                 248                 275            1,038                   1,163                   2,294
+jundee                           138                    279                    333           610                     738                    536           243                 287                 157              771                     975                     811
+waihi                            132                    110                     67           576                     924                  1,548           183                 283                 372              687                   1,081                   1,935
+kalgoorlie (3)                   329                    332                    341           868                   1,040                    814            56                  70                  54            1,009                   1,131                     912
+total/weighted-average         1,640                  1,748                  1,648          $785                    $966                   $878          $154                $213                $186             $975                  $1,176                  $1,200
+duketon (19.45%)                  58                     56                     31
+attributable to newmont        1,698                  1,804                  1,679
+copper                                                        (pounds in millions)                                                ($ per pound)                                         ($ per pound)                                                    ($ per pound)
+boddington                        69                     66                     67         $2.38                   $2.75                  $2.29         $0.38               $0.52               $0.51            $3.09                   $3.35                   $3.00
+(tonnes in thousands)
+boddington                        31                     30                     30
+(1)   excludes depreciation and amortization and reclamation and remediation.
+
+(2)   all-in sustaining costs is a non-gaap financial measure. see page 74 for reconciliation.
+
+(3)   includes our proportionate 50% share.
+
+2014 compared to 2013
+boddington, australia. gold production decreased 1% due primarily to lower grade milled as a result of planned lower ore grade mined, mostly offset by higher throughput related to higher mill utilization as a result of sustainable process improvements resulting from our full potential project. copper production increased 5% due to higher mill throughput as discussed above partially offset by lower ore grade milled. costs applicable to sales decreased 22% per ounce and 13% per pound, respectively, mainly due to lower stockpile inventory adjustments, lower mill maintenance costs, and the repeal of the carbon tax in july of 2014. depreciation and amortization decreased 33% per ounce and 27% per pound, respectively, due to the impact of the prior year asset impairment and inventory adjustments from decreases in metal prices in the prior year.
+tanami, australia. gold ounces produced increased 7% mainly as a result of improved mining rates. these were primarily due to higher truck utilization and stope availability leading to higher tons mined and higher mill throughput as a result of sustainable process improvements through full potential projects. costs applicable to sales decreased 13% per ounce due to higher production coupled with lower underground mining costs as well as lower milling costs on a unit basis as a result of higher tons milled. depreciation and amortization decreased 16% per ounce due to higher production and higher reserves.
+jundee, australia. gold ounces produced decreased 51% as a result of the sale of the jundee mine on july 1, 2014.
+waihi, new zealand. gold ounces produced increased 20% due to higher mill throughput as a result of higher ore tons mined partially offset by planned lower ore grade milled. costs applicable to sales decreased 38% per ounce due to higher production and lower mining and milling costs on a unit basis. depreciation and amortization decreased 35% per ounce due to higher production.
+kalgoorlie, australia. gold ounces produced decreased 1% primarily due to lower throughput. costs applicable to sales decreased 17% per ounce and depreciation and amortization decreased 20% per ounce due to higher production, and the impact of the inventory adjustments from the decrease in gold price in the prior year.
+65
+newmont mining corporation
+2013 compared to 2012
+boddington, australia. gold production decreased 3% due primarily to lower grade and throughput partially offset by higher recovery. copper production remained essentially in line with 2012. costs applicable to sales increased 23% per ounce and 20% per pound, respectively, mainly due to the impact of inventory adjustments from the decrease in metal prices in 2013. depreciation and amortization per ounce and per pound were in line with the prior year.
+tanami, australia. gold ounces produced increased 77% due to higher mill throughput and higher ore grade mined. costs applicable to sales decreased 40% per ounce due to higher production. depreciation and amortization decreased 10% per ounce due to higher production.
+jundee, australia. gold ounces produced decreased 16% due to lower ore grade milled. costs applicable to sales increased 38% per ounce due to lower production coupled with higher operating costs related to a higher proportion of operating development drifting. depreciation and amortization increased 83% per ounce due to higher capitalized mine development and lower production.
+waihi, new zealand. gold ounces produced increased 64% due to higher ore tons mined. costs applicable to sales decreased 40% per ounce due to higher production and less waste tons mined. depreciation and amortization decreased 24% per ounce due to higher production.
+kalgoorlie, australia. gold ounces produced decreased 3% due to lower ore grade milled. costs applicable to sales increased 28% per ounce due to the impact of inventory adjustments from the decrease in gold prices in 2013 coupled with lower production. depreciation and amortization increased 30% per ounce due to the impact of the inventory adjustments from decreased gold prices in 2013.
+indonesia operations gold or copper produced                               costs applicable to sales (1)                            depreciation and amortization                             all-in sustaining costs (3)
+
+2014                                         2013                2012           2014                 2013                  2012             2014               2013                2012           2014                 2013                  2012
+gold                                                    (ounces in thousands)       ($ per ounce)                                               ($ per ounce)                                         ($ per ounce)
+batu hijau                         76                  48                  68       $1,123                $2,332                $1,071          $269                $472                $179          $1,458                $2,848                $1,731
+attributable to newmont (2)        37                  23                  33
+copper                                                   (pounds in millions)       ($ per pound)                                               ($ per pound)                                         ($ per pound)
+batu hijau                        156                 161                 157       $3.24                 $5.17                 $2.36           $0.80               $1.04               $0.46         $4.14                 $6.34                 $3.91
+attributable to newmont (2)        76                  78                  76
+(tonnes in thousands)
+batu hijau                         71                  73                  71
+attributable to newmont (2)        34                  35                  34
+(1)   excludes depreciation and amortization and reclamation and remediation.
+
+(2)   our weighted-average economic interest was 48.50% in 2014, 2013 and 2012.
+
+(3)   all-in sustaining costs is a non-gaap financial measure. see page 74 for reconciliation.
+
+2014 compared to 2013
+batu hijau, indonesia. gold production increased 58% due to higher ore grade and higher recovery as a result of accessing phase 6 ore partially offset by lower mill throughput associated with the period of care and maintenance. copper production decreased 3% due to lower mill throughput associated with the period of care and maintenance partially offset by higher ore grade and higher recovery. costs applicable to sales decreased 52% per ounce and 37% per pound, respectively, due to higher gold production, lower production costs, and inventory adjustments as a result of decreases in metal prices in 2013. depreciation and amortization decreased 43% per ounce and 23% per pound, respectively, due to inventory adjustments as a result of decreases in metal prices in 2013.
+66
+newmont mining corporation
+2013 compared to 2012
+batu hijau, indonesia. gold production decreased 29% due to lower grade and recovery.  copper production increased 3% due to higher recovery partially offset by lower grade. costs applicable to sales increased 118% per ounce and 119% per pound, respectively, due to inventory adjustments as a result of decreases in metal prices in 2013, lower production, partially offset by lower total production costs. depreciation and amortization increased 164% per ounce and 126% per pound, respectively, due to inventory adjustments as a result of decreases in metal prices in 2013 as well as lower gold production.
+africa operations gold ounces produced                             costs applicable to sales (1)                         depreciation and amortization                          all-in sustaining costs (2)
+
+2014                                      2013                2012           2014               2013                2012           2014               2013                2012           2014               2013                2012
+gold                                                        (in thousands)                                         ($ per ounce)                                         ($ per ounce)                                         ($ per ounce)
+ahafo                          442                 570                 561          $552                $542                $596          $136                $137                $142          $849                $855                $911
+akyem                          472                 129                   -           364                 248                   -           182                 103                   -           423                 333                   -
+total / weighted average       914                 699                 561          $456                $487                $596          $160                $131                $142          $647                $784                $970
+(1)   excludes depreciation and amortization and reclamation and remediation.
+
+(2)   all-in sustaining costs is a non-gaap financial measure. see page 74 for a reconciliation.
+
+2014 compared to 2013
+ahafo, ghana. gold ounces produced decreased 22% due to lower mill throughput from depletion of oxide ore and lower grade ores available for mill feed. costs applicable to sales per ounce increased 2% due to lower production partially offset by lower direct operating costs from process improvement projects. depreciation and amortization per ounce decreased 1%.
+akyem, ghana. gold ounces produced increased 266% due to a full year of production from akyem. costs applicable to sales and depreciation and amortization per ounce increased 47% and 77%, respectively, due to lower grade ore processed and capitalization of mine related development costs in 2013 as compared to 2014.
+2013 compared to 2012
+ahafo, ghana. gold ounces produced increased 2% due to higher throughput and higher recovery. costs applicable to sales per ounce decreased 9% due to higher production and higher ore tons mined partially offset by higher royalties. depreciation and amortization per ounce decreased 3% due to higher ounces sold.
+akyem, ghana. gold ounces produced of 129,000, costs applicable to sales per ounce of $248, and depreciation and amortization per ounce of $103 are due to the commencement of commercial production in the fourth quarter of 2013.
+foreign currency exchange rates foreign currency exchange rates can increase or decrease profit margins and costs applicable to sales to the extent costs are paid in foreign currencies. such fluctuations have not had a material impact on our revenue since gold and copper are sold throughout the world principally in u.s. dollars. approximately 41%, 47% and 51% of our costs applicable to sales were paid in currencies other than the u.s. dollar in 2014, 2013 and 2012, respectively. our costs applicable to sales are most significantly impacted by variations in the australian dollar/u.s. dollar exchange rate. variations in the australian dollar/u.s. dollar exchange rate historically have been strongly correlated to variations in the u.s. dollar gold price over the long-term. changes in costs at australian locations due to exchange rate changes have therefore tended to be mitigated by changes in sales reported in u.s. dollars at australian locations. no assurance, however, can be given that the australian dollar/u.s. dollar exchange rate will continue to be strongly correlated to the u.s. dollar gold price in the future.
+variations in foreign currency exchange rates decreased costs applicable to sales per ounce $4, net of hedging, in 2014 compared to 2013, and decreased costs applicable to sales per ounce $5, net of hedging, in 2013 from 2012, primarily due to movements in the australian dollar.
+67
+newmont mining corporation we hedge a portion of our forecasted australian dollar denominated operating expenditures. at december 31, 2014, we have hedged 21%, 12%, 8%, and 4% of our forecasted australian denominated operating costs in 2015, 2016, 2017, and 2018, respectively, at an average rate of 0.98, 0.95, 0.93, and 0.92, respectively.
+foreign currency exchange rates have not had a material impact on our determination of proven and probable reserves. however, if a sustained weakening of the u.s. dollar in relation to the australian dollar, and/or to other foreign currencies that impact our cost structure, were not mitigated by offsetting increases in the u.s. dollar gold price or by other factors, the amount of proven and probable reserves in the applicable foreign country could be reduced as certain proven and probable reserves may no longer be economic. the extent of any such reduction would be dependent on a variety of factors including the length of time of any such weakening of the u.s. dollar, and management's long-term view of the applicable exchange rate. future reductions of proven and probable reserves could result in reduced gold or copper sales and increased amortization and, depending on the level of reduction, could also result in impairments of property, plant and mine development, mineral interests and/or goodwill.
+liquidity and capital resources cash provided from operations net cash provided from continuing operations was $1,451, $1,561 and $2,388 for 2014, 2013 and 2012, respectively, and was impacted by the following key factors:
+years ended december 31,
+
+2014                                                                   2013                    2012
+consolidated gold ounces sold (in thousands)              5,240                   5,489                   5,466
+average price realized per ounce of gold, net            $1,258                  $1,393                  $1,662
+costs applicable to sales per ounce of gold (1)            (706    )               (772    )               (684   )
+operating margin per ounce of gold (2)                     $552                    $621                    $978
+consolidated copper pounds sold (in millions)               264                     258                     257
+average price realized per pound of copper, net           $2.65                   $2.98                   $3.43
+costs applicable to sales per pound of copper (1)         (2.88    )              (4.12    )              (2.32   )
+operating margin per pound of copper (2)                 $(0.23    )             $(1.14    )              $1.11
+(1) excludes depreciation and amortization and reclamation and remediation.
+(2) see "non-gaap financial measures" on page 74.
+net cash provided from continuing operations was $1,451 in 2014 a decrease of $110 from 2013 due to lower average realized gold and copper prices and lower consolidated gold ounces sold, partially offset by a decrease in direct operating costs and an improvement in working capital.  cash flow provided from continuing operations during 2013 was $1,561, a decrease of $827 from 2012 due to lower gold production, a lower average realized gold price and a net increase in operating assets and liabilities.
+68
+newmont mining corporation investing activities net cash used in investing activities was $507 in 2014 compared to $1,313 and $3,264 in 2013 and 2012, respectively, for the reasons explained below.
+cash additions to property, plant and mine development were as follows:
+years ended december 31,
+
+2014                                                                                         2013                    2012
+north america:
+carlin                                                                           $251                    $238                    $336
+phoenix                                                                            32                     121                     139
+twin creeks                                                                       112                      68                     131
+la herradura                                                                       23                     103                      89
+other north america                                                                23                      26                      71
+441                     556                     766
+south america:
+yanacocha                                                                          83                     178                     510
+other south america                                                                37                     193                     601
+120                     371                   1,111
+australia/new zealand:
+boddington                                                                         87                     113                     141
+tanami                                                                             90                      93                     179
+jundee                                                                             15                      45                      58
+waihi                                                                              20                      11                      19
+kalgoorlie                                                                         33                      19                      21
+other australia/new zealand                                                         6                       5                      19
+251                     286                     437
+indonesia:
+batu hijau                                                                         59                     105                     148
+59                     105                     148
+africa:
+ahafo                                                                             104                     170                     228
+akyem                                                                              26                     240                     388
+130                     410                     616
+corporate and other                                                                98                      84                      74
+accrual basis                                                                   1,099                   1,812                   3,152
+decrease in accrued capital expenditures and other non-cash adjustments            11                      88                      58
+cash basis                                                                     $1,110                  $1,900                  $3,210
+capital expenditures in north america during 2014 included $63 for the development of the turf vent shaft project, $144 for surface and underground mine development, $51 for tailings facility upgrades and $37 for capitalized components in nevada, as well as $14 for surface mine development and $7 for reserve conversion drilling in mexico. capital expenditures in south america included $37 related to the conga project, $36 for tailings and other infrastructure improvements and $27 for capitalized mining equipment components. the majority of capital expenditures in australia and new zealand were $88 for underground mine development, $48 for mining equipment and equipment components, $41 for equipment used in the process facilities and $38 for tailings and support facility construction and upgrades. capital expenditures in indonesia were $32 for capitalized mining equipment components and $21 for equipment purchases and rebuilds. capital expenditures in africa were $10 for pre-development work at subika underground, $36 for primary mining equipment and equipment components, $31 for tailings facility expansions, $12 for land purchases and $10 for mill facility upgrades. capital expenditures in corporate were $74 for the merian project development and $9 for software development and upgrades.
+capital expenditures in north america during 2013 included $91 for the construction of the phoenix copper leach project, $83 for the development of the turf vent shaft project, $106 for surface and underground mine development, $60 for tailings and mill facility upgrades and $26 for other infrastructure improvements in nevada, as well as $74 for surface mine development and $28 for mill construction in mexico. capital expenditures in south america included $190 related to the conga project, $54 for tailings and other infrastructure improvements, $49 for leach pad expansions, $35 for surface mine development and $25 for mining and support
+69
+newmont mining corporation equipment. the majority of capital expenditures in australia and new zealand were $106 for underground mine development, $59 for mining equipment purchases, $55 for tailings facility construction and $44 for mill facilities and support infrastructure improvements and upgrades. capital expenditures in indonesia were $96 for equipment purchases and rebuilds, $5 for surface mine development and $4 for infrastructure improvements and upgrades. capital expenditures in africa were $240 for akyem project development, $28 for the subika expansion project and $20 for the ahafo mill expansion project, as well as $50 for equipment purchases and $12 for surface mine development at ahafo. capital expenditures in corporate were primarily related to the merian project.
+capital expenditures in north america during 2012 included $57 for leeville/turf development, $47 for emigrant development, $217 for surface and underground development, $151 for leaching, tailings and other facilities, $94 for process facilities improvements and upgrades and $91 for mine and support equipment as well as $89 at la herradura primarily for surface development and mill construction and upgrades. south america capital expenditures included $261 for surface development, $110 for leach pad development and $49 for equipment and equipment component purchases at yanacocha, and $537 primarily for equipment and engineering at conga. capital expenditures in australia and new zealand included $43 for tanami shaft project development, $132 for surface and underground mine development, $108 for surface, underground and support equipment and $84 for tailings facilities construction. capital expenditures in indonesia included $132 for mining and support equipment purchases and rebuilds and $11 for infrastructure improvements. capital expenditures in africa included $89 for subika underground expansion, $68 for facility construction and upgrades and $28 for equipment at ahafo, and $388 primarily for equipment, construction and surface development at the akyem project. capital expenditures in corporate were primarily due to the acquisition of long-lead items for the merian project.
+during 2014, 2013 and 2012, $65, $64 and $40, respectively, of drilling and related costs were capitalized and included in mine development costs. these capitalized costs included $31 at north america, $30 at australia/new zealand and $4 at africa in 2014; $31at north america, $11 at south america, $10 at australia\new zealand and $12 at africa in 2013 and $28 at north america, $1 at south america, $9 at australia\new zealand and $2 at africa in 2012.
+during 2014, 2013 and 2012, $79, $107 and $284, respectively, of pre-stripping costs were capitalized and included in mine development costs. pre-stripping costs included nevada (mega pit) in north america and yanacocha (marleny) pits in south america in 2014; akyem (main pit) in ghana, nevada (star complex) pits in north america and yanacocha (marleny) pits in south america in 2013 and nevada (east carlin, star complex and vista surface) pits in north america and yanacocha (el tapado oeste and cerro negro) pits in south america in 2012.
+acquisitions, net. during 2014, we purchased the remaining 20% noncontrolling interest in the merian project.  during 2013 and 2012, we paid $13 and $25, respectively, in contingent payments in accordance with the 2009 boddington acquisition agreement.
+purchases and sales of investments. during 2014, we purchased investments of $26 and we received proceeds of $25 primarily from the sale of paladin energy ltd. securities. during 2013, we purchased corporate debt securities and other marketable securities of $1 and we received proceeds of $589 primarily from the sale of canadian oil sands securities. during 2012, we purchased corporate debt securities and other marketable securities of $220 and we received proceeds of $210 from the sale of corporate debt securities.
+proceeds from sale of other assets. during 2014, we received $661 of which, $450 was from the sale of la herradura in mexico, $94 from the sale of jundee, $57 from the sale of midas, $40 from the sale of equipment at conga and $15 from the sale of mccoy cove. during 2013, we received $63 primarily from the sale of equipment at conga. during 2012, we received $41 primarily from the sale of land, equipment and other investments.
+financing activities net cash provided from (used in) financing activities was $(65) in 2014, compared to $(212) and $689 in 2013 and 2012, respectively, for the reasons explained below.
+proceeds from debt, net. during 2014, we received net proceeds from debt of $601, of which $575 was from the 2019 term loan facility.  during 2013, we received net proceeds from debt of $1,538, including $1,024 from our corporate revolving credit facility and $475 from the ptnnt revolving credit facility.  during 2012, we received net proceeds from debt of $3,524, including $1,479 from the issuance of senior notes due in 2022, $983 from the issuance of senior notes due in 2042, $180 from the ptnnt revolving credit facility and $1,246 under our corporate revolving credit facility. proceeds from the issuance of debt were partially offset by the settlement of forward starting interest rate swaps of $362.
+70
+newmont mining corporation repayment of debt. during 2014, we repaid $686, including $575 on our 2014 convertible senior notes and $100 on the 2019 term loan facility.  during 2013, we repaid $1,150, including $1,024 on our corporate revolving credit facility and $100 on the ptnnt revolving credit facility.  during 2012, we repaid $1,976, including $1,285 on our corporate revolving credit facility, $517 for repayment of the 2012 convertible senior notes and $165 related to exercising the early purchase option and related 2012 quarterly payments for the refractory ore treatment plant in nevada (classified as a capital lease).
+at december 31, 2014, $141 of the $3,000 corporate revolving credit facility was used to secure the issuance of letters of credit, primarily supporting reclamation obligations (see "off-balance sheet arrangements" below).
+scheduled minimum debt repayments are $165 in 2015, $222 in 2016, $799 in 2017, $43 in 2018, $1,303 in 2019 and $4,200 thereafter. we expect to be able to fund maturities of debt from net cash provided by operating activities, short-term investments, existing cash balances and available credit facilities.
+payment of conversion premium on debt. in february 2012, we elected to pay in cash a conversion premium of $172 upon repayment of the 2012 convertible senior notes in lieu of issuing common shares.
+proceeds from stock issuance, net. we received proceeds of $2 and $24 during 2013 and 2012, respectively, from the issuance of common stock, primarily related to employee stock sales and option exercises.
+sale of noncontrolling interests. during 2014 we received $108 from the government of suriname for a 25% equity ownership in the merian project.  we received $71 and $32 in proceeds, net of transaction costs, during 2014 and 2013, respectively, related to tmac's private placements to raise funds.
+acquisition of noncontrolling interests. during 2014, 2013 and 2012, we advanced certain funds to ptpi, an unrelated noncontrolling shareholder of ptnnt, in accordance with a loan agreement. our economic interest in ptnnt did not change as a result of these transactions.
+dividends paid to noncontrolling interests. we paid dividends of $4, $2 and $3 to noncontrolling interests during 2014, 2013 and 2012, respectively.
+dividends paid to common stockholders. we paid annual dividends of $0.225, $1.225 and $1.40 per common share during 2014, 2013 and 2012, respectively. additionally, newmont mining corporation of canada limited, a subsidiary of the company, paid annual dividends of c$1.2576 and c$1.40 during 2013 and 2012, respectively. on february 16, 2015, we declared a regular quarterly dividend of $0.025 per share, payable march 26, 2015 to holders of record at the close of business on march 12, 2015. total dividends paid to common stockholders were $114, $610 and $695 in 2014, 2013 and 2012, respectively.
+discontinued operations net operating cash used in discontinued operations was $13 in 2014, compared to $18 and $16 in 2013 and 2012, respectively. discontinued operations in 2014, 2013 and 2012 relate to payments on the holt property royalty.
+corporate revolving credit facility effective may 20, 2011, the company entered into a new uncollateralized $2,500 corporate revolving credit facility with a syndicate of commercial banks. this new facility replaced an existing revolving credit facility which was cancelled upon the effectiveness of the new facility. the new facility provides for borrowings in u.s. dollars and contains a letter of credit sub-facility. facility fees vary based on the credit ratings of the company's senior, uncollateralized, long-term debt.  borrowings under the facility bear interest at a market based rate plus a margin determined by the company's credit rating. at december 31, 2014, the company had no borrowings outstanding under the facility. there was $141 and $173 outstanding in letters of credit at december 31, 2014 and 2013, respectively.
+in may 2012, the facility was amended to increase the capacity to $3,000 and extended the original maturity from 2016 to may 2017. in march 2014, the facility was further amended to extend the maturity to march 2019
+in september 2013, the company entered into a letter of credit facility agreement ("lc agreement") with bnp paribas, new york branch. the lc agreement established a $175 letter of credit facility for a three year period to support reclamation obligations.
+71
+newmont mining corporation under the lc agreement, the company transferred $153 of letters of credit from the corporate revolving credit facility to the lc agreement. at december 31, 2014, the lc agreement had a balance of $172.
+debt covenants the company's senior notes and revolving credit facilities contain various covenants and default provisions including payment defaults, limitation on liens, leases, sales and leaseback agreements and merger restrictions.
+the corporate revolving credit facility contains a financial ratio covenant requiring the company to maintain a net debt (total debt net of cash and cash equivalents) to total capitalization ratio of less than or equal to 62.50% in addition to the covenants noted above. furthermore, the corporate revolving credit facility contains covenants limiting the sale of all or substantially all of the company's assets, certain change of control provisions and a negative pledge on certain assets.
+the ahafo project facility contains a financial ratio covenant requiring the company to maintain a net debt (total debt net of cash and cash equivalents) to ebitda (earnings before interest expense, income and mining taxes, depreciation and amortization) ratio of less than or equal to 4.0 and a net debt to total capitalization ratio of less than or equal to 62.50%.
+the ptnnt revolving credit facility requires ptnnt to maintain certain financial ratios and to comply with certain terms and conditions with regards to its mine plan, contract of work, export permit and duty, dividends, financing activities, leasing, investments and other matters.
+at december 31, 2014 and 2013, we were in compliance with all debt covenants and provisions related to potential defaults.
+shelf registration statement in september 2012, we filed with the securities and exchange commission (the "sec") a shelf registration statement on form s-3 which enables the company to issue an indeterminate number or amount of common stock, preferred stock, debt securities, guarantees of debt securities and warrants from time to time at indeterminate prices. it also included the resale of an indeterminate amount of common stock, preferred stock and debt securities from time to time upon exercise of warrants or conversion of convertible securities.
+contractual obligations our contractual obligations at december 31, 2014 are summarized as follows:
+payments due by period
+
+contractual obligations                                   total             less than             1-3 years             4-5 years              more than
+1 year                                                            5 years debt (1)                                                $11,277                  $435                $1,861                $1,768                 $7,213
+capital lease obligations (2)                                11                     1                     5                     3                      2
+remediation and reclamation obligations (3)               2,452                    84                   285                   242                  1,841
+employee-related benefits (4)                               737                   102                   148                   126                    361
+uncertain income tax liabilities and interest (5)            61                     -                     -                     -                     61
+operating leases                                             48                    10                    25                    11                      2
+minimum royalty payments                                    445                    30                    93                    50                    272
+purchase obligations (6)                                    614                   110                   149                    99                    256
+other (7)                                                 1,042                   292                   465                   128                    157
+$16,687                $1,064                $3,031                $2,427                $10,165
+(1)   amounts represent principal of $6,732 and estimated interest payments of $4,545, assuming no early extinguishment.
+
+(2)   amounts represent principal of $9 and estimated interest payments of $2.
+
+(3)   mining operations are subject to extensive environmental regulations in the jurisdictions in which they operate. pursuant to environmental regulations, we are required to close our operations and reclaim and remediate the lands that operations have disturbed. the estimated undiscounted cash outflows of these reclamation and remediation obligations are reflected here. for more information regarding reclamation and remediation liabilities, see note 4 to the consolidated financial statements.
+
+72
+newmont mining corporation
+(4)   contractual obligations for employee-related benefits include severance, workers' participation, pension and other benefit plans. pension plan benefit payments beyond 2019 cannot be reasonably estimated given variable market conditions and actuarial assumptions and are not included.
+
+(5)   we are unable to reasonably estimate the timing of our uncertain income tax liabilities and interest payments beyond 2015 due to uncertainties in the timing of the effective settlement of tax positions.
+
+(6)   purchase obligations are not recorded in the consolidated financial statements. purchase obligations represent contractual obligations for purchase of power, materials and supplies, consumables, inventories and capital projects.
+
+(7)   other includes the accrued holt royalty of $179 and other obligations which are not reflected in our consolidated financial statements including labor and service contracts. payments related to derivative contracts cannot be reasonably estimated given variable market conditions. see note 16 to the consolidated financial statements.
+
+off-balance sheet arrangements we have the following off-balance sheet arrangements: operating leases (see note 27 to the consolidated financial statements) and $1,865 of outstanding letters of credit, surety bonds and bank guarantees (see note 29 to the consolidated financial statements).
+we also have sales agreements to sell copper and gold concentrates at market prices as follows (in thousands of tons):
+2015               2016        2017        2018        2019       thereafter
+
+batu hijau         840           -           -           -           -           -
+boddington         220         215         209         165          66           -
+phoenix             41          71           -           -           -           -
+1,101         286         209         165          66           -
+for information regarding these copper sales agreements, see item 7a, quantitative and qualitative disclosures about market risk - hedging, provisional copper and gold sales, below.
+other liquidity matters at december 31, 2014, the company had $2,403 in cash and cash equivalents, of which $1,293 was held in foreign subsidiaries and is primarily held in u.s. dollar denominated accounts with the remainder in foreign currencies readily convertible to u.s. dollars. at december 31, 2014, $487 of the consolidated cash and cash equivalents was attributable to noncontrolling interests primarily related to our indonesian and peruvian operations which is being held to fund those operations and development projects. at december 31, 2014, $1,233 in consolidated cash and cash equivalents ($762 attributable to newmont) was held at certain foreign subsidiaries that, if repatriated, may be subject to withholding taxes.  the repatriation of this cash and the applicable withholding taxes would generate foreign tax credits in the u.s.  as a result, we expect that there would be no additional tax burden upon repatriation after considering the cash cost associated with the withholding taxes.
+we believe that our liquidity and capital resources from u.s. operations and flow-through foreign subsidiaries are adequate to fund our u.s. operations and corporate activities.
+environmental our mining and exploration activities are subject to various federal and state laws and regulations governing the protection of the environment. we have made, and expect to make in the future, expenditures to comply with such laws and regulations, but cannot predict the full amount of such future expenditures. at december 31, 2014 and 2013, $1,497 and $1,432, respectively, were accrued for reclamation costs relating to currently, recently producing or developmental stage mineral properties, of which $42 is classified as a current liability. for more information on the company's reclamation and remediation liabilities, see note 4 to the consolidated financial statements.
+in addition, we are involved in several matters concerning environmental obligations associated with former mining activities. based upon our best estimate of our liability for these matters, $192 and $179 were accrued for such obligations at december 31, 2014 and 2013, respectively. we spent $43, $36 and $39 in 2014, 2013 and 2012, respectively, for environmental obligations related to former, primarily historic, mining activities, and have classified $41 as a current liability. expenditures for 2014 and 2013 relate primarily to the dawn mill site and mine site design in washington state, the con mine in canada which was acquired as part of the miramar acquisition and resurrection, a mine site in leadville, colorado. expenditures for 2012 related primarily to the con mine, the san luis property in colorado, the mt. leyshon property in australia, which is a legacy normandy site, and resurrection. for
+73
+newmont mining corporation more information on the company's obligations associated with former mining activities, see note 29 to the consolidated financial statements.
+included in capital expenditures were $131, $94 and $207 in 2014, 2013 and 2012, respectively, to comply with environmental regulations. ongoing costs to comply with environmental regulations have not been a significant component of costs applicable to sales.
+forward-looking statements the foregoing discussion and analysis, as well as certain information contained elsewhere in this annual report, contain "forward-looking statements" within the meaning of section 27a of the securities act of 1933, as amended, and section 21e of the securities exchange act of 1934, as amended, and are intended to be covered by the safe harbor created thereby. see the discussion in forward-looking statements in item 1, business.
+non-gaap financial measures non-gaap financial measures are intended to provide additional information only and do not have any standard meaning prescribed by gaap. these measures should not be considered in isolation or as a substitute for measures of performance prepared in accordance with gaap.
+earnings before interest, taxes and depreciation and amortization and adjusted earnings before interest, taxes and depreciation and amortization management of the company uses earnings before interest, taxes and depreciation and amortization ("ebitda") and ebitda adjusted for non-core or unusual items ("adjusted ebitda") as non-gaap measures to evaluate the company's operating performance.   ebitda and adjusted ebitda are non-u.s. gaap measures. ebitda and adjusted ebitda do not represent, and should not be considered an alternative to, net earnings (loss), operating earnings (loss), or cash flow from operations as those terms are defined by gaap, and does not necessarily indicate whether cash flows will be sufficient to fund cash needs. although adjusted ebitda and similar measures are frequently used as measures of operations and the ability to meet debt service requirements by other companies, our calculation of adjusted ebitda is not necessarily comparable to such other similarly titled captions of other companies. the company believes that adjusted ebitda provides useful information to investors and others in understanding and evaluating our operating results in the same manner as our management and board of directors.  management's determination of the components of adjusted ebitda are evaluated periodically and based, in part, on a review of non-gaap financial measures used by mining industry analysts. income (loss) before income and mining tax and other items is reconciled to earnings before interest, taxes and depreciation and amortization and adjusted earnings before interest, taxes and depreciation and amortization as follows:
+years ended december 31,
+
+2014                                                                            2013                    2012
+income (loss) before income and mining tax and other items          $506                 $(3,606    )             $3,114
+depreciation and amortization                                      1,229                   1,362                   1,032
+interest expense, net                                                361                     303                     249
+ebitda                                                            $2,096                 $(1,941    )             $4,395
+adjustments:
+impairments and loss provisions                                      $47                  $4,457                     $99
+restructuring                                                         40                      67                      58
+asset sales                                                         (126    )               (286    )               (107   )
+reclamation settlement                                                15                       -                       -
+boddington contingent consideration                                    -                     (18    )                 12
+abnormal production costs at batu hijau                               53                       -                       -
+tmac transaction costs                                                 -                      45                       -
+adjusted ebitda                                                   $2,125                  $2,324                  $4,457
+74
+newmont mining corporation adjusted net income (loss)
+management of the company uses adjusted net income (loss) to evaluate the company's operating performance, and for planning and forecasting future business operations. the company believes the use of adjusted net income (loss) allows investors and analysts to compare results of the continuing operations of the company and its direct and indirect subsidiaries relating to the production and sale of minerals to similar operating results of other mining companies, by excluding exceptional or unusual items. management's determination of the components of adjusted net income (loss) are evaluated periodically and based, in part, on a review of non-gaap financial measures used by mining industry analysts. net income (loss) attributable to newmont stockholders is reconciled to adjusted net income (loss) as follows:
+years ended december 31,
+
+2014                                                                     2013                    2012
+net income (loss) attributable to newmont stockholders       $508                 $(2,534    )           $1,802
+loss (income) from discontinued operations                     40                     (61    )               76
+impairments and loss provisions                                26                   2,875                    80
+tax valuation allowance                                       (34    )                535                     -
+restructuring                                                  21                      36                    26
+asset sales                                                   (54    )               (246    )              (90   )
+reclamation settlement                                         10                       -                     -
+boddington contingent consideration (gain) loss                 -                     (12    )                8
+income tax benefit from internal restructuring                  -                       -                   (59   )
+abnormal production costs at batu hijau                        28                       -                     -
+tmac transaction costs                                          -                      30                     -
+adjusted net income (loss)                                   $545                    $623                $1,843
+adjusted net income (loss) per share, basic                 $1.09                   $1.25                 $3.72
+adjusted net income (loss) per share, diluted               $1.09                   $1.25                 $3.69
+costs applicable to sales per ounce/pound costs applicable to sales per ounce/pound are non-gaap financial measures. these measures are calculated by dividing the costs applicable to sales of gold and copper by gold ounces or copper pounds sold, respectively. these measures are calculated on a consistent basis for the periods presented on a consolidated basis. costs applicable to sales per ounce/pound statistics are intended to provide additional information only and do not have any standardized meaning prescribed by gaap and should not be considered in isolation or as a substitute for measures of performance prepared in accordance with gaap. the measures are not necessarily indicative of operating profit or cash flow from operations as determined under gaap. other companies may calculate these measures differently.
+the following table reconciles these non-gaap measures to the most directly comparable gaap measures.
+gold (1)                                                    copper (2)
+
+years ended december 31,                                years ended december 31,
+2014                                                                    2013                    2012               2014               2013                  2012
+costs applicable to sales                                 $3,697                  $4,237                  $3,739          $760                $1,062                $595
+gold/copper sold (thousand ounces/million pounds):         5,240                   5,489                   5,466           264                   258                 257
+costs applicable to sales per ounce/pound:                  $706                    $772                    $684         $2.88                 $4.12               $2.32
+(1)   consolidated costs applicable to sales per financial statements includes by-product credits of $68, $98 and $135 for 2014, 2013 and 2012, respectively.
+
+(2)   consolidated costs applicable to sales per financial statements includes by-product credits of $17, $13, and $11 for 2014, 2013 and 2012, respectively.
+
+all-in sustaining costs newmont has worked to develop a metric that expands on gaap measures such as cost of goods sold and non-gaap measures to provide visibility into the economics of our gold mining operations related to expenditures, operating performance and the ability to generate cash flow from operations.
+75
+newmont mining corporation current gaap-measures used in the gold industry, such as cost of goods sold, do not capture all of the expenditures incurred to discover, develop, and sustain gold production. therefore, we believe that all-in sustaining costs are non-gaap measures that provide additional information to management, investors, and analysts that aid in the understanding of the economics of our operations and performance compared to other gold producers and in the investor's visibility by better defining the total costs associated with producing gold.
+all-in sustaining cost ("aisc") amounts are intended to provide additional information only and do not have any standardized meaning prescribed by gaap and should not be considered in isolation or as a substitute for measures of performance prepared in accordance with gaap. the measures are not necessarily indicative of operating profit or cash flow from operations as determined under gaap. other companies may calculate these measures differently as a result of differences in the underlying accounting principles, policies applied and in accounting frameworks such as in international financial reporting standards ("ifrs"), or by reflecting the benefit from selling non-gold metals as a reduction to aisc. differences may also arise related to definitional differences of sustaining versus development capital activities based upon each company's internal policies.
+76
+newmont mining corporation the following disclosure provides information regarding the adjustments made in determining the all-in sustaining costs measure:
+cost applicable to sales-includes all direct and indirect costs related to current gold production incurred to execute the current mine plan. costs applicable to sales ("cas") includes by-product credits from certain metals obtained during the process of extracting and processing the primary ore-body. cas is accounted for on an accrual basis and excludes amortization and reclamation and remediation, which is consistent with our presentation of cas on the statement of consolidated income. in determining aisc, only the cas associated with producing and selling an ounce of gold is included in the measure. therefore, the amount of gold cas included in aisc is derived from the cas presented in the company's statement of consolidated income less the amount of cas attributable to the production of copper at our phoenix, boddington and batu hijau mines. the copper cas at those mine sites is disclosed in note 3 - segments that accompanies the consolidated financial statements. the allocation of cas between gold and copper at the phoenix, boddington and batu hijau mines is based upon the relative sales percentage of copper and gold sold during the period.
+remediation costs-includes accretion expense related to asset retirement obligations ("aro") and the amortization of the related asset retirement cost ("arc") for the company's operating properties recorded as an arc asset. accretion related to aro and the amortization of the arc assets for reclamation and remediation do not reflect annual cash outflows but are calculated in accordance with gaap. the accretion and amortization reflect the periodic costs of reclamation and remediation associated with current gold production and are therefore included in the measure. the allocation of these costs to gold and copper is determined using the same allocation used in the allocation of cas between gold and copper at the phoenix, boddington and batu hijau mines.
+advanced projects and exploration-includes incurred expenses related to projects that are designed to increase or enhance current gold production and gold exploration. we note that as current resources are depleted, exploration and advance projects are necessary for us to replace the depleting reserves or enhance the recovery and processing of the current reserves. as this relates to sustaining our gold production, and is considered a continuing cost of a mining company, these costs are included in the aisc measure. these costs are derived from the advanced projects, research and development and exploration amounts presented in the company's statement of consolidated income less the amount attributable to the production of copper at our phoenix, boddington and batu hijau mines. the allocation of these costs to gold and copper is determined using the same allocation used in the allocation of cas between gold and copper at the batu hijau, boddington and phoenix mines.
+general and administrative-includes cost related to administrative tasks not directly related to current gold production, but rather related to support our corporate structure and fulfilling our obligations to operate as a public company. including these expenses in the aisc metric provides visibility of the impact that general and administrative activities have on current operations and profitability on a per ounce basis.
+other expense, net-includes costs related to regional administration and community development to support current gold production. we exclude certain exceptional or unusual expenses from other expense, net, such as restructuring, as these are not indicative to sustaining our current gold operations. furthermore, this adjustment to other expense, net is also consistent with the nature of the adjustments made to net income (loss) as disclosed in the company's non-gaap financial measure adjusted net income (loss). the allocation of these costs to gold and copper is determined using the same allocation used in the allocation of cas between gold and copper at the phoenix, boddington and batu hijau mines.
+treatment and refining costs-includes costs paid to smelters for treatment and refining of our concentrates to produce the salable precious metal. these costs are presented net as a reduction of sales.
+sustaining capital-we determined sustaining capital as those capital expenditures that are necessary to maintain current gold production and execute the current mine plan. capital expenditures to develop new operations, or related to projects at existing operations where these projects will enhance gold production or reserves, are considered development. we determined the breakout of sustaining and development capital costs based on a systematic review of our project portfolio in light of the nature of each project. sustaining capital costs are relevant to the aisc metric as these are needed to maintain the company's current gold operations and provide improved transparency related to our ability to finance these expenditures from current operations. the allocation of these costs to gold and copper is determined using the same allocation used in the allocation of cas between gold and copper at the batu hijau, boddington and phoenix mines.
+77
+newmont mining corporation year ended december 31, 2014        costs         remediation        advanced         general and        other expense,      treatment and       sustaining        all-in       ounces (000)/        all-in applicable       costs (4)       projects and      administrative         net (5)          refining costs     capital (6)      sustaining         pounds         sustaining to sales (1)                      exploration                                                                                     costs          (millions)       costs per
+(2)(3)                                                                                                                                           sold            oz/lb
+
+gold carlin                                    $795              $4               $22                  $-                  $8                  $-            $141            $970               905          $1,072
+phoenix                                    160               3                 4                   -                   3                   9              17             196               222             883
+twin creeks                                207               2                 5                   -                   3                   -             111             328               400             820
+la herradura                                89               2                12                   -                   -                   -              21             124               119           1,042
+other north america                          -               -                25                   -                   6                   -               9              40                 -               -
+north america                            1,251              11                68                   -                  20                   9             299           1,658             1,646           1,007
+yanacocha                                  663             101                32                   -                  35                   -              80             911               966             943
+other south america                          -               -                41                   -                   2                   -               -              43                 -               -
+south america                              663             101                73                   -                  37                   -              80             954               966             988
+boddington                                 585              11                 -                   -                   2                   4              69             671               690             972
+tanami                                     251               4                10                   -                   2                   -              91             358               345           1,038
+jundee                                      85               5                 1                   -                   2                   -              15             108               140             771
+waihi                                       76               3                 7                   -                   2                   -               2              90               131             687
+kalgoorlie                                 284               4                 5                   -                   1                   4              32             330               327           1,009
+other australia/new zealand                  -               -                 5                   3                  21                   -               6              35                 -               -
+australia/new zealand                    1,281              27                28                   3                  30                   8             215           1,592             1,633             975
+batu hijau                                  81               3                 -                   -                   4                   9               8             105                72           1,458
+other indonesia                              -               -                 -                   -                   -                   -               -               -                 -               -
+indonesia                                   81               3                 -                   -                   4                   9               8             105                72           1,458
+ahafo                                      249               8                27                   -                   6                   -              92             382               450             849
+akyem                                      172               3                 -                   -                   8                   -              17             200               473             423
+other africa                                 -               -                 8                   -                   7                   -               -              15                 -               -
+africa                                     421              11                35                   -                  21                   -             109             597               923             647
+corporate and other                          -               -               116                 182                  31                   -              17             346                 -               -
+total gold                              $3,697            $153              $320                $185                $143                 $26            $728          $5,252             5,240          $1,002
+copper phoenix                                   $108              $1                $2                  $-                  $1                  $5             $13            $130                46           $2.83
+boddington                                 158               2                 -                   -                   1                  25              18             204                66            3.09
+batu hijau                                 494              15                 3                   1                  20                  45              51             629               152            4.14
+total copper                              $760             $18                $5                  $1                 $22                 $75             $82            $963               264           $3.65
+consolidated                            $4,457            $171              $325                $186                $165                $101            $810          $6,215
+(1)   excludes depreciation and amortization and reclamation and remediation.
+
+(2)   includes by-product credits of $85.
+
+(3)   includes stockpile and leach pad inventory adjustment of $127 at carlin, $13 at phoenix, $15 at twin creeks, $75 at yanacocha, $69 at boddington, and $191 at batu hijau.
+
+(4)   remediation costs include operating accretion of $71 and amortization of asset retirement costs of $100.
+
+(5)   other expense, net is adjusted for restructuring costs of $40.
+
+(6)   excludes $300 of development capital expenditures, capitalized interest, and the increase in accrued capital. the following are major development projects; turf vent shaft, merian, correnso, and conga for 2014.
+
+78
+newmont mining corporation year ended december 31, 2013        costs         remediation        advanced         general and        other expense,          treatment and       sustaining        all-in           ounces (000)/        all-in applicable       costs (4)       projects and      administrative         net (5)              refining costs     capital (6)      sustaining             pounds         sustaining to sales (1)                      exploration                                                                                         costs              (millions)       costs per
+(2)(3)                                                                                                                                                   sold            oz/lb
+
+gold carlin                                    $767              $5               $34   $-                                 $7                     $14            $154            $981                 1,013            $968
+phoenix                                    164               3                 7             -                         2                       9              20             205                   225             911
+twin creeks                                273               6                 7             -                         4                       -              56             346                   518             668
+la herradura                               177               -                42             -                         -                       -              74             293                   183           1,601
+other north america                          -               -                42             -                         4                       -              23              69                     -               -
+north america                            1,381              14               132             -                        17                      23             327           1,894                 1,939             977
+yanacocha                                  684              90                41             -                        63                       -             148           1,026                 1,022           1,004
+other south america                          -               -                34             -                         4                       -               -              38                     -               -
+south america                              684              90                75             -                        67                       -             148           1,064                 1,022           1,041
+boddington                                 805               6                 1             -                         2                       4              90             908                   743           1,222
+tanami                                     270               3                11             -                         3                       -              91             378                   325           1,163
+jundee                                     206              13                 7             -                         1                       -              45             272                   279             975
+waihi                                      103               3                 5             -                         2                       -               7             120                   111           1,081
+kalgoorlie                                 342               7                 3             -                         1                       -              19             372                   329           1,131
+other australia/new zealand                  -               -                13             -                        34                       -               4              51                     -               -
+australia/new zealand                    1,726              32                40             -                        43                       4             256           2,101                 1,787           1,176
+batu hijau                                 107               2                 2             -                         3                       5              12             131                    46           2,848
+other indonesia                              -               -                 -             -                        (2   )                   -               -              (2   )                 -               -
+indonesia                                  107               2                 2             -                         1                       5              12             129                    46           2,804
+ahafo                                      307               3                51             -                        14                       -             109             484                   566             855
+akyem                                       32               -                 8             -                         3                       -               -              43                   129             333
+other africa                                 -               -                 8             -                        10                       -               -              18                     -               -
+africa                                     339               3                67             -                        27                       -             109             545                   695             784
+corporate and other                          -               -               137   203                                25                       -              12             377                     -               -
+total gold                              $4,237            $141              $453   $203                             $180                     $32            $864          $6,110                 5,489          $1,113
+copper phoenix                                    $52              $1                $3   $-                                 $1                      $5              $7             $69                    29           $2.38
+boddington                                 195               1                 -             -                         1                      19              22             238                    71            3.35
+batu hijau                                 815               9                13             -                        24                      47              93           1,001                   158            6.34
+total copper                            $1,062             $11               $16   $-                                $26                     $71            $122          $1,308                   258           $5.07
+consolidated                            $5,299            $152              $469   $203                             $206                    $103            $986          $7,418
+(1)   excludes depreciation and amortization and reclamation and remediation.
+
+(2)   includes by-product credits of $111.
+
+(3)   includes stockpile and leach pad inventory adjustments of $69 at carlin, $1 at twin creeks, $24 at la herradura, $107 at yanacocha, $184 at boddington, $1 at tanami, $4 at waihi, $45 at kalgoorlie, and $523 at batu hijau.
+
+(4)   remediation costs include operating accretion of $61 and amortization of asset retirement costs of $91.
+
+(5)   other expense, net is adjusted for restructuring of $67 and tmac transaction costs of $45, partially offset by $18 for boddington contingent consideration.
+
+(6)   excludes $914 of development capital expenditures, capitalized interest, and the increase in accrued capital. the following are major development projects; phoenix copper leach, turf vent shaft, yanacocha bio leach, conga, merian, ahafo mill expansion, and akyem for 2013.
+
+79
+newmont mining corporation year ended december 31, 2012        costs         remediation        advanced         general and        other expense,          treatment and       sustaining        all-in           ounces (000)/        all-in applicable       costs (4)       projects and      administrative         net (5)              refining costs     capital (6)      sustaining             pounds         sustaining to sales (1)                      exploration                                                                                         costs              (millions)       costs per
+(2)(3)                                                                                                                                                   sold            oz/lb
+
+gold carlin                                    $767              $4               $47   $-                                 $6                     $14            $229          $1,067                   978          $1,091
+phoenix                                    111               3                14             -                         1                       8              57             194                   188           1,032
+twin creeks                                256               3                30             -                         -                       -             117             406                   553             734
+la herradura                               132               -                41             -                         -                       -              71             244                   212           1,151
+other north america                          -               -                40             -                        11                       -              66             117                     -               -
+north america                            1,266              10               172             -                        18                      22             540           2,028                 1,931           1,050
+yanacocha                                  669              34                59             -                        70                       -             479           1,311                 1,325             989
+other south america                          -               -                72             -                         4                       -              10              86                     -               -
+south america                              669              34               131             -                        74                       -             489           1,397                 1,325           1,054
+boddington                                 623               6                 6             -                         3                       7             112             757                   711           1,065
+tanami                                     250               2                28             -                         3                       -             130             413                   180           2,294
+jundee                                     172              10                20             -                         1                       -              58             261                   322             811
+waihi                                       97               4                12             -                         3                       -               4             120                    62           1,935
+kalgoorlie                                 277               8                 5             -                         1                       -              20             311                   341             912
+other australia/new zealand                  -               -                19             -                        39                       -              19              77                     -               -
+australia/new zealand                    1,419              30                90             -                        50                       7             343           1,939                 1,616           1,200
+batu hijau                                  71               2                 5             -                         8                       7              23             116                    67           1,731
+other indonesia                              -               -                 -             -                        (3   )                   -               -              (3   )                 -               -
+indonesia                                   71               2                 5             -                         5                       7              23             113                    67           1,687
+ahafo                                      314               4                53             -                        24                       -              85             480                   527             911
+akyem                                        -               -                19             -                         1                       -               -              20                     -               -
+other africa                                 -               -                10             -                         1                       -               -              11                     -               -
+africa                                     314               4                82             -                        26                       -              85             511                   527             970
+corporate and other                          -               -               188   212                                18                       -              25             443                     -               -
+total gold                              $3,739             $80              $668   $212                             $191                     $36          $1,505          $6,431                 5,466          $1,177
+copper phoenix                                    $60              $2                $7   $-                                 $1                      $5             $31            $106                    28           $3.79
+boddington                                 150               1                 2             -                         1                      17              27             198                    66            3.00
+batu hijau                                 385              12                27             -                        42                      45             126             637                   163            3.91
+total copper                              $595             $15               $36   $-                                $44                     $67            $184            $941                   257           $3.66
+consolidated                            $4,334             $95              $704   $212                             $235                    $103          $1,689          $7,372
+(1)   excludes depreciation and amortization and reclamation and remediation.
+
+(2)   includes by-product credits of $146.
+
+(3)   includes stockpile and leach pad inventory adjustments of $6 at yanacocha, $5 at tanami, and $17 at waihi.
+
+(4)   remediation costs include operating accretion of $55 and amortization of asset retirement costs of $40.
+
+(5)   other expense, net is adjusted for restructuring of $58, hope bay care and maintenance of $144, and boddington contingent consideration of $12.
+
+(6)   excludes $1,521 of development capital expenditures, capitalized interest, and the increase in accrued capital. the following are major development projects; emigrant, phoenix copper leach, turf vent shaft, yanacocha bio leach, conga, tanami shaft, ahafo mill expansion, and akyem for 2012.
+
+80
+newmont mining corporation operating margin per ounce/pound operating margin per ounce/pound are non-gaap financial measures. these measures are calculated by subtracting the costs applicable to sales per ounce of gold and per pound of copper from the average realized gold price per ounce and copper price per pound, respectively. these measures are calculated on a consistent basis for the periods presented on a consolidated basis. operating margin per ounce/pound statistics are intended to provide additional information only and do not have any standardized meaning prescribed by gaap and should not be considered in isolation or as a substitute for measures of performance prepared in accordance with gaap. the measures are not necessarily indicative of operating profit or cash flow from operations as determined under gaap. other companies may calculate these measures differently. operating margin per ounce/pound is calculated as follows:
+gold                                                               copper
+
+years ended december 31,           years ended december 31,
+2014                                                          2013                   2012                  2014                   2013                    2012
+average realized price per ounce/pound          $1,258                 $1,393                 $1,662           $2.65                   $2.98                        $3.43
+costs applicable to sales per ounce/pound         (706    )              (772    )              (684   )             (2.88   )               (4.12   )              (2.32   )
+$552                   $621                   $978           $(0.23        )         $(1.14        )              $1.11
+81
+newmont mining corporation

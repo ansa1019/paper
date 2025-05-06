@@ -1,0 +1,918 @@
+item 1a. risk factors the registrants face various risks associated with their businesses. our businesses, financial condition, cash flows or results of operations could be materially adversely affected by any of these risks. in addition, this report also contains forward-looking and other statements about our businesses that are subject to numerous risks and uncertainties. see "forward-looking information," "item 1. business," "item 7. combined management's discussion and analysis of financial condition and results of operations" and note 14 to the financial statements for additional information concerning the risks described below and for other risks, uncertainties and factors that could impact our businesses and financial results.
+as used in this item 1a., the terms "we," "our" and "us" generally refer to ppl and its consolidated subsidiaries taken as a whole, or ppl electric and its consolidated subsidiaries taken as a whole within the pennsylvania regulated segment discussion, lke and its consolidated subsidiaries taken as a whole within the kentucky regulated segment discussion, and rie and its consolidated subsidiaries taken as a whole within the rhode island regulated segment discussion.
+order of subsection presentation a.risks related to registrant holding company b.risks related to regulated utility operations c.risks specific to kentucky regulated segment d.risks specific to pennsylvania regulated segment e.risks specific to rhode island regulated segment f.risks related to all segments
+(ppl)
+a. risk related to registrant holding company ppl is a holding company and its cash flows and ability to meet its obligations with respect to indebtedness and under guarantees, and its ability to pay dividends, largely depends on the financial performance of its respective subsidiaries and, as a result, is effectively subordinated to all existing and future liabilities of those subsidiaries.
+ppl is a holding company and conducts its operations primarily through subsidiaries. substantially all of the consolidated assets of ppl are held by its subsidiaries. accordingly, ppl's cash flows and ability to meet debt and guaranty obligations, as well as ppl's ability to pay dividends, are largely dependent upon the earnings of those subsidiaries and the distribution or other payment of such earnings in the form of dividends, distributions, loans, advances or repayment of loans and advances. the subsidiaries are separate legal entities and have no obligation to pay dividends or distributions to their parents or to make funds available for such a payment. the ability of ppl's subsidiaries to pay dividends or distributions in the future will depend on the subsidiaries' future earnings and cash flows and the needs of their businesses, and may be restricted by their obligations to holders of their outstanding debt and other creditors, as well as any contractual or legal restrictions in effect at such time, including the requirements of state corporate law applicable to payment of dividends and distributions, and regulatory requirements, including restrictions on the ability of ppl electric, lg&e, ku, and rie to pay dividends under section 305(a) of the federal power act.
+because ppl is a holding company, its debt and guaranty obligations are effectively subordinated to all existing and future liabilities of its subsidiaries. although certain agreements to which certain subsidiaries are parties limit their ability to incur additional indebtedness, ppl and its subsidiaries retain the ability to incur substantial additional indebtedness and other liabilities. therefore, ppl's rights and the rights of its creditors, including rights of debt holders, to participate in the assets of any of its subsidiaries, in the event that such a subsidiary is liquidated or reorganized, will be subject to the prior claims of such subsidiary's creditors.
+(all registrants)
+b. risks related to regulated utility operations our regulated utility businesses face many of the same risks, in addition to those risks that are unique to each of the kentucky regulated, pennsylvania regulated and rhode island regulated segments. set forth below are risk factors common to the regulated segments, followed by sections identifying separately the risks specific to each of these segments.
+our profitability is highly dependent on our ability to recover the costs of providing energy and utility services to our customers and earn an adequate return on our capital investments. regulators may not approve the rates we request and existing rates may be challenged.
+the rates we charge our utility customers must be approved by one or more federal or state regulatory commissions, including the ferc, kpsc, vscc, papuc and ripuc. although rate regulation is generally premised on the recovery of prudently incurred costs and a reasonable rate of return on invested capital, there can be no assurance that regulatory authorities will consider all of our costs to have been prudently incurred or that the regulatory process by which rates are determined will always result in rates that achieve full or timely recovery of our costs or an adequate return on our capital investments. federal or state agencies, intervenors and other permitted parties may challenge our current or future rate requests, structures or mechanisms, and ultimately reduce, alter or limit the rates we receive. although our rates are generally regulated based on an analysis of our costs incurred in a base year or on future projected costs, the rates we are allowed to charge may or may not match our costs at any given time. our regulated utility businesses are subject to substantial capital expenditure requirements over the next several years, which may require rate increase requests to the regulators in the future. if our costs are not adequately recovered through rates, it could have an adverse effect on our business, results of operations, cash flows and financial condition.
+our utility businesses are subject to significant and complex governmental regulation.
+in addition to regulating the rates we charge, various federal and state regulatory authorities regulate many aspects of our utility operations, including:
+•the terms and conditions of our service and operations;
+•financial and capital structure matters;
+•siting, construction and operation of facilities;
+•mandatory reliability and safety standards under the energy policy act of 2005 and other standards of conduct;
+•accounting, depreciation and cost allocation methodologies;
+•tax matters;
+•affiliate transactions;
+•acquisition and disposal of utility assets and issuance of securities; and
+•various other matters, including energy efficiency.
+such regulations or changes thereto may subject us to higher operating costs or increased capital expenditures and failure to comply could result in sanctions or possible penalties which may not be recoverable from customers.
+our regulated businesses undertake significant capital projects and these activities are subject to unforeseen costs, delays or failures, as well as risk of inadequate recovery of resulting costs.
+the regulated utility businesses are capital intensive and require significant investments in energy generation (in the case of lg&e and ku) and transmission, distribution and other infrastructure projects, such as projects for environmental compliance and system reliability. the completion of these projects without delays or cost overruns is subject to risks in many areas, including:
+•approval, licensing and permitting;
+•land acquisition and the availability of suitable land;
+•skilled labor or equipment shortages;
+•construction problems or delays, including disputes with third-party intervenors;
+•increases in commodity prices or labor rates;
+•potential supply chain disruptions or delays; and
+•contractor performance.
+failure to complete our capital projects on schedule or on budget, or at all, could adversely affect our financial performance, operations and future growth if such expenditures are not granted rate recovery by our regulators.
+we are or may be subject to costs of remediation of environmental contamination at facilities owned or operated by our former subsidiaries.
+we may be subject to liability for the costs of environmental remediation of property now or formerly owned by us with respect to substances that we may have generated regardless of whether the liabilities arose before, during or after the time we owned or operated the facilities. we also have current or previous ownership interests in sites associated with the production of manufactured gas for which we may be liable for additional costs related to investigation, remediation and monitoring of these sites. remediation activities associated with our former manufactured gas plant operations are one source of such costs. citizen groups or others may bring litigation regarding environmental issues including claims of various types, such as property damage, personal injury and citizen challenges to compliance decisions on the enforcement of environmental requirements, which could subject us to penalties, injunctive relief and the cost of litigation. we cannot predict the amount and timing of future expenditures (including the potential or magnitude of fines or penalties) related to such environmental matters, although they could be material.
+c. risks specific to kentucky regulated segment
+(ppl, lg&e and ku)
+we are subject to financial, operational, regulatory and other risks related to requirements, developments and uncertainties in environmental regulation, including those affecting coal-fired generation facilities.
+extensive federal, state and local environmental laws and regulations are applicable to lg&e's and ku's generation supply, including its air emissions, water discharges (elgs) and the management of hazardous and solid wastes (ccrs), among other business-related activities, and the costs of compliance or alleged non-compliance cannot be predicted and could be material. in addition, our costs may increase significantly if the requirements or scope of environmental laws, regulations or similar rules are expanded or changed as the environmental standards governing lg&e's and ku's businesses, particularly as applicable to coal-fired generation and related activities, continue to be subject to uncertainties due to rulemaking and other regulatory developments, legislative activities and litigation, administrative and permit challenges. the biden administration is considering a wide range of potential policies, executive orders, rules, legislation and other initiatives in connection with climate change that may affect these costs. depending on the extent, frequency and timing of such changes, lg&e and ku may face higher risks of unsuccessful implementation of environmental-related business plans, noncompliance with applicable environmental rules, delayed or incomplete rate recovery or increased costs of implementation. costs may take the form of increased capital expenditures or operating and maintenance expenses, monetary fines, penalties or forfeitures, operational changes, permit limitations or other restrictions. at some of our older generating facilities it may be uneconomic for us to install necessary pollution control equipment, which could cause us to retire those units. market prices for energy and capacity also affect this cost-effectiveness analysis. many of these environmental law considerations are also applicable to the operations of our key suppliers or customers, such as coal producers, power producers and industrial power users, and may impact the costs of their products and demand for our services.
+(ppl and lg&e)
+we are subject to operational, regulatory and other risks regarding natural gas supply infrastructure.
+a natural gas pipeline explosion or associated incident could have a significant impact on lg&e's natural gas operations or result in significant damages and penalties that could have an adverse impact on lg&e's financial position and results of operations. the pipeline and hazardous materials safety administration enforces regulations that govern the design, construction, operation and maintenance of pipeline facilities. failure to comply with these regulations could result in the assessment of fines or penalties against lg&e. these regulations require, among other things, that pipeline operators take certain measures with respect to pipeline integrity. depending on the results of integrity tests and other integrity program activities, we could incur significant and unexpected costs to perform remedial activities on our natural gas infrastructure to ensure our continued safe and reliable operation. recent pipeline incidents in the u.s. have also led to the introduction of proposed rules and possible federal legislative actions which could impose restrictions on lg&e's operations or require more stringent testing to ensure pipeline integrity. implementation of these regulations could increase our costs to comply with pipeline integrity and safety regulations.
+d. risks specific to pennsylvania regulated segment
+(ppl and ppl electric)
+we face competition for transmission projects, which could adversely affect our rate base growth.
+ferc order 1000, issued in july 2011, establishes certain procedural and substantive requirements relating to participation, cost allocation and non-incumbent developer aspects of regional and inter-regional electricity transmission planning activities. the ppl electric transmission business, operating under a ferc-approved pjm open access transmission tariff, is subject to competition pursuant to ferc order 1000 from entities that are not incumbent pjm transmission owners with respect to the construction and ownership of transmission facilities within pjm. increased competition can result in lower rate base growth.
+we could be subject to higher costs and/or penalties related to pennsylvania conservation and energy efficiency programs.
+ppl electric is subject to act 129, which contains requirements for energy efficiency and conservation programs and for the use of smart metering technology, imposes plr electricity supply procurement rules, provides remedies for market misconduct, and made changes to the existing alternative energy portfolio standard. the law also requires electric utilities to meet specified goals for reduction in customer electricity usage and peak demand. utilities not meeting these act 129 requirements are subject to significant penalties that cannot be recovered in rates. numerous factors outside of our control could prevent compliance with these requirements and result in penalties to us.
+e. risks related to the rhode island regulated segment
+(ppl)
+ppl may not realize the anticipated benefits of the rie acquisition, which could materially adversely affect ppl's business, financial condition and results of operations.
+ppl may not realize the anticipated financial and operational benefits from the rie acquisition if the business is not integrated in an efficient and effective manner or if integration takes longer than anticipated. these integration risks include potential difficulties in conversion of systems and information, difficulties in harmonizing inconsistencies in standards, controls, procedures, practices and policies, disruption from the acquisition making it more difficult to maintain relationships with customers, employees or suppliers, and diversion of management time and attention to integration and other acquisition-related issues. in addition, ppl has incurred, and will continue to incur, significant costs in connection with the integration, and additional unanticipated costs may arise. no assurance can be given that the anticipated benefits from the acquisition will be achieved or, if achieved, the timing of their achievement. these risks and their consequences could result in increased costs or decreases in the amount of expected revenues and could have a material adverse effect on ppl's business, financial condition and results of operations.
+we are subject to operational, regulatory and other risks regarding natural gas supply infrastructure in rhode island.
+a natural gas pipeline explosion or associated incident could have a significant impact on rie's natural gas operations or result in significant damages and penalties that could have an adverse impact on rie's financial position and results of operations. the pipeline and hazardous materials safety administration enforces regulations that govern the design, construction, operation and maintenance of pipeline facilities. failure to comply with these regulations could result in the assessment of fines or penalties against rie. these regulations require, among other things, that pipeline operators take certain measures with respect to pipeline integrity. depending on the results of integrity tests and other integrity program activities, we could incur significant and unexpected costs to perform remedial activities on our natural gas infrastructure to ensure our continued safe and reliable operation.
+f. risks related to all segments
+(all registrants)
+covid-19 or other pandemics and resultant impact on business and economic conditions could negatively affect our business.
+the covid-19 pandemic disrupted the u.s. and global economies. while its impact is waning in many respects, a resurgence, new variant or other pandemic and related remediation efforts could present challenges to businesses, communities, workforces, markets and supply chains. the covid-19 virus continues to pose risks to the health and welfare of the registrants' customers, employees, contractors and suppliers, and to affect the conduct of their business. the covid-19 pandemic has been a contributing factor to certain supply chain shortages that have created risks of potential equipment and fuel supply chain disruptions. these issues may continue or become worse, as a result of pandemics and other factors, and registrants may be forced to rely on a larger pool of suppliers, which could pose operational risks. these factors have the potential to materially and adversely affect the registrants' business and operations, especially if they are exacerbated by a resurgence or other pandemics. at this time, the registrants' cannot predict the extent to which these or other pandemic-related factors may affect their business, earnings or other financial results.
+our business operations are continually subject to cyber-based security and data integrity risks from vulnerabilities related to our it systems, operational technology infrastructure and supply chain relationships.
+numerous functions affecting the efficient operation of our businesses are dependent on the secure and reliable storage, processing and communication of electronic data and the use of sophisticated computer hardware and software systems. the operation of our transmission and distribution systems, including gas distribution systems, as well as our generation plants, are all reliant on cyber-based technologies and, therefore, subject to the risk that these systems could be the target of disruptive actions by terrorists, nation state actors or criminals or otherwise be compromised by unintentional events. attacks may come through ransomware, software updates or patches, use of opensource software, firmware that hackers can manipulate to include malicious codes for exploitation at a later date, or the compromising of hardware by bad actors, creating serious risks to our security, the security of our customers' information, and potentially to our ability to provide power. as a result, operations could be interrupted, property could be damaged and sensitive customer information lost or stolen, causing us to incur significant losses of revenues, other substantial liabilities and damages, costs to replace or repair damaged equipment and damage to our reputation. threats to our systems and operations continue to emerge as new ways to compromise components of our systems or networks are developed. additionally, cybersecurity risks also threaten our supply chains, including aspects that are not under our control, such as the incorporation of opensource software in systems or software that we use, that despite our efforts do not meet our current security standards.
+in addition, under the energy policy act of 2005, users, owners and operators of the bulk power transmission system, including ppl electric, lg&e, ku and rie, are subject to mandatory reliability standards promulgated by nerc and enforced by the ferc. as an operator of natural gas distribution systems, lg&e is also subject to mandatory reliability standards of the u.s. department of transportation and is also subject to certain security directives related to cybersecurity issued by the department of homeland security (dhs) transportation security administration (tsa) in 2021. the tsa has determined that lg&e is critical, while rie has not been notified of this distinction and is therefore not currently subject to the security directives. failure to comply with these standards could result in the imposition of fines or civil penalties, and potential exposure to third party claims for alleged violations of the standards.
+we are subject to risks associated with federal and state tax laws and regulations.
+changes in tax law as well as the inherent difficulty in quantifying potential tax effects of business decisions could negatively impact our results of operations and cash flows. we are required to make judgments in order to estimate our obligations to taxing authorities. these tax obligations include income, property, gross receipts, franchise, sales and use, employment-related and other taxes. we also estimate our ability to utilize deferred tax assets and tax credits. dependent upon the revenue needs of the jurisdictions in which our businesses operate, various tax and fee increases may be proposed or considered. we cannot predict changes in tax law or regulation or the effect of any such changes on our businesses. any such changes could increase tax expense and could have a significant negative impact on our results of operations and cash flows. the effects of the tcja have been reflected in our financial statements, and we continue to evaluate the application of the law in calculating income tax expense.
+increases in electricity prices and/or a weak economy can lead to changes in legislative and regulatory policy, including the promotion of energy efficiency, conservation and distributed generation or self-generation, which may adversely impact our business.
+energy consumption is significantly impacted by overall levels of economic activity and costs of energy supplies. economic downturns or periods of high energy supply costs can lead to changes in or the development of legislative and regulatory policy designed to promote reductions in energy consumption and increased energy efficiency, alternative and renewable energy sources, and distributed or self-generation by customers. this focus on conservation, energy efficiency and self-generation may result in a decline in electricity demand, which could adversely affect our business.
+we could be negatively affected by rising interest rates, downgrades to our credit ratings, adverse credit market conditions or other negative developments in our ability to access capital markets.
+our businesses are capital-intensive and, in the ordinary course of business, we are reliant upon adequate long-term and short-term financing to fund our significant capital expenditures, debt service and operating needs. as a result, we are sensitive to developments in interest rates, credit rating considerations, insurance, security or collateral requirements, market liquidity and credit availability and refinancing opportunities necessary or advisable to respond to credit market changes. changes in these conditions could result in increased costs and decreased availability of credit. in addition, certain sources of debt and equity capital have expressed reservations about investing in companies that rely on fossil fuels. if sources of our capital are reduced, capital costs could increase materially.
+a downgrade in our credit ratings could negatively affect our ability to access capital and increase the cost of maintaining our credit facilities and any new debt.
+credit ratings assigned by moody's and s&p to our businesses and their financial obligations have a significant impact on the cost of capital incurred by our businesses. a ratings downgrade could increase our short-term borrowing costs and negatively affect our ability to fund liquidity needs and access new long-term debt at acceptable interest rates. see "item 7. combined management's discussion and analysis of financial condition and results of operations - financial condition - liquidity and capital resources - ratings triggers" for additional information on the financial impact of a downgrade in our credit ratings.
+our operating revenues could fluctuate on a seasonal basis, especially as a result of extreme weather conditions, including conditions caused or exacerbated by climate change.
+our businesses are subject to seasonal demand cycles. for example, in some markets demand for, and market prices of, electricity peak during hot summer months, while in other markets such peaks occur in cold winter months. as a result, our overall operating results may fluctuate substantially on a seasonal basis if weather conditions diverge adversely from seasonal norms. the effects of climate change may accelerate or magnify fluctuations in our operating results.
+operating expenses could be affected by weather conditions, including storms, as well as by significant man-made or accidental disturbances, including terrorism or natural disasters.
+weather and other factors can significantly affect our profitability or operations by causing outages, damaging infrastructure and requiring significant repair costs. storm outages and damage often directly decrease revenues and increase expenses, due to reduced usage and restoration costs.
+our businesses are subject to physical, market and economic risks relating to potential effects of climate change.
+climate change may produce changes in weather or other environmental conditions, including temperature or precipitation levels, and thus may impact consumer demand for electricity. in addition, the potential physical effects of climate change, such as increased frequency and severity of storms, floods, and other climatic events, could disrupt our operations and cause us to incur significant costs to prepare for or respond to these effects. these or other meteorological changes could lead to increased operating costs, capital expenses or power purchase costs. greenhouse gas regulation could increase the cost of electricity, particularly power generated by fossil fuels, and such increases could have a depressive effect on regional economies. reduced economic and consumer activity in our service areas -- both generally and specific to certain industries and consumers accustomed to previously lower cost power -- could reduce demand for the power we generate, market and deliver. also, demand for our energy-related services could be similarly lowered by consumers' preferences or market factors favoring energy efficiency, low-carbon power sources or reduced electricity usage. the registrants' responses to such climate-related risks include compliance with evolving governmental policy and developing and implementing strategies designed to meet net zero carbon emissions goals, which may affect our financial condition, results of operations or cash flows.
+we cannot predict the outcome of legal proceedings or investigations related to our businesses in which we are periodically involved. an unfavorable outcome or determination in any of these matters could have a material adverse effect on our financial condition, results of operations or cash flows.
+we are involved in legal proceedings, claims and litigation and periodically are subject to state and federal investigations arising out of our business operations, the most significant of which are summarized in item 1. business and "regulatory matters" in note 7 to the financial statements and in "legal matters" and "regulatory issues" in note 14 to the financial statements. we cannot predict the ultimate outcome of these matters, nor can we reasonably estimate the costs or liabilities that could potentially result from a negative outcome in each case.
+significant increases in our operation and maintenance expenses, including health care and pension costs, could adversely affect our future earnings and liquidity.
+we continually focus on limiting and reducing our operation and maintenance expenses. however, we expect to continue to face increased cost pressures in our operations. increased costs of materials and labor may result from general inflation, increased regulatory requirements (especially in respect of environmental regulations), the need for higher-cost expertise in the workforce or other factors. in addition, pursuant to collective bargaining agreements, we are contractually committed to provide specified levels of health care and pension benefits to certain current employees and retirees. these benefits give rise to significant expenses. due to general inflation with respect to such costs, the aging demographics of our workforce and other factors, we have experienced significant health care cost inflation in recent years, and we expect our health care costs, including prescription drug coverage, to continue to increase despite measures that we have taken and expect to take to require employees and retirees to bear a higher portion of the costs of their health care benefits. in addition, we expect to continue to incur significant costs with respect to the defined benefit pension plans for our employees and retirees. the measurement of our expected future health care and pension obligations, costs and liabilities is highly dependent on a variety of assumptions, most of which relate to factors beyond our control. these assumptions include investment returns, interest rates, health care cost trends, inflation rates, benefit improvements, salary increases and the demographics of plan participants. if our assumptions prove to be inaccurate, our future costs and cash contribution requirements to fund these benefits could increase significantly.
+we may incur liabilities in connection with divestitures.
+in connection with various divestitures, and certain other transactions, we have indemnified or guaranteed parties against certain liabilities. these indemnities and guarantees relate, among other things, to liabilities which may arise with respect to the period during which we or our subsidiaries operated a divested business, and to certain ongoing contractual relationships and entitlements with respect to which we or our subsidiaries made commitments in connection with a divestiture. see "guarantees and other assurances" in note 14 to the financial statements.
+we are subject to liability risks relating to our generation, transmission and distribution operations.
+the conduct of our physical and commercial operations subjects us to many risks, including risks of potential physical injury, property damage or other financial liability, caused to or by employees, customers, contractors, vendors, contractual or financial counterparties and other third parties.
+our facilities may not operate as planned, which may increase our expenses and decrease our revenues and have an adverse effect on our financial performance.
+operation of power plants, transmission and distribution facilities, information technology systems and other assets and activities subjects us to a variety of risks, including the breakdown or failure of equipment, accidents, security breaches, viruses or outages affecting information technology systems, labor disputes, obsolescence, delivery/transportation problems and disruptions of fuel supply and performance below expected levels. these events may impact our ability to conduct our businesses efficiently and lead to increased costs, expenses or losses. operation of our delivery systems below our expectations may result in lost revenue and increased expense, including higher maintenance costs, which may not be recoverable from customers. planned and unplanned outages at our power plants may require us to purchase power at then-current market prices to satisfy our commitments or, in the alternative, pay penalties and damages for failure to satisfy them.
+although we maintain insurance coverage for certain of these risks, we do not carry insurance for all of these risks and no assurance can be given that such insurance coverage will be sufficient to compensate us in the event losses occur.
+we are required to obtain, and to comply with, government permits and approvals.
+we are required to obtain, and to comply with, numerous permits, approvals, licenses and certificates from governmental agencies. the process of obtaining and renewing necessary permits can be lengthy and complex and sometimes result in the establishment of permit conditions that make the project or activity for which a permit was sought unprofitable or otherwise unattractive. in addition, such permits or approvals may be subject to denial, revocation or modification under circumstances. failure to obtain or comply with the conditions of permits or approvals, or failure to comply with any applicable laws or regulations, may result in delay or temporary suspension of our operations and electricity sales or the curtailment of our power delivery and may subject us to penalties and other sanctions. although various regulators routinely renew existing licenses, renewal could be denied or jeopardized by various factors, including failure to provide adequate financial assurance for closure; failure to comply with environmental, health and safety laws and regulations or permit conditions; local community, political or other opposition; and executive, legislative or regulatory action.
+our cost or inability to obtain and comply with the permits and approvals required for our operations could have a material adverse effect on our operations and cash flows. in addition, new environmental legislation or regulations, if enacted, or changed interpretations of existing laws may elicit claims that historical routine modification activities at our facilities violated applicable laws and regulations. in addition to the possible imposition of fines in such cases, we may be required to undertake significant capital investments in pollution control technology and obtain additional operating permits or approvals, which could have an adverse impact on our business, results of operations, cash flows and financial condition.
+war, other armed conflicts or terrorist attacks could have a material adverse effect on our business.
+war, terrorist attacks and unrest have caused and may continue to cause instability in the world's financial and commercial markets. in addition, unrest could lead to acts of terrorism in the united states or elsewhere, and acts of terrorism could be directed against companies such as ours. armed conflicts and terrorism and their effects on us or our markets may significantly affect our business and results of operations in the future. in addition, we may incur increased costs for security, including additional physical plant security and security personnel or increased capability following a terrorist incident.
+we are subject to counterparty performance, credit or other risk in the provision of goods or services to us, which could adversely affect our ability to operate our facilities or conduct business activities.
+we purchase from a variety of suppliers energy, capacity, fuel, natural gas, transmission service and certain commodities used in the physical operation of our businesses, as well as goods or services, including information technology rights and services, used in the administration of our businesses. delivery of these goods and services is dependent on the continuing operational performance and financial viability of our contractual counterparties and also the markets, infrastructure or third parties they use to provide such goods and services to us. as a result, we are subject to risks of disruptions, curtailments or increased costs in the operation of our businesses if such goods or services are unavailable or become subject to price spikes or if a counterparty fails to perform. such disruptions could adversely affect our ability to operate our facilities or deliver services and collect revenues, which could result in lower sales and/or higher costs and thereby adversely affect our results of operations. the performance of coal markets and producers may be the subject of increased counterparty risk to lg&e and ku currently due to weaknesses in such markets and suppliers. the coal industry is subject to increasing competitive pressures from natural gas markets, political pressures and new or more stringent environmental regulation, including regulation of combustion byproducts and water inputs or discharges.
+we are subject to the risk that our workforce and its knowledge base may become depleted in coming years.
+we experience attrition due primarily to retiring employees, with the risk that critical knowledge will be lost and that it may be difficult to replace departed personnel, and to attract and retain new personnel, with appropriate skills and experience.
+item 7. combined management's discussion and analysis of financial condition and results of operations
+(all registrants)
+this "item 7. combined management's discussion and analysis of financial condition and results of operations" is separately filed by ppl, ppl electric, lg&e and ku. information contained herein relating to any individual registrant is filed by such registrant solely on its own behalf, and no registrant makes any representation as to information relating to any other registrant. the specific registrant to which disclosures are applicable is identified in parenthetical headings in italics above the applicable disclosure or within the applicable disclosure for each registrant's related activities and disclosures. within combined disclosures, amounts are disclosed for individual registrants when significant.
+the following should be read in conjunction with the registrants' consolidated financial statements and the accompanying notes. capitalized terms and abbreviations are defined in the glossary. dollars are in millions, except per share data, unless otherwise noted.
+"management's discussion and analysis of financial condition and results of operations" includes the following information:
+•"overview" provides a description of each registrant's business strategy and a discussion of important financial and operational developments.
+•"results of operations" for all registrants includes a "statement of income analysis," which discusses significant changes in principal line items on the statements of income, comparing 2022 with 2021. for ppl, "results of operations" also includes "segment earnings" and "adjusted gross margins," which provide a detailed analysis of earnings by reportable segment. these discussions include non-gaap financial measures, including "earnings from ongoing operations" and "adjusted gross margins" and provide explanations of the non-gaap financial measures and a reconciliation of the non-gaap financial measures to the most comparable gaap measure.
+•"financial condition - liquidity and capital resources" provides an analysis of the registrants' liquidity positions and credit profiles. this section also includes a discussion of forecasted sources and uses of cash and rating agency actions.
+•"financial condition - risk management" provides an explanation of the registrants' risk management programs relating to market and credit risk.
+•"application of critical accounting policies" provides an overview of the accounting policies that are particularly important to the results of operations and financial condition of the registrants and that require their management to make significant estimates, assumptions and other judgments of inherently uncertain matters.
+for comparison of the registrants' results of operations and cash flows for the years ended december 31, 2021 to december 31, 2020, refer to "item 7. combined management's discussion and analysis of financial condition and results of operations" in the 2021 form 10-k, filed with the sec on february 18, 2022.
+overview for a description of the registrants and their businesses, see "item 1. business."
+business strategy
+(all registrants)
+ppl operates four fully regulated high-performing utilities. these utilities are located in pennsylvania, kentucky and rhode island, constructive regulatory jurisdictions with distinct regulatory structures and customer classes.
+ppl's strategy, which is supported by the other registrants and subsidiaries, is to achieve industry-leading performance in safety, reliability, customer satisfaction and operational efficiency; to advance a clean energy transition while maintaining affordability and reliability; to maintain a strong financial foundation and create long-term value for our shareowners; to foster a diverse and exceptional workplace; and to build strong communities in areas that we serve.
+central to ppl's and the other registrants' strategy is recovering capital project costs efficiently through various rate-making mechanisms, including periodic base rate case proceedings using forward test years, annual ferc formula rate mechanisms and other regulatory agency-approved recovery mechanisms designed to limit regulatory lag. in kentucky, in addition to ferc formula rates, the kpsc has adopted a series of regulatory mechanisms (ecr, dsm, glt, fuel adjustment clause, and gas supply clause) and recovery on construction work-in-progress that reduce regulatory lag and provide timely recovery of and return on, as appropriate, prudently incurred costs. in pennsylvania, the ferc transmission formula rate, dsic mechanism, smart meter rider and other recovery mechanisms operate to reduce regulatory lag and provide for timely recovery of and a return on, as appropriate, prudently incurred costs. in rhode island, ferc formula rates, the gas cost adjustment, net metering, infrastructure, safety and reliability (isr) and revenue decoupling mechanisms and other rate adjustment mechanisms operate to reduce regulatory lag and provide timely recovery of and return on, as appropriate, prudently incurred costs.
+financial and operational developments
+(ppl)
+acquisition of narragansett electric on may 25, 2022, ppl rhode island holdings acquired 100% of the outstanding shares of common stock of narragansett electric from national grid u.s. (the acquisition). the consideration for the acquisition consisted of approximately $3.8 billion in cash and approximately $1.5 billion of long-term debt assumed through the transaction. the $3.8 billion total cash consideration paid was funded with proceeds from ppl's 2021 sale of its u.k. utility business. the acquisition resulted in $1.6 billion of goodwill. the results of rie are reported in ppl's rhode island regulated segment.
+the acquisition of narragansett electric was deemed an asset acquisition for federal and state income tax purposes, as a result of ppl and national grid making a tax election under internal revenue code (irc) §338(h)(10). accordingly, the tax bases of substantially all of the assets acquired were increased to fair market value, which equaled net book value, thereby eliminating the related deferred tax assets and liabilities. this election resulted in tax goodwill that will be amortized for tax purposes over 15 years.
+see note 9 to the financial statements for additional information.
+sale of safari holdings on september 29, 2022, ppl signed a definitive agreement to sell all of safari holdings membership interests to aspen power services, llc. on november 1, 2022, ppl completed the sale (the transaction).
+a loss on sale of $60 million ($46 million net of tax benefit) was recorded in "other operation and maintenance" on the statement of income for the year ended december 31, 2022. as a result of the transaction, $53 million of goodwill previously presented in the corporate and other category for segment reporting purposes was written-off.
+see note 9 and note 14 to the financial statements for additional information.
+pennsylvania state tax reform (ppl and ppl electric)
+on july 8, 2022, the governor of pennsylvania signed into law pennsylvania house bill 1342 (h.b. 1342). among other changes to the state tax code, the bill reduces the corporate net income tax rate from 9.99% to 8.99% beginning january 1, 2023, and further reduces the rate annually by half a percentage point until the rate reaches 4.99% in 2031.
+gaap requires that deferred tax assets and liabilities be measured at the enacted tax rate expected to apply when temporary book-to-tax differences are expected to be realized or settled. in 2022, ppl and ppl electric recorded an increase in regulatory liabilities of $270 million for the remeasurement of regulated accumulated deferred tax balances and a deferred tax benefit of $5 million and $9 million, respectively, associated with the remeasurement of non-regulated accumulated deferred income tax balances. the amounts recorded are estimates that will be updated quarterly to reflect revised forecast, actual activity, and applicable orders from regulatory authorities.
+inflation reduction act (all registrants)
+on august 16, 2022, the inflation reduction act (ira) was signed into law. among other things, the ira enacted a new 15% corporate "book minimum tax," which is based on adjusted gaap pre-tax income and is only applicable to corporations whose pre-tax income exceeds a certain threshold. ppl continues to assess the impacts of the ira on the financial statements of ppl and the other registrants and will monitor guidance issued by the u.s. treasury in the future. ppl does not anticipate a material cash tax impact in the foreseeable future. in addition, the ira enacted numerous new tax credits, largely associated with renewable energy. ppl continues to assess the applicability of these provisions to ppl and its subsidiaries.
+regulatory requirements
+(all registrants)
+the registrants cannot predict the impact that future regulatory requirements may have on their financial condition or results of operations.
+environmental considerations for coal-fired generation (ppl, lg&e and ku)
+the businesses of lg&e and ku are subject to extensive federal, state and local environmental laws, rules and regulations, including those pertaining to ccrs, ghg, and elgs. see notes 7, 14 and 20 to the financial statements for a discussion of these significant environmental matters. these and other environmental requirements led ppl, lg&e and ku to retire approximately 1,200 mw of coal-fired generating plants in kentucky since 2010. as part of the long-term generation planning process, lg&e and ku evaluate a range of factors including the impact of potential stricter environmental regulations, fuel price scenarios, the cost of replacement generation, continued operations and major maintenance costs and the risk of major equipment failures in determining when to retire generation assets.
+as a result of environmental requirements and aging infrastructure, lg&e anticipates retiring two older coal-fired units at the mill creek plant and ku anticipates retiring one coal-fired unit at each of the e.w. brown and ghent plants. mill creek unit 1, with 300 mw of capacity, is expected to be retired in 2024. mill creek unit 2, with 297 mw of capacity, is expected to be retired in 2027. e.w. brown unit 3, with 412 mw of capacity, and ghent unit 2, with 486 mw of capacity, are expected to be retired in 2028. lg&e and ku anticipate the recovery of associated retirement costs, including the remaining net book value, for these coal-fired generating units through the rar or other rate mechanisms.
+cpcn (ppl, lg&e and ku)
+on december 15, 2022, lg&e and ku filed an application with the kpsc for a cpcn for the construction of two 621 mw net summer rating ngcc combustion turbine facilities, one at lg&e's mill creek generating station in jefferson county, kentucky and the other at ku's e.w. brown generating station in mercer county, kentucky, including on-site natural gas and electric transmission construction associated with those facilities and site compatibility certificates. lg&e and ku also applied for a cpcn to construct a 120 mwac solar photovoltaic electric generating facility in mercer county, kentucky, and for a cpcn to acquire a 120 mwac solar facility to be built by a third-party solar developer in marion county, kentucky. lg&e and ku further applied for a cpcn to construct a 125 mw, 4-hour battery energy storage system facility at ku's e.w. brown generating station and for approval of their proposed 2024-2030 dsm programs. the plan includes adding 14 new, adjusted or expanded energy efficiency programs, which would reduce lg&e's and ku's overall need by approximately 100 mw each. finally, lg&e and ku requested a declaratory order to confirm that their entry into non-firm energy-only power-purchase agreements for the output of four solar photovoltaic facilities with a combined capacity of 637 mw does not require kpsc approval and that lg&e and ku may recover the costs of the solar ppas through their fuel adjustment clause mechanisms as previously approved for a prior solar ppa. lg&e and ku plan to accrue afudc on the constructed ngccs, solar facility in mercer county, kentucky and the battery energy storage system facility and have requested regulatory asset treatment to recover the financing costs of these projects.
+the plan is consistent with ppl's goal to achieve net-zero carbon emissions by 2050. the replacement strategy, if approved, would reduce the carbon intensity of lg&e and ku's generation fleet and result in nearly a 25% reduction in co2 emissions from existing levels.
+the kpsc accepted the filing as of january 6, 2023 and has indicated its intention to issue an order on all issues by november 6, 2023. lg&e and ku cannot predict the outcome of these matters.
+ferc transmission rate filing (ppl, lg&e and ku)
+in 2018, lg&e and ku applied to the ferc requesting elimination of certain on-going credits to a sub-set of transmission customers relating to the 1998 merger of lg&e's and ku's parent entities and the 2006 withdrawal of lg&e and ku from the midcontinent independent system operator, inc. (miso), a regional transmission operator and energy market. the application sought termination of lg&e's and ku's commitment to provide certain kentucky municipalities mitigation for certain horizontal market power concerns arising out of the 1998 lg&e and ku merger and 2006 miso withdrawal. the amounts at issue are generally waivers or credits granted to a limited number of kentucky municipalities for either certain lg&e and ku or miso transmission charges incurred for transmission service received. in 2019, the ferc granted lg&e's and ku's request to remove the ongoing credits, conditioned upon the implementation by lg&e and ku of a transition mechanism for certain existing power supply arrangements, which was subsequently filed, modified, and approved by the ferc in 2020 and 2021. in 2020, lg&e and ku and other parties filed appeals with the d.c. circuit court of appeals regarding the ferc's orders on the elimination of the mitigation and required transition mechanism. on august 4, 2022, the d.c. circuit court of appeals issued an order remanding the proceedings back to the ferc. lg&e and ku cannot predict the outcome of the proceedings at the ferc on remand. lg&e and ku currently receive recovery of the waivers and credits provided through other rate mechanisms and such rate recovery would be anticipated to be adjusted consistent with potential changes or terminations of the waivers and credits, as such become effective.
+rate case proceedings (ku)
+on august 31, 2021, ku filed a request with the vscc for an annual increase in virginia base electricity rates of approximately $12 million, based on an authorized 10.4% return on equity. on march 11, 2022, ku, certain intervenors and the vscc staff reached a partial stipulation and recommendation agreement providing ku with an increase in base electricity rates of approximately $7 million based on an authorized 9.4% return on equity. a hearing on open issues occurred on march 17, 2022. on may 25, 2022, the vscc issued an order approving the proposed agreement. new rates became effective june 1, 2022.
+results of operations
+(ppl)
+the "statement of income analysis" discussion below describes significant changes in principal line items on ppl's statements of income, comparing 2022 with 2021. the "segment earnings" and "adjusted gross margins" discussions for ppl provide a review of results by reportable segment. these discussions include non-gaap financial measures, including "earnings from ongoing operations" and "adjusted gross margins," and provide explanations of the non-gaap financial measures and a reconciliation of those measures to the most comparable gaap measure.
+(ppl electric, lg&e and ku)
+a "statement of income analysis" is presented separately for ppl electric, lg&e and ku. the "statement of income analysis" discussion below describes significant changes in principal line items on the statements of income, comparing 2022 with 2021. the results of operations section for ppl electric, lg&e and ku is presented in a reduced disclosure format in accordance with general instructions (i)(2)(a) of form 10-k.
+ppl: statement of income analysis, segment earnings and adjusted gross margins statement of income analysis net income for the years ended december 31 includes the following results:
+change
+2022                                                                                                               2021                 2022 vs. 2021
+operating revenues                                                                  $7,902                    $5,783                    $2,119
+operating expenses operation fuel                                                                                   931                       710                       221
+energy purchases                                                                     1,686                       752                       934
+other operation and maintenance                                                      2,398                     1,608                       790
+depreciation                                                                         1,181                     1,082                        99
+taxes, other than income                                                               332                       207                       125
+total operating expenses                                                             6,528                     4,359                     2,169
+other income (expense) - net                                                            54                        15                        39
+interest expense                                                                       513                       918                     (405)
+income from continuing operations before income taxes                                  915                       521                       394
+income taxes                                                                           201                       503                     (302)
+income from continuing operations after income taxes                                   714                        18                       696
+income (loss) from discontinued operations (net of income taxes) (note 9)               42                   (1,498)                     1,540
+net income (loss)                                                                     $756                  $(1,480)                    $2,236
+operating revenues the increase (decrease) in operating revenues was due to:
+2022 vs. 2021
+ppl electric distribution price (a)                      $(19)
+ppl electric distribution volume (b)                               20
+ppl electric plr (c)                                       520
+ppl electric transmission formula rate (d)                  92
+lg&amp;e fuel and other energy prices (e)                  142
+lg&amp;e retail rates (f)                                   50
+lg&amp;e volumes                                            28
+ku retail rates (f)                                         55
+ku fuel and other energy prices (e)                        160
+ku volumes                                                  29
+rhode island energy                                      1,038
+other                                                        4
+total                                                   $2,119
+(a)    distribution price variance was primarily due to reconcilable cost recovery mechanisms approved by the papuc.
+(b)    the increase was due to colder weather combined with higher non-residential customer volumes.
+(c)    the increase was primarily the result of higher energy prices, lower volumes of shopping customers and higher customer volumes due to colder weather.
+(d)    the increase was primarily due to returns on additional transmission capital investments, a higher ppl zonal peak load billing factor in 2022 and the reduction in the transmission formula rate return on equity recorded in 2021. see note 7 to the financial statements for additional information on the transmission formula rate return on equity reduction.
+(e)    the increase was primarily due to higher recoveries of fuel and energy purchases due to higher commodity costs.
+(f)    the increase was due to new base rates approved by the kpsc effective july 1, 2021.
+fuel fuel increased $221 million in 2022 compared with 2021, primarily due to an $81 million increase at lg&e and a $140 million increase at ku, primarily due to higher commodity costs.
+energy purchases energy purchases increased $934 million in 2022 compared with 2021, primarily due to higher plr prices of $419 million and higher plr volumes of $58 million at ppl electric and a $78 million increase at lg&e, primarily due to an increase in commodity costs and an additional $365 million due to the operations of rie.
+other operation and maintenance the increase (decrease) in other operation and maintenance was due to:
+2022 vs. 2021
+ppl electric act 129 smart meter program                                $7
+ppl electric storm costs                                              (10)
+ppl electric it cloud amortization costs                                12
+ppl electric vegetation management costs                                12
+ppl electric bad debts                                                  14
+ppl electric canceled projects                                           8
+lg&amp;e storm restoration costs                                         6
+lg&amp;e natural gas inventory losses                                    4
+ku plant outages                                                         9
+ku vegetation management costs                                          10
+rhode island energy (a)                                                684
+stock compensation expense                                               5
+sale of safari holdings (b)                                             60
+solar panel impairment                                                (37)
+charges related to the sale of the u.k. utility business              (15)
+other                                                                   21
+total                                                                 $790
+(a)includes activity associated with the operations of rie and integration and related costs. see note 9 to the financial statements for additional information.
+(b)loss on sale of safari holdings. see note 9 to the financial statements for additional information.
+depreciation the increase (decrease) in depreciation was due to:
+2022 vs. 2021
+additions to pp&amp;e, net (a)                $(3)
+depreciation rate change (b)                    12
+rhode island energy                             92
+other                                          (2)
+total                                          $99
+(a)the decrease was primarily due to decreases in software and computer hardware depreciation at ppl electric, as a result of end-of-life retirements, partially offset by additional assets placed into service, net of retirements at ppl electric, lg&e and ku.
+(b)the increase was due to higher depreciation rates at lg&e and ku effective july 2021.
+taxes, other than income the increase (decrease) in taxes, other than income was due to:
+2022 vs. 2021
+state gross receipts tax (a)                      $63
+domestic property tax expense (a)                  59
+other                                               3
+total                                            $125
+(a)increase primarily due to the acquisition of rie.
+other income (expense) - net the increase (decrease) in other income (expense) - net was due to:
+2022 vs. 2021
+defined benefit plans - non-service credits (note 12)               $26
+interest income                                                     (8)
+afudc - equity component                                              4
+other                                                                17
+total                                                               $39
+interest expense the increase (decrease) in interest expense was due to:
+2022 vs. 2021
+loss on extinguishment of debt (a)             $(395)
+long-term debt (b)                               (53)
+rhode island energy                                39
+other                                               4
+total                                          $(405)
+(a)    in june and july 2021, in connection with a tender offer, ppl capital funding retired $3,034 million combined aggregate principal amount of its outstanding senior notes for $3,426 million aggregate cash purchase price. the loss on extinguishment activity included the tender premium, make-whole premiums, accrued interest, bank fees and unamortized fees, hedges and discounts.
+(b)    the decrease in 2022 was primarily due to ppl capital funding debt that was redeemed in june and july 2021, partially offset by increases at lg&e, ku and ppl electric.
+income taxes the increase (decrease) in income taxes was due to:
+2022 vs. 2021
+change in pre-tax income                         $128
+valuation allowance adjustments (a)              (39)
+impact of u.k. finance acts (b)                 (383)
+other                                             (8)
+total                                          $(302)
+(a)in 2021, ppl recorded a $31 million state deferred tax benefit on a net operating loss and an offsetting valuation allowance in connection with the loss on extinguishment associated with a tender offer to purchase and retire ppl capital funding's outstanding senior notes.
+(b)the u.k. finance act 2021, formally enacted on june 10, 2021, increased the u.k. corporation tax rate from 19% to 25%, effective april 1, 2023. the primary impact of the corporation tax rate increase was an increase in deferred tax liabilities of the u.k. utility business, which was sold on june 14, 2021, and a corresponding deferred tax expense of $383 million, which was recognized in continuing operations in 2021.
+see note 6 to the financial statements for additional information on income taxes.
+income (loss) from discontinued operations (net of income taxes)
+income (loss) from discontinued operations (net of income taxes) decreased $1,540 million in 2022 compared with 2021. the decrease was due to the completion of the u.k. utility business in the second quarter of 2021. see "discontinued operations" in note 9 to the financial statements for summarized results of the operations of the u.k. utility business.
+segment earnings ppl's net income (loss) by reportable segments was as follows:
+change
+2022                                                                2021                 2022 vs. 2021
+kentucky regulated                     $507                      $468                       $39
+pennsylvania regulated                  525                       445                        80
+rhode island regulated (a)             (44)                         -                      (44)
+corporate and other (b)               (274)                     (895)                       621
+discontinued operations (a)              42                   (1,498)                     1,540
+net income (loss)                      $756                  $(1,480)                    $2,236
+(a)see note 9 to the financial statements for additional information.
+(b)primarily represents financing and certain other costs incurred at the corporate level that have not been allocated or assigned to the segments, which are presented to reconcile segment information to ppl's consolidated results.
+earnings from ongoing operations management utilizes "earnings from ongoing operations" as a non-gaap financial measure that should not be considered as an alternative to net income, an indicator of operating performance determined in accordance with gaap. ppl believes that earnings from ongoing operations is useful and meaningful to investors because it provides management's view of ppl's earnings performance as another criterion in making investment decisions. in addition, ppl's management uses earnings from ongoing operations in measuring achievement of certain corporate performance goals, including targets for certain executive incentive compensation. other companies may use different measures to present financial performance.
+earnings from ongoing operations is adjusted for the impact of special items. special items are presented in the financial tables on an after-tax basis with the related income taxes on special items separately disclosed. income taxes on special items, when applicable, are calculated based on the statutory tax rate of the entity where the activity is recorded. special items may include items such as:
+•    gains and losses on sales of assets not in the ordinary course of business.
+•    impairment charges.
+•    significant workforce reduction and other restructuring effects.
+•    acquisition and divestiture-related adjustments.
+•    significant losses on early extinguishment of debt.
+•    other charges or credits that are, in management's view, non-recurring or otherwise not reflective of the company's ongoing operations.
+ppl's earnings from ongoing operations by reportable segment were as follows:
+change
+2022                                                                 2021                 2022 vs. 2021
+kentucky regulated                          $515                  $465                       $50
+pennsylvania regulated                       516                   465                        51
+rhode island regulated                        65                     -                        65
+corporate and other                         (55)                 (124)                        69
+earnings from ongoing operations          $1,041                  $806                      $235
+see "reconciliation of earnings from ongoing operations" below for a reconciliation of this non-gaap financial measure to net income.
+kentucky regulated segment the kentucky regulated segment consists primarily of lg&e's and ku's regulated electricity generation, transmission and distribution operations, as well as lg&e's regulated distribution and sale of natural gas.
+net income and earnings from ongoing operations include the following results:
+change
+2022                                                                      2021                 2022 vs. 2021
+operating revenues                           $3,811                  $3,348                      $463
+fuel                                            931                     710                       221
+energy purchases                                273                     186                        87
+other operation and maintenance                 959                     905                        54
+depreciation                                    685                     647                        38
+taxes, other than income                         92                      87                         5
+total operating expenses                      2,940                   2,535                       405
+other income (expense) - net                     12                     (2)                        14
+interest expense                                205                     196                         9
+interest expense with affiliate (a)              57                      53                         4
+income taxes                                    114                      94                        20
+net income                                      507                     468                        39
+less: special items                             (8)                       3                      (11)
+earnings from ongoing operations               $515                    $465                       $50
+(a)borrowings between lke and ppl were $1,744 million and $2,166 million as of december 31, 2022 and 2021.
+the following after-tax gains (losses), which management considers special items, impacted the kentucky regulated segment's results and are excluded from earnings from ongoing operations:
+income statement line item             2022                  2021
+valuation allowance adjustment (a)                                income taxes                                    $-                       $4
+strategic corporate initiatives, net of tax of $3, $0 (b)         other operation and maintenance                 (8)                       -
+strategic corporate initiatives, net of tax of $0, $0             other income (expense) - net                    -                       (1)
+total                                                                                                             $(8)                     $3
+(a)adjustment of valuation allowances related to certain tax credits recorded in 2017 as a result of the tcja.
+(b)costs incurred related to ppl's corporate centralization efforts.
+the changes in the components of the kentucky regulated segment's results between these periods were due to the factors set forth below, which reflect amounts classified as kentucky adjusted gross margins and the items that management considers special on separate lines and not in their respective statement of income line item.
+2022 vs. 2021
+kentucky adjusted gross margins               $205
+other operation and maintenance               (39)
+depreciation                                  (90)
+taxes, other than income                       (7)
+other income (expense) - net                    13
+interest expense                               (9)
+interest expense with affiliate                (4)
+income taxes                                  (19)
+earnings from ongoing operations                50
+special items, after-tax                      (11)
+net income                                     $39
+•see "adjusted gross margins - changes in adjusted gross margins" for an explanation of kentucky adjusted gross margins.
+•higher other operation and maintenance expense in 2022 compared to 2021, primarily due to a $10 million increase in vegetation management expenses, a $9 million increase in plant outage expenses, a $6 million increase related to certain ecr and glt expenses transferred to base rates as a result of the 2020 kentucky rate case and a $6 million increase in storm restoration expenses.
+•higher depreciation expense in 2022 compared to 2021, primarily due to a $60 million increase related to certain ecr and glt depreciation expenses transferred to base rates as a result of the 2020 kentucky rate case, a $19 million increase due to additional assets placed into service, net of retirements and an $11 million increase due to higher depreciation rates, effective july 1, 2021.
+pennsylvania regulated segment the pennsylvania regulated segment includes the regulated electricity transmission and distribution operations of ppl electric.
+net income and earnings from ongoing operations include the following results:
+change
+2022                                                                   2021                 2022 vs. 2021
+operating revenues                        $3,030                  $2,402                      $628
+energy purchases                           1,048                     566                       482
+other operation and maintenance              605                     557                        48
+depreciation                                 393                     424                      (31)
+taxes, other than income                     149                     120                        29
+total operating expenses                   2,195                   1,667                       528
+other income (expense) - net                  35                      26                         9
+interest expense                             171                     162                         9
+income taxes                                 174                     154                        20
+net income                                   525                     445                        80
+less: special items                            9                    (20)                        29
+earnings from ongoing operations            $516                    $465                       $51
+the following after-tax gains (losses), which management considers special items, impacted the pennsylvania regulated segment's results and are excluded from earnings from ongoing operations:
+income statement line item       2022                2021
+pa tax rate change (a)                                                                 income taxes                                 $9               $-
+transmission formula rate return on equity reduction, net of tax of $0, $8 (b)         operating revenues                            -               (20)
+total                                                                                                                               $9               $(20)
+(a)impact of pennsylvania state tax reform. see note 6 to the financial statements for additional information.
+(b)represents the portion of the reduction recognized in the december 31, 2021 statement of income related to the period from may 21, 2020 through december 31, 2020. see note 7 to the financial statements for additional information.
+the changes in the components of the pennsylvania regulated segment's results between these periods were due to the factors set forth below, which reflect amounts classified as pennsylvania adjusted gross margins and the items that management considers special on separate lines and not in their respective statement of income line items.
+2022 vs. 2021
+pennsylvania adjusted gross margins              $112
+other operation and maintenance                  (46)
+depreciation                                        6
+taxes, other than income                            1
+other income (expense) - net                        8
+interest expense                                  (9)
+income taxes                                     (21)
+earnings from ongoing operations                   51
+special items, after-tax                           29
+net income                                        $80
+•see "adjusted gross margins - changes in adjusted gross margins" for an explanation of pennsylvania adjusted gross margins.
+•higher other operation and maintenance expense in 2022 compared with 2021 primarily due to a $14 million increase in bad debt expenses, a $12 million increase in vegetation management expenses, a $12 million increase in it cloud amortization and other items that were not individually significant.
+rhode island regulated segment the rhode island regulated segment consists primarily of the regulated electricity transmission and distribution operations and regulated distribution and sale of natural gas conducted by rie.
+net loss and earnings from ongoing operations include the following results:
+change
+2022                                                  2021                              2022 vs. 2021
+operating revenues                        $1,038               $-                       $1,038
+energy purchases                             365               -                           365
+other operation and maintenance              531               -                           531
+depreciation                                  92               -                            92
+taxes, other than income                      92               -                            92
+total operating expenses                   1,080               -                         1,080
+other income (expense) - net                  23               -                            23
+interest expense                              39               -                            39
+income taxes                                (14)               -                          (14)
+net loss                                    (44)               -                          (44)
+less: special items                        (109)               -                         (109)
+earnings from ongoing operations             $65               $-                          $65
+the following after-tax gains (losses), which management considers special items, impacted the rhode island regulated segment's results and are excluded from earnings from ongoing operations:
+income statement line item                              2022   2021
+acquisition integration, net of tax of $18, $0 (a)       other operation and maintenance                     $(70)               $-
+acquisition integration, net of tax of $0, $0 (a)        other income (expense) - net                            1               -
+acquisition integration, net of tax of $10, $0 (a)       operating revenues                                   (40)               -
+total special items                                                                                         $(109)               $-
+(a)represents costs related to the acquisition of rhode island energy including certain costs associated with its integration, commitments made during the acquisition process and related costs. see note 9 to the financial statements for additional information related to the commitments made as a condition of the acquisition.
+reconciliation of earnings from ongoing operations the following tables contain after-tax gains (losses), in total, which management considers special items, that are excluded from earnings from ongoing operations, and a reconciliation to ppl's "net income" for the years ended december 31:
+2022
+ky                                      pa            ri                               corporate                  discontinued                    total regulated                        regulated            regulated                        and other                operations (a)
+net income (loss)                                                          $507                            $525                  $(44)                         $(274)                          $42                        $756
+less: special items (expense) benefit:
+income (loss) from discontinued operations (a)                             -                                  -                  -                                  -                           42                          42
+talen litigation costs, net of tax of $0 (b)                               -                                  -                  -                                  1                            -                           1
+strategic corporate initiatives, net of tax of $3, $4 (c)                  (8)                                -                  -                               (15)                            -                        (23)
+acquisition integration, net of tax of $28, $39 (j)                        -                                  -                  (109)                          (148)                            -                       (257)
+pa tax rate change (e)                                                     -                                  9                  -                                (4)                            -                           5
+sale of safari holdings, net of tax of $16 (i)                             -                                  -                  -                               (53)                            -                        (53)
+total special items                                                        (8)                                9                  (109)                          (219)                           42                       (285)
+earnings from ongoing operations                                           $515                            $516                  $65                            $(55)                           $-                      $1,041
+2021
+ky regulated            pa regulated                  ri                              corporate and other                  discontinued operations (a)                      total regulated net income (loss)                                                                             $468                   $445                          $-                                  $(895)                                  $(1,498)                           $(1,480)
+less: special items (expense) benefit:
+income (loss) from discontinued operations (a)                                                   -                   -                             -                                        -                                   (1,502)                            (1,502)
+talen litigation costs, net of tax of $4 (b)                                                     -                   -                             -                                     (16)                                         -                               (16)
+strategic corporate initiatives, net of tax of $0, $2 (c)                                      (1)                   -                             -                                      (8)                                         -                                (9)
+valuation allowance adjustment (d)                                                               4                   -                             -                                      (4)                                         4                                  4
+transmission formula rate return on equity reduction, net of tax of $8                           -                   (20)                          -                                        -                                         -                               (20)
+acquisition integration, net of tax of $6 (j)                                                    -                   -                             -                                     (22)                                         -                               (22)
+u.k. tax rate change (f)                                                                         -                   -                             -                                    (383)                                         -                              (383)
+solar panel impairment, net of tax of $9 (g)                                                     -                   -                             -                                     (26)                                         -                               (26)
+loss on early extinguishment of debt, net of tax of $83 (h)                                      -                   -                             -                                    (312)                                         -                              (312)
+total special items                                                                              3                   (20)                          -                                    (771)                                   (1,498)                            (2,286)
+earnings from ongoing operations                                                              $465                   $465                          $-                                  $(124)                                        $-                               $806
+(a)see note 9 to the financial statements for additional information.
+(b)ppl incurred legal expenses and received insurance reimbursement related to litigation with its former affiliate, talen montana. see note 14 to the financial statements for additional information.
+(c)costs incurred for 2022 relate to ppl's strategic repositioning and corporate centralization efforts. costs incurred for 2021 are related to the sale of the u.k. utility business and ppl's strategic repositioning.
+(d)adjustment of valuation allowances related to certain tax credits recorded in 2017 as a result of the tcja.
+(e)impact of pennsylvania state tax reform. see note 6 to the financial statements for additional information.
+(f)impact of the u.k. finance acts on deferred tax balances. see note 6 to the financial statements for additional information.
+(g)reflects solar panel write-down due to extension of federal government's solar investment tax credits, technological advances resulting in more efficient modules available on the market and rising commodity prices for materials used in various solar projects.
+(h)in june and july 2021, in connection with the tender offer, ppl capital funding retired $3,034 million combined aggregate principal amount of its outstanding senior notes for $3,426 million aggregate cash purchase price. the loss on extinguishment activity included the tender premium, make-whole premiums, accrued interest, bank fees and unamortized fees, hedges and discounts.
+(i)primarily includes the loss on the sale of safari holdings, llc. see note 9 to the financial statements for more information.
+(j)represents costs related to the acquisition of rhode island energy including certain costs associated with its integration, commitments made during the acquisition process and related costs. see note 9 to the financial statements for additional information related to the commitments made as a condition of the acquisition.
+adjusted gross margins management also utilizes the following non-gaap financial measures as indicators of performance for its businesses.
+•"kentucky adjusted gross margins" is a single financial performance measure of the electricity generation, transmission and distribution operations of the kentucky regulated segment, as well as the kentucky regulated segment's distribution and sale of natural gas. in calculating this measure, fuel, energy purchases and certain variable costs of production (recorded in "other operation and maintenance" on the statements of income) are deducted from operating revenues. in addition, certain other expenses, recorded in "other operation and maintenance", "depreciation" and "taxes, other than income" on the statements of income, associated with approved cost recovery mechanisms are offset against the recovery of those expenses, which are included in revenues. these mechanisms allow for direct recovery of these expenses and, in some cases, returns on capital investments and performance incentives. as a result, this measure represents the net revenues from electricity and gas operations.
+•"pennsylvania adjusted gross margins" is a single financial performance measure of the electricity transmission and distribution operations of the pennsylvania regulated segment. in calculating this measure, utility revenues and expenses associated with approved recovery mechanisms, including energy provided as a plr, are offset with minimal impact on earnings. costs associated with these mechanisms are recorded in "energy purchases," "other operation and maintenance," (which are primarily act 129, storm damage and universal service program costs), "depreciation" (which is primarily related to the act 129 smart meter program) and "taxes, other than income," (which is primarily gross receipts tax) on the statements of income. this measure represents the net revenues from the pennsylvania regulated segment's electricity delivery operations.
+•"rhode island adjusted gross margins" is a single financial performance measure of the electricity transmission and distribution operations of the rhode island regulated segment, as well as the rhode island regulated segment's distribution and sale of natural gas. in calculating this measure, utility revenues and expenses associated with approved recovery mechanisms are offset with minimal impact on earnings. costs associated with these mechanisms are recorded in "energy purchases," "other operation and maintenance" (which are primarily regional network transmission service, energy efficiency and storm cost related) and "taxes, other than income" (which is primarily gross earnings tax) on the statements of income. this measure represents the net revenues from rhode island regulated segment's electricity and gas delivery operations.
+these measures are not intended to replace "operating income," which is determined in accordance with gaap, as an indicator of overall operating performance. other companies may use different measures to analyze and report their results of operations. management believes these measures provide additional useful criteria to make investment decisions. these performance measures are used, in conjunction with other information, by senior management and ppl's board of directors to manage operations and analyze actual results compared with budget.
+changes in adjusted gross margins the following table shows adjusted gross margins by ppl's reportable segment and by component, as applicable, for the year ended december 31 as well as the changes between periods. the factors that gave rise to the changes are described following the table.
+change
+2022                                                                            2021                 2022 vs. 2021
+kentucky regulated kentucky adjusted gross margins                    $2,460                  $2,255                      $205
+pennsylvania regulated pennsylvania adjusted gross margins distribution                                         $962                    $915                       $47
+transmission                                          739                     674                        65
+total pennsylvania adjusted gross margins          $1,701                  $1,589                      $112
+rhode island regulated rhode island adjusted gross margins                  $441                      $-                      $441
+kentucky adjusted gross margins kentucky adjusted gross margins increased in 2022 compared with 2021, primarily due to higher base rates of $105 million, environmental and gas cost recoveries added to base rates of $66 million and higher sales volumes primarily due to weather of $29 million.
+the increase in base rates was the result of new rates approved by the kpsc effective july 1, 2021. the environmental and gas cost recoveries added to base rates were the result of the transfer of certain ecr and glt expenses into base rates as a result of the 2020 kentucky rate case. this transfer results in depreciation and other operation and maintenance expenses associated with the ecr and glt programs being excluded from margins for all twelve months in 2022 compared to six months in 2021.
+pennsylvania adjusted gross margins distribution distribution adjusted gross margins increased in 2022 compared with 2021, primarily due to higher sales volumes of $17 million which included favorable weather of $11 million. late payment charges increased $10 million as a result of not charging late payment fees for much of 2021 due to the covid-19 pandemic. tcja margins increased $11 million due to lower taxable income associated with the mechanism. merchant function charge, which is added to the ptc rates to offset uncollectible expenses, increased by $8 million largely due to the energy price increases.
+transmission transmission adjusted gross margins increased in 2022 compared with 2021, primarily due to a $29 million increase as a result of a higher annual ppl zonal peak load billing factor in 2022 and $38 million of returns on additional transmission capital investments focused on replacing aging infrastructure and improving reliability.
+rhode island adjusted gross margins rhode island adjusted gross margins increased for 2022 compared with 2021, due to the acquisition of narragansett electric on may 25, 2022.
+reconciliation of adjusted gross margins the following tables contain the components from the statement of income that are included in the non-gaap financial measures and a reconciliation to ppl's "operating income" for the years ended december 31:
+2022
+kentucky adjusted                  pennsylvania                  rhode island                    other (b)                  operating gross                adjusted gross                      adjusted                                              income (c)
+margins                       margins                         gross margins (a)
+operating revenues                                     $3,811                         $3,030                        $1,088                         $(27)                     $7,902
+operating expenses fuel                                                      931                              -                             -                             -                        931
+energy purchases                                          273                          1,048                           365                             -                      1,686
+other operation and maintenance                            92                            111                           249                         1,946                      2,398
+depreciation                                               53                             28                             -                         1,100                      1,181
+taxes, other than income                                    2                            142                            33                           155                        332
+total operating expenses                                1,351                          1,329                           647                         3,201                      6,528
+total                                                  $2,460                         $1,701                          $441                      $(3,228)                     $1,374
+2021
+kentucky adjusted                  pennsylvania            rhode island                          other (b)                  operating gross                adjusted gross            adjusted                                                        income (c)
+margins                       margins            gross margins operating revenues                                     $3,348                         $2,430                   $-                                     $5                     $5,783
+operating expenses fuel                                                      710                              -                   -                                       -                        710
+energy purchases                                          186                            566                   -                                       -                        752
+other operation and maintenance                            88                            111                   -                                   1,409                      1,608
+depreciation                                              105                             52                   -                                     925                      1,082
+taxes, other than income                                    4                            112                   -                                      91                        207
+total operating expenses                                1,093                            841                   -                                   2,425                      4,359
+total                                                  $2,255                         $1,589                   $-                               $(2,420)                     $1,424
+(a)operating revenue excludes a $50 million customer bill credit to all electric and natural gas distribution customers that was treated as a special item. see note 9 to the financial statements for additional information.
+(b)represents amounts excluded from adjusted gross margins.
+(c)as reported on the statements of income.
+ppl electric: statement of income analysis net income for the years ended december 31 includes the following results:
+change
+2022                                                                   2021                 2022 vs. 2021
+operating revenues                        $3,030                  $2,402                      $628
+operating expenses operation energy purchases                           1,048                     566                       482
+other operation and maintenance              605                     557                        48
+depreciation                                 393                     424                      (31)
+taxes, other than income                     149                     120                        29
+total operating expenses                   2,195                   1,667                       528
+other income (expense) - net                  30                      21                         9
+interest income from affiliate                 5                       5                         -
+interest expense                             171                     162                         9
+income taxes                                 174                     154                        20
+net income                                  $525                    $445                       $80
+operating revenues the increase (decrease) in operating revenues was due to:
+2022 vs. 2021
+distribution price (a)                    $(19)
+distribution volume (b)                      20
+plr (c)                                     520
+transmission formula rate (d)                92
+other (e)                                    15
+total                                      $628
+(a)distribution price variance was primarily due to reconcilable cost recovery mechanisms approved by the papuc.
+(b)the increase was due to colder weather combined with higher non-residential customer volumes.
+(c)the increase was primarily the result of higher energy prices, lower volumes of shopping customers and higher customer volumes due to colder weather.
+(d)the increase was primarily due to returns on additional transmission capital investments, a higher ppl zonal peak load billing factor in 2022 and the reduction in the transmission formula rate return on equity recorded in 2021. see note 7 to the financial statements for additional information on the transmission formula rate return on equity reduction.
+(e) the increase was primarily due to higher late payment charges in 2022, which were not billed until the fourth quarter 2021 due to the covid pandemic.
+energy purchases energy purchases increased $482 million in 2022 compared with 2021. this increase was primarily due to higher plr prices of $419 million and higher plr volumes of $58 million.
+other operation and maintenance the increase (decrease) in other operation and maintenance was due to:
+2022 vs. 2021
+act 129 smart meter program                  $7
+storm costs                                (10)
+it cloud amortization costs                  12
+vegetation management costs                  12
+bad debts                                    14
+canceled projects                             8
+support costs                               (9)
+other                                        14
+total                                       $48
+depreciation depreciation decreased $31 million in 2022 compared with 2021, primarily due to a $38 million decrease in software and computer hardware depreciation as a result of end-of-life retirements, partially offset by $11 million of additional assets placed into service, net of retirements.
+lg&e: statement of income analysis net income for the years ended december 31 includes the following results:
+change
+2022                                                                   2021                 2022 vs. 2021
+operating revenues retail and wholesale                      $1,762                  $1,545                      $217
+electric revenue from affiliate               36                      24                        12
+total operating revenues                   1,798                   1,569                       229
+operating expenses operation fuel                                         346                     265                        81
+energy purchases                             245                     167                        78
+energy purchases from affiliates              25                      23                         2
+other operation and maintenance              416                     400                        16
+depreciation                                 298                     279                        19
+taxes, other than income                      48                      46                         2
+total operating expenses                   1,378                   1,180                       198
+other income (expense) - net                   4                     (5)                         9
+interest expense                              89                      81                         8
+income taxes                                  63                      54                         9
+net income                                  $272                    $249                       $23
+operating revenues the increase (decrease) in operating revenues was due to:
+2022 vs. 2021
+fuel and other energy prices (a)              $149
+retail rates (b)                                50
+volumes                                         33
+other                                          (3)
+total                                         $229
+(a)the increase was primarily due to higher recoveries of fuel and energy purchases due to higher commodity costs.
+(b)the increase was due to new base rates approved by the kpsc effective july 1, 2021.
+fuel fuel increased $81 million in 2022 compared with 2021, primarily due to a $67 million increase in commodity costs and a $14 million increase in volumes driven by weather.
+energy purchases energy purchases increased $78 million in 2022 compared with 2021, primarily due to an increase in commodity costs.
+other operation and maintenance other operation and maintenance increased $16 million in 2022 compared with 2021, primarily due to a $6 million increase in storm restoration costs and a $4 million increase in natural gas inventory losses.
+depreciation depreciation increased $19 million in 2022 compared with 2021, primarily due to a $12 million increase driven by additional assets placed into service, net of retirements, and an $8 million increase driven by higher depreciation rates effective july 1, 2021.
+ku: statement of income analysis net income for the years ended december 31 includes the following results:
+change
+2022                                                                   2021                 2022 vs. 2021
+operating revenues retail and wholesale                      $2,049                  $1,803                      $246
+electric revenue from affiliate               25                      23                         2
+total operating revenues                   2,074                   1,826                       248
+operating expenses operation fuel                                         585                     445                       140
+energy purchases                              28                      19                         9
+energy purchases from affiliates              36                      24                        12
+other operation and maintenance              487                     463                        24
+depreciation                                 386                     366                        20
+taxes, other than income                      45                      41                         4
+total operating expenses                   1,567                   1,358                       209
+other income (expense) - net                   8                       4                         4
+interest expense                             117                     109                         8
+income taxes                                  76                      67                         9
+net income                                  $322                    $296                       $26
+operating revenues the increase (decrease) in operating revenues was due to:
+2022 vs. 2021
+retail rates (a)                         $55
+fuel and energy prices (b)               165
+volumes                                   24
+other                                      4
+total                                   $248
+(a)the increases were due to new base rates approved by the kpsc effective july 1, 2021.
+(b)the increases were primarily due to higher recoveries of fuel and energy purchases due to higher commodity costs.
+fuel fuel increased $140 million in 2022 compared with 2021, primarily due to an increase in commodity costs.
+other operation and maintenance other operations and maintenance increased $24 million in 2022 compared with 2021, primarily due to a $10 million increase in vegetation management expenses and a $9 million increase in plant outage expenses.
+depreciation depreciation increased $20 million in 2022 compared with 2021, primarily due to a $12 million increase driven by additional assets placed into service, net of retirements, and a $4 million increase driven by higher depreciation rates effective july 1, 2021.
+financial condition the remainder of this item 7 in this form 10-k is presented on a combined basis, providing information, as applicable, for all registrants.
+liquidity and capital resources
+(all registrants)
+the registrants' cash flows from operations and access to cost effective bank and capital markets are subject to risks and uncertainties. see "item 1a. risk factors" for a discussion of risks and uncertainties that could affect the registrants' cash flows.
+the registrants had the following at:
+ppl                     ppl                lg&amp;e                  ku electric december 31, 2022
+cash and cash equivalents                      $356                    $25                     $93                   $21
+short-term debt                                 985                    145                     179                   101
+long-term debt due within one year              354                    340                       -                    13
+notes payable with affiliates                                            -                       -                     -
+december 31, 2021
+cash and cash equivalents                    $3,571                    $21                      $9                   $13
+short-term debt                                  69                      -                      69                     -
+long-term debt due within one year              474                    474                       -                     -
+notes payable with affiliates                                            -                     324                   294
+(ppl)
+the statements of cash flows separately report the cash flows of discontinued operations. the "operating activities," "investing activities" and "financing activities" sections below include only the cash flows of continuing operations.
+(all registrants)
+net cash provided by (used in) operating, investing and financing activities for the years ended december 31 and the changes between periods were as follows:
+ppl                       ppl                lg&amp;e                    ku electric
+2022
+operating activities            $1,730                     $757                    $543                    $661
+investing activities           (5,654)                    (387)                   (360)                   (547)
+financing activities               709                    (366)                    (99)                   (106)
+2021
+operating activities            $1,544                     $969                    $458                    $608
+investing activities             8,564                  (1,400)                   (466)                   (556)
+financing activities           (7,344)       412                                     10                    (61)
+2022 vs. 2021 change operating activities              $186                   $(212)                     $85                     $53
+investing activities          (14,218)                    1,013                     106        9
+financing activities             8,053                    (778)                   (109)                    (45)
+operating activities the components of the change in cash provided by (used in) operating activities were as follows:
+ppl                       ppl                lg&amp;e                  ku electric
+2022 vs. 2021
+change - cash provided (used):
+net income                                $696                      $80                     $23                   $26
+non-cash components                      (153)                     (21)                      11                    32
+working capital                          (414)                    (262)                      50                     2
+defined benefit plan funding                41       21                                       1                     -
+other operating activities                  16                     (30)                       -                   (7)
+total                                     $186                   $(212)                     $85                   $53
+(ppl)
+ppl cash provided by operating activities in 2022 increased $186 million compared with 2021.
+•net income increased $696 million between periods and included a decrease in net non-cash charges of $153 million. the decrease in non-cash charges was primarily due to the loss on extinguishment of debt and the impairment of solar panels in 2021, partially offset by an increase in depreciation and an increase in deferred income taxes and investment tax credits.
+•the $414 million decrease in cash from changes in working capital was primarily due to a decrease in regulatory liabilities (primarily due to ppl electric's transmission formula rate return on equity reduction and the timing of rate recovery mechanisms) and a decrease in other current assets, partially offset by an increase in unbilled revenues (primarily due to weather and rate recovery mechanisms), an increase in accounts receivable (primarily due to pricing) and an increase in accounts payable (primarily due to timing).
+•the $41 million decrease in defined benefit plan funding was primarily due to a decrease in contribution to pension plans in 2022, as ppl's defined benefit pension plans have the option to utilize available prior year credit balances to meet current and future contribution requirements.
+•the $16 million increase in cash provided by other operating activities was driven by an increase in non-current liabilities (primarily related to an increase in aro expenditures and an increase in non-current regulatory liabilities, partially offset by a decrease in accrued pension and postretirement obligations).
+(ppl electric)
+ppl electric's cash provided by operating activities in 2022 decreased $212 million compared with 2021.
+•net income increased $80 million between the periods and included a decrease in non-cash components of $21 million. the decrease in non-cash components was primarily due to a decrease in depreciation expense (primarily related to a decrease in software and computer hardware depreciation as a result of end-of-life retirements).
+•the $262 million decrease in cash from changes in working capital was primarily due to a decrease in regulatory liabilities (primarily due to refunds to customers related to the transmission formula rate return on equity reduction), partially offset by an increase in unbilled revenues (primarily due to weather and rate recovery mechanisms), an increase in accounts payable (due to timing) and an increase in accounts receivable (due to pricing).
+•the $21 million of activity in defined benefit plan funding was primarily due to a decrease in contribution to its pension plans in 2022, as ppl electric's defined benefit pension plans have the option to utilize available prior year credit balances to meet current and future contribution requirements.
+•the $30 million decrease in cash provided by other operating activities was driven primarily by an increase in non-current assets (primarily related to cloud computing and a decrease in medical claim payments).
+(lg&e)
+lg&e's cash provided by operating activities in 2022 increased $85 million compared with 2021.
+•net income increased $23 million between the periods and included an increase in non-cash components of $11 million. the increase in non-cash components was primarily driven by an increase in depreciation expense (primarily due to additional assets placed into service, net of retirements and higher depreciation rates effective july 1, 2021), partially offset by a decrease in deferred income tax expense (primarily due to book versus tax plant timing differences).
+•cash from changes in working capital increased by $50 million. the increase was primarily due to a decrease in regulatory assets and liabilities, net (primarily due to the timing of rate recovery mechanisms), an increase in accounts payable to affiliates and other current liabilities (primarily due to timing of payments), partially offset by an increase in unbilled revenues (primarily due to weather and higher commodity costs).
+(ku)
+ku's cash provided by operating activities in 2022 increased $53 million compared with 2021.
+•net income increased $26 million between the periods and included an increase in non-cash components of $32 million. the increase in non-cash components was primarily driven by an increase in depreciation expense (primarily due to additional assets placed into service, net of retirements and higher depreciation rates effective july 1, 2021).
+•cash from changes in working capital increased $2 million. the increase was primarily due to an increase in accounts payable, an increase in accounts payable with affiliates, an increase in taxes payable and a decrease in other current liabilities (primarily due to timing of payments) and other insignificant changes, partially offset by an increase in fuels, materials and supplies (primarily due to higher commodity costs and the accumulation of inventory for upcoming transmission and distribution products) and an increase in unbilled revenues and accounts receivable (primarily due to weather and higher commodity costs).
+investing activities
+(all registrants)
+the components of the change in cash provided by (used in) investing activities were as follows:
+ppl                                   ppl            lg&amp;e       ku electric
+2022 vs. 2021
+change - cash provided (used):
+expenditures for pp&amp;e                                               $(182)                           $12                 $95            $13
+proceeds from sale of safari holdings, net of cash divested             146                                -                 -              -
+proceeds from sale of u.k. utility business, net of cash divested       (10,560)                           -                 -              -
+acquisition of narragansett electric, net of cash acquired              (3,660)                            -                 -              -
+notes receivable from affiliate                                         -                                998                 -              -
+other investing activities                                              38                                 3        11                      (4)
+total                                                                   $(14,218)                     $1,013                 $106           $9
+for ppl, in 2022 compared with 2021, the increase in expenditures was due to expenditures at rie, partially offset by a decrease in expenditures at lg&e. the decrease in expenditures at lg&e was primarily due to lower spending on elg projects and other projects that are not individually significant.
+see "forecasted uses of cash" for detail regarding projected capital expenditures for the years 2023 through 2025.
+for ppl electric, the changes in "notes receivable from affiliate" activity resulted from payments received on the short-term note between affiliates in 2022, issued to support general corporate purposes. see note 15 to the financial statements for further discussion of intercompany borrowings.
+financing activities
+(all registrants)
+the components of the change in cash provided by (used in) financing activities were as follows:
+ppl                       ppl                  lg&amp;e                    ku electric
+2022 vs. 2021
+change - cash provided (used):
+long-term debt issuance/retirement, net            $4,542                   $(250)                      $300                    $300
+dividends                                             492                      (6)                      (83)                    (46)
+purchase of treasury stock                          1,003                        -                         -                       -
+capital contributions/distributions, net                -                    (671)                        16                    (16)
+retirement of term loan                               300                        -                         -                       -
+retirement of commercial paper                         73                        -                        41                      32
+changes in net short-term debt                      1,642                      145                       262                     272
+note payable with affiliate                             -                        -                     (648)                   (588)
+other financing activities                              1                        4                         3                       1
+total                                              $8,053                   $(778)                    $(109)                   $(45)
+(all registrants)
+see note 8 to the financial statements in this form 10-k for information on 2022 activity.
+see "long-term debt and equity securities" below for additional information on current year activity. see "forecasted sources of cash" for a discussion of the registrants' plans to issue debt and equity securities, as well as a discussion of credit facility capacity available to the registrants. also see "forecasted uses of cash" for a discussion of ppl's plans to pay dividends on common securities in the future, as well as the registrants' maturities of long-term debt.
+long-term debt and equity securities long-term debt and equity securities activity for 2022 included:
+debt   stock issuances (a)            retirements       issuances (b)                 repurchases cash flow impact:
+ppl                            $850                   $264              $18                           $-
+ppl electric                    250          250                        -                             -
+lg&amp;e                        300                   -                 -                             -
+ku                              300                   -                 -                             -
+(a)issuances are net of pricing discounts, where applicable, and exclude the impact of debt issuance costs. includes debt issuances with affiliates.
+(b)includes issuances of common stock and treasury stock, which are included in "other financing activities" on the statements of cash flows.
+see note 8 to the financial statements for additional long-term debt information.
+equity securities activities (ppl)
+share repurchase in august 2021, ppl's board of directors authorized share repurchases of up to $3 billion of ppl common shares. in 2021, ppl repurchased approximately $1 billion of ppl common shares. there were no share repurchases during the year ended december 31, 2022. any additional amounts to be repurchased pursuant to this authority will depend on various factors, including ppl's share price and market conditions. ppl may purchase shares on each trading day subject to market conditions and principles of best execution.
+forecasted sources of cash
+(all registrants)
+the registrants expect to continue to have adequate liquidity available from operating cash flows, cash and cash equivalents, credit facilities and commercial paper issuances to meet their requirements with respect to their contractual obligations and anticipated capital expenditures. additionally, subject to market conditions, the registrants and their subsidiaries may access the capital markets, and ppl electric, lg&e and ku anticipate receiving equity contributions from their parent or member in 2023.
+credit facilities the registrants maintain credit facilities to enhance liquidity, provide credit support and provide a backstop to commercial paper programs. amounts borrowed under these credit facilities are reflected in "short-term debt" on the balance sheets, except for borrowings under ppl electric's term loan agreement due in 2024 and borrowings under lg&e's and ku's term loan agreements due in 2024, which are reflected in "long-term debt". at december 31, 2022, the total committed borrowing capacity under credit facilities and the borrowings under these facilities were:
+external committed capacity                borrowed                 letters of                    unused credit                  capacity and commercial paper issued (c)
+ppl capital funding credit facilities                 $1,350                          $-                      $561                       $789
+ppl electric credit facilities                           900                         250                       146                        504
+lg&amp;e credit facilities                               800                         300                       180                        320
+ku credit facilities                                     700                         300                       101                        299
+total credit facilities (a) (b)                       $3,750                        $850                      $988                     $1,912
+(a)the syndicated credit facilities, term loans and ppl capital funding's bilateral facility, each contain a financial covenant requiring debt to total capitalization not to exceed 70% for ppl capital funding, ppl electric, lg&e and ku, as calculated in accordance with the facility, and other customary covenants.
+the commitments under the credit facilities are provided by a diverse bank group, with no one bank and its affiliates providing an aggregate commitment of more than the following percentages of the total committed capacity: ppl - 14%, ppl electric - 18%, lg&e - 19% and ku - 21%.
+(b)each company pays customary fees under its respective syndicated credit facility. borrowings generally bear interest at libor-based rates, or applicable sofr, plus an applicable margin.
+(c)commercial paper issued reflects the undiscounted face value of the issuance.
+in addition to the financial covenants noted in the table above, the credit agreements governing the above credit facilities contain various other covenants. failure to comply with the covenants after applicable grace periods could result in acceleration of repayment of borrowings and/or termination of the agreements. the registrants monitor compliance with the covenants on a regular basis. at december 31, 2022, the registrants were in compliance with these covenants. at this time, the registrants believe that these covenants and other borrowing conditions will not limit access to these funding sources.
+see note 8 to the financial statements for further discussion of the registrants' credit facilities.
+intercompany (lg&e and ku)
+committed   borrowed                      commercial paper program                  unused capacity                                                 capacity                capacity lg&amp;e money pool (a)            $750         $-                                     $500                          $250
+ku money pool (a)                   650         -              400                                                    250
+(a)lg&e and ku participate in an intercompany money pool agreement whereby lke and/or ku make available to lg&e, and lke and/or lg&e make available to ku funds up to the difference between lg&e's and ku's ferc borrowing limit and lg&e's and ku's commercial paper capacity limit, at an interest rate based on the lower of a market index of commercial paper issues and two additional rate options based on libor.
+see note 15 to the financial statements for further discussion of intercompany credit facilities.
+commercial paper (all registrants)
+the registrants maintain commercial paper programs to provide an additional financing source to fund short-term liquidity needs, as necessary. commercial paper issuances, included in "short-term debt" on the balance sheets, are supported by the respective registrant's credit facilities. the following commercial paper programs were in place at:
+december 31, 2022
+capacity                       commercial                       unused paper                     capacity issuances (c)
+ppl capital funding           $1,350                           $561                           $789
+ppl electric                     650                            145                            505
+lg&amp;e (a)                     500                            180                            320
+ku (b)                           400                            101                            299
+total ppl                     $2,900                           $987                         $1,913
+(a)in august 2022, the capacity for the lg&e commercial paper program was increased to $500 million.
+(b)in august 2022, the capacity for the ku commercial paper program was increased to $400 million.
+(c)commercial paper issued reflects the undiscounted face value of the issuance.
+long-term debt and equity securities
+(ppl)
+ppl and its subsidiaries are authorized to issue, at the discretion of management and subject to market conditions, up to $3.50 billion of long-term debt securities, the proceeds of which would be used to fund capital expenditures and for general corporate purposes. rie is authorized to issue, at the discretion of management and subject to market conditions and regulatory approvals, up to $500 million of long-term debt securities, the proceeds of which would be used to repay short-term debt incurred to fund capital expenditures and for general corporate purposes.
+(ppl electric)
+ppl electric is authorized to issue, at the discretion of management and subject to market conditions and regulatory approvals, up to $1 billion of long-term debt securities, the proceeds of which would be used to fund capital expenditures and for general corporate purposes.
+(lg&e)
+lg&e is authorized to issue, at the discretion of management and subject to market conditions and regulatory approvals, up to $500 million of long-term debt securities, the proceeds of which would be used to repay short-term debt incurred to fund capital expenditures and for general corporate purposes.
+(ku)
+ku is authorized to issue, at the discretion of management and subject to market conditions and regulatory approvals, up to $500 million of long-term debt securities, the proceeds of which would be used to repay short-term debt incurred to fund capital expenditures and for general corporate purposes.
+contributions from parent (ppl electric, lg&e and ku)
+from time to time, the parents of ppl electric, lg&e and ku make capital contributions to subsidiaries. the proceeds from these contributions are used to fund capital expenditures and for other general corporate purposes.
+forecasted uses of cash
+(all registrants)
+in addition to expenditures required for normal operating activities, such as purchased power, payroll, fuel and taxes, the registrants currently expect to incur future cash outflows for capital expenditures, various contractual obligations, payment of dividends on its common stock, and possibly the purchase or redemption of a portion of debt securities.
+capital expenditures the table below shows the registrants' current capital expenditure projections for the years 2023 through 2025. expenditures for the domestic regulated utilities are expected to be recovered through rates, pending regulatory approval.
+projected total                  2023 (b)                    2024                    2025
+ppl generating facilities (a)                 $1,508                     $252                      $369                    $887
+electric distribution facilities           2,734                      929                       892                     913
+gas distribution facilities                1,005                      272                       313                     420
+transmission facilities                    2,962                      827                     1,019                   1,116
+other                                        308                      106                       100                     102
+total capital expenditures                $8,517                   $2,386                    $2,693                  $3,438
+ppl electric electric distribution facilities            $921                     $318                      $299                    $304
+transmission facilities                    1,980                      545                       670                     765
+total capital expenditures                $2,901                     $863                      $969                  $1,069
+lg&amp;e generating facilities (a)                   $633                      $92                      $147                    $394
+electric distribution facilities             476                      165                       161                     150
+gas distribution facilities                  203                       54                        55                      94
+transmission facilities                       56                        5                        23                      28
+other                                        120                       50                        34                      36
+total capital expenditures                $1,488                     $366                      $420                    $702
+projected total                2023 (b)                  2024                  2025
+ku generating facilities (a)                   $875                   $160                    $222                  $493
+electric distribution facilities             520                    210                     163                   147
+transmission facilities                      338                    165                      91                    82
+other                                        178                     52                      63                    63
+total capital expenditures                $1,911                   $587                    $539                  $785
+(a)capital expenditure projections include $115 million at ppl ($42 million at lg&e and $73 million at ku) in 2023 and $44 million at ppl ($21 million at lg&e and $23 million at ku) in 2024 related to certain costs of complying with the clean air act, as amended, and other federal, state and local environmental requirements applicable to coal combustion wastes and by-products from coal-fired generating facilities, which are expected to be subject to rate recovery through the ecr mechanism.
+(b)the 2023 total excludes amounts included in accounts payable as of december 31, 2022.
+capital expenditure plans are revised periodically to reflect changes in operational, market and regulatory conditions.
+contractual obligations the registrants have assumed various financial obligations and commitments in the ordinary course of conducting business. at december 31, 2022, estimated contractual cash obligations were as follows:
+total                    2023                  2024-2025                  2026-2027                 after 2027
+ppl long-term debt (a)                                      $13,353                     $354                  $2,052                     $1,207                     $9,740
+interest on long-term debt (b)                            9,067                      557                     984                        881                      6,645
+operating leases (c)                                         69                       24                      29                          9                          7
+purchase obligations (d)                                  3,348                    1,363                   1,090                        340                        555
+total contractual cash obligations                      $25,837                   $2,298                  $4,155                     $2,437                    $16,947
+ppl electric long-term debt (a)                                       $4,539                     $340                    $900                       $108                     $3,191
+interest on long-term debt (b)                            3,038                      183                     299                        289                      2,267
+unconditional power purchase obligations                    106                       29                      57                         20                          -
+total contractual cash obligations                       $7,683                     $552                  $1,256                       $417                     $5,458
+lg&amp;e long-term debt (a)                                       $2,324                       $-                    $600                       $285                     $1,439
+interest on long-term debt (b)                            1,367                       92                     160                        130                        985
+operating leases (c)                                         16                        6                       8                          2                          -
+coal and natural gas purchase obligations (e)               705                      340                     282                         74                          9
+unconditional power purchase obligations (f)                296                       24                      44                         44                        184
+construction obligations (g)                                126                       58                      63                          2                          3
+other obligations                                            72                       26                      36                          4                          6
+total contractual cash obligations                       $4,906                     $546                  $1,193                       $541                     $2,626
+ku long-term debt (a)                                       $2,942                      $13                    $550                       $164                     $2,215
+interest on long-term debt (b)                            2,045                      123                     220                        191                      1,511
+operating leases (c)                                         21                        9                      11                          1                          -
+coal and natural gas purchase obligations (e)               866                      354                     408                        104                          -
+unconditional power purchase obligations (f)                131                       10                      20                         20                         81
+construction obligations (g)                                103                       54                      43                          2                          4
+other obligations                                           128                       60                      50                         12                          6
+total contractual cash obligations                       $6,236                     $623                  $1,302                       $494                     $3,817
+(a)reflects principal maturities based on stated maturity, sinking fund payments, or earlier put dates. see note 8 to the financial statements for a discussion of variable-rate remarketable bonds issued on behalf of lg&e and ku. the registrants do not have any significant finance lease obligations.
+(b)assumes interest payments through stated maturity or earlier put dates. the payments herein are subject to change, as payments for debt that is or becomes variable-rate debt have been estimated.
+(c)see note 10 to the financial statements for additional information.
+(d)the amounts include agreements to purchase goods or services that are enforceable and legally binding and specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. primarily includes, as applicable, the purchase obligations of electricity, coal, natural gas and limestone, as well as certain construction expenditures, which are also included in the capital expenditures discussion above.
+(e)represents contracts to purchase coal, natural gas and natural gas transportation. see note 14 to the financial statements for additional information.
+(f)represents future minimum payments under ovec power purchase agreements through june 2040. see note 14 to the financial statements for additional information.
+(g)represents construction commitments, which are also reflected in the capital expenditures table presented above.
+dividends/distributions
+(ppl)
+ppl views dividends as an integral component of shareowner return and expects to continue to pay dividends in amounts intended to maintain a capitalization structure that supports investment grade credit ratings. in november 2022, ppl declared its quarterly common stock dividend, payable january 3, 2023, at 22.50 cents per share (equivalent to $0.90 per annum). on february 17, 2023, ppl announced a quarterly common stock dividend of 24.00 cents per share, payable april 3, 2023, to shareowners of record as of march 10, 2023. future dividends will be declared at the discretion of the board of directors and will depend upon future earnings, cash flows, financial and legal requirements and other factors.
+subject to certain exceptions, ppl may not declare or pay any cash dividend or distribution on its capital stock during any period in which ppl capital funding defers interest payments on its 2007 series a junior subordinated notes due 2067. at december 31, 2022, no interest payments were deferred.
+(ppl electric, lg&e and ku)
+from time to time, as determined by their respective board of directors, the registrants pay dividends, distributions or return capital, as applicable, to their respective shareholders or members. certain of the credit facilities of ppl electric, lg&e and ku include minimum debt covenant ratios that could effectively restrict the payment of dividends or distributions.
+(all registrants)
+see note 8 to the financial statements for these and other restrictions related to distributions on capital interests for the registrants and their subsidiaries.
+purchase or redemption of debt securities the registrants will continue to evaluate outstanding debt securities and may decide to purchase or redeem these securities in open market or privately negotiated transactions, in exchange transactions or otherwise, depending upon prevailing market conditions, available cash and other factors, and may be commenced or suspended at any time. the amounts involved may be material.
+rating agency actions moody's and s&p periodically review the credit ratings of the debt of the registrants and their subsidiaries. based on their respective independent reviews, the rating agencies may make certain ratings revisions or ratings affirmations.
+a credit rating reflects an assessment by the rating agency of the creditworthiness associated with an issuer and particular securities that it issues. the credit ratings of the registrants and their subsidiaries are based on information provided by the registrants and other sources. the ratings of moody's and s&p are not a recommendation to buy, sell or hold any securities of the registrants or their subsidiaries. such ratings may be subject to revisions or withdrawal by the agencies at any time and should be evaluated independently of each other and any other rating that may be assigned to the securities.
+the credit ratings of the registrants and their subsidiaries affect their liquidity, access to capital markets and cost of borrowing under their credit facilities. a downgrade in the registrants' or their subsidiaries' credit ratings could result in higher borrowing costs and reduced access to capital markets. the registrants and their subsidiaries have no credit rating triggers that would result in the reduction of access to capital markets or the acceleration of maturity dates of outstanding debt.
+the following table sets forth the registrants' and their subsidiaries' credit ratings for outstanding debt securities or commercial paper programs as of december 31, 2022.
+senior unsecured                          senior secured                            commercial paper issuer                     moody's                    s&amp;p        moody's                    s&amp;p        moody's                    s&amp;p ppl ppl capital funding        baa1                       bbb+                                                     p-2                        a-2
+rhode island energy        a3                         a-
+ppl and ppl electric ppl electric                                                         a1                         a+             p-2                        a-1
+ppl, lg&amp;e and ku lg&amp;e                                                             a1                         a              p-2                        a-2
+ku                                                                   a1                         a              p-2                        a-2
+the rating agencies have taken the following actions related to the registrants and their subsidiaries.
+(ppl)
+in june 2022, moody's affirmed its commercial paper rating for ppl capital funding and upgraded the following ratings with a stable outlook:
+• the long-term issuer rating from baa2 to baa1 for ppl;
+• the senior unsecured rating from baa2 to baa1 for ppl capital funding;
+• the junior subordinated rating from baa3 to baa2 for ppl capital funding; and
+• the senior unsecured bank credit facility rating from baa2 to baa1 for ppl capital funding.
+in june 2022, moody's upgraded the following ratings with a stable outlook:
+• the long-term issuer rating from baa1 to a3 for rie;
+• the senior unsecured rating from baa1 to a3 for rie; and
+• the preferred stock rating from baa3 to baa2 for rie.
+in june 2022, s&p upgraded the following ratings with a stable outlook:
+• the long-term issuer rating from bbb+ to a- for rie;
+• the senior unsecured rating from bbb+ to a- for rie; and
+• the preferred stock rating from bbb- to bbb for rie.
+(ppl and ppl electric)
+in may 2022, s&p upgraded the following ratings with a stable outlook for ppl electric:
+• the long-term issuer credit rating from a- to a;
+• the issue-level senior secured rating from a to a+; and
+• the short-term and commercial paper ratings from a-2 to a-1.
+ratings triggers (ppl, lg&e and ku)
+various derivative and non-derivative contracts, including contracts for the sale and purchase of electricity and fuel, commodity transportation and storage, and interest rate instruments, contain provisions that require the posting of additional collateral or permit the counterparty to terminate the contract, if ppl's, lg&e's or ku's or their subsidiaries' credit rating, as applicable, were to fall below investment grade. see note 18 to the financial statements for a discussion of "credit risk-related contingent features," including a discussion of the potential additional collateral requirements for ppl and lg&e for derivative contracts in a net liability position at december 31, 2022.
+guarantees for subsidiaries (ppl)
+ppl guarantees certain consolidated affiliate financing arrangements. some of the guarantees contain financial and other covenants that, if not met, would limit or restrict the consolidated affiliates' access to funds under these financing arrangements, accelerate maturity of such arrangements or limit the consolidated affiliates' ability to enter into certain transactions. at this time, ppl believes that these covenants will not limit access to relevant funding sources. see note 14 to the financial statements for additional information about guarantees.
+other contingent obligations (all registrants)
+the registrants have entered into certain agreements that may contingently require payment to a guaranteed or indemnified party. see note 14 to the financial statements for a discussion of these agreements.
+risk management market risk
+(all registrants)
+see notes 1, 17 and 18 to the financial statements for information about the registrants' risk management objectives, valuation techniques and accounting designations.
+the forward-looking information presented below provides estimates of what may occur in the future, assuming certain adverse market conditions and model assumptions. actual future results may differ materially from those presented. these are not precise indicators of expected future losses, but are rather only indicators of possible losses under normal market conditions at a given confidence level.
+interest rate risk ppl and its subsidiaries issue debt to finance their operations, which exposes them to interest rate risk. a variety of financial derivative instruments are utilized to adjust the mix of fixed and floating interest rates in their debt portfolios, adjust the duration of the debt portfolios and lock in benchmark interest rates in anticipation of future financing, when appropriate. risk limits under ppl's risk management program are designed to balance risk exposure to volatility in interest expense and changes in the fair value of the debt portfolio due to changes in benchmark interest rates. in addition, the interest rate risk of certain subsidiaries is potentially mitigated as a result of the existing regulatory framework or the timing of rate cases.
+the following interest rate hedges were outstanding at december 31:
+2022                                                                                                                                                                                                                   2021
+exposure            fair value,                      effect of a                        maturities                exposure            fair value,                      effect of a hedged            net - asset                      10% adverse                           ranging                  hedged            net - asset                      10% adverse
+(liability) (a)                  movement                              through                                    (liability) (a)                  movement in rates (b)                                                                                                      in rates (b)
+ppl and lg&amp;e economic hedges interest rate swaps (c)           $64                 $(7)                             $(1)                                     2033                $64                 $(19)                            $(1)
+(a)includes accrued interest, if applicable.
+(b)effects of adverse movements decrease assets or increase liabilities, as applicable, which could result in an asset becoming a liability. sensitivities represent a 10% adverse movement in interest rates.
+(c)realized changes in the fair value of such economic hedges are recoverable through regulated rates and any subsequent changes in the fair value of these derivatives are included in regulatory assets or regulatory liabilities.
+the registrants are exposed to a potential increase in interest expense and to changes in the fair value of their debt portfolios. the estimated impact of a 10% adverse movement in interest rates on the fair value of debt and interest expense at december 31 is shown below.
+10% adverse movement in rates on fair value of debt                            10% adverse movement in rates on interest expense for floating exposure
+2022                                                                                  2021                                   2022                                                        2021
+ppl                           $495                                            $394                                  $16                                                          $-
+ppl electric                   178                                             164                                    6                                                           -
+lg&amp;e                        84                                              74                                    3                                                           -
+ku                             127                                             115                                    2                                                           -
+commodity price risk ppl is exposed to commodity price risk through its subsidiaries as described below.
+•ppl electric is required to purchase electricity to fulfill its obligation as a plr. potential commodity price risk is mitigated through its papuc-approved cost recovery mechanism and full-requirement supply agreements to serve its plr customers which transfer the risk to energy suppliers.
+•lg&e's and ku's rates include certain mechanisms for fuel, fuel-related expenses and energy purchases. in addition, lg&e's rates include a mechanism for natural gas supply costs. these mechanisms generally provide for timely recovery of market price fluctuations associated with these costs.
+•rie utilizes derivative instruments pursuant to its ripuc-approved plan to manage commodity price risk associated with its natural gas purchases. rie's commodity price risk management strategy is to reduce fluctuations in firm gas sales prices to its customers. rie's costs associated with derivatives instruments are recoverable through its ripuc- approved cost recovery mechanisms. rie is required to purchase electricity to fulfill its obligation to provide last resort service (lrs). potential commodity price risk is mitigated through its ripuc-approved cost recovery mechanisms and full requirements service agreements to serve lrs customers, which transfer the risk to energy suppliers. rie is required to contract through long-term agreements for clean energy supply under the rhode island renewable energy growth program and long-term clean energy standard. potential commodity price risk is mitigated through its ripuc-approved cost recovery mechanisms, which true-up cost differences between contract prices and market prices.
+volumetric risk volumetric risk is the risk related to the changes in volume of retail sales due to weather, economic conditions or other factors. ppl is exposed to volumetric risk through its subsidiaries as described below.
+•ppl electric, lg&e and ku are exposed to volumetric risk on retail sales, mainly due to weather and other economic conditions for which there is limited mitigation between rate cases.
+•rie is exposed to volumetric risk, which is significantly mitigated by regulatory mechanisms. rie's electric and gas distribution rates both have a revenue decoupling mechanism, which allows for annual adjustments to rie's delivery rates.
+defined benefit plans - equity securities price risk see "application of critical accounting policies - defined benefits" for additional information regarding the effect of equity securities price risk on plan assets.
+credit risk
+(all registrants)
+credit risk is the potential loss that may be incurred due to a counterparty's non-performance.
+ppl is exposed to credit risk from "in-the-money" transactions with counterparties, as well as additional credit risk through certain of its subsidiaries, as discussed below.
+in the event a supplier of ppl, ppl electric, lg&e or ku defaults on its contractual obligation, those registrants would need to seek replacement power or replacement fuel in the market. in general, subject to regulatory review or other processes, appropriate incremental costs incurred by these entities would be recoverable from customers through applicable rate mechanisms, thereby mitigating the financial risk for these entities.
+ppl and its subsidiaries have credit policies in place to manage credit risk, including the use of an established credit approval process, daily monitoring of counterparty positions and the use of master netting agreements or provisions. these agreements generally include credit mitigation provisions, such as margin, prepayment or collateral requirements. ppl and its subsidiaries may request additional credit assurance, in certain circumstances, in the event that the counterparties' credit ratings fall below investment grade, their tangible net worth falls below specified percentages or their exposures exceed an established credit limit.
+(all registrants)
+related party transactions the registrants are not aware of any material ownership interests or operating responsibility by senior management in outside partnerships, including leasing transactions with variable interest entities, or other entities doing business with the registrants. see note 15 to the financial statements for additional information on related party transactions for ppl electric, lg&e and ku.
+acquisitions, development and divestitures the registrants from time to time evaluate opportunities for potential acquisitions, divestitures, and development projects. see note 9 to the financial statements for additional information on acquisition and divestiture activity. development projects are reexamined based on market conditions and other factors to determine whether to proceed with, modify or terminate the projects. any resulting transactions may impact future financial results.
+environmental matters extensive federal, state and local environmental laws and regulations are applicable to the registrants' air emissions, water discharges and the management of hazardous and solid waste, as well as other aspects of the registrants' businesses. the costs of compliance or alleged non-compliance cannot be predicted with certainty but could be significant. in addition, costs may increase significantly if the requirements or scope of environmental laws or regulations, or similar rules, are expanded or changed. costs may take the form of increased capital expenditures or operating and maintenance expenses, monetary fines, penalties or other restrictions. many of these environmental law considerations are also applicable to the operations of key suppliers, or customers, such as coal producers and industrial power users, and may impact the costs for their products or their demand for the registrants' services. increased capital and operating costs are expected to be subject to rate recovery. the registrants can provide no assurances as to the ultimate outcome of future environmental or rate proceedings before regulatory authorities.
+see "legal matters" in note 14 to the financial statements for a discussion of the more significant environmental claims. see "financial condition - liquidity and capital resources - forecasted uses of cash - capital expenditures" in "item 7. combined management's discussion and analysis of financial condition and results of operations" for information on projected environmental capital expenditures for 2023 through 2025. see note 20 to the financial statements for information related to the impacts of ccrs on aros. see "item 1. business - environmental matters" for additional information.
+sustainability increasing attention has been focused on a broad range of corporate activities under the heading of "sustainability", which has resulted in a significant increase in the number of requests from interested parties for information on sustainability topics. these parties range from investor groups focused on environmental, social, governance and other matters to non-investors concerned with a variety of public policy matters. often the scope of the information sought is very broad and not necessarily relevant to an issuer's business or industry. as a result, a number of private groups have proposed to standardize the subject matter constituting sustainability, either generally or by industry. those efforts remain ongoing. in addition, certain of these private groups have advocated that the sec promulgate regulations requiring specific sustainability reporting under the securities exchange act of 1934, as amended (the '34 act), or that issuers voluntarily include certain sustainability disclosure in their '34 act reports. in march 2022, the sec proposed broad-based climate disclosure requirements for public companies. the proposed rule would require public companies to disclose direct and indirect ghg emissions, strategic insights, and certain financial implications in public disclosures. the proposed rulemaking elicited significant debate and comment. while a final rulemaking is currently expected to be issued in the spring of 2023, ppl cannot predict the final legal requirements or when the requirements will be effective.
+as has been ppl's practice, to the extent sustainability issues have or may have a material impact on the registrants' financial condition or results of operation, ppl discloses such matters in accordance with applicable securities law and sec regulations. with respect to other sustainability topics that ppl deems relevant to investors but that are not required to be reported under applicable securities law and sec regulation, ppl will continue each spring to publish its annual sustainability report including tracking reductions related to the company's goal to reduce carbon emissions and post that report on its corporate website at www.pplweb.com and on www.pplsustainability.com. neither the information in such annual sustainability report nor the information at such websites is incorporated in this form 10-k by reference, and it should not be considered a part of this form 10-k. in preparing its sustainability report, ppl is guided by the framework established by the global reporting initiative, which identifies environmental, social, governance and other subject matter categories. ppl also participates in efforts by the edison electric institute and american gas association to provide the appropriate subset of sustainability information that can be applied consistently across the electric and gas utility industry. additionally, ppl consults widely used reporting frameworks for discrete sustainability topics, including corporate political contributions and climate-related issues. ppl also responds to the climate survey of cdp, a not-for-profit organization based in the united kingdom formerly known as the carbon disclosure project, that runs the global disclosure system that enables investors, companies, cities, states and regions to measure and manage their environmental impacts.
+cybersecurity see "cybersecurity management" in "item 1. business" and "item 1a. risk factors" for a discussion of cybersecurity risks affecting the registrants and the related strategies for managing these risks.
+competition see "competition" under each of ppl's reportable segments in "item 1. business - general - segment information" and "item 1a. risk factors" for a discussion of competitive factors affecting the registrants.
+new accounting guidance there has been no new accounting guidance adopted in 2022 and there is no new significant accounting guidance pending adoption as of december 31, 2022.
+application of critical accounting policies financial condition and results of operations are impacted by the methods, assumptions and estimates used in the application of critical accounting policies. the following accounting policies are particularly important to an understanding of the reported financial condition or results of operations and require management to make estimates or other judgments of matters that are inherently uncertain. changes in the estimates or other judgments included within these accounting policies could result in a significant change to the information presented in the financial statements (these accounting policies are also discussed in note 1 to the financial statements). senior management has reviewed with ppl's audit committee these critical accounting policies, the following disclosures regarding their application, and the estimates and assumptions regarding them.
+defined benefits
+(all registrants)
+certain of the registrants and/or their subsidiaries sponsor or participate in certain qualified funded and non-qualified unfunded defined benefit pension plans and both funded and unfunded other postretirement benefit plans. see notes 1, 7 and 12 to the financial statements for additional information about the plans and the accounting for defined benefits.
+a summary of plan sponsors by registrant and whether a registrant or its subsidiaries sponsor (s) or participate in and receives allocations (p) from those plans is shown in the table below.
+plan sponsor         ppl         ppl electric         lg&amp;e       ku ppl services         s           p lke                                                   p              p management makes certain assumptions regarding the valuation of benefit obligations and the performance of plan assets. as such, annual net periodic defined benefit costs are recorded in current earnings or regulatory assets and liabilities based on estimated results. any differences between actual and estimated results are recorded in aoci or, in the case of ppl electric, lg&e and ku, regulatory assets and liabilities for amounts that are expected to be recovered through regulated customer rates. these amounts in aoci or regulatory assets and liabilities are amortized to income over future periods. the significant assumptions are:
+•discount rate - in selecting the discount rates for defined benefit plans, the plan sponsors start with a cash flow analysis of the expected benefit payment stream for their plans. the plan-specific cash flows are matched against the coupons and expected maturity values of aa-rated non-callable (or callable with make-whole provisions) bonds that could be purchased for a hypothetical settlement portfolio. the plan sponsors then use the single discount rate derived from matching the discounted benefit payment stream to the market value of the selected bond portfolio.
+•expected return on plan assets - the expected long-term rates of return for pension and other postretirement benefits are based on management's projections using a best-estimate of expected returns, volatilities and correlations for each asset class. each plan's specific current and expected asset allocations are also considered in developing a reasonable return assumption.
+•rate of compensation increase - management projects employees' annual pay increases, which are used to project employees' pension benefits at retirement. in selecting a rate of compensation increase, plan sponsors consider past experience, the potential impact of movements in inflation rates and expectations of ongoing compensation practices.
+see note 12 to the financial statements for details of the assumptions selected for pension and other postretirement benefits. a variance in the assumptions could significantly impact accrued defined benefit liabilities or assets, reported annual net periodic defined benefit costs and aoci or regulatory assets and liabilities.
+the following tables reflect changes in certain assumptions based on the registrants' primary defined benefit plans. the inverse of this change would have the opposite impact on accrued defined benefit liabilities or assets, reported annual net periodic defined benefit costs and aoci or regulatory assets and liabilities. the sensitivities below reflect an evaluation of the change based solely on a change in that assumption.
+increase (decrease)
+actuarial assumption discount rate                                    (0.25       %)
+expected return on plan assets                   (0.25       %)
+rate of compensation increase                     0.25        %
+increase (decrease)                      increase (decrease)            (increase) decrease                      increase (decrease)                 increase (decrease)
+actuarial assumption                   defined benefit                              defined benefit            aoci                                          net regulatory                     defined benefit asset                                            liabilities            (pre-tax)                                             assets                               costs ppl discount rates                         $(14)                                         $(78)                     $27                                             $65                                 $14
+expected return on plan assets         n/a                                                      n/a            n/a                                                      n/a                         10
+rate of compensation increase          (2)                                             (6)            2                                                          6                                   3
+ppl electric discount rates                         -                                              (34)                     -                                                34                                   5
+expected return on plan assets         n/a                                                      n/a            -                                                        n/a                          4
+rate of compensation increase          -                                               (2)                     -                                                 2                                   1
+lg&amp;e discount rates                         (9)                                               1                     n/a                                              10                                   2
+expected return on plan assets         n/a                                                      n/a            n/a                                                      n/a                          1
+rate of compensation increase          (1)                                               -                     n/a                                               1                                   -
+ku discount rates                         (8)                                               1                     n/a                                               9                                   2
+expected return on plan assets         n/a                                                      n/a            n/a                                                      n/a                          1
+rate of compensation increase          (1)                                               -                     n/a                                               1                                   -
+income taxes (all registrants)
+significant management judgment is required in developing the registrants' provision for income taxes, primarily due to the uncertainty related to tax positions taken or expected to be taken on tax returns and valuation allowances on deferred tax assets.
+additionally, significant management judgment is required to determine the amount of benefit recognized related to an uncertain tax position. on a quarterly basis, uncertain tax positions are reassessed by considering information known as of the reporting date. based on management's assessment of new information, a tax benefit may subsequently be recognized for a previously unrecognized tax position, a previously recognized tax position may be derecognized, or the benefit of a previously recognized tax position may be remeasured. the amounts ultimately paid upon resolution of issues raised by taxing authorities may differ materially from the amounts accrued and may materially impact the financial statements in the future.
+the need for valuation allowances to reduce deferred tax assets also requires significant management judgment. valuation allowances are initially recorded and reevaluated each reporting period by assessing the likelihood of the ultimate realization of a deferred tax asset. management considers several factors in assessing the expected realization of a deferred tax asset, including the reversal of temporary differences, future taxable income and ongoing prudent and feasible tax planning strategies. any tax planning strategy utilized in this assessment must meet the recognition and measurement criteria utilized to account for an uncertain tax position. when evaluating the need for valuation allowances, the uncertainty posed by political risk on such factors is also considered by management. the amount of deferred tax assets ultimately realized may differ materially from the estimates utilized in the computation of valuation allowances and may materially impact the financial statements in the future.
+see note 6 to the financial statements for income tax disclosures.
+regulatory assets and liabilities (all registrants)
+ppl electric, lg&e, ku and rie are subject to cost-based rate regulation. as a result, the effects of regulatory actions are required to be reflected in the financial statements. assets and liabilities are recorded that result from the regulated ratemaking process that may not be recorded under gaap for non-regulated entities. regulatory assets generally represent incurred costs that have been deferred because such costs are probable of future recovery in regulated customer rates. regulatory liabilities are recognized for amounts expected to be returned through future regulated customer rates. in certain cases, regulatory liabilities are recorded based on an understanding or agreement with the regulator that rates have been set to recover costs that are expected to be incurred in the future, and the regulated entity is accountable for any amounts charged pursuant to such rates and not yet expended for the intended purpose.
+management continually assesses whether the regulatory assets are probable of future recovery by considering factors such as changes in the applicable regulatory and political environments, the ability to recover costs through regulated rates, recent rate orders to the registrants and other regulated entities, and the status of any pending or potential deregulation legislation. based on this continual assessment, management believes the existing regulatory assets are probable of recovery. this assessment reflects the current political and regulatory climate at the state and federal levels and is subject to change in the future. if future recovery of costs ceases to be probable, the regulatory asset would be written-off. additionally, the regulatory agencies can provide flexibility in the manner and timing of recovery of regulatory assets.
+see note 7 to the financial statements for regulatory assets and regulatory liabilities recorded at december 31, 2022 and 2021, as well as additional information on those regulatory assets and liabilities. all regulatory assets are either currently being recovered under specific rate orders, represent amounts that are expected to be recovered in future rates or benefit future periods based upon established regulatory practices.
+price risk management (ppl)
+see "financial condition - risk management" above.
+goodwill impairment (ppl, lg&e and ku)
+goodwill is tested for impairment at the reporting unit level. the reporting units of ppl include the kentucky regulated reporting unit, the pennsylvania regulated reporting unit, and the rhode island regulated reporting unit. lg&e and ku are individually single operating and reportable segments and each are single reporting units. a goodwill impairment test is performed annually or more frequently if events or changes in circumstances indicate that the carrying amount of the reporting unit may be greater than the reporting unit's fair value.
+management assigned the assets acquired and liabilities assumed in the rie acquisition to the rhode island regulated reporting unit. for purposes of goodwill impairment testing, rie goodwill of $1,586 million was assigned to ppl's reporting units. to determine the amount of the rie goodwill assigned to ppl's reporting units, management calculated the fair value of the kentucky regulated and the pennsylvania regulated reporting units with-and-without the expected benefit to those reporting units. the difference in the fair values of the kentucky regulated and pennsylvania regulated reporting units with-and-without the expected benefit from the acquisition of rie represents goodwill derived from the acquisition and was assigned to the respective reporting units. the remainder of the rie goodwill was assigned to the rhode island regulated reporting unit.
+the fair value of a reporting unit is compared with the carrying value and an impairment charge is recognized if the carrying amount exceeds the fair value of the reporting unit.
+ppl, for its reporting units, and individually lg&e and ku may elect either to initially make a qualitative evaluation about the likelihood of an impairment of goodwill or to bypass the qualitative evaluation and test goodwill for impairment using a quantitative test. see "long-lived and intangible assets - asset impairment (excluding investments)" in note 1 to the financial statements for further discussion of goodwill impairment tests. see note 19 to the financial statements for information on goodwill balances by reportable segment at december 31, 2022.
+as of october 1, 2022, ppl, for its reporting units, and individually, lg&e and ku, elected to perform quantitative annual goodwill impairment tests. management used both discounted cash flows and market multiples, which required significant assumptions, to estimate the fair value of reporting units. significant assumptions used in these approaches included discount and growth rates, projected outcomes of future rate filings, projected operating and capital cash flows, and select market data. projected operating and capital cash flows are based on the internal business plan, which assumes the occurrence of certain future events.
+there were no indicators of impairment for any of the reporting units as the fair value of each of the reporting units significantly exceeded their carrying values.
+asset retirement obligations (lg&e and ku)
+aro liabilities are required to be recognized for legal obligations associated with the retirement of long-lived assets. initial obligations are measured at estimated fair value. an aro must be recognized when incurred if the fair value of the aro can be reasonably estimated. an equivalent amount is recorded as an increase in the value of the capitalized asset and amortized to expense over the asset's useful life.
+in determining aros, management must make significant judgments and estimates to calculate fair value. fair value is developed using an expected present value technique based on assumptions of market participants that consider estimated retirement costs in current period dollars, inflated to the anticipated retirement date and discounted back to the date the aro was incurred. changes in assumptions and estimates included within the calculations of the fair value of aros could result in significantly different results than those identified and recorded in the financial statements. estimated aro costs and settlement dates, which affect the carrying value of the aro and the related capitalized asset, are reviewed periodically to ensure that any material changes are incorporated into the aro estimate. any change to the capitalized asset is generally amortized over the remaining life of the associated long-lived asset.
+see "long-lived and intangible assets - asset retirement obligations" in note 1, note 7 and note 20 to the financial statements for additional information on aros.
+at december 31, 2022, the total recorded balances and information on the most significant recorded aros were as follows.
+most significant aros total            amount                          % of total               description aro            recorded recorded lg&amp;e           $86                 $65                               76                     ponds, landfills and natural gas mains ku                  82        55                                         67                     ponds and landfills the most significant assumptions surrounding aros are the forecasted retirement costs (including settlement dates and the timing of cash flows), discount and inflation rates. at december 31, 2022, a 10% increase to retirement cost would increase these aro liabilities by $7 million at lg&e and $10 million at ku. a 0.25% decrease in the discount rate would increase these aro liabilities by $5 million at lg&e and $1 million at ku and a 0.25% increase in the inflation rate would increase these aro liabilities by $4 million at lg&e. there would be no significant change to the annual depreciation expense of the aro asset or the annual accretion expense of the aro liability as a result of these changes in assumptions.
+revenue recognition - unbilled revenues (all registrants)
+for rie, lg&e and ku, revenues related to the sale of energy are recorded when service is rendered or when energy is delivered to customers. because customers are billed on cycles which vary based on the timing of actual meter reads taken throughout the month, estimates are recorded for unbilled revenues at the end of each reporting period. such unbilled revenue amounts reflect estimates of deliveries to customers since the date of the last reading of their meters. the unbilled revenue estimates reflect consideration of factors including daily load models, estimated usage for each customer class, the effect of current and different rate schedules, the meter read schedule, the billing schedule, actual weather data, and, where applicable, the impact of weather normalization or other regulatory provisions of rate structures.
+for ppl electric, unbilled revenues for a month are calculated by multiplying the actual unbilled volumes by the price per tariff. in the fourth quarter of 2022, ppl electric estimated deliveries to customers due to a temporary technical system issue. these estimates took into consideration factors similar to those considered by rie, lg&e and ku discussed above. the technical system issue has been resolved and unbilled revenues are expected to resume being calculated by multiplying the actual unbilled volumes by the price per tariff in the first quarter of 2023.
+other information (all registrants)
+ppl's audit committee has approved the independent auditor to provide audit and audit-related services, tax services and other services permitted by sarbanes-oxley and sec rules. the audit and audit-related services include services in connection with statutory and regulatory filings, reviews of offering documents and registration statements, and internal control reviews.

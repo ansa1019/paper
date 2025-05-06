@@ -1,0 +1,536 @@
+risk factors relating to regulation-failure by synchrony and the bank to meet applicable capital adequacy and liquidity requirements could have a material adverse effect on us " and " -we are subject to restrictions that limit our ability to pay dividends and repurchase our common stock; the bank is subject to restrictions that limit its ability to pay dividends to us, which could limit our ability to pay dividends, repurchase our common stock or make payments on our indebtedness ."
+152
+performance graph the following graph compares the cumulative total stockholders return (rounded to the nearest whole dollar) of the company's common stock, the s&p 500 stock index and the s&p 500 financials index for the period from december 31,
+2018 through december 31, 2023. the graph assumes an initial investment of $100 on december 31, 2018. the cumulative returns for the company's common stock and financial indices assume full reinvestment of dividends. this graph does not forecast future performance of the company's common stock.
+december         december         december         december         december         december
+31, 2018         31, 2019         31, 2020         31, 2021         31, 2022         31, 2023
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+synchrony    $      100.00    $      157.47    $      157.51    $      214.84    $      155.90    $      186.74
+financial s&p 500      $      100.00    $      131.49    $      155.68    $      200.37    $      164.08    $      207.21
+s&p 500      $      100.00    $      132.12    $      129.89    $      175.40    $      156.92    $      175.98
+financia...
+issuer purchases of equity securities the table below sets forth information regarding purchases of our common stock primarily related to our share repurchase program that were made by us or on our behalf during the three months ended december 31, 2023.
+total number of           maximum dollar shares purchased          value of shares
+($ in millions,         total number of                                     as part of          that may yet be except per share                 shares       average price paid    publicly announced          purchased under data)                      purchased(a)             per share(b)            program(c)           the program(b)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+october 1 -                   1,350,010    $               28.03             1,350,000    $               812.2
+31,2023
+november 1 -                    570,028    $               31.73               570,000    $               794.1
+30,2023
+december 1 -                  5,331,867    $               36.40             5,331,369    $               600.0
+31,2023
+total                         7,251,905    $               34.48             7,251,369    $               600.0
+_______________________
+(a) includes 10 shares, 28 shares and 498 shares withheld in october, november and december, respectively, to offset tax withholding obligations that occur upon the delivery of outstanding shares underlying performance stock awards, restricted stock awards or upon the exercise of stock options.
+(b) amounts exclude commission costs.
+(c) in april 2023, the board of directors approved an incremental share repurchase program of up to $1.0 billion, commencing in the third quarter of 2023 through june 2024.
+153
+other information
+____________________________________________________________________________________________
+rule 10b5-1 trading plans during the fourth quarter of 2023, certain of our directors and executive officers adopted or terminated trading arrangements intended to satisfy the affirmative defense conditions of rule 10b5-1(c). information regarding these rule 10b5-1 trading arrangements is presented in the table below. there were no non-rule 10b5-1 trading arrangements adoptedor terminatedby any director or executive officer during the fourth quarter of 2023.
+action taken                                aggregate number of name                title                 (adoption or          duration(1)              securities to be termination date)                                       sold(3)
+executive vice                              11/29/2023 -
+alberto casellas    president & ceo,      adoption(11/29/20...    12/31/2024                         57,376
+health & wellness brian doubles       director;             termination(11/29...    01/25/2023 -                      196,306
+president & ceo                             03/28/2024(2)
+brian doubles       director;             adoption(11/29/20...    11/29/2023 -                      134,696
+president & ceo                             12/31/2024
+executive vice                              11/29/2023 -
+curtis howse        president & ceo,      adoption(11/29/20...    12/31/2024                         59,675
+home & auto executive vice carol juel          president & chief     adoption(11/29/20...    11/29/2023 -                       86,843    -4
+technology and                              12/31/2024
+operating officer executive vice jonathan mothner    president, chief      adoption(11/29/20...    11/29/2023 -                       40,000
+risk and legal                              12/31/2024
+officer executive vice president & ceo,                            11/30/2023 -
+maran nalluswami    diversified &         adoption(11/30/20...    12/31/2024                         21,386
+value and lifestyle executive vice                              11/29/2023 -
+bart schaller       president & ceo,      adoption(11/29/20...    12/31/2024                         71,725    -4
+digital executive vice                              11/29/2023 -
+brian wenzel        president & chief     adoption(11/29/20...    12/31/2024                         11,281
+financial officer
+______________________
+(1) pursuant to the terms of each plan and subject to compliance with rule 10b5-1, each plan may terminate at an earlier date in certain circumstances, including if all trades are executed or all orders related to the trades under the relevant plan expire.
+(2) mr. doubles terminated this plan on november 29, 2023 prior to adopting a new plan on the same date. a total of
+36,610 shares were sold under this plan prior to its termination.
+(3) rounded up to the nearest whole share, as applicable.
+(4) the aggregate number of securities to be sold under the plans for ms. juel and mr. schaller excludes 10,729 and
+15,714 shares, respectively, as such shares were sold after the adoption of the plans included in this disclosure pursuant to existing effective trading plans. these prior plans for ms. juel and mr. schaller expired on december
+29, 2023 and january 2, 2024, respectively, before the trades under the plans included in this disclosure were scheduled to commence.
+154
+exhibits and financial statement schedules
+____________________________________________________________________________________________
+(a) documents filed as part of this form 10-k:
+1. consolidated financial statements the consolidated financial statements required to be filed in this annual report on form 10-k are listed below and appear herein on the pages indicated.
+index to consolidated financial statements reports of independent registered public accounting firm (kpmg llp,new york, new york,        106
+pcaob id185)
+consolidated statements of earnings for the years    110
+ended december 31,2023, 2022 and 2021
+consolidated statements of comprehensive income for the years ended december 31,2023, 2022 and       111
+2021
+consolidated statements of financial position at     112
+december 31,2023and 2022
+consolidated statements of changes in equity for     113
+the years ended december 31,2023, 2022 and 2021
+consolidated statements of cash flows for the        114
+years ended december 31,2023, 2022 and 2021
+notes to the consolidated financial statements       115
+2. financial statement schedules separate financial statement schedules have been omitted either because they are not applicable or because the required information is included in the consolidated financial statements.
+3. exhibits a list of the exhibits being filed or furnished with or incorporated by reference into this annual report on form
+10-k is provided below:
+exhibit index description amended and restated certificate of incorporation of synchrony financial (incorporated by reference to exhibit 3.2 of amendment no. 5 to form s-1 registration statement filed by synchrony financial on july 18, 2014 (no. 333-194528))
+amended and restated bylaws of synchrony financial (incorporated by reference to exhibit 3.1
+exhibit number    of form 8-k filed by synchrony financial on november 1, 2016)
+3.1               indenture, dated as of august 11, 2014, between synchrony financial and the bank of new york
+3.2               mellon, as trustee (incorporated by reference to exhibit 4.1 of form 8-k filed by synchrony
+4.1               financial on august 13, 2014)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+first supplemental indenture, dated as of august 11, 2014, between synchrony financial and
+4.2               the bank of new york mellon, as trustee (incorporated by reference to exhibit 4.2 of form 8-k filed by synchrony financial on august 13, 2014)
+third supplemental indenture, dated as of july 23, 2015, between synchrony financial and the
+4.3               bank of new york mellon, as trustee (incorporated by reference to exhibit 4.1 of form 8-k filed by synchrony financial on july 23, 2015)
+sixth supplemental indenture, dated as of august 4, 2016, between synchrony financial and the
+4.4               bank of new york mellon, as trustee (incorporated by reference to exhibit 4.1 of form 8-k filed by synchrony financial on august 4, 2016)
+seventh supplemental indenture, dated as of december 1, 2017, between synchrony financial and
+4.5               the bank of new york mellon, as trustee (incorporated by reference to exhibit 4.1 of form 8-k filed by synchrony financial on december 1, 2017)
+eighth supplemental indenture, dated as of march 19, 2019, between synchrony financial and
+4.6               the bank of new york mellon, as trustee (incorporated by reference to exhibit 4.1 of form 8-k filed by synchrony financial on march 19, 2019)
+ninth supplemental indenture, dated as of july 25, 2019, between synchrony financial and the
+4.7               bank of new york mellon, as trustee (incorporated by reference to exhibit 4.1 of form 8-k filed by synchrony financial on july 25, 2019)
+tenth supplemental indenture, dated as of october 28, 2021, between synchrony financial and
+4.8               the bank of new york mellon, as trustee (incorporated by reference to exhibit 4.1 of form 8-k filed by synchrony financial on october 28, 2021)
+155
+eleventh supplemental indenture, dated as of june 13, 2022, between synchrony financial and the bank of new york mellon, as trustee (incorporated by reference to exhibit 4.1 of form 8-k filed by synchrony financial on june 13, 2022)
+4.9      form of 4.500% senior notes due 2025 (incorporated by reference to exhibit 4.2 of form 8-k filed by
+4.10     synchrony financial on july 23, 2015)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+4.11     form of 3.700% senior notes due 2026 (incorporated by reference to exhibit 4.2 of form 8-k filed by synchrony financial on august 4, 2016)
+4.12     form of 3.950% senior notes due 2027 (incorporated by reference to exhibit 4.2 of form 8-k filed by synchrony financial on december 1, 2017)
+4.13     specimen common stock certificate (incorporated by reference to exhibit 4.1 of amendment no. 5 to form s-1 registration statement filed by synchrony financial on july 18, 2014 (no. 333-194528))
+4.14     form of 4.375% senior notes due 2024 (incorporated by reference to exhibit 4.2 of form 8-k filed by synchrony financial on march 19, 2019)
+4.15     form of 5.150% senior notes due 2029 (incorporated by reference to exhibit 4.3 of form 8-k filed by synchrony financial on march 19, 2019)
+4.16     form of 2.850% senior notes due 2022 (incorporated by reference to exhibit 4.2 of form 8-k filed by synchrony financial on july 25, 2019)
+4.17     form of 2.875% senior notes due 2031 (incorporated by reference to exhibit 4.1 of form 8-k filed by synchrony financial on october 28, 2021)
+4.18     form of 4.875% senior notes due 2025 (incorporated by reference to exhibit 4.2 of form 8-k filed by synchrony financial on june 13, 2022)
+certificate of designations of 5.625% fixed rate non-cumulative perpetual preferred stock, series a,
+4.19     dated november 13, 2019. (incorporated by reference to exhibit 4.1 of form 8-k filed by synchrony financial on november 14, 2019)
+deposit agreement, dated november 14, 2019, by and among the company, computershare inc. and
+4.20     computershare trust company, n.a., collectively as depositary, and the holders from time to time of the depositary receipts described therein. (incorporated by reference to exhibit 4.2 of form 8-k filed by synchrony financial on november 14, 2019)
+indenture, dated as of february 2, 2023, between synchrony financial and the bank of new york mellon,
+4.21     as trustee (incorporated by reference to exhibit 4.1 of form 8-k filed by synchrony financial on february 2, 2023)
+first supplemental indenture, dated as of february 2, 2023, between synchrony financial and the bank
+4.22     of new york mellon, as trustee (incorporated by reference to exhibit 4.2 of form 8-k filed by synchrony financial on february 2, 2023)
+4.23     form of 7.250% subordinated notes due 2033 (incorporated by reference to exhibit 4.3 of form 8-k filed by synchrony financial on february 2, 2023)
+4.24*    description of registrant's securities master agreement, dated as of july 30, 2014, among general electric capital corporation, synchrony
+10.1     financial, and, solely for purposes of certain sections and articles set forth therein, general electric company (incorporated by reference to exhibit 10.1 of amendment no. 1 to form s-1
+registration statement filed by synchrony financial on august 1, 2014 (333-197244))
+transitional services agreement, dated august 5, 2014, by and among general electric capital
+10.2     corporation, synchrony financial and retail finance international holdings, inc. (incorporated by reference to exhibit 10.1 of form 8-k filed by synchrony financial on august 11, 2014)
+employee matters agreement, dated as of august 5, 2014, by and among general electric company, general
+10.3     electric capital corporation and synchrony financial (incorporated by reference to exhibit 10.4 of form 8-k filed by synchrony financial on august 11, 2014)
+transitional trademark license agreement, dated as of august 5, 2014, by and between ge capital
+10.4     registry, inc. and synchrony financial (incorporated by reference to exhibit 10.5 of form 8-k filed by synchrony financial on august 11, 2014)
+intellectual property cross license agreement, dated as of august 5, 2014, by and between general
+10.5     electric company and general electric capital corporation, on the one hand, and synchrony financial, on the other hand (incorporated by reference to exhibit 10.6 of form 8-k filed by synchrony financial on august 11, 2014)
+form of agreement for awards of performance share units under synchrony 2014 long-term incentive plan
+10.6+    (incorporated by reference to exhibit 10.1 to quarterly report on form 10-q filed by synchrony financial on april 28, 2016)
+156
+master indenture, dated as of september 25, 2003, between synchrony credit card master note trust
+(formerly known as ge capital credit card master note trust), as issuer and deutsche bank trust company americas, as indenture trustee (incorporated by reference to exhibit 4.1 of amendment no. 1 to form s-3 registration statement filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 20, 2004 (no. 333-107495, 333-107495-01 and 333-107495-02))
+omnibus amendment no. 1 to securitization documents, dated as of february 9, 2004, among rfs holding, l.l.c., rfs funding trust, ge capital retail bank (formerly known as monogram credit card bank of georgia), synchrony credit card master note trust, deutsche bank trust company delaware, as trustee of rfs funding trust, rfs holding, inc. and deutsche bank trust company americas, as indenture trustee
+(incorporated by reference to exhibit 4.16 of amendment no. 1 to form s-3 registration statement filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 20, 2004 (no. 333-107495,
+333-107495-01 and 333-107495-02))
+second amendment to master indenture, dated as of june 17, 2004, between synchrony credit card master
+10.7     note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.4 of the
+10.8     current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on
+10.9     july 2, 2004)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+third amendment to master indenture, dated as of august 31, 2006, between synchrony credit card master
+10.10    note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on september 5, 2006)
+fourth amendment to master indenture, dated as of june 28, 2007, between synchrony credit card master
+10.11    note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on july 3, 2007)
+fifth amendment to master indenture, dated as of may 22, 2008, between synchrony credit card master
+10.12    note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 28, 2008)
+sixth amendment to master indenture, dated as of august 7, 2009, between synchrony credit card master
+10.13    note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on august 7, 2009)
+seventh amendment to master indenture, dated as of january 21, 2014, between synchrony credit card
+10.14    master note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.1
+of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on january 21, 2014)
+eighth amendment to master indenture and omnibus supplement to specified indenture supplements, dated
+10.15    as of march 11, 2014, between synchrony credit card master note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on march 14, 2014)
+ninth amendment to master indenture, dated as of november 24, 2015, between synchrony credit card
+10.16    master note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.1
+of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on november 25, 2015)
+tenth amendment to master indenture, dated as of march 3, 2016, between synchrony credit card master
+10.17    note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on march 7, 2016)
+eleventh amendment to master indenture, dated as of april 21, 2017, between synchrony credit card
+10.18    master note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.1
+of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on april 26, 2017)
+twelfth amendment to master indenture, dated as of march 16, 2021, between synchrony credit card
+10.19    master note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.3
+of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on march 17, 2021)
+second omnibus supplement to specified indenture supplements, dated as of april 21, 2017, between
+10.20    synchrony credit card master note trust and deutsche bank trust company americas (incorporated by reference to exhibit 4.6 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on april 26, 2017)
+form of indenture supplement, between synchrony credit card master note trust and deutsche bank trust
+10.21    company americas (incorporated by reference to exhibit 4.8 of form s-3 registration statement filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 16, 2012 (333-181466))
+157
+form of indenture supplement, between synchrony credit card master note trust and deutsche bank trust
+10.22    company americas (incorporated by reference to exhibit 4.12 of form sf-3 registration statement filed by synchrony credit card master note trust and rfs holding, l.l.c. on december 30, 2015 (333-206176))
+form of vfn indenture supplement, between synchrony credit card master note trust and deutsche bank
+10.23    trust company americas (incorporated by reference to exhibit 10.24 of amendment no. 1 to form s-1
+registration statement filed by synchrony financial on august 1, 2014 (333-197244))
+form of loan agreement (vfn series, class a), among synchrony credit card master note trust, the
+10.24    lenders party thereto from time to time, and the managing agents party thereto from time to time
+(incorporated by reference to exhibit 10.25 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on august 1, 2014 (333-197244))
+trust agreement, dated as of september 25, 2003, between rfs holding, l.l.c. and the bank of new york
+10.25    (delaware) (incorporated by reference to exhibit 4.3 of amendment no. 1 to form s-3 registration statement filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 20, 2004
+(no. 333-107495, 333-107495-01 and 333-107495-02))
+first amendment to trust agreement, dated as of january 21, 2014, between rfs holding, l.l.c. and bny
+10.26    mellon trust of delaware (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit master note trust and rfs holding, l.l.c. on january 21, 2014)
+second amendment to trust agreement, dated as of september 8, 2014, between rfs holding, l.l.c. and
+10.27    bny mellon trust of delaware (incorporated by reference to exhibit 4.1 of the current report on form
+8-k filed by synchrony credit master note trust and rfs holding, l.l.c. on september 11, 2014)
+third amendment to trust agreement, dated as of april 21, 2017, between rfs holding, l.l.c. and bny
+10.28    mellon trust of delaware (incorporated by reference to exhibit 4.5 of the current report on form 8-k filed by synchrony credit master note trust and rfs holding, l.l.c. on april 26, 2017)
+custody and control agreement, dated as of september 25, 2003 by and among deutsche bank trust company of americas, in its capacity as custodian and in its capacity as indenture trustee, and synchrony
+10.29    credit card master note trust (incorporated by reference to exhibit 4.8 of amendment no. 1 to form s-3
+registration statement filed by synchrony credit card master note trust and rfs holding, l.l.c. on may
+20, 2004 (no. 333-107495, 333-107495-01 and 333-107495-02))
+receivables sale agreement, dated as of june 27, 2003, between ge capital retail bank (formerly known
+10.30    as monogram credit card bank of georgia) and rfs holding, l.l.c. (incorporated by reference to exhibit
+4.9 of amendment no. 1 to form s-3 registration statement filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 20, 2004 (no. 333-107495, 333-107495-01 and 333-107495-02))
+rsa assumption agreement and second amendment to receivables sale agreement, dated as of february 7,
+10.31    2005, between ge capital retail bank (formerly known as ge money bank) and rfs holding, l.l.c.
+(incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on february 11, 2005)
+third amendment to receivables sale agreement, dated as of december 21, 2006, between ge capital
+10.32    retail bank (formerly known as ge money bank) and rfs holding, l.l.c. (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on december 21, 2006)
+fourth amendment to receivables sale agreement, dated as of may 21, 2008, between ge capital retail
+10.33    bank (formerly known as ge money bank) and rfs holding, l.l.c. (incorporated by reference to exhibit
+4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 28, 2008)
+designation of removed accounts and fifth amendment to receivables sale agreement, dated as of
+10.34    december 29, 2008, between ge capital retail bank (formerly known as ge money bank) and rfs holding, l.l.c. (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on december 30, 2008)
+designation of removed accounts and sixth amendment to receivables sale agreement, dated as of
+10.35    february 26, 2009, between ge capital retail bank (formerly known as ge money bank) and rfs holding, l.l.c. (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on february 26, 2009)
+seventh amendment to receivables sale agreement, dated as of november 23, 2010, between ge capital
+10.36    retail bank (formerly known as ge money bank), and rfs holding, l.l.c. (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on november 24, 2010)
+158
+eighth amendment to receivables sale agreement, dated as of march 20, 2012, among ge capital retail bank, rfs holding, inc., plt holding, l.l.c. and rfs holding, l.l.c. (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on march 21, 2012)
+ninth amendment to receivables sale agreement, dated as of march 11, 2014, among ge capital retail bank, rfs holding, inc., plt holding, l.l.c. and rfs holding, l.l.c. (incorporated by reference to
+10.37    exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs
+10.38    holding, l.l.c. on march 14, 2014)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+designation of removed accounts and tenth amendment to receivables sale agreement, dated as of november 7, 2014, among synchrony bank (formerly known as ge capital retail bank), rfs holding inc.,
+10.39    plt holding, l.l.c. and rfs holding, l.l.c. (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on november 14, 2014)
+eleventh amendment to receivables sale agreement, dated as of march 3, 2016 among synchrony bank
+10.40    (formerly known as ge capital retail bank), rfs holding inc., plt holding, l.l.c. and rfs holding, l.l.c. (incorporated by reference to exhibit 4.3 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on march 7, 2016)
+twelfth amendment to receivables sale agreement, dated as of april 21, 2017 between synchrony bank
+10.41    (formerly known as ge capital retail bank) and rfs holding, l.l.c. (incorporated by reference to exhibit 4.4 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on april 26, 2017)
+thirteenth amendment to receivables sale agreement, dated as of may 31, 2017 between synchrony bank
+10.42    (formerly known as ge capital retail bank) and rfs holding, l.l.c. (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on june 2, 2017)
+designation of removed accounts and fourteenth amendment to receivables sale agreement, dated as of
+10.43    october 11, 2019, between synchrony bank (formerly known as ge capital retail bank) and rfs holding, l.l.c. (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on october 15, 2019)
+fifteenth amendment to receivables sale agreement, dated as of march 16, 2021, between synchrony bank
+10.44    (formerly known as ge capital retail bank) and rfs holding, l.l.c. (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on march 17, 2021)
+designation of removed accounts and sixteenth amendment to receivables sale agreement, dated as of
+10.45    june 17, 2022, between synchrony bank (formerly known as ge capital retail bank) and rfs holding, l.l.c. (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on june 21, 2022)
+transfer agreement, dated as of september 25, 2003, between rfs holding, l.l.c. and synchrony credit
+10.46    card master note trust (incorporated by reference to exhibit 4.12 of amendment no. 1 to form s-3
+registration statement filed by synchrony credit card master note trust and rfs holding, l.l.c. on may
+20, 2004 (no. 333-107495, 333-107495-01 and 333-107495-02))
+second amendment to transfer agreement, dated as of june 17, 2004, between rfs holding, l.l.c. and
+10.47    synchrony credit card master note trust (incorporated by reference to exhibit 4.3 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on july 2,
+2004)
+third amendment to transfer agreement, dated as of november 21, 2004, between rfs holding, l.l.c. and
+10.48    synchrony credit card master note trust (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on november 24, 2004)
+fourth amendment to transfer agreement, dated as of august 31, 2006, between rfs holding, l.l.c. and
+10.49    synchrony credit card master note trust (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on september 5, 2006)
+fifth amendment to transfer agreement, dated as of december 21, 2006, between rfs holding, l.l.c. and
+10.50    synchrony credit card master note trust (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on december 21, 2006)
+sixth amendment to transfer agreement, dated as of may 21, 2008, between rfs holding, l.l.c. and
+10.51    synchrony credit card master note trust (incorporated by reference to exhibit 4.4 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 28,
+2008)
+159
+reassignment of receivables in removed accounts and seventh amendment to transfer agreement, dated as of december 29, 2008, between rfs holding, l.l.c. and synchrony credit card master note trust
+(incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by
+10.52    synchrony credit card master note trust and rfs holding, l.l.c. on december 30, 2008)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+reassignment no. 4 of receivables in removed accounts and eighth amendment to transfer agreement,
+10.53    dated as of february 26, 2009, between rfs holding, l.l.c. and synchrony credit card master note trust
+(incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on february 26, 2009)
+ninth amendment to transfer agreement, dated as of march 31, 2010, between rfs holding, l.l.c. and
+10.54    synchrony credit card master note trust (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on march
+31, 2010)
+tenth amendment to transfer agreement, dated as of march 20, 2012, between rfs holding, l.l.c. and
+10.55    synchrony credit card master note trust (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on march
+21, 2012)
+eleventh amendment to transfer agreement, dated as of march 3, 2016, between rfs holding, l.l.c. and
+10.56    synchrony credit card master note trust (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on march
+7, 2016)
+twelfth amendment to transfer agreement, dated as of february 23, 2017, between rfs holding, l.l.c.
+10.57    and synchrony credit card master note trust (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on february 28, 2017)
+thirteenth amendment to transfer agreement, dated as of april 21, 2017, between rfs holding, l.l.c.
+10.58    and synchrony credit card master note trust (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on april
+26, 2017)
+fourteenth amendment to transfer agreement, dated as of march 16, 2021, between rfs holding, l.l.c.
+10.59    and synchrony credit card master note trust (incorporated by reference to exhibit 4.2 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on march
+17, 2021)
+servicing agreement, dated as of june 27, 2003, by and among rfs funding trust synchrony credit card master note trust and general electric capital corporation, successor to ge capital retail bank
+10.60    (formerly known as monogram credit card bank of georgia) (incorporated by reference to exhibit 4.13 of amendment no. 1 to form s-3 registration statement filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 20, 2004 (no. 333-107495, 333-107495-01 and 333-107495-02))
+servicing assumption agreement, dated as of february 7, 2005, by ge capital retail bank (formerly
+10.61    known as ge money bank) (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on february 11, 2005)
+first amendment to servicing agreement, dated as of may 22, 2006, between synchrony credit card master
+10.62    note trust and ge capital retail bank (formerly known as ge money bank) (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 25, 2006)
+second amendment to servicing agreement, dated as of june 28, 2007, between synchrony credit card
+10.63    master note trust and ge capital retail bank (formerly known as ge money bank) (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on june 28, 2007)
+instrument of resignation, appointment and acceptance and third amendment to servicing agreement, dated as of may 22, 2008, by and among synchrony credit card master note trust, ge capital retail bank
+10.64    (formerly known as ge money bank) and general electric capital corporation (incorporated by reference to exhibit 4.3 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 28, 2008)
+fourth amendment to servicing agreement, dated as of july 16, 2014, between synchrony credit card
+10.65    master note trust and general electric capital corporation (incorporated by reference to exhibit 4.14
+of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on july 16, 2014)
+fifth amendment to servicing agreement, dated as of november 24, 2015, between synchrony credit card
+10.66    master note trust and general electric capital corporation (incorporated by reference to exhibit 4.2
+of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on november 25, 2015)
+sixth amendment to servicing agreement, dated as of april 21, 2017, between synchrony credit card
+10.67    master note trust and synchrony financial (incorporated by reference to exhibit 4.3 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on april
+26, 2017)
+160
+instrument of resignation, appointment and acceptance, dated as of december 2, 2015, by and among synchrony credit card master note trust, general electric capital llc and synchrony financial
+(incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on
+10.68    december 4, 2015)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+administration agreement, dated as of september 25, 2003, among synchrony credit card master note trust, general electric capital corporation, as administrator, and the bank of new york (delaware),
+10.69    not in its individual capacity but solely as trustee (incorporated by reference to exhibit 4.14 of amendment no. 1 to form s-3 registration statement filed on may 20, 2004 (no. 333-107495,
+333-107495-01 and 333-107495-02))
+asset representations review agreement, dated as of march 4, 2016, among synchrony bank, rfs holding,
+10.70    l.l.c., synchrony credit card master note trust, synchrony financial and clayton fixed income services llc (incorporated by reference to exhibit 4.4 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on march 7, 2016)
+first amendment to administration agreement, dated as of may 4, 2009, between synchrony credit card
+10.71    master note trust and general electric capital corporation (incorporated by reference to exhibit 4.1
+of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on may 6, 2009)
+instrument of resignation, appointment and acceptance, dated as of july 16, 2014, by and among ge
+10.72    capital credit card master note trust, bny mellon trust of delaware and general electric capital corporation (incorporated by reference to exhibit 4.13 of the current report on form 8-k filed by synchrony credit card master note trust and rfs holding, l.l.c. on july 16, 2014)
+master indenture, dated as of february 29, 2012, between ge sales finance master trust and deutsche
+10.73    bank trust company americas (incorporated by reference to exhibit 10.55 of amendment no. 1 to form s-1
+registration statement filed by synchrony financial on april 25, 2014 (no. 333-194528))
+supplement no. 1 to master indenture, dated as of september 19, 2012, between ge sales finance master
+10.74    trust and deutsche bank trust company americas (incorporated by reference to exhibit 10.56 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on april 25, 2014 (no.
+333-194528))
+supplement no. 2 to master indenture, dated as of march 21, 2014, between ge sales finance master
+10.75    trust and deutsche bank trust company americas (incorporated by reference to exhibit 10.57 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on april 25, 2014 (no.
+333-194528))
+form of indenture supplement, between ge sales finance master trust and deutsche bank trust company
+10.76    americas (incorporated by reference to exhibit 10.58 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on august 1, 2014 (333-197244))
+form of loan agreement, among ge sales finance master trust, the lenders party thereto from time to
+10.77    time, and the lender group agents for the lender groups party thereto from time to time (incorporated by reference to exhibit 10.59 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on august 1, 2014 (333-197244))
+amended and restated trust agreement of ge sales finance master trust, dated as of february 29, 2012,
+10.78    between ge sales finance holding, l.l.c. and bny mellon trust of delaware (incorporated by reference to exhibit 10.60 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on april 25, 2014 (no. 333-194528))
+amended and restated receivables participation agreement, dated as of february 29, 2012, between ge
+10.79    capital retail bank and gemb lending inc. (incorporated by reference to exhibit 10.61 of amendment no.
+1 to form s-1 registration statement filed by synchrony financial on april 25, 2014 (no. 333-194528))
+first amendment to amended and restated receivables participation agreement, dated as of august 17,
+10.80    2012, between ge capital retail bank and gemb lending inc. (incorporated by reference to exhibit 10.62
+of amendment no. 1 to form s-1 registration statement filed by synchrony financial on april 25, 2014
+(no. 333-194528))
+second amendment to amended and restated receivables participation agreement, dated as of august 5,
+10.81    2013, between ge capital retail bank and gemb lending inc. (incorporated by reference to exhibit 10.63
+of amendment no. 1 to form s-1 registration statement filed by synchrony financial on april 25, 2014
+(no. 333-194528))
+participation interest sale agreement, dated as of february 29, 2012, between gemb lending inc. and ge
+10.82    sales finance holding, l.l.c. (incorporated by reference to exhibit 10.64 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on april 25, 2014 (no. 333-194528))
+first amendment to participation interest sale agreement, dated as of september 19, 2012, between gemb
+10.83    lending inc. and ge sales finance holding, l.l.c. (incorporated by reference to exhibit 10.65 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on april 25, 2014 (no.
+333-194528))
+161
+second amendment to participation interest sale agreement, dated as of march 21, 2014, between gemb
+10.84      lending inc. and ge sales finance holding, l.l.c. (incorporated by reference to exhibit 10.66 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on april 25, 2014
+(no. 333-194528))
+transfer agreement, dated as of february 29, 2012, between ge sales finance holding, l.l.c. and ge
+10.85      sales finance master trust (incorporated by reference to exhibit 10.67 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on april 25, 2014 (no. 333-194528))
+first amendment to transfer agreement, dated as of september 19, 2012, between ge sales finance
+10.86      holding, l.l.c. and ge sales finance master trust (incorporated by reference to exhibit 10.68 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on april 25, 2014
+(no. 333-194528))
+second amendment to transfer agreement, dated as of march 21, 2014, between ge sales finance
+10.87      holding, l.l.c. and ge sales finance master trust (incorporated by reference to exhibit 10.69 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on april 25, 2014
+(no. 333-194528))
+servicing agreement, dated as of february 29, 2012, between ge capital retail bank and ge sales
+10.88      finance master trust (incorporated by reference to exhibit 10.70 of amendment no. 1 to form s-1
+registration statement filed by synchrony financial on april 25, 2014 (no. 333-194528))
+administration agreement, dated as of february 29, 2012, between ge sales finance master trust and
+10.89      ge capital retail bank (incorporated by reference to exhibit 10.71 of amendment no. 1 to form s-1
+registration statement filed by synchrony financial on april 25, 2014 (no. 333-194528))
+general electric supplementary pension plan, as amended effective january 1, 2011 (incorporated by
+10.90+     reference to exhibit 10(g) of the annual report on form 10-k filed by general electric company on february 25, 2011)
+form of indemnification agreement for directors, executive officers and key employees (incorporated
+10.91+     by reference to exhibit 10.89 of amendment no. 1 to form s-1 registration statement filed by synchrony financial on august 1, 2014 (333-197244))
+synchrony financial non-employee director deferred compensation plan (incorporated by reference to
+10.92+     exhibit 10.91 of amendment no. 5 to form s-1 registration statement filed by synchrony financial on july 18, 2014 (no. 33-194528))
+10.93+     form of synchrony financial deferred compensation plan (incorporated by reference to exhibit 10.1 to form 8-k filed by synchrony financial on september 22, 2014)
+10.94+     first amendment to the synchrony financial deferred compensation plan (incorporated by reference to exhibit 10.109 to 2014 annual report on form 10-k filed by synchrony financial on february 23, 2015)
+10.95+     form of restricted stock unit and non-qualified stock option award (incorporated by reference to exhibit 10.2 to form 8-k filed by synchrony financial on september 22, 2014)
+10.96+     form of synchrony financial amended and restated annual incentive plan (incorporated by reference to exhibit 10.1 to form 10-q filed by synchrony financial on october 21, 2021)
+10.97+     form of synchrony financial amended and restated restoration plan (incorporated by reference to exhibit 10.3 to form 10-q filed by synchrony financial on july 28, 2017)
+10.98+     form of synchrony financial change in control severance plan (incorporated by reference to exhibit
+10.3 to form 8-k filed by synchrony financial on may 27, 2015)
+10.99+     synchrony financial amended and restated 2014 long-term incentive plan (incorporated by reference to exhibit 10.2 to form 10-q filed by synchrony financial on october 21, 2021)
+services agreement, dated march 29, 2022, between retail finance servicing, llc and fiserv
+10.100†    solutions, llc (incorporated by reference to exhibit 10.1 of the current report on form 8-k filed by synchrony financial on april 4, 2022)
+letter, dated as of october 19, 2015, delivered by general electric capital corporation and
+10.101     acknowledged and agreed to by general electric company and synchrony financial(incorporated by reference to exhibit 10.116 of form s-4 registration statement filed by synchrony financial on october 19, 2015 (no. 333-207479))
+amended and restated form of agreement for awards of restricted stock units and non-qualified stock
+10.102+    options under synchrony 2014 long-term incentive plan (incorporated by reference to exhibit 10.1 to form 10-q filed by synchrony financial on april 26, 2018)
+amended and restated form of agreement for awards of performance share units under synchrony 2014
+10.103+    long-term incentive plan (incorporated by reference to exhibit 10.2 to form 10-q filed by synchrony financial on april 26, 2018)
+form of agreement for awards of restricted stock units under synchrony 2014 long-term incentive plan
+10.104+    to directors of synchrony financial (incorporated by reference to exhibit 10.3 to form 10-q filed by synchrony financial on april 26, 2018)
+162
+amended and restated executive severance plan (incorporated by reference to exhibit 10.4 to form
+10-q filed by synchrony financial on april 26, 2018)
+10.105+    first amendment to the amended and restated executive severance plan (incorporated by reference to
+10.106+    exhibit 10.2 to form 10-q filed by synchrony financial on october 22, 2020)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+amended and restated master indenture, dated as of may 1, 2018, between synchrony card issuance
+10.107     trust, as issuer and the bank of new york mellon, as indenture trustee (incorporated by reference to exhibit 4.1 of form sf-3 registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may 4, 2018 (no. 333-224689 and 333-224689-01))
+form of class a terms document, between synchrony card issuance trust and the bank of new york
+10.108     mellon (incorporated by reference to exhibit 4.3 of form sf-3 registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may 4, 2018 (no. 333-224689 and
+333-224689-01))
+form of class b terms document, between synchrony card issuance trust and the bank of new york
+10.109     mellon (incorporated by reference to exhibit 4.4 of form sf-3 registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may 4, 2018 (no. 333-224689 and
+333-224689-01))
+form of class c terms document, between synchrony card issuance trust and the bank of new york
+10.110     mellon (incorporated by reference to exhibit 4.5 of form sf-3 registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may 4, 2018 (no. 333-224689 and
+333-224689-01))
+form of class d terms document, between synchrony card issuance trust and the bank of new york
+10.111     mellon (incorporated by reference to exhibit 4.6 of form sf-3 registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may 4, 2018 (no. 333-224689 and
+333-224689-01))
+amended and restated trust agreement, among synchrony card funding, llc, citibank, n.a. and citicorp
+10.112     trust delaware, national association (incorporated by reference to exhibit 4.7 of form sf-3
+registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may
+4, 2018 (no. 333-224689 and 333-224689-01))
+custody and control agreement, dated as of november 17, 2017, by and among the bank of new york mellon, in its capacity as custodian and in its capacity as indenture trustee, and synchrony card
+10.113     issuance trust (incorporated by reference to exhibit 4.8 of form sf-3 registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may 4, 2018 (no. 333-224689 and
+333-224689-01))
+amended and restated receivables sale agreement, dated as of may 1, 2018, between synchrony bank and
+10.114     synchrony card funding, llc (incorporated by reference to exhibit 4.9 of form sf-3 registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may 4, 2018 (no.
+333-224689 and 333-224689-01))
+amended and restated transfer agreement, dated as of may 1, 2018, between synchrony card funding,
+10.115     llc and synchrony card issuance trust (incorporated by reference to exhibit 4.10 of form sf-3
+registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may
+4, 2018 (no. 333-224689 and 333-224689-01))
+amended and restated servicing agreement, dated as of may 1, 2018, between synchrony card issuance
+10.116     trust and synchrony bank (incorporated by reference to exhibit 4.11 of form sf-3 registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may 4, 2018 (no.
+333-224689 and 333-224689-01))
+form of risk retention agreement, among synchrony bank, synchrony card funding, llc and synchrony
+10.117     card issuance trust (incorporated by reference to exhibit 4.12 of form sf-3 registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may 4, 2018 (no.
+333-224689 and 333-224689-01))
+administration agreement, dated as of november 30, 2017, between synchrony card issuance trust and
+10.118     synchrony bank (incorporated by reference to exhibit 4.13 of form sf-3 registration statement filed by synchrony card issuance trust and synchrony card funding, llc on may 4, 2018 (no. 333-224689 and
+333-224689-01))
+asset representations review agreement, dated as of august 15, 2018, among synchrony bank, synchrony
+10.119     card funding, llc, synchrony card issuance trust and clayton fixed income services llc (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony card issuance trust and synchrony card funding, llc on august 20, 2018)
+synchronyseries indenture supplement, dated as of september 26, 2018, between synchrony card
+10.120     issuance trust and the bank of new york mellon (incorporated by reference to exhibit 4.1 of the current report on form 8-k filed by synchrony card issuance trust and synchrony card funding, llc on october 2, 2018)
+supplement no. 1 to synchronyseries indenture supplement, dated as of may 28, 2021, between
+10.121     synchrony card issuance trust and the bank of new york mellon (incorporated by reference to exhibit
+4.1 of the current report on form 8-k filed by synchrony card issuance trust and synchrony card funding, llc on june 2, 2021)
+163
+amended and restated form of agreement for awards under synchrony 2014 long-term incentive plan
+(incorporated by reference to exhibit 10.1 of the quarterly report on form 10-q filed by synchrony financial on april 25, 2019)
+amended and restated form of agreement for awards of performance share units under synchrony 2014
+10.122     long-term incentive plan (incorporated by reference to exhibit 10.2 of the quarterly report on form
+10.123     10-q filed by synchrony financial on april 25, 2019)
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+10.124     synchrony financial amended and restated 2014 long-term incentive plan (incorporated by reference to exhibit 10.1 of the quarterly report on form 10-q filed by synchrony financial on october 24, 2019)
+synchrony financial amended and restated change in control severance plan (incorporated by reference
+10.125     to exhibit 10.2 of the quarterly report on form 10-q filed by synchrony financial on october 24,
+2019)
+first amendment to synchrony financial amended and restated change in control severance plan
+10.126     (incorporated by reference to exhibit 10.1 of the quarterly report on form 10-q filed by synchrony financial on october 22, 2020)
+10.127     first amendment to the synchrony financial restoration plan (incorporated by reference to exhibit
+10.3 of the quarterly report on form 10-q filed by synchrony financial on october 24, 2019)
+separation agreement and release, dated as of december 9, 2020, between synchrony bank and neeraj
+10.128+    mehta (incorporated by reference to exhibit 10.127 of the annual report on form 10-k filed by synchrony financial on february 11, 2021)
+10.129*    amended and restated form of agreement for awards of restricted stock units under synchrony 2014
+long-term incentive plan (for awards made on or after march 1, 2022)
+10.130*    amended and restated form of agreement for awards of performance share units under synchrony 2014
+long-term incentive plan (for awards made on or after march 1, 2023)
+21.1*      subsidiaries of the registrant
+23.1*      consent of kpmg llp
+24.1*      powers of attorney (included on the signature page)
+31(a)*     certification pursuant to rules 13a-14(a) or 15d-14(a) under the securities exchange act of 1934, as amended
+31(b)*     certification pursuant to rules 13a-14(a) or 15d-14(a) under the securities exchange act of 1934, as amended
+32*        certification pursuant to 18 u.s.c. section 1350
+97*        policy relating to recovery of erroneously awarded compensation
+101.ins    xbrl instance document - the instance document does not appear in the interactive data file because its xbrl tags are embedded within the inline xbrl document
+101.sch    xbrl taxonomy extension schema document
+101.cal    xbrl taxonomy extension calculation linkbase document
+101.def    xbrl taxonomy extension definition linkbase document
+101.lab    xbrl taxonomy extension label linkbase document
+101.pre    xbrl taxonomy extension presentation linkbase document
+104        the cover page from the company's annual report on form 10-k for the year ended december 31,2023, formatted in inline xbrl (included as exhibit 101)
+______________________
+* filed electronically herewith.
+† confidential treatment granted to certain portions, which portions have been provided separately to the securities and exchange commission.
++ management contract or compensatory plan or arrangement required to be filed as an exhibit to form 10-k pursuant to item 15(b) of this report.
+164
+signatures pursuant to the requirements of section 13 or 15(d) of the securities exchange act of 1934, the registrant has duly caused this annual report on form 10-k for the fiscal year ended december 31, 2023, to be signed on its behalf by the undersigned, and in the capacity indicated, thereunto duly authorized in the city of stamford and state of connecticut on the 8th day of february 2024.
+synchrony financial
+(registrant)
+/s/ brian j. wenzel sr.
+brian j. wenzel sr.
+executive vice president and chief financial officer
+(duly authorized officer and principal financial officer)
+165
+power of attorney each person whose signature appears below hereby constitutes and appoints brian d. doubles, brian j. wenzel and jonathan s. mothner, and each of them acting individually, as his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution, to execute for him or her and in his or her name, place and stead, in any and all capacities, any and all amendments to this annual report on form 10-k, and to file the same, with all exhibits thereto and any other documents required in connection therewith with the securities and exchange commission, granting unto said attorneys-in-fact and agents and their substitutes, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as fully as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or any of them, or their or his or her substitutes, may lawfully do or cause to be done by virtue hereof.
+pursuant to the requirements of the securities exchange act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+166
+title signature                                                    principal executive officer     date
+/s/ brian d. doubles                                         director                        february 8, 2024
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────
+brian d. doubles director and chief executive officer
+/s/ brian j. wenzel sr.                                      principal financial officer     february 8, 2024
+brian j. wenzel sr.
+executive vice president and chief financial officer
+(duly authorized officer and principal financial officer)
+/s/ david p. melito                                          principal accounting officer    february 8, 2024
+david p. melito senior vice president and controller
+/s/ fernando aguirre                                         director                        february 8, 2024
+fernando aguirre
+/s/ paget l. alves                                           director                        february 8, 2024
+paget l. alves
+/s/ kamila chytil                                            director                        february 8, 2024
+kamila chytil
+/s/ arthur w. coviello, jr.                                  director                        february 8, 2024
+arthur w. coviello, jr.
+/s/ roy a. guthrie                                           director                        february 8, 2024
+roy a. guthrie
+/s/ jeffrey g. naylor                                        director                        february 8, 2024
+jeffrey g. naylor
+/s/ p.w. parker                                              director                        february 8, 2024
+p.w. parker
+/s/ laurel j. richie                                         director                        february 8, 2024
+laurel j. richie
+/s/ ellen m. zane                                            director                        february 8, 2024
+ellen m. zane
+167
+management's discussion and analysis of financial condition and results of operations-critical accounting estimates " and note 2. basis of presentation and summary of significant accounting policies to our consolidated financial statements.
+adverse financial market conditions or our inability to effectively manage our funding and liquidity risk could have a material adverse effect on our funding, liquidity and ability to meet our obligations.
+we need to effectively manage our funding and liquidity in order to meet our cash requirements such as day-to-day operating expenses, extensions of credit to our customers, payments of principal and interest on our borrowings and payments on our other obligations. our primary sources of funding and liquidity are collections from our customers, deposits, funds from securitized financings and proceeds from unsecured borrowings. if we do not have sufficient liquidity, we may not be able to meet our obligations, particularly during a liquidity stress event. if we maintain or are required to maintain too much liquidity, it could be costly and reduce our financial flexibility.
+70
+we will need additional financing in the future to refinance any existing debt and finance growth of our business.
+the availability of additional financing will depend on a variety of factors such as financial market conditions generally, including the availability of credit to the financial services industry, consumers' willingness to place money on deposit in the bank, our performance and credit ratings and the performance of our securitized portfolios.
+disruptions, uncertainty or volatility in the capital, credit or deposit markets, such as the uncertainty and volatility experienced in the capital and credit markets during periods of financial stress and other economic and political conditions in the global markets and concerning the level of u.s. government debt and fiscal measures that may be taken over the longer term to address these matters, may limit our ability to obtain additional financing or refinance maturing liabilities on desired terms (including funding costs) in a timely manner or at all. as a result, we may be forced to delay obtaining funding or be forced to issue or raise funding on undesirable terms, which could significantly reduce our financial flexibility and cause us to contract or not grow our business, all of which could have a material adverse effect on our results of operations and financial conditions.
+in addition, at december 31, 2023, we had an aggregate of $3.0 billion of undrawn credit facilities, subject to customary borrowing conditions, from private lenders under our securitization programs and an unsecured revolving credit facility. our ability to draw on such commitments is subject to the satisfaction of certain conditions, including the applicable securitization trust having sufficient collateral to support the draw and the absence of an early amortization event. moreover, there are regulatory reforms that have been proposed or adopted in the united states and internationally that are intended to address certain issues that affected banks in the last financial crisis. these reforms, generally referred to as "basel iii," subject banks to more stringent capital, liquidity and leverage requirements. to the extent that the basel iii requirements result in increased costs to the banks providing undrawn committed capacity under our securitization programs, these costs are likely to be passed on to us. in addition, in response to basel iii, some banks in the market (including certain of the private lenders in our securitization programs) have added provisions to their credit agreements permitting them to delay disbursement of funding requests for 30 days or more. if our bank lenders require delayed disbursements of funding and/or higher pricing for committing undrawn capacity to us, our cost of funding and access to liquidity could be adversely affected.
+while financial market conditions are generally stable, there can be no assurance that significant disruptions, uncertainties and volatility will not occur in the future. if we are unable to continue to finance our business, access capital markets and attract deposits on favorable terms and in a timely manner, or if we experience an increase in our borrowing costs or otherwise fail to manage our liquidity effectively, our results of operations and financial condition may be materially adversely affected.
+our inability to maintain or grow our deposits in the future could materially adversely affect our liquidity and ability to grow our business.
+we obtain deposits directly from retail and commercial customers or through brokerage firms that offer our deposit products to their customers. at december 31, 2023, we had $67.0 billion in direct deposits and $14.2 billion in deposits originated through brokerage firms (including network deposit sweeps procured through a program arranger who channels brokerage account deposits to us). a key part of our liquidity plan and funding strategy is to continue to fund our growth through direct deposits.
+the deposit business is highly competitive, with intense competition in attracting and retaining deposits. we compete on the basis of the rates we pay on deposits, features and benefits of our products, the quality of our customer service and the competitiveness of our digital banking capabilities. our ability to originate and maintain retail deposits is also highly dependent on the products we offer, the strength of the bank and the perceptions of consumers and others of our business practices and our financial health. adverse perceptions regarding our reputation could lead to difficulties in attracting and retaining deposits accounts. negative public opinion could result from actual or alleged conduct in a number of areas, including lending practices, the composition of our deposit base, regulatory compliance, inadequate protection of customer information or sales and marketing activities, and from actions taken by regulators or others in response to such conduct.
+the demand for the deposit products we offer may also be reduced due to a variety of factors, such as demographic patterns, macroeconomic shocks, significant changes in the level of interest rates, changes in customer preferences, reductions in consumers' disposable income, regulatory actions that decrease customer access to particular products or the availability of competing products which may offer more features or perceived benefits than the bank's products. competition from other financial services firms and others that use deposit funding products may affect deposit renewal rates, costs or availability. changes we make to the rates offered on our deposit products may affect our profitability and liquidity.
+71
+in 2022, we launched a partnership with paypal holdings inc. to offer demand savings accounts exclusively to paypal customers. this, and other future affiliate banking products, could become important sources of funding and liquidity to the bank. to the extent such partnerships are dissolved, the bank may need to find suitable replacement sources of that funding and liquidity at potentially higher costs.
+the federal deposit insurance act (the "fdia") prohibits an insured bank from accepting brokered deposits or offering interest rates on any deposits significantly higher than the prevailing rate in the bank's normal market area or nationally (depending upon where the deposits are solicited), unless it is "well capitalized," or it is
+"adequately capitalized" and receives a waiver from the fdic. a bank that is "adequately capitalized" and accepts brokered deposits under a waiver from the fdic may not pay an interest rate on any deposit in excess of 75 basis points over certain prevailing market rates. there are no such restrictions under the fdia on a bank that is "well capitalized" and at december 31, 2023, the bank met or exceeded all applicable requirements to be deemed "well capitalized" for purposes of the fdia. however, there can be no assurance that the bank will continue to meet those requirements. limitations on the bank's ability to accept brokered deposits for any reason (including regulatory limitations on the amount of brokered deposits in total or as a percentage of total assets) in the future could materially adversely impact our funding costs and liquidity. any limitation on the interest rates the bank can pay on deposits could competitively disadvantage us in attracting and retaining deposits and have a material adverse effect on our business.
+changes in market interest rates could have a material adverse effect on our net earnings, funding and liquidity.
+changes in market interest rates cause our net interest income to increase or decrease, as certain of our assets and liabilities carry interest rates that fluctuate with market benchmarks. at december 31, 2023, 62% of our loan receivables were priced at a fixed interest rate to the customer, with the remaining 38% at a floating interest rate. we fund our assets with a combination of fixed rate and floating rate funding sources that include deposits, asset-backed securities and unsecured debt. the interest rate benchmark for our floating rate assets and the interest rate benchmark for our floating rate liabilities could reset at different times or could diverge, leading to mismatches in the interest rates on our floating rate assets and floating rate liabilities.
+competitive and regulatory factors may limit our ability to raise interest rates on our loans. in addition, some of our program agreements limit the rate of interest we can charge to customers. if interest rates were to rise materially over a sustained period of time, like we experienced during 2022 and 2023, and we are unable to sufficiently raise our interest rates in a timely manner, or at all, our net interest margin could be adversely impacted, which could have a material adverse effect on our net earnings.
+interest rates may also adversely impact our customers' spending levels and ability and willingness to pay amounts owed to us. our floating rate credit products bear interest at rates that fluctuate with the prime rate. higher interest rates often lead to higher payment obligations by customers to us and other lenders under mortgage, credit card and other consumer loans, which may reduce our customers' ability to remain current on their obligations to us and therefore lead to increased delinquencies, bankruptcies, charge-offs, allowances for credit losses, and decreasing recoveries, all of which could have a material adverse effect on our net earnings.
+changes in interest rates and competitor responses to these changes may also impact customer decisions to maintain deposits with us, and reductions in deposits could materially adversely affect our funding costs and liquidity.
+we assess our interest rate risk by estimating the net interest income impact of various interest rate scenarios.
+we take risk mitigation actions based on those assessments. changes in interest rates could materially reduce our net interest income and our net earnings, and could also increase our funding costs and reduce our liquidity, especially if actual conditions turn out to be materially different from our assumptions. for a discussion of interest rate risk sensitivities, see " quantitative and qualitative disclosures about market risk-

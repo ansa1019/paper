@@ -1,0 +1,653 @@
+item 7 - management's discussion and analysis of financial condition and results of operations non-gaap financial measures the following discussion includes financial information prepared in accordance with gaap, as well as certain non-gaap financial measures such as ongoing roe, electric margin, natural gas margin, ongoing earnings and ongoing diluted eps. generally, a non-gaap financial measure is a measure of a company's financial performance, financial position or cash flows that excludes (or includes) amounts that are adjusted from measures calculated and presented in accordance with gaap.
+xcel energy's management uses non-gaap measures for financial planning and analysis, for reporting of results to the board of directors, in determining performance-based compensation, and communicating its earnings outlook to analysts and investors. non-gaap financial measures are intended to supplement investors' understanding of our performance and should not be considered alternatives for financial measures presented in accordance with gaap. these measures are discussed in more detail below and may not be comparable to other companies' similarly titled non-gaap financial measures.
+ongoing roe ongoing roe is calculated by dividing the net income or loss of xcel energy or each subsidiary, adjusted for certain nonrecurring items, by each entity's average stockholder's equity. we use these non-gaap financial measures to evaluate and provide details of earnings results.
+electric and natural gas margins electric margin is presented as electric revenues less electric fuel and purchased power expenses. natural gas margin is presented as natural gas revenues less the cost of natural gas sold and transported. expenses incurred for electric fuel and purchased power and the cost of natural gas are generally recovered through various regulatory recovery mechanisms. as a result, changes in these expenses are generally offset in operating revenues. management believes electric and natural gas margins provide the most meaningful basis for evaluating our operations because they exclude the revenue impact of fluctuations in these expenses.
+these margins can be reconciled to operating income, a gaap measure, by including other operating revenues, cost of sales-other, o&m expenses, conservation and dsm expenses, depreciation and amortization and taxes (other than income taxes).
+earnings adjusted for certain items (ongoing earnings and ongoing diluted eps)
+gaap diluted eps reflects the potential dilution that could occur if securities or other agreements to issue common stock (i.e., common stock equivalents) were settled. the weighted average number of potentially dilutive shares outstanding used to calculate xcel energy inc.'s diluted eps is calculated using the treasury stock method. ongoing earnings reflect adjustments to gaap earnings (net income) for certain items. ongoing diluted eps is calculated by dividing the net income or loss of each subsidiary, adjusted for certain items, by the weighted average fully diluted xcel energy inc. common shares outstanding for the period. ongoing diluted eps for each subsidiary is calculated by dividing the net income or loss of such subsidiary, adjusted for certain items, by the weighted average fully diluted xcel energy inc. common shares outstanding for the period.
+we use these non-gaap financial measures to evaluate and provide details of xcel energy's core earnings and underlying performance. we believe these measurements are useful to investors to evaluate the actual and projected financial performance and contribution of our subsidiaries. for the years ended dec. 31, 2020 and 2019, there were no such adjustments to gaap earnings and therefore gaap earnings equal ongoing earnings.
+results of operations diluted eps for xcel energy at dec. 31:
+2020                                         2019
+diluted earnings (loss) per share                                   gaap and ongoing diluted eps                 gaap and ongoing diluted eps nsp-minnesota                                                                  $1.12                                        $1.04
+psco                                                                            1.11                                         1.11
+sps                                                                             0.56                                         0.51
+nsp-wisconsin                                                                   0.20                                         0.15
+equity earnings of unconsolidated subsidiaries                                  0.05                                         0.05
+regulated utility (a)                                                           3.04                                         2.86
+xcel energy inc. and other                                                    (0.25)                                       (0.22)
+total (a)                                                                      $2.79                                        $2.64
+(a)    amounts may not add due to rounding.
+xcel energy's management believes that ongoing earnings reflects management's performance in operating xcel energy and provides a meaningful representation of the performance of xcel energy's core business. in addition, xcel energy's management uses ongoing earnings internally for financial planning and analysis, reporting results to the board of directors and when communicating its earnings outlook to analysts and investors.
+2020 comparison with 2019
+xcel energy - gaap and ongoing earnings increased $0.15 per share, primarily reflecting higher electric margin (largely due to regulatory outcomes which recover capital investment), higher afudc and lower o&m expenses, which offset increased depreciation, interest expense and declining sales primarily due to the impacts of covid-19.
+nsp-minnesota - earnings increased $0.08 per share for 2020, reflecting higher electric margin (riders, wholesale transmission revenue and a sales true-up mechanism, which recovers lower sales due to covid-19) and lower o&m expenses, partially offset by increased depreciation and lower natural gas margin.
+psco - earnings were flat for 2020, reflecting higher electric margin (wholesale transmission revenue and regulatory outcomes offset lower sales due to covid-19), increased afudc and higher natural gas margin, offset by additional depreciation and taxes (other than income taxes).
+sps - earnings increased $0.05 per share for 2020, reflecting higher electric margin (wholesale transmission revenue and regulatory outcomes offset lower sales due to covid-19) and lower o&m expenses, partially offset by increased depreciation, interest expense and taxes (other than income taxes).
+nsp-wisconsin - earnings increased $0.05 per share for 2020, reflecting higher electric margin (regulatory outcomes offset lower sales due to covid-19) and lower o&m expenses, partially offset by increased depreciation and lower natural gas margin.
+xcel energy inc. and other - primarily includes financing costs at the holding company.
+table of contents changes in diluted eps components significantly contributing to changes in eps:
+2020 vs. 2019
+diluted earnings (loss) per share                               dec. 31
+gaap and ongoing diluted eps - 2019                          $2.64
+components of change - 2020 vs. 2019
+higher electric margins (a)                                   0.32
+lower etr (b)                                                 0.22
+higher afudc                                                  0.08
+changes in o&amp;m                                            0.02
+higher depreciation and amortization                        (0.26)
+higher interest                                             (0.10)
+higher taxes (other than income taxes)                      (0.06)
+changes in natural gas margins                              (0.01)
+other (net)                                                 (0.06)
+gaap and ongoing diluted eps - 2020                          $2.79
+(a)    change in electric margin was negatively impacted by reductions in sales and demand due to covid-19 and is detailed below. sales decline excludes weather impact, net of decoupling/sales true-up and reduction in demand revenue is net of sales true-up.
+diluted earnings (loss) per share                                       twelve months ended dec. 31
+electric margin (excluding reductions in sales and demand)                        $0.41
+reductions in sales and demand                                                   (0.09)
+higher electric margins                                                           $0.32
+(b)    includes ptcs and tax reform regulatory amounts, which are primarily offset in electric margin.
+roe for xcel energy and its utility subsidiaries:
+2020                                   2019
+roe                                        gaap and ongoing roe                   gaap and ongoing roe nsp-minnesota                                     9.20        %                          9.31        %
+psco                                              8.06                                   8.69
+sps                                               9.54                                   9.71
+nsp-wisconsin                                    10.52                                   8.27
+operating companies                               8.87                                   9.06
+xcel energy                                      10.59                                  10.78
+statement of income analysis the following summarizes the items that affected the individual revenue and expense items reported in the consolidated statements of income.
+estimated impact of temperature changes on regulated earnings - unusually hot summers or cold winters increase electric and natural gas sales, while mild weather reduces electric and natural gas sales. the estimated impact of weather on earnings is based on the number of customers, temperature variances, the amount of natural gas or electricity historically used per degree of temperature and excludes any incremental related operating expenses that could result due to storm activity or vegetation management requirements. as a result, weather deviations from normal levels can affect xcel energy's financial performance to the extent there is not a decoupling or sales true-up mechanism in the state.
+degree-day or thi data is used to estimate amounts of energy required to maintain comfortable indoor temperature levels based on each day's average temperature and humidity. hdd is the measure of the variation in the weather based on the extent to which the average daily temperature falls below 65° fahrenheit. cdd is the measure of the variation in the weather based on the extent to which the average daily temperature rises above 65° fahrenheit. each degree of temperature above 65° fahrenheit is counted as one cdd, and each degree of temperature below 65° fahrenheit is counted as one hdd. in xcel energy's more humid service territories, a thi is used in place of cdd, which adds a humidity factor to cdd. hdd, cdd and thi are most likely to impact the usage of xcel energy's residential and commercial customers. industrial customers are less sensitive to weather.
+normal weather conditions are defined as either the 10, 20 or 30-year average of actual historical weather conditions. the historical period of time used in the calculation of normal weather differs by jurisdiction, based on regulatory practice. to calculate the impact of weather on demand, a demand factor is applied to the weather impact on sales. extreme weather variations, windchill and cloud cover may not be reflected in weather-normalized estimates.
+percentage (decrease) increase in normal and actual hdd, cdd and thi:
+2020 vs.                2019 vs.                 2020 vs. 2019
+normal                  normal hdd           (3.1)    %               10.4    %                 (12.0)      %
+cdd            22.2                     5.4                        24.8
+thi             6.3                   (8.8)                        18.2
+weather - estimated impact of temperature variations on eps compared with normal weather conditions:
+2020 vs.                     2019 vs.        2020 vs. 2019
+normal                       normal retail electric                                          $0.090                       $0.040             $0.050
+decoupling and sales true-up                            (0.041)                            -            (0.041)
+total (excluding decoupling)                             $0.049                       $0.040             $0.009
+firm natural gas                                        (0.011)        0.027                            (0.038)
+total (adjusted for recovery from decoupling)            $0.038                       $0.067           $(0.029)
+sales  - sales growth (decline) for actual and weather-normalized sales:
+2020 vs. 2019
+psco                 nsp-minnesota                    sps                 nsp-wisconsin                xcel energy actual (a)
+electric residential                5.8                %                    5.0      %                3.6   %                    2.4      %                  4.9     %
+electric c&amp;i                               (4.1)                      (7.0)                     (3.3)                      (4.6)                       (5.0)
+total retail electric sales                    (1.1)                      (3.4)                     (2.2)                      (2.6)                       (2.3)
+firm natural gas sales                         (6.8)                      (8.3)                           n/a                  (6.4)                       (7.2)
+2020 vs. 2019
+psco                 nsp-minnesota                    sps                 nsp-wisconsin                xcel energy weather-normalized (a)
+electric residential                                   3.8    %                    3.7      %                1.6   %                    2.6      %                  3.3     %
+electric c&amp;i                                     (4.5)                       (7.0)                     (3.4)                      (4.8)                       (5.2)
+total retail electric sales                          (1.9)                       (3.8)                     (2.6)                      (2.7)                       (2.8)
+firm natural gas sales                                 0.5                         1.9                           n/a                    5.1                         1.3
+
+2020 vs. 2019 (leap year adjusted)
+psco                    nsp-minnesota                       sps                    nsp-wisconsin                   xcel energy weather-normalized (a)
+electric residential                                   3.6    %                       3.4      %                   1.3   %                       2.3      %                     3.1     %
+electric c&amp;i                                     (4.8)                          (7.3)                        (3.7)                         (5.0)                          (5.4)
+total retail electric sales                          (2.2)                          (4.1)                        (2.9)                         (2.9)                          (3.1)
+firm natural gas sales                                 0.1                            1.4                              n/a                       4.6                            0.7
+(a) higher residential sales and lower c&i sales were primarily attributable to covid-19. the increase in residential sales was partially driven by more customers working from home.
+weather-normalized and leap-year adjusted electric sales growth (decline) - year-to-date (excluding leap day)
+•psco - residential sales rose based on an increased number of customers and higher use per customer. the decline in c&i sales was primarily due to covid-19, particularly within the manufacturing and service industries, partially offset by an increase in the energy sector.
+•nsp-minnesota - residential sales rose based on an increased number of customers and higher use per customer. the decline in c&i sales was primarily due to covid-19, particularly within the energy, manufacturing and services sectors.
+•sps - residential sales rose based on an increased number of customers and higher use per customer. the decline in c&i sales was primarily due to covid-19, particularly within the energy and manufacturing sectors.
+•nsp-wisconsin - residential sales rose based on an increased number of customers and higher use per customer. the decline in c&i sales was primarily due to covid-19, particularly within the energy and manufacturing sectors.
+weather-normalized and leap-year adjusted natural gas sales growth (decline) - year-to-date (excluding leap day)
+•higher natural gas sales reflect an increase in the number of customers combined with higher residential customer use, partially offset by lower c&i customer use.
+electric margin electric revenues and fuel and purchased power expenses are impacted by fluctuations in the price of natural gas, coal and uranium. however, these fluctuations have minimal impact on margin due to fuel recovery mechanisms. in addition, electric customers receive a credit for ptcs generated, which reduce electric revenue and margin (offset by lower tax expense).
+electric revenues and margin:
+(millions of dollars)                     2020                    2019
+electric revenues                                     $9,802                  $9,575
+electric fuel and purchased power                    (3,512)                 (3,510)
+electric margin                                       $6,290                  $6,065
+changes in electric margin
+(millions of dollars)                                                                          2020 vs. 2019
+regulatory rate outcomes (colorado, wisconsin, texas and new mexico) (a)                         $209
+non-fuel riders                                                                                    74
+wholesale transmission revenue (net)                                                               59
+mec purchased capacity costs                                                                       35
+conservation incentive                                                                             13
+2019 tax reform customer credits - wisconsin (offset in income tax)                                 7
+estimated impact of weather (net of decoupling / sales true-up)                                     7
+ptcs flowed back to customers (offset by lower etr)                                             (119)
+sales and demand (b)                                                                             (66)
+other (net)                                                                                         6
+total increase in electric margin                                                                $225
+(a)    includes approximately $70 million of revenue and margin due to the texas rate case outcome, which is largely offset by recognition of previously deferred costs.
+(b)    sales excludes weather impact, net of decoupling/sales true-up, and demand revenue is net of sales true-up.
+natural gas margin natural gas expense varies with changing sales and cost of natural gas. however, fluctuations in the cost of natural gas has minimal impact on margin due to cost recovery mechanisms.
+natural gas revenues and margin:
+(millions of dollars)                           2020                    2019
+natural gas revenues                                        $1,636                  $1,868
+cost of natural gas sold and transported                     (689)                   (918)
+natural gas margin                                            $947                    $950
+changes in natural gas margin
+(millions of dollars)                                                  2020 vs. 2019
+estimated impact of weather                                             $(28)
+regulatory rate outcomes (colorado and wisconsin)                          16
+infrastructure and integrity riders                                         8
+retail sales growth                                                         2
+other (net)                                                               (1)
+total decrease in natural gas margin                                     $(3)
+table of contents non-fuel operating expenses and other items o&m expenses - o&m expenses decreased $14 million, or 0.6%, for 2020, largely reflecting management actions to reduce costs to offset the impact of lower sales from covid-19.
+significant changes are as follows:
+(millions of dollars)                                      2020 vs. 2019
+distribution                                                $(47)
+generation                                                   (12)
+transmission                                                 (10)
+minnesota payment plan credit program                          18
+information technology                                         14
+employee benefits                                              12
+texas rate case deferral                                        8
+other (net)                                                     3
+total decrease in o&amp;m expenses                          $(14)
+•distribution declined due to cost mitigation/continuous improvement efforts and timing of maintenance, partially offset by increased storm impacts.
+•generation was lower from timing of maintenance and overhauls at power plants and cost mitigation/continuous improvement efforts, partially offset by an increase in maintenance expenses from wind expansion.
+•transmission declined due to cost mitigation/continuous improvement initiatives.
+•minnesota payment plan credit program represents a commitment to fund customer programs as agreed to in the nsp-minnesota rate case stay-out.
+•information technology costs increased due to higher spending on network and other infrastructure costs.
+•employee benefits increased due primarily to postretirement costs and other long-term benefits, partially offset by lower deferred compensation expense.
+depreciation and amortization - depreciation and amortization increased $183 million, or 10.4%, year-to-date. the increase was primarily driven by the hale, cheyenne ridge, foxtail, blazing star i, lake benton, sagamore, crowned ridge, community wind north and jeffers wind facilities going into service, as well as normal system expansion. in addition, new depreciation rates were implemented in colorado, new mexico and texas in 2020, increasing expense.
+taxes (other than income taxes) - taxes (other than income taxes) increased $43 million, or 7.6%, year-to-date. the increase was primarily due to higher property taxes in colorado and texas (net of deferred amounts).
+other income (expense) - other income (expense) decreased $22 million year-to-date. the decrease was largely due to the performance of rabbi trust investments, primarily offset in o&m expenses.
+afudc, equity and debt - afudc increased $43 million year-to-date. the increase was primarily due to various wind projects under construction.
+interest charges - interest charges increased $67 million, or 8.7%, year-to-date. the increase was largely due to higher debt levels to fund capital investments, partially offset by lower long-term and short-term interest rates.
+income taxes - income taxes decreased $134 million for 2020. the decrease was primarily driven by an increase in wind ptcs and an increase in plant-related regulatory differences.
+xcel energy inc. and other results net income and diluted eps contributions of xcel energy inc. and its nonregulated businesses:
+contribution (millions of dollars)
+2020                                2019
+xcel energy inc. financing costs                            $(147)                              $(128)
+mec (a)                                                         15                                   -
+eloigne (b)                                                      1                                   1
+xcel energy inc. taxes and other results                       (2)                                  12
+total xcel energy inc. and other costs                      $(133)                              $(115)
+contribution (diluted earnings (loss) per share)
+2020   2019
+xcel energy inc. financing costs                               $(0.28)                                   $(0.21)
+mec (a)                                                           0.03                                   -
+eloigne (b)                                                          -                                   -
+xcel energy inc. taxes and other results                             -                                   (0.01)
+total xcel energy inc. and other costs                         $(0.25)                                   $(0.22)
+(a)mec was sold in the third quarter of 2020.
+(b)amounts include gains or losses associated with sales of properties held by eloigne.
+xcel energy inc.'s results include interest charges, which are incurred at xcel energy inc. and are not directly assigned to individual subsidiaries.
+2019 comparison with 2018
+a discussion of changes in xcel energy's results of operations, cash flows and liquidity and capital resources from the year ended dec. 31, 2018 to dec. 31, 2019 can be found in part ii, "item 7, management's discussion and analysis of financial condition and results of operations" of our annual report on form 10-k for the fiscal year 2019, which was filed with the sec on feb. 21, 2020. however, such discussion is not incorporated by reference into, and does not constitute a part of, this annual report on form 10-k.
+public utility regulation the ferc and various state and local regulatory commissions regulate xcel energy inc.'s utility subsidiaries and wgi. xcel energy is subject to rate regulation by state utility regulatory agencies, which have jurisdiction with respect to the rates of electric and natural gas distribution companies in minnesota, north dakota, south dakota, wisconsin, michigan, colorado, new mexico, and texas.
+rates are designed to recover plant investment, operating costs and an allowed return on investment. our utility subsidiaries request changes in rates for utility services through filings with governing commissions. changes in operating costs can affect xcel energy's financial results, depending on the timing of rate case filings and implementation of final rates. other factors affecting rate filings are new investments, sales, conservation and dsm efforts, and the cost of capital.
+in addition, the regulatory commissions authorize the roe, capital structure and depreciation rates in rate proceedings. decisions by these regulators can significantly impact xcel energy's results of operations.
+see rate matters within note 12 to the consolidated financial statements for further information.
+table of contents nsp-minnesota summary of regulatory agencies / rto and areas of jurisdiction regulatory body / rto                     additional information mpuc                                      retail rates, services, security issuances, property transfers, mergers, disposition of assets, affiliate transactions, and other aspects of electric and natural gas operations.reviews and approves irps for meeting future energy needs.certifies the need and siting for generating plants greater than 50 mw and transmission lines greater than 100 kv in minnesota.reviews and approves natural gas supply plans.pipeline safety compliance.
+ndpsc                                     retail rates, services and other aspects of electric and natural gas operations.regulatory authority over generation and transmission facilities, along with the siting and routing of new generation and transmission facilities in north dakota.pipeline safety compliance.
+sdpuc                                     retail rates, services and other aspects of electric operations.regulatory authority over generation and transmission facilities, along with the siting and routing of new generation and transmission facilities in south dakota.pipeline safety compliance.
+ferc                                      wholesale electric operations, hydroelectric licensing, accounting practices, wholesale sales for resale, transmission of electricity in interstate commerce, compliance with nerc electric reliability standards, asset transfers and mergers, and natural gas transactions in interstate commerce.
+miso                                      nsp-minnesota is a transmission owning member of the miso rto and operates within the miso rto and wholesale markets. nsp-minnesota makes wholesale sales in other rto markets at market-based rates. nsp-minnesota and nsp-wisconsin also make wholesale electric sales at market-based prices to customers outside of their balancing authority as jointly authorized by the ferc.
+dot                                       pipeline safety compliance.
+minnesota office of pipeline safety       pipeline safety compliance.
+recovery mechanisms mechanism                  additional information cip rider (a)              recovers costs of conservation and dsm programs in minnesota.
+eir                        recovers costs of environmental improvement projects in minnesota.
+rdf                        allocates money collected from customers to support research and development of emerging renewable energy projects and technologies in minnesota.
+res                        recovers cost of renewable generation in minnesota.
+rer                        recovers cost of renewable generation in north dakota.
+sep                        recovers costs related to various energy policies approved by the minnesota legislature.
+tcr                        recovers costs for investments in electric transmission and distribution grid modernization.
+infrastructure rider       recovers costs for investments in generation and incremental property taxes in south dakota.
+fca (b)                    minnesota, north dakota and south dakota include a fca for monthly billing adjustments to recover changes in prudently incurred costs of fuel related items and purchased energy. capacity costs are recovered through base rates and are not recovered through the fca. miso costs are generally recovered through either the fca or base rates.
+pga                        provides for prospective monthly rate adjustments for costs of purchased natural gas, transportation and storage service. includes a true-up process for difference between projected and actual costs.
+guic rider                 recovers costs for transmission and distribution pipeline integrity management programs, including: funding for pipeline assessments, deferred costs for sewer separation and pipeline integrity management programs in minnesota.
+sales true-up              in february 2021, nsp-minnesota filed the 2020 sales true-up compliance report, resulting in a total surcharge of $119 million. an mpuc ruling is anticipated in the second quarter of 2021. the 2021 sales true-up mechanism, extended under the 2020 stay-out petition, will operate similarly to the currently approved sales true-up and apply to all customer classes. under the stay-out petition, 2021 nsp-minnesota jurisdictional earnings will be capped at 9.06% roe. any excess earnings will be refunded to customers.
+(a)minnesota state law requires nsp-minnesota to spend 2% of its state electric revenues and 0.5% of its state natural gas revenues on cip. these costs are recovered through an annual cost-recovery mechanism.
+(b)the mpuc changed the fca process in minnesota (effective in 2020). each month, utilities collect amounts equal to baseline cost of energy set at the start of the plan year (base would be reset annually). monthly variations to baseline costs are tracked and netted over a 12-month period. utilities issue refunds above the baseline costs and can seek recovery of any overage.
+pending and recently concluded regulatory proceedings proceeding                        amount               filing   approval
+(in millions)                 date
+2020 north dakota electric rate case                           $22        november 2020   pending
+2020 tcr electric rider                            82        november 2019   pending
+2020 guic natural gas rider                            21        november 2019   pending
+2021 guic natural gas rider                            27         october 2020   pending
+2020 res electric rider                           102        november 2019   pending
+2021 res electric rider                           189        november 2020   pending table of contents additional information:
+2020 minnesota electric rate case and stay-out alternative - in november 2020, nsp-minnesota filed an electric rate case seeking a $597 million revenue increase over three years with the mpuc. the rate case is based on a requested roe of 10.2% and a 52.5% equity ratio. nsp-minnesota also filed a stay-out alternative in which it would withdraw its rate case filing.
+in december 2020, the mpuc verbally approved the stay-out alternative petition, which includes the extension of the sales, capital and property tax true-up mechanisms and delays any increase to the nuclear decommissioning trust annual accrual until jan. 1, 2022.
+additionally, nsp-minnesota agreed to not seek recovery of incremental covid-19 related expenses, including bad debt expense, and committed to fund $18 million in a residential payment plan credit program or other similar customer relief programs, as directed by the mpuc. nsp-minnesota also agreed to an earnings test in which all earnings above an roe of 9.06% in 2021 would be refunded to customers.
+2020 north dakota electric rate case - in november 2020, nsp-minnesota filed a request with the ndpsc for an overall increase in annual retail electric revenues of approximately $22 million, or an increase of 10.8%. the rate filing is based on a 2021 forecast test year, a requested roe of 10.2%, an equity ratio of 52.50% and an electric rate base of approximately $677 million. interim rates, subject to refund, of approximately $16 million were implemented on jan. 5, 2021.
+2020 tcr electric rider - in november 2019, nsp-minnesota filed the tcr rider based on an roe of 9.06%. an mpuc decision is pending.
+2020 guic natural gas rider - in november 2019, nsp-minnesota filed the guic rider based on an roe of 9.04%. an mpuc decision is pending.
+2021 guic natural gas rider - in october 2020, nsp-minnesota filed the guic rider based on an roe of 9.04%. an mpuc decision is pending.
+2020 res electric rider - in november 2019, nsp-minnesota filed the res rider. the requested amount includes a true-up for the 2019 rider of $38 million and the 2020 requested amount of $64 million. the filing included an roe of 9.06%. an mpuc decision is pending.
+2021 res electric rider - in november 2020, nsp-minnesota filed the res rider. the requested amount includes a true-up for the 2019 and 2020 rider of $96 million and the 2021 requested amount of $93 million. the filing included an roe of 9.06%. an mpuc decision is pending.
+minnesota resource plan - in july 2019, nsp-minnesota filed its minnesota resource plan, which runs through 2034. the plan would result in an 80% carbon reduction by 2030 (from 2005) and puts nsp-minnesota on a path to achieving its vision of being 100% carbon-free by 2050.
+the updated preferred resource plan reflects the following:
+•retirement of all coal generation by 2030 with reduced operations at some units prior to retirement, including early retirement of the a.s. king coal plant (511 mw) in 2028 and the sherco 3 coal plant (517 mw) in 2030.
+•extending the life of the monticello nuclear plant from 2030 to 2040.
+•continuing to run the pi through current end of life (2033 and 2034).
+•construction of the sherco combined cycle natural gas plant.
+•the addition of 3,500 mw of solar.
+•the addition of 2,250 mw of wind.
+•2,600 mw of firm peaking (combustion turbine, pumped hydro, battery storage, demand response, etc.).
+•achieving 780 gwh in energy efficiency savings annually through 2034.
+•adding 400 mw of incremental demand response by 2023, and a total of 1,500 mw of demand response by 2034.
+initial comments were submitted feb. 11, 2021 and reply comments are due april 12, 2021. the mpuc is anticipated to make a final decision during 2021.
+minnesota relief and recovery - in 2020, the mpuc opened a docket and invited utilities in the state to submit potential projects that would create jobs and help jump start the economy to offset the impacts of covid-19.
+nsp-minnesota's proposal included the following:
+•repower 651 mw of owned wind projects (capital investment of $750 million) as well as certain wind projects under ppas.
+•acquire 120 mw repowered wind farm and buy-out of the remaining ppa from allete for $210 million.
+•add solar facilities of 460 mw with an incremental investment of $550 million.
+•accelerate certain grid investment.
+•provide $150 million of incremental electric vehicle rebates.
+in december 2020, the mpuc verbally approved the repowering of owned wind projects and 20 mw of wind projects under ppas. these projects are estimated to save customers approximately $160 million over the next 25 years. the mpuc is expected to address the solar facilities, allete ppa wind repowering acquisition and the electric vehicle proposal in the second half of 2021.
+purchased power arrangements and transmission service provider nsp-minnesota expects to use power plants, power purchases, cip/dsm options, new generation facilities and expansion of power plants to meet its system capacity requirements.
+purchased power - nsp-minnesota has contracts to purchase power from other utilities and ipps. long-term purchased power contracts for dispatchable resources typically require a capacity and an energy charge.
+nsp-minnesota makes short-term purchases to meet system requirements, replace company owned generation, meet operating reserve obligations or obtain energy at a lower cost.
+purchased transmission services - nsp-minnesota and nsp-wisconsin have contracts with miso and other regional transmission service providers to deliver power and energy to their customers.
+table of contents minnesota state rofr statute complaint - in september 2017, lsp transmission filed a complaint in the minnesota district court against the minnesota attorney general, mpuc and doc. the complaint was in response to miso assigning nsp-minnesota and itc midwest, llc to jointly own a new 345 kv transmission line from mankato to winnebago, minnesota. the project is estimated to cost approximately $120 million and projected to be in-service by the end of 2021. it was assigned to nsp-minnesota and itc midwest as the incumbent utilities, consistent with a minnesota state rofr statute.
+the complaint challenged the constitutionality of the statute and is seeking declaratory judgment that the statute violates the commerce clause of the u.s. constitution and should not be enforced. in june 2018, the minnesota district court granted minnesota state agencies and nsp-minnesota's motions to dismiss with prejudice. in february 2020, the eighth circuit court of appeals upheld the minnesota district court decision to dismiss. in june 2020, the eighth circuit denied lsp transmission's petition for rehearing. in november 2020, lsp transmission petitioned the u.s. supreme court to review its appeal. nsp-minnesota filed a brief in opposition to this petition on jan. 25, 2021.
+nuclear power operations nuclear power plant operations produce gaseous, liquid and solid radioactive wastes, which are covered by federal regulation. high-level radioactive wastes primarily include used nuclear fuel. low-level waste consists primarily of demineralizer resins, paper, protective clothing, rags, tools and equipment contaminated through use.
+nrc regulation - the nrc regulates nuclear operations. costs of complying with nrc requirements can affect both operating expenses and capital investments of the plants. nsp-minnesota has obtained recovery of these compliance costs and expects to recover future compliance costs.
+low-level waste disposal - low level waste disposal from monticello and pi is disposed at the clive facility located in utah and the waste control specialists facility in texas. nsp-minnesota has storage capacity available on-site at pi and monticello which would allow both plants to continue to operate until the end of their current licensed lives if off-site low-level waste disposal facilities become unavailable.
+high-level radioactive waste disposal - the federal government has responsibility to permanently dispose domestic spent nuclear fuel and other high-level radioactive wastes. the nuclear waste policy act requires the doe to implement a program for nuclear high-level waste management. this includes the siting, licensing, construction and operation of a repository for spent nuclear fuel from civilian nuclear power reactors and other high-level radioactive wastes at a permanent federal storage or disposal facility. currently, there are no definitive plans for a permanent federal storage facility site.
+nuclear spent fuel storage - nsp-minnesota has interim on-site storage for spent nuclear fuel at its monticello and pi nuclear generating plants. authorized storage capacity is sufficient to allow nsp-minnesota to operate until the end of the operating licenses in 2030 for monticello, 2033 for pi unit 1, and 2034 for pi unit 2. authorizations for additional spent fuel storage capacity may be required at each site to support either continued operation or decommissioning if the federal government does not commence storage operations.
+wholesale and commodity marketing operations nsp-minnesota conducts wholesale marketing operations, including the purchase and sale of electric capacity, energy, ancillary services and energy-related products. nsp-minnesota uses physical and financial instruments to minimize commodity price and credit risk and to hedge sales and purchases.
+nsp-minnesota also engages in trading activity unrelated to hedging. sharing of any margins is determined through state regulatory proceedings as well as the operation of the ferc approved joa. nsp-minnesota does not serve any wholesale requirements customers at cost-based regulated rates.
+nsp-wisconsin summary of regulatory agencies / rto and areas of jurisdiction regulatory body / rto         additional information pscw                          retail rates, services and other aspects of electric and natural gas operations.certifies the need for new generating plants and electric transmission lines before the facilities may be sited and built.the pscw has a biennial base rate filing requirement. by june of each odd numbered year, nsp-wisconsin must submit a rate filing for the test year beginning the following january.pipeline safety compliance.
+mpsc                          retail rates, services and other aspects of electric and natural gas operations.certifies the need for new generating plants and electric transmission lines before the facilities may be sited and built.pipeline safety compliance.
+ferc                          wholesale electric operations, hydroelectric generation licensing, accounting practices, wholesale sales for resale, transmission of electricity in interstate commerce, compliance with nerc electric reliability standards, asset transactions and mergers and natural gas transactions in interstate commerce.
+miso                          nsp-wisconsin is a transmission owning member of the miso rto that operates within the miso rto and wholesale energy market. nsp-wisconsin and nsp-minnesota are jointly authorized by the ferc to make wholesale electric sales at market-based prices.
+dot                           pipeline safety compliance.
+recovery mechanisms mechanism                                    additional information annual fuel cost plan                        nsp-wisconsin does not have an automatic electric fuel adjustment clause. under wisconsin rules, utilities submit a forward-looking annual fuel cost plan to the pscw. once the pscw approves the plan, utilities defer the amount of any fuel cost under-recovery or over-recovery in excess of a 2% annual tolerance band, for future rate recovery or refund. approval of a fuel cost plan and any rate adjustment for refund or recovery of deferred costs is determined by the pscw. rate recovery of deferred fuel cost is subject to an earnings test based on the most recently authorized roe. under-collections that exceed the 2% annual tolerance band may not be recovered if the utility earnings for that year exceed the authorized roe.
+power supply cost recovery factors           nsp-wisconsin's retail electric rate schedules for michigan customers include power supply cost recovery factors, based on 12-month projections. after each 12-month period, a reconciliation is submitted whereby over-recoveries are refunded and any under-recoveries are collected from customers.
+wisconsin energy efficiency program          the primary energy efficiency program is funded by the utilities, but operated by independent contractors subject to oversight by the pscw and utilities. nsp-wisconsin recovers these costs from customers.
+pga                                          a retail cost-recovery mechanism to recover the actual cost of natural gas, transportation, and storage services.
+natural gas cost-recovery factor (mi)        nsp-wisconsin's natural gas rates for michigan customers include a natural gas cost-recovery factor, based on 12-month projections and trued-up to actual amounts on an annual basis.
+table of contents pending and recently concluded regulatory proceedings
+2021 electric fuel cost recovery - in december 2020, the pscw approved the nsp-wisconsin application to update its 2021 fuel cost and decrease retail electric rates for 2021 by approximately $12 million.
+request to participate in utility money pool - in october 2020, the pscw approved nsp-wisconsin's application to participate in the money pool.
+nsp-wisconsin solar proposal - in october 2020, nsp-wisconsin filed for a 74 mw solar facility build-own-transfer in wisconsin for approximately $100 million. a pscw decision is expected in the third quarter of 2021.
+purchased power and transmission services the nsp system expects to use power plants, power purchases, conservation and dsm options, new generation facilities and expansion of power plants to meet its system capacity requirements.
+purchased power - through the interchange agreement, nsp-wisconsin receives power purchased by nsp-minnesota from other utilities and independent power producers. long-term purchased power contracts for dispatchable resources typically require a capacity charge and an energy charge. nsp-minnesota makes short-term purchases to meet system requirements, replace company owned generation, meet operating reserve obligations or obtain energy at a lower cost.
+purchased transmission services - nsp-minnesota and nsp-wisconsin have contracts with miso and other regional transmission service providers to deliver power and energy to their customers.
+wholesale and commodity marketing operations nsp-wisconsin does not serve any wholesale requirements customers at cost-based regulated rates.
+psco summary of regulatory agencies / rto and areas of jurisdiction regulatory body / rto         additional information on regulatory authority cpuc                          retail rates, accounts, services, issuance of securities and other aspects of electric, natural gas and steam operations.pipeline safety compliance.
+ferc                          wholesale electric operations, accounting practices, hydroelectric licensing, wholesale sales for resale, transmission of electricity in interstate commerce, compliance with the nerc electric reliability standards, asset transactions and mergers and natural gas transactions in interstate commerce.wholesale electric sales at cost-based prices to customers inside psco's balancing authority area and at market-based prices to customers outside psco's balancing authority area.psco holds a ferc certificate that allows it to transport natural gas in interstate commerce without psco becoming subject to full ferc jurisdiction.
+rto                           psco is not presently a member of an rto and does not operate within an rto energy market. however, psco does make certain sales to other rto's, including spp and participates in a joint dispatch agreement with neighboring utilities.
+dot                           pipeline safety compliance.
+recovery mechanisms mechanism         additional information eca               recovers fuel and purchased energy costs. short-term sales margins are shared with customers through the eca. the eca is revised quarterly.
+pcca              recovers purchased capacity payments.
+sca               recovers fuel costs to operate the steam system. the sca rate is revised quarterly.
+dsmca             recovers electric and gas dsm, interruptible service costs and performance initiatives for achieving energy savings goals.
+resa              recovers the incremental costs of compliance with the res with a maximum of 1% of the customer's bill.
+cepa              recovers the early retirement costs of comanche units 1 and 2 to a maximum of 1% of the customer's bill.
+wca               recovers costs for customers who choose renewable resources.
+tca               recovers costs for transmission investment between rate cases.
+cacja             recovers costs associated with the cacja.
+fca               psco recovers fuel and purchased energy costs from wholesale electric customers through a fuel cost adjustment clause approved by the ferc. wholesale customers pay production costs through a forecasted formula rate subject to true-up.
+gca               recovers costs of purchased natural gas and transportation and is revised quarterly to allow for changes in natural gas rates.
+psia              recovers costs for transmission and distribution pipeline integrity management programs.
+decoupling        mechanism to true-up revenue to a baseline amount for residential (excluding lighting and demand) and metered non-demand small c&amp;i classes. represents approximately $51m for differences in sales to the baseline amount. amounts refunded or surcharged to customers may be limited to a refund cap.
+pending and recently concluded regulatory proceedings proceeding                                                           amount   filing date          approval
+(in millions)
+2020 natural gas rate case                                              $77   february 2020        received
+2019 electric rate case                                                 108   may 2019             received
+2019 natural gas rate case appeal                                       n/a   april 2019           pending wildfire protection rider                                               325   july 2020            pending transportation electrification plan rider                         110 - 138   may 2020             received additional information:
+2020 natural gas rate case - in october 2020, the cpuc approved a settlement resulting in a net increase of $77 million. this increase reflects a $94 million increase in base rate revenue, partially offset by $17 million of costs previously recovered through the pipeline integrity rider. rates will be implemented on april 1, 2021 (retroactive to november 2020).
+2019 electric rate case - in 2019, psco filed a request with the cpuc seeking a net rate increase of approximately $108 million. in february 2020, the cpuc issued an initial decision for a net rate increase of $35 million. in july 2020, the cpuc's final written decision on rehearing was received and resulted in an additional increase of approximately $12 million annually.
+in december 2020, the cpuc denied psco's request of a $5 million surcharge for changes to the revenue increase from the effective date of rates, based on the cpuc's decision on rehearing. psco has appealed this decision with the district court of denver county.
+
+2019 phase i electric rate case appeal - in august 2020, psco filed an appeal with the denver district court seeking a review of cpuc decisions on gain on sales and losses of assets, oil and gas royalty revenues and board of director's equity compensation. psco plans to seek consolidation of this appeal with the appeal of the surcharge decision in this same proceeding.
+2019 natural gas rate case appeal - in april 2019, psco filed an appeal seeking judicial review of the cpuc's prior ruling regarding psco's natural gas rate case (filed in june 2017 and approved in december 2018). the appeal requested review of the following: denial of a return on the prepaid pension and retiree medical assets; the use of a capital structure not based on the actual historical test year; and use of an average rate base methodology rather than a year-end rate base methodology.
+in march 2020, the district court of denver county ruled in favor of allowing the prepaid pension assets to be included in rate base; but upheld the cpuc's treatment of the retiree medical assets and capital structure methodology. in march 2021, psco expects to file a motion to implement the district court's decision on treatment of the prepaid pension asset for the applicable period of jan. 1, 2018 through oct. 31, 2020.
+wildfire protection rider - in 2020, psco requested to establish a rider to recover incremental costs associated with system investments to reduce wildfire risk. the rider would be effective in june 2021 and continue through 2025. the office of consumer counsel and cpuc staff are supportive of the wildfire mitigation program as proposed, but oppose rider recovery and instead recommend deferral of certain costs with recovery in a future rate case. a cpuc decision is expected in the second quarter of 2021.
+wildfire protection capital investment is projected to be approximately $325 million. forecasted annual revenue requirements from 2021 through 2025:
+(millions of dollars)                        2021                2022                2023                2024                2025
+forecasted annual revenue requirement                   $17                 $24                 $29                 $32                 $34
+transportation electrification plan - in january 2021, the cpuc approved psco's transportation electrification plan, which authorizes rider recovery of new electric vehicle utility programs for the residential, commercial, multi-family and public charging sectors. the approval establishes utility-owned charging infrastructure and chargers and amortization of rebates for electric vehicles. the transportation electrification plan approval authorizes approximately $110 million in spending with flexibility up to approximately $138 million over three years.
+advanced grid rider in 2020, psco requested to establish a rider to recover incremental costs associated with the advanced grid intelligence and security initiative. the rider would be effective in may 2021 and continue through 2025. in october 2020, an alj issued the recommended decision granting the office of consumer counsel motion to dismiss the advanced grid rider. psco has chosen not to appeal the alj's recommended decision.
+the psco portion of the advanced grid intelligence and security capital investment is projected to be approximately $850 million. forecasted annual revenue requirements from 2021 through 2025 are as follows:
+(millions of dollars)                        2021                2022                2023                2024                2025
+forecasted annual revenue requirement                   $53                 $69                 $83                 $89                 $99
+psco kepco filing in september 2020, psco filed with the cpuc for approval to terminate a solar ppa with kepco solar of alamosa, inc. and establish a regulatory asset to recover transaction costs of approximately $41 million. by terminating the ppa, customers would save approximately $38 million over an 11-year period. a cpuc decision is expected in the second quarter of 2021.
+natural gas ldc and emission reductions in october 2020, the cpuc opened a docket to investigate topics related to natural gas emissions in relation to statewide emission reduction goals. the first meeting was held in november 2020, in which subject matter experts discussed greenhouse emission reductions required from the natural gas industry in regard to the statewide goals.
+resource plan psco is expected to file its next electric resource plan on march 31, 2021. the filing will propose the future of the remaining coal plants in colorado and psco's plan to achieve it's 80% carbon emissions reduction target by 2030. a cpuc decision is expected in 2022.
+psco - comanche unit 3
+psco is part owner and operator of comanche unit 3, a 750 mw, coal-fueled electric generating unit. in january 2020, the unit experienced a turbine failure causing the unit to be taken offline for repairs, which were completed in june 2020. during start-up the unit experienced a loss of turbine oil, which damaged the plant. comanche unit 3 recommenced operations in january 2021. replacement and repair of damaged systems in excess of a $2 million deductible are expected to be recovered through insurance policies. psco obtained replacement power costs of approximately $16 million during the outage. in october 2020, the cpuc initiated a non-adjudicatory review of comanche unit 3's performance. a report on performance is expected to be issued in march 2021. at this stage of the regulatory review, the resulting recommendations of the cpuc's staff cannot be determined.
+boulder municipalization in 2011, boulder passed a ballot measure authorizing the formation of an electric municipal utility. subsequently, there have been various legal proceedings in multiple venues.
+in september 2020, the city council voted to approve a settlement between psco and boulder officials to end the city's municipalization effort. the settlement resulted in a 20-year franchise arrangement (with multiple opt-out conditions), an energy partnership and an undergrounding agreement. it also established the municipalization process if boulder exercised an opt-out. in december 2020, psco filed the franchise agreement with the cpuc and is currently awaiting a decision.
+purchased power and transmission service providers psco expects to meet its system capacity requirements through electric generating stations, power purchases, new generation facilities, dsm options and expansion of generation plants.
+purchased power - psco purchases power from other utilities and ipps. long-term purchased power contracts for dispatchable resources typically require capacity and energy charges. it also contracts to purchase power for both wind and solar resources. psco makes short-term purchases to meet system load and energy requirements, replace owned generation, meet operating reserve obligations, or obtain energy at a lower cost.
+table of contents energy markets - psco is working towards joining the western energy imbalance market in 2022. this market was developed by the california iso and allows psco access to a real-time energy market. the western energy imbalance market allows participants to buy and sell power close to the time electricity is consumed and gives system operators real-time visibility across neighboring grids. the result improves balancing supply and demand at a lower cost.
+purchased transmission services - in addition to using its own transmission system, psco has contracts with regional transmission service providers to deliver energy to its customers.
+wholesale and commodity marketing operations psco conducts various wholesale marketing operations, including the purchase and sale of electric capacity, energy, ancillary services and energy related products. psco uses physical and financial instruments to minimize commodity price and credit risk and hedge sales and purchases. psco also engages in trading activity unrelated to hedging. sharing of any margin is determined through state regulatory proceedings as well as the operation of the ferc approved joa.
+sps summary of regulatory agencies / rto and areas of jurisdiction regulatory body / rto                     additional information puct                                      retail electric operations, rates, services, construction of transmission or generation and other aspects of sps' electric operations.the municipalities in which sps operates in texas have original jurisdiction over rates in those communities. the municipalities' rate setting decisions are subject to puct review.
+nmprc                                     retail electric operations, retail rates and services and the construction of transmission or generation.
+ferc                                      wholesale electric operations, accounting practices, wholesale sales for resale, the transmission of electricity in interstate commerce, compliance with nerc electric reliability standards, asset transactions and mergers, and natural gas transactions in interstate commerce.
+spp rto and spp im wholesale market       sps is a transmission owning member of the spp rto and operates within the spp rto and spp im wholesale market. sps is authorized to make wholesale electric sales at market-based prices.
+recovery mechanisms mechanism                                                   additional information dcrf                                                        recovers distribution costs not included in rates in texas.
+eecrf                                                       recovers costs for energy efficiency programs in texas.
+energy efficiency rider                                     recovers costs for energy efficiency programs in new mexico.
+fppcac                                                      adjusts monthly to recover actual fuel and purchased power costs in new mexico.
+pcrf                                                        allows recovery of purchased power costs not included in texas rates.
+rps                                                         recovers deferred costs for renewable energy programs in new mexico.
+tcrf                                                        recovers certain transmission infrastructure improvement costs and changes in wholesale transmission charges not included in texas base rates.
+fixed fuel and purchased recovery factor                    provides for the over- or under-recovery of energy expenses in texas. regulations require refunding or surcharging over- or under- recovery amounts, including interest, when they exceed 4% of the utility's annual fuel and purchased energy costs on a rolling 12-month basis, if this condition is expected to continue.
+wholesale fuel and purchased energy cost adjustment         sps recovers fuel and purchased energy costs from its wholesale customers through a monthly wholesale fuel and purchased energy cost adjustment clause accepted by the ferc. wholesale customers also pay the jurisdictional allocation of production costs.
+pending and recently concluded regulatory proceedings proceeding                        amount          filing date   approval
+(in millions)
+2019 new mexico electric rate case                           $31            july 2019   received
+2019 texas electric rate case                            88          august 2019   received
+2021 new mexico electric rate case                            88         january 2021   pending
+2021 texas electric rate case                           143        february 2021   pending additional information:
+2019 new mexico electric rate case - in may 2020, the nmprc approved a settlement between sps and intervening parties, which reflects the following terms: a base rate increase of $31 million, an roe of 9.45% and an equity ratio of 54.77%. new rates and tariffs were effective in may 2020.
+2019 texas electric rate case - in august 2020, the puct approved a settlement between sps and intervening parties, which reflects the following terms: a rate increase of $88 million; roe of 9.45% and equity ratio of 54.62% for afudc purposes. in december 2020, sps filed to surcharge the final under-recovered amount, estimated to be approximately $72 million, offset by the recognition of previously deferred costs.
+2021 new mexico electric rate case - on jan. 4, 2021, sps filed an electric rate case with the nmprc seeking an increase in base rates of approximately $88 million. sps' net rate increase to new mexico customers is expected to be approximately $48 million, or 10%, as a result of offsetting fuel cost reductions and ptcs attributable to wind energy provided by the sagamore wind project. ptcs are being credited to customers through the fuel clause.
+the request is based on a historic test year ended sept. 30, 2020, including expected capital additions through feb. 28, 2021, a roe of 10.35%, an equity ratio of 54.72% and retail rate base of approximately $1.9 billion (total company rate base of approximately $6.0 billion).
+additionally, the request includes the effect of approximately 400 mw of reduced peak load in 2021 from a wholesale transmission customer and changes to depreciation rates to reflect a reduction to the service lives of sps' tolk power plant (from 2037 to 2032) and the coal handling assets at the harrington facility (to 2024).
+the nmprc suspended new rates for nine months beyond the 30-day notice period, consistent with historic practice.
+the next steps in the procedural schedule are expected to be as follows:
+•staff and intervenor testimony - may 17, 2021.
+•rebuttal testimony - june 9, 2021.
+•deadline to file stipulation - june 23, 2021.
+•public hearing or hearing on stipulation - july 26 - aug. 6, 2021.
+•end of nine month suspension - nov. 3, 2021.
+a nmprc decision and implementation of final rates is anticipated in the fourth quarter of 2021.
+2021 texas rate case - on feb. 8, 2021, sps filed an electric rate case with the puct and its 81 municipalities with original rate jurisdiction seeking an increase in base rates of approximately $143 million. sps' net rate increase to texas customers is expected to be approximately $74 million, or 9.2%, as a result of offsetting $69 million in fuel cost reductions and ptcs from the sagamore wind project.
+table of contents the request is primarily driven by additional capital investment in new and upgraded electric facilities and equipment since sps' previous rate case in 2019, including the 522 mw sagamore wind project.
+the request is based on an roe of 10.35%, an equity ratio of 54.60% (based on actual capital structure), a texas retail rate base of approximately $3.3 billion and a historic test year based on the 12-month period ended dec. 31, 2020 (with the final three months based on estimates). in march 2021, sps will file to update estimates to actuals through dec. 31, 2020.
+additionally, the request includes the effect of approximately 400 mw from a wholesale transmission customer and changes to depreciation rates to reflect a reduction to the service lives of sps' tolk power plant (from 2037 to 2032) and the coal handling assets of the harrington facility (to 2024).
+summary of sps' request:
+rate request (millions of dollars)
+sagamore wind project                                                    $67
+other capital investments                                                 25
+cost of capital                                                           20
+property taxes                                                             8
+reduced sales, partially offset by changes in o&amp;m                      8
+allocator changes                                                          4
+depreciation rate change                                                   3
+other, net                                                                 8
+total rate request                                                      $143
+fuel cost reductions and ptcs - sagamore wind project                   (69)
+net rate increase                                                        $74
+sps is requesting the puct set current rates as temporary on march 15, 2021. once final rates are approved, a surcharge will be requested from march 15, 2021 through the effective date of new base rates. a puct decision is expected in the first quarter of 2022.
+texas state rofr litigation - in may 2019, the governor signed a rofr bill into law, which grants incumbent utilities a rofr to build transmission infrastructure when it directly interconnects to the utility's existing facility. in june 2019, a complaint was filed in the united states district court for the western district of texas claiming the new rofr law to be unconstitutional. in february 2020, the federal court complaint was dismissed by the district court. in march 2020, the district court ruling was appealed to the fifth circuit. a decision is pending.
+new mexico fppcac continuation - in december 2020, the hearing examiner recommended the nmprc approve sps' request for the continued use of the fppcac and the reconciliation of its fuel costs for the reporting period (september 2015 through june 2019). additionally, the hearing examiner recommended the nmprc deny the proposed annual deferred fuel balance true-up. the proposed true-up is designed to maintain the deferred fuel and purchased power balance within a bandwidth of plus or minus 5% of annual new mexico fuel and purchased power costs. a decision is pending.
+resource plan - sps is required to file an irp in new mexico every three years and will file its next irp in july 2021.
+purchased power arrangements and transmission service providers sps expects to use electric generating stations, power purchases, dsm and new generation options to meet its system capacity requirements.
+purchased power - sps purchases power from other utilities and ipps. long-term purchased power contracts typically require periodic capacity and energy charges. sps also makes short-term purchases to meet system load and energy requirements to replace owned generation, meet operating reserve obligations or obtain energy at a lower cost.
+purchased transmission services - sps has contractual arrangements with spp and regional transmission service providers to deliver power and energy to its native load customers.
+natural gas sps does not provide retail natural gas service, but purchases and transports natural gas for its generation facilities and operates natural gas pipeline facilities connecting the generation facilities to interstate natural gas pipelines. sps is subject to the jurisdiction of the ferc with respect to natural gas transactions in interstate commerce and the phmsa and puct for pipeline safety compliance.
+wholesale and commodity marketing operations sps conducts various wholesale marketing operations, including the purchase and sale of electric capacity, energy, ancillary services and energy related products. sps uses physical and financial instruments to minimize commodity price and credit risk and to hedge sales and purchases.
+critical accounting policies and estimates preparation of the consolidated financial statements requires the application of accounting rules and guidance, as well as the use of estimates. application of these policies involves judgments regarding future events, including the likelihood of success of particular projects, legal and regulatory challenges and anticipated recovery of costs. these judgments could materially impact the consolidated financial statements, based on varying assumptions. in addition, the financial and operating environment also may have a significant effect on the operation of the business and results reported.
+accounting policies and estimates that are most significant to xcel energy's results of operations, financial condition or cash flows, and require management's most difficult, subjective or complex judgments are outlined below. each of these has a higher likelihood of resulting in materially different reported amounts under different conditions or using different assumptions. each critical accounting policy has been reviewed and discussed with the audit committee of xcel energy inc.'s board of directors on a quarterly basis.
+regulatory accounting xcel energy is subject to the accounting for regulated operations, which provides that rate-regulated entities report assets and liabilities consistent with the recovery of those incurred costs in rates, if it is probable that such rates will be charged and collected. our rates are derived through the ratemaking process, which results in the recording of regulatory assets and liabilities based on the probability of future cash flows. regulatory assets generally represent incurred or accrued costs that have been deferred because future recovery from customers is probable. regulatory liabilities generally represent amounts that are expected to be refunded to customers in future rates or amounts collected in current rates for future costs. in other businesses or industries, regulatory assets and regulatory liabilities would generally be charged to net income or other comprehensive income.
+table of contents each reporting period we assess the probability of future recoveries and obligations associated with regulatory assets and liabilities. factors such as the current regulatory environment, recently issued rate orders and historical precedents are considered. decisions made by regulatory agencies can directly impact the amount and timing of cost recovery as well as the rate of return on invested capital, and may materially impact our results of operations, financial condition or cash flows.
+as of dec. 31, 2020 and 2019, xcel energy had regulatory assets of $3.4 billion and regulatory liabilities of $5.6 billion and $5.5 billion, respectively. each subsidiary is subject to regulation that varies from jurisdiction to jurisdiction. if future recovery of costs in any such jurisdiction is no longer probable, xcel energy would be required to charge these assets to current net income or other comprehensive income. at dec. 31, 2020, in assessing the probability of recovery of recognized regulatory assets, xcel energy noted no current or anticipated proposals or changes in the regulatory environment that it expects will materially impact the probability of recovery of the assets.
+see note 4 to the consolidated financial statements for further information.
+income tax accruals judgment, uncertainty and estimates are a significant aspect of the income tax accrual process that accounts for the effects of current and deferred income taxes. uncertainty associated with the application of tax statutes and regulations and outcomes of tax audits and appeals require that judgment and estimates be made in the accrual process and in the calculation of the etr.
+changes in tax laws and rates may affect recorded deferred tax assets and liabilities and our future etr. etr calculations are revised every quarter based on best available year-end tax assumptions, adjusted in the following year after returns are filed. tax accrual estimates are trued-up to the actual amounts claimed on the tax returns and further adjusted after examinations by taxing authorities, as needed.
+in accordance with the interim period reporting guidance, income tax expense for the first three quarters in a year is based on the forecasted annual etr. the forecasted etr reflects a number of estimates, including forecasted annual income, permanent tax adjustments and tax credits.
+valuation allowances are applied to deferred tax assets if it is more likely than not that at least a portion may not be realized based on an evaluation of expected future taxable income. accounting for income taxes also requires that only tax benefits that meet the more likely than not recognition threshold can be recognized or continue to be recognized. we may adjust our unrecognized tax benefits and interest accruals as disputes with the irs and state tax authorities are resolved, and as new developments occur. these adjustments may increase or decrease earnings.
+see note 7 to the consolidated financial statements for further information.
+employee benefits we sponsor several noncontributory, defined benefit pension plans and other postretirement benefit plans that cover almost all employees and certain retirees. projected benefit costs are based on historical information and actuarial calculations that include key assumptions (annual return level on pension and postretirement health care investment assets, discount rates, mortality rates and health care cost trend rates, etc.). in addition, the pension cost calculation uses a methodology to reduce the volatility of investment performance over time. pension assumptions are continually reviewed.
+at dec. 31, 2020, xcel energy set the rate of return on assets used to measure pension costs at 6.49%, which represents a 38 basis point decrease from the rate set in 2019. the rate of return used to measure postretirement health care costs is 4.10% at dec. 31, 2020, which represents a 40 basis point decrease from 2019.
+xcel energy's pension investment strategy is based on plan-specific investments that seek to minimize investment and interest rate risk as a plan's funded status increases over time. this strategy results in a greater percentage of interest rate sensitive securities being allocated to plans with a higher funded status and a greater percentage of growth assets being allocated to plans having a lower funded status ratios.
+xcel energy set the discount rates used to value the pension obligations at 2.71% and postretirement health care obligations at 2.65% at dec. 31, 2020. this represents a 78 basis point and 82 basis point decrease, respectively, from 2019. xcel energy uses a bond matching study as its primary basis for determining the discount rate used to value pension and postretirement health care obligations. the bond matching study utilizes a portfolio of high grade (aa or higher) bonds that matches the expected cash flows of xcel energy's benefit plans in amount and duration.
+the effective yield on this cash flow matched bond portfolio determines the discount rate for the individual plans. the bond matching study is validated for reasonableness against the merrill lynch corporate 15+ bond index. in addition, xcel energy reviews general actuarial survey data to assess the reasonableness of the discount rate selected.
+if xcel energy were to use alternative assumptions, a 1% change would result in the following impact on 2020 pension costs:
+pension costs
+(millions of dollars)         +1%                             -1%
+rate of return                $(16)                       $22
+discount rate (a)             $(5)                        $13
+(a)these cost include the effects of regulation.
+mortality rates are developed from actual and projected plan experience for pension plan and postretirement benefits. xcel energy's actuary conducts an experience study periodically to determine an estimate of mortality. xcel energy considers standard mortality tables, improvement factors and the plans actual experience when selecting a best estimate.
+as of dec. 31, 2020, the initial medical trend cost claim assumptions for pre-65 was 5.5% and post-65 was 5.0%. the ultimate trend assumption remained at 4.5% for both pre-65 and post-65 claims costs. xcel energy bases its medical trend assumption on the long-term cost inflation expected in the health care market, considering the levels projected and recommended by industry experts, as well as recent actual medical cost experienced by xcel energy's retiree medical plan.
+funding contributions in 2021 were $125 million and are expected to decline in the following years. investment returns exceeded assumed levels in 2020 and 2019 and were below assumed levels in 2018.
+table of contents the pension cost calculation uses a market-related valuation of pension assets. xcel energy uses a calculated value method to determine the market-related value of the plan assets. the market-related value is determined by adjusting the fair market value of assets at the beginning of the year to reflect the investment gains and losses (the difference between the actual investment return and the expected investment return on the market-related value) during each of the previous five years at the rate of 20% per year. as differences between actual and expected investment returns are incorporated into the market-related value, amounts are recognized in pension cost over the expected average remaining years of service for active employees (approximately 13 years in 2020).
+xcel energy currently projects the pension costs recognized for financial reporting purposes will be $106 million in 2021 and $83 million in 2022, while the actual pension costs were $117 million in 2020 and $115 million in 2019. the expected decrease in 2021 and future year costs is primarily due to the reductions in loss amortizations.
+pension funding contributions across all four of xcel energy's pension plans, both voluntary and required, for 2018 - 2021:
+•$125 million in january 2021.
+•$150 million in 2020.
+•$154 million in 2019.
+•$150 million in 2018.
+future amounts may change based on actual market performance, changes in interest rates and any changes in governmental regulations. therefore, additional contributions could be required in the future.
+xcel energy contributed $11 million, $15 million and $11 million during 2020, 2019 and 2018, respectively, to the postretirement health care plans. xcel energy expects to contribute approximately $10 million during 2021. xcel energy recovers employee benefits costs in its utility operations consistent with accounting guidance with the exception of the areas noted below.
+•nsp-minnesota recognizes pension expense in all regulatory jurisdictions using the aggregate normal cost actuarial method. differences between aggregate normal cost and expense as calculated by pension accounting standards are deferred as a regulatory liability.
+•in 2018, the pscw approved nsp-wisconsin's request for deferred accounting treatment of the 2018 pension settlement accounting expense.
+•regulatory commissions in colorado, texas, new mexico and ferc jurisdictions allow the recovery of other postretirement benefit costs only to the extent that recognized expense is matched by cash contributions to an irrevocable trust. xcel energy has consistently funded at a level to allow full recovery of costs in these jurisdictions.
+•psco and sps recognize pension expense in all regulatory jurisdictions based on gaap. the texas and colorado electric retail jurisdictions and the colorado gas retail jurisdiction, each record the difference between annual recognized pension expense and the annual amount of pension expense approved in their last respective general rate case as a deferral to a regulatory asset.
+•in 2018, psco was required to create a regulatory liability to adjust postretirement health care costs to zero in order to match the amounts collected in rates in the colorado gas retail jurisdiction. in 2020, this requirement was extended to the colorado electric retail jurisdiction.
+see note 11 to the consolidated financial statements for further information.
+nuclear decommissioning xcel energy recognizes liabilities for the expected cost of retiring tangible long-lived assets for which a legal obligation exists. these aros are recognized at fair value as incurred and are capitalized as part of the cost of the related long-lived assets. in the absence of quoted market prices, xcel energy estimates the fair value of its aros using present value techniques, in which it makes assumptions including estimates of the amounts and timing of future cash flows associated with retirement activities, credit-adjusted risk free rates and cost escalation rates. when xcel energy revises any assumptions, it adjusts the carrying amount of both the aro liability and related long-lived asset. aro liabilities are accreted to reflect the passage of time using the interest method.
+a significant portion of xcel energy's aros relates to the future decommissioning of nsp-minnesota's nuclear facilities. the nuclear decommissioning obligation is funded by the external decommissioning trust fund. difference between regulatory funding (including depreciation expense less returns from the external trust fund) and expense recognized is deferred as a regulatory asset. the amounts recorded for aros related to future nuclear decommissioning were $2.0 billion in 2020 and $2.1 billion in 2019.
+nsp-minnesota obtains periodic independent cost studies in order to estimate the cost and timing of planned nuclear decommissioning activities. estimates of future cash flows are highly uncertain and may vary significantly from actual results. nsp-minnesota is required to file a nuclear decommissioning filing every three years. the filing covers all expenses for the decommissioning of the nuclear plants, including decontamination and removal of radioactive material.
+the annual accrual (funding/recovery) set for 2019 and 2020 was based on the 2014 nuclear decommissioning filing, approved in 2015. although the mpuc approved an increased accrual from the 2017 triennial filing in january 2019, the mpuc subsequently ordered xcel energy to maintain the accrual level (previously established via the 2014 filing) through 2020.
+in december 2020, xcel energy submitted a 2020 triennial nuclear decommissioning filing to the mpuc. the filing resulted in an updated annual accrual of $33 million, or an increase of $19 million compared to the currently approved funding level. in december 2020, the mpuc verbally approved nsp-minnesota to continue using the 2014 filing as the basis for 2021. the filing was also used to revise the estimated aro liability as of dec. 31, 2020 ($216 million decrease).
+the following assumptions have a significant effect on the estimated nuclear obligation:
+timing - decommissioning cost estimates are impacted by each facility's retirement date and timing of the actual decommissioning activities. estimated retirement dates coincide with the expiration of each unit's operating license with the nrc (i.e., 2030 for monticello and 2033 and 2034 for pi's unit 1 and 2, respectively). the estimated timing of the decommissioning activities is based upon the decon method (required by the mpuc), which assumes prompt removal and dismantlement. decommissioning activities are expected to begin at the end of the license date and be completed for both facilities by 2095.
+technology and regulation - there is limited experience with actual decommissioning of large nuclear facilities. changes in technology, experience and regulations could cause cost estimates to change significantly.
+table of contents escalation rates - escalation rates represent projected cost increases due to general inflation and increases in the cost of decommissioning activities. nsp-minnesota applied escalation rates of 3.1% for pi and 3.2% for monticello in calculating the nuclear decommissioning aros, based on weighted averages of labor and non-labor escalation factors calculated by goldman sachs asset management.
+discount rates - changes in timing or estimated cash flows that result in upward revisions to the aro are calculated using the then-current credit-adjusted risk-free interest rate. the credit-adjusted risk-free rate in effect when the change occurs is used to discount the revised estimate of the incremental expected cash flows of the retirement activity.
+if the change in timing or estimated expected cash flows results in a downward revision of the aro, the undiscounted revised estimate of expected cash flows is discounted using the credit-adjusted risk-free rate in effect at the date of initial measurement and recognition of the original aro. discount rates ranging from approximately 3% to 7% have been used to calculate the net present value of the expected future cash flows over time.
+significant uncertainties exist in estimating future costs including the method to be utilized, ultimate costs to decommission and planned method of disposing spent fuel. if different cost estimates, life assumptions or cost escalation rates were utilized, the aros could change materially.
+however, changes in estimates have minimal impact on results of operations as nsp-minnesota expects to continue to recover all costs in future rates.
+xcel energy continually makes judgments and estimates related to these critical accounting policy areas, based on an evaluation of the assumptions and uncertainties for each area. the information and assumptions of these judgments and estimates will be affected by events beyond the control of xcel energy, or otherwise change over time. this may require adjustments to recorded results to better reflect updated information that becomes available. the accompanying financial statements reflect management's best estimates and judgments of the impact of these factors as of dec. 31, 2020.
+see note 12 to the consolidated financial statements for further information.
+derivatives, risk management and market risk we are exposed to a variety of market risks in the normal course of business. market risk is the potential loss that may occur as a result of adverse changes in the market or fair value of a particular instrument or commodity. all financial and commodity-related instruments, including derivatives, are subject to market risk.
+xcel energy is exposed to the impact of adverse changes in price for energy and energy-related products, which is partially mitigated by the use of commodity derivatives. in addition to ongoing monitoring and maintaining credit policies intended to minimize overall credit risk, management takes steps to mitigate changes in credit and concentration risks associated with its derivatives and other contracts, including parental guarantees and requests of collateral. while we expect that the counterparties will perform under the contracts underlying its derivatives, the contracts expose us to some credit and non-performance risk.
+distress in the financial markets may impact counterparty risk, the fair value of the securities in the nuclear decommissioning fund and pension fund and xcel energy's ability to earn a return on short-term investments.
+commodity price risk - we are exposed to commodity price risk in our electric and natural gas operations. commodity price risk is managed by entering into long- and short-term physical purchase and sales contracts for electric capacity, energy and energy-related products and fuels used in generation and distribution activities. commodity price risk is also managed through the use of financial derivative instruments. our risk management policy allows it to manage commodity price risk within each rate-regulated operation per commission approved hedge plans.
+wholesale and commodity trading risk - xcel energy conducts various wholesale and commodity trading activities, including the purchase and sale of electric capacity, energy, energy-related instruments and natural gas-related instruments, including derivatives. our risk management policy allows management to conduct these activities within guidelines and limitations as approved by its risk management committee.
+fair value of net commodity trading contracts as of dec. 31, 2020:
+futures / forwards maturity
+(millions of dollars)                  less than1 year                        1 to 3 years                  4 to 5 years            greater than5 years                      total fair value nsp-minnesota (a)                      $(2)                                      $1                            $2                   $2                                             $3
+nsp-minnesota (b)                      (3)                                        3                           (7)                   (6)                                          (13)
+psco (a)                               -                                          1                             -                   -                          1
+psco (b)                               (25)                                    (39)                          (13)                   -                                            (77)
+$(30)                                  $(34)                         $(18)                   $(4)                                        $(86)
+options maturity
+(millions of dollars)                        less than1 year                  1 to 3 years                  4 to 5 years            greater than5 years                      total fair value nsp-minnesota (b)                                 $1                             $-                            $-                   $1                                             $2
+psco (b)                      13                               16                            1                                      -                          30
+$14                            $16                            $1                   $1                                            $32
+(a)prices actively quoted or based on actively quoted prices.
+(b)prices based on models and other valuation methods.
+changes in the fair value of commodity trading contracts before the impacts of margin-sharing for the years ended dec. 31:
+(millions of dollars)                                                                     2020   2019
+fair value of commodity trading net contracts outstanding at jan. 1                   $(59)                   $17
+contracts realized or settled during the period                                         (9)                  (22)
+commodity trading contract additions and changes during the period                       14                  (54)
+fair value of commodity trading net contracts outstanding at dec. 31                  $(54)                 $(59)
+at dec. 31, 2020, a 10% increase in market prices for commodity trading contracts through the forward curve would increase pretax income from continuing operations by approximately $13 million, whereas a 10% decrease would decrease pretax income from continuing operations by approximately $13 million. at dec. 31, 2019, a 10% increase in market prices for commodity trading contracts would increase pretax income from continuing operations by approximately $10 million, whereas a 10% decrease would decrease pretax income from continuing operations by approximately $10 million. market price movements can exceed 10% under abnormal circumstances.
+the utility subsidiaries' commodity trading operations measure the outstanding risk exposure to price changes on contracts and obligations that have been entered into, but not closed, using an industry standard methodology known as var. var expresses the potential change in fair value on the outstanding contracts and obligations over a particular period of time under normal market conditions.
+table of contents the vars for the nsp-minnesota and psco commodity trading operations, excluding both non-derivative transactions and derivative transactions designated as normal purchase and normal sales, calculated on a consolidated basis using a monte carlo simulation with a 95% confidence level and a one-day holding period, were as follows:
+(millions of dollars)   year ended                       var limit                 average                 high   low dec. 31
+2020   $1                                $3                       $1                    $2       $1
+2019   &lt; 1            3                                         1                     1       &lt; 1
+nuclear fuel supply - nsp-minnesota has contracted for approximately 11% of its 2021 enriched nuclear material requirements from sources that could be impacted by sanctions against entities doing business with iran. those sanctions may impact the supply of enriched nuclear material supplied from russia. long-term, through 2030, nsp-minnesota is scheduled to take delivery of approximately 28% of its average enriched nuclear material requirements from these sources. nsp-minnesota is able to manage nuclear fuel supply with alternate potential sources. nsp-minnesota periodically assesses if further actions are required to assure a secure supply of enriched nuclear material.
+interest rate risk - xcel energy is subject to interest rate risk. our risk management policy allows interest rate risk to be managed through the use of fixed rate debt, floating rate debt and interest rate derivatives such as swaps, caps, collars and put or call options.
+a 100 basis point change in the benchmark rate on xcel energy's variable rate debt would impact pretax interest expense annually by approximately $6 million in 2020 and 2019, respectively.
+nsp-minnesota maintains a nuclear decommissioning fund, as required by the nrc. the nuclear decommissioning fund is subject to interest rate risk and equity price risk. the fund is invested in a diversified portfolio of cash equivalents, debt securities, equity securities and other investments. these investments may be used only for the purpose of decommissioning nsp-minnesota's nuclear generating plants.
+realized and unrealized gains on the decommissioning fund investments are deferred as an offset of nsp-minnesota's regulatory asset for nuclear decommissioning costs. fluctuations in equity prices or interest rates affecting the nuclear decommissioning fund do not have a direct impact on earnings due to the application of regulatory accounting.
+changes in discount rates and expected return on plan assets impact the value of pension and postretirement plan assets and/or benefit costs.
+credit risk - xcel energy is also exposed to credit risk. credit risk relates to the risk of loss resulting from counterparties' nonperformance on their contractual obligations. xcel energy maintains credit policies intended to minimize overall credit risk and actively monitor these policies to reflect changes and scope of operations.
+at dec. 31, 2020, a 10% increase in commodity prices would have resulted in an increase in credit exposure of $11 million, while a decrease in prices of 10% would have resulted in an immaterial increase in credit exposure. at dec. 31, 2019, a 10% increase in commodity prices would have resulted in an increase in credit exposure of $19 million, while a decrease in prices of 10% would have resulted in an increase in credit exposure of $14 million.
+xcel energy conducts credit reviews for all counterparties and employs credit risk controls, such as letters of credit, parental guarantees, master netting agreements and termination provisions. credit exposure is monitored, and when necessary, the activity with a specific counterparty is limited until credit enhancement is provided. distress in the financial markets could increase our credit risk.
+fair value measurements xcel energy uses derivative contracts such as futures, forwards, interest rate swaps, options and ftrs to manage commodity price and interest rate risk. derivative contracts, with the exception of those designated as normal purchase and normal sale contracts, are reported at fair value.
+xcel energy's investments held in the nuclear decommissioning fund, rabbi trusts, pension and other postretirement funds are also subject to fair value accounting.
+commodity derivatives - xcel energy monitors the creditworthiness of the counterparties to its commodity derivative contracts and assesses each counterparty's ability to perform on the transactions. the impact of discounting commodity derivative assets for counterparty credit risk was not material to the fair value of commodity derivative assets at dec. 31, 2020.
+adjustments to fair value for credit risk of commodity trading instruments are recorded in electric revenues. credit risk adjustments for other commodity derivative instruments are recorded as other comprehensive income or deferred as regulatory assets and liabilities. classification as a regulatory asset or liability is based on commission approved regulatory recovery mechanisms. the impact of discounting commodity derivative liabilities for credit risk was immaterial at dec. 31, 2020.
+see notes 10 and 11 to the consolidated financial statements for further information.
+liquidity and capital resources cash flows operating cash flows
+(millions of dollars)                                                            twelve months ended dec. 31
+cash provided by operating activities - 2019                                              $3,263
+components of change - 2020 vs. 2019
+higher net income                                                 101
+non-cash transactions (a)                                                                   (49)
+changes in working capital (b)                                                             (222)
+changes in net regulatory and other assets and liabilities                                 (245)
+cash provided by operating activities - 2020                                              $2,848
+(a)    non-cash transactions applicable to net income (e.g., depreciation and amortization, nuclear fuel amortization, changes in deferred income taxes, allowance for equity funds used during construction, etc.).
+(b) working capital includes accounts receivable, accrued unbilled revenues, inventories, accounts payable, other current assets and other current liabilities.
+net cash provided by operating activities decreased by $415 million for 2020 as compared to 2019. decrease was primarily due to changes in accounts receivable related to increased residential sales, timing of regulatory asset recovery and inventory wind turbine purchases, which were partially offset by an increase in net income.
+table of contents investing cash flows
+(millions of dollars)                                          twelve months ended dec. 31
+cash used in investing activities - 2019                              $(4,343)
+components of change - 2020 vs. 2019
+increased capital expenditures                                         (1,144)
+sale of mec                                                                684
+other investing activities                                                  63
+cash used in investing activities - 2020                              $(4,740)
+net cash used in investing activities increased by $397 million for 2020 as compared to 2019. increase was primarily attributable to additional capital expenditures, primarily for wind projects, including sagamore, cheyenne ridge, blazing star 1 and crowned ridge 2.
+financing cash flows
+(millions of dollars)                                                twelve months ended dec. 31
+cash provided by financing activities - 2019                                  $1,181
+components of change - 2020 vs. 2019
+higher debt issuances                                                            452
+higher repayments of long-term debt                                             (52)
+higher proceeds from issuance of common stock                                    269
+higher dividends paid to shareholders                                           (65)
+other financing activities                                                      (12)
+cash provided by financing activities - 2020                                  $1,773
+net cash provided by financing activities increased by $592 million for 2020 as compared to 2019. increase was primarily attributable to higher proceeds from issuances of long-term debt and common stock (due to forward equity agreements settling in november 2020 and august 2019), partially offset by higher repayments of long-term debt and dividends paid.
+see note 5 to the consolidated financial statements for further information.
+capital requirements xcel energy expects to meet future financing requirements by periodically issuing short-term debt, long-term debt, common stock, hybrid and other securities to maintain desired capitalization ratios.
+contractual obligations and other commitments - xcel energy has contractual obligations and other commitments that will need to be funded in the future. contractual obligations and other commercial commitments as of dec. 31, 2020:
+payments due by period
+(millions of dollars)                                                           total                 less than 1 year                  1 to 3 years                  3 to 5 years                 after 5 years long-term debt, principal and interest payments                           $34,312                       $1,183                         $3,249                        $3,107                       $26,773
+finance lease obligations                                                     257                           14                             24                            22                           197
+operating leases obligations (a)                                            1,859                          273                            497                           434                           655
+unconditional purchase obligations (b)                                      5,005                        1,366                          1,585                           911                         1,143
+other long-term obligations, including current portion                        637                           74                             63                            60                           440
+other short-term obligations                                                  420                          420                              -                             -                             -
+short-term debt                                                               584                          584                              -                             -                             -
+total contractual cash obligations                                        $43,074                       $3,914                         $5,418                        $4,534                       $29,208
+(a)included in operating lease obligations are $247 million, $446 million, $398 million and $561 million, for the less than 1 year, 1 - 3 years, 3 - 5 years and after 5 years categories, respectively, pertaining to ppas that were accounted for as operating leases.
+(b)xcel energy inc. and its subsidiaries have contracts providing for the purchase and delivery of a significant portion of its fuel (nuclear, natural gas and coal) requirements. additionally, the utility subsidiaries of xcel energy inc. have entered into non-lease purchase power agreements. certain contractual purchase obligations are adjusted on indices. effects of price changes are mitigated through cost of energy adjustment mechanisms.
+capital expenditures - the capital forecasts for xcel energy for 2021 through 2025 are detailed in the following tables. the base capital forecast has been updated to reflect the mpuc's approval of the $750 million wind repowering proposal. in addition, the base capital forecast reflects a change in the timing of completion of a wind project from 2020 to 2021.
+actual                                                                                                                                  base capital forecast (millions of dollars)
+by regulated utility                                      2020                     2021                        2022                        2023                        2024                        2025                   2021 - 2025 total psco                                               $1,600                    $1,700                      $1,835                      $1,750                      $1,695                      $1,655                          $8,635
+nsp-minnesota                                       1,955                     1,930                       1,785                       1,785                       1,915                       1,890                           9,305
+sps                                                 1,180                       505                         710                         770                         735                         675                           3,395
+nsp-wisconsin                                         235                       360                         430                         395                         515                         470                           2,170
+other (a)                                           (135)                      (20)                        (15)                          10                          10                          10                             (5)
+total base capital expenditures                    $4,835                    $4,475                      $4,745                      $4,710                      $4,870                      $4,700                         $23,500
+(a) other category includes intercompany transfers for safe harbor wind turbines.
+table of contents actual                                                                                                                                  base capital forecast (millions of dollars)
+by function                                               2020                     2021                        2022                        2023                        2024                        2025                   2021 - 2025 total electric distribution                                $980                    $1,205                      $1,440                      $1,550                      $1,505                      $1,475                          $7,175
+electric transmission                                 695                       870                       1,285                       1,285                       1,270                       1,290                           6,000
+electric generation                                   445                       630                         575                         560                         750                         975                           3,490
+natural gas                                           580                       615                         615                         665                         670                         625                           3,190
+other                                                 345                       545                         575                         485                         405                         335                           2,345
+renewables                                          1,790                       610                         255                         165                         270                           -                           1,300
+total base capital expenditures                    $4,835                    $4,475                      $4,745                      $4,710                      $4,870                      $4,700                         $23,500
+incremental capital forecast (millions of dollars) (a)
+nsp-minnesota proposal                         2021                      2022   2023                      2024                    2025                                    2021 - 2025 total sherco solar                                $30                      $200                      $320                   $-                      $-                               $550
+wind ppa buyout                              25                       185                         -                   -                       -           210
+total incremental capital                   $55                      $385                      $320                   $-                      $-                               $760
+(a)    reflects potential capital investment under the minnesota relief and recovery plan, which will require mpuc approval. the incremental capital investment is not included in the base capital forecast.
+xcel energy's capital expenditure forecast is subject to continuing review and modification. actual capital expenditures may vary from estimates due to changes in electric and natural gas projected load growth, safety and reliability needs, regulatory decisions, legislative initiatives, reserve requirements, availability of purchased power, alternative plans for meeting long-term energy needs, environmental initiatives and regulation, and mergers, acquisition and divestiture opportunities.
+financing capital expenditures through 2025 - xcel energy issues debt and equity securities to refinance retiring maturities, reduce short-term debt, fund capital programs, infuse equity in subsidiaries, fund asset acquisitions and for other general corporate purposes. financing plans are subject to change, depending on capital expenditures, regulatory outcomes, internal cash generation, market conditions, changes in tax policies, and other factors.
+current estimated financing plans for 2021 - 2025:
+(millions of dollars)
+funding capital expenditures cash from operations (a)                                      $15,000
+new debt (b)                                                    7,490
+equity through the drip and benefit program                       410
+other equity                                                      600
+base capital expenditures 2021 - 2025                         $23,500
+maturing debt                                                  $3,820
+(a) net of dividends and pension funding.
+(b) reflects a combination of short and long-term debt; net of refinancing.
+the incremental renewable capital expenditures would be financed with approximately 50% debt and 50% equity, if approved by the mpuc.
+common stock dividends - future dividend levels will be dependent on xcel energy's results of operations, financial condition, cash flows, reinvestment opportunities and other factors, and will be evaluated by the xcel energy inc. board of directors. in february 2021, xcel energy announced a quarterly dividend of $0.4575 per share, which represents an increase of 6.4%.
+xcel energy's dividend policy balances the following:
+•projected cash generation.
+•projected capital investment.
+•a reasonable rate of return on shareholder investment.
+•the impact on xcel energy's capital structure and credit ratings.
+in addition, there are certain statutory limitations that could affect dividend levels. federal law places limits on the ability of public utilities within a holding company to declare dividends. under the federal power act, a public utility may not pay dividends from any funds properly included in a capital account. the utility subsidiaries' dividends may be limited directly or indirectly by state regulatory commissions or bond indenture covenants.
+see note 5 to the consolidated financial statements for further information.
+pension fund - xcel energy's pension assets are invested in a diversified portfolio of domestic and international equity securities, short-term to long-duration fixed income securities and alternative investments, including private equity, real estate and hedge funds.
+funded status and pension assumptions:
+(millions of dollars)                  dec. 31, 2020        dec. 31, 2019
+fair value of pension assets           $3,599               $3,184
+projected pension obligation (a)       3,964                3,701
+funded status                          $(365)               $(517)
+(a)excludes non-qualified plan of $43 million and $39 million at dec. 31, 2020 and 2019, respectively.
+pension assumptions                                   2020               2019
+discount rate                                     2.71   %           3.49   %
+expected long-term rate of return                 6.49               6.87
+capital sources short-term funding sources - xcel energy generally funds short-term needs, through operating cash flow, notes payable, commercial paper and bank lines of credit. the amount and timing of short-term funding needs depend on construction expenditures, working capital and dividend payments.
+short-term investments - xcel energy inc., nsp-minnesota, nsp-wisconsin, psco and sps maintain cash and short-term investment accounts.
+table of contents short-term debt - xcel energy inc., nsp-minnesota, nsp-wisconsin, psco and sps each have individual commercial paper programs. authorized levels for these commercial paper programs are:
+•$1.25 billion for xcel energy inc.
+•$700 million for psco.
+•$500 million for nsp-minnesota.
+•$500 million for sps.
+•$150 million for nsp-wisconsin.
+in addition, in december 2020, xcel energy inc. repaid its $500 million term loan agreement. in september 2020, xcel energy inc. repaid its $700 million term loan agreement.
+xcel energy's outstanding short-term debt:
+(amounts in millions, except interest rates)                                   three months ended dec. 31, 2020
+borrowing limit                                                                             $3,100
+amount outstanding at period end                                                               584
+average amount outstanding                                                                     415
+maximum amount outstanding                                                                     613
+weighted average interest rate, computed on a daily basis                                     0.60            %
+weighted average interest rate at end of period                                               0.23
+(amounts in millions, except interest rates)                                     year ended dec. 31, 2020                  year ended dec. 31, 2019                  year ended dec. 31, 2018
+borrowing limit                                                                         $3,100                                    $3,600                                    $3,250
+amount outstanding at period end                                                           584                                       595                                     1,038
+average amount outstanding                                                               1,126                                     1,115                                       788
+maximum amount outstanding                                                               2,080                                     1,780                                     1,349
+weighted average interest rate, computed on a daily basis                                 1.45          %                           2.72          %                           2.34          %
+weighted average interest rate at end of period                                           0.23                                      2.34                                      2.97
+credit facility agreements - xcel energy inc., nsp-minnesota, psco and sps each have the right to request an extension of the revolving credit facility for two additional one-year periods beyond the june 2024 termination date. nsp-wisconsin has the right to request an extension of the revolving credit facility for an additional year. all extension requests are subject to majority bank group approval.
+as of feb. 16, 2021, xcel energy inc. and its utility subsidiaries had the following committed credit facilities available to meet liquidity needs:
+(millions of dollars)                        facility (a)                  drawn (b)                  available                 cash                  liquidity xcel energy inc.                            $1,250                        $696                       $554                     $2                     $556
+psco                                           700                         142                        558                      2                      560
+nsp-minnesota                                  500                         129                        371                      2                      373
+sps                                            500                         341                        159                      1                      160
+nsp-wisconsin                                  150                           -                        150                      5                      155
+total                                       $3,100                      $1,308                     $1,792                    $12                   $1,804
+(a)credit facilities expire in june 2024.
+(b)includes outstanding commercial paper and letters of credit.
+registration statements - xcel energy inc.'s articles of incorporation authorize the issuance of one billion shares of $2.50 par value common stock. as of dec. 31, 2020 and 2019, xcel energy had approximately 537 million shares and 525 million shares of common stock outstanding, respectively.
+xcel energy inc. and its utility subsidiaries have registration statements on file with the sec pursuant to which they may sell securities from time to time. these registration statements, which are uncapped, permit xcel energy inc. and its utility subsidiaries to issue debt and other securities in the future at amounts, prices and with terms to be determined at the time of future offerings, and in the case of our utility subsidiaries, subject to commission approval.
+planned financing activity - xcel energy's 2021 financing plans reflect the following:
+•xcel energy inc. - approximately $1.2 billion in debt financing.
+•psco - approximately $750 million of first mortgage bonds.
+•sps - approximately $250 million of first mortgage bonds.
+•nsp-minnesota - approximately $850 million of first mortgage bonds.
+•nsp-wisconsin - approximately $125 million of first mortgage bonds.
+forward equity agreements - in november 2018, xcel energy inc. entered into forward equity agreements in connection with a completed $459 million public offering of 9.4 million shares of xcel energy common stock. in august 2019, xcel energy settled the forward equity agreements by delivering 9.4 million shares of common equity for cash proceeds of $453 million.
+in november 2019, xcel energy inc. entered into forward equity agreements for a $743 million public offering of 11.8 million shares of xcel energy common stock. in november 2020, xcel energy settled the forward equity agreements by delivering 11.8 million shares of common equity for cash proceeds of $721 million.
+equity through drip and benefits program - xcel energy also plans to issue approximately $75 to $90 million of equity annually through the drip and benefit programs during the five-year forecast time period.
+long-term borrowings and other financing instruments - see note 5 to the consolidated financial statements for further information.
+natural gas fuel and electricity purchases in february 2021, the united states experienced winter storm uri and extreme cold temperatures in the central united states. this severe weather event increased the demand for natural gas used in our electric and natural gas businesses. certain operational assets were impacted by extreme cold temperatures and safety protocols and the cold further impacted the availability of renewable generation across the region (which typically acts as a hedge against commodity prices) contributing to extremely high market prices for natural gas and electricity. as a result, electric and natural gas fuel costs increased approximately $1.2 billion (psco - $650 million, nsp-minnesota - $300 million, sps - $200 million and nsp-wisconsin - $45 million). these amounts are preliminary estimates through feb. 16, 2021 and are subject to final settlement.
+xcel energy has fuel recovery mechanisms in all of its states to recover the increased cost of natural gas and electricity. however, given the impact of these higher costs to our customers during a pandemic, we expect our regulators to undertake a heightened review and we intend to work with our commissions to recover these costs over time to help mitigate the impacts on customer bills. xcel energy is taking action to increase planned debt issuances to ensure adequate liquidity for the timing difference between fuel payments and revenue collection from customers and to address any potential need to post collateral.
+table of contents earnings guidance
+2021 gaap and ongoing earnings guidance is a range of $2.90 to $3.00 per share. (a)
+key assumptions as compared with 2020 levels unless noted:
+•constructive outcomes in all rate case and regulatory proceedings.
+•modest impacts from covid-19.
+•normal weather patterns for the remainder of the year.
+•weather-normalized retail electric sales are projected to increase ~1%.
+•weather-normalized retail firm natural gas sales are projected to be relatively flat.
+•capital rider revenue is projected to increase $105 million to $115 million (net of ptcs). the change reflects the deferral of advanced grid costs, which were denied rider recovery. ptcs are credited to customers, through capital riders, fuel clause or base rates and results in a reduction to electric margin.
+•o&m expenses are projected to be relatively flat.
+•depreciation expense is projected to increase approximately $195 million to $205 million.
+•property taxes are projected to increase approximately $45 million to $55 million.
+•interest expense (net of afudc - debt) is projected to increase $0 million to $10 million.
+•afudc - equity is projected to decline approximately $45 million to $55 million.
+•etr is projected to be ~(9%). the etr reflects benefits of ptcs which are credited to customers through electric margin and will not have a material impact on net income.
+(a) ongoing earnings is calculated using net income and adjusting for certain nonrecurring or infrequent items that are, in management's view, not reflective of ongoing operations. ongoing earnings could differ from those prepared in accordance with gaap for unplanned and/or unknown adjustments. xcel energy is unable to forecast if any of these items will occur or provide a quantitative reconciliation of the guidance for ongoing eps to corresponding gaap eps.
+off-balance sheet arrangements xcel energy does not have any off-balance-sheet arrangements, other than those currently disclosed, that have or are reasonably likely to have a current or future effect on financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors.
+covid-19
+although the covid-19 pandemic has led to numerous challenges, xcel energy believes its risk management program, including business continuity and disaster recovery planning, will continue to allow us to proactively manage and successfully navigate challenges, risks and uncertainties.
+there is continued uncertainty regarding covid-19, the duration and magnitude of business restrictions, re-shut downs and the level and pace of economic recovery. also, while we may implement contingency plans, there are no guarantees these plans will be sufficient to offset the impact of the pandemic, which could have a material impact on our results of operations, financial condition or cash flow.
+an overview of certain risk considerations or areas which have or could significantly impact us, is as follows.
+sales - xcel energy has experienced and may continue to experience higher residential sales and lower c&i sales as a result of covid-19. xcel energy has decoupling and sales true-up mechanisms in minnesota (all electric classes) and colorado (residential and non-demand small c&i electric classes), which mitigate the impact of changes to sales levels as compared to a baseline.
+bad debt - bad debt expense could significantly increase due to pandemic related economic impacts, customer hardship, federal or state legislation and regulatory orders. however, several of our commissions have approved the deferral of incremental covid-19 related expense, including bad debt expense.
+xcel energy has received orders in colorado, wisconsin, texas, new mexico, north dakota, south dakota and michigan, allowing regulatory deferral of incremental covid-19 costs as a regulatory asset subject to future determination of amount and timing of recovery. as part of nsp-minnesota's stay-out alternative, nsp-minnesota agreed to not seek recovery of incremental covid-19 related costs.
+the majority of wholesale customers are subject to formula transmission and production rates, which true-up rates to actual costs to serve.
+supply chain and capital expenditures - xcel energy's ability to meet customer energy requirements, respond to storm-related disruptions and execute our capital expenditure program are dependent on maintaining an efficient supply chain. during 2020, xcel energy did not experience supply chain, contractor or employee disruptions with the exception of delays in certain wind projects.
+liquidity - xcel energy took steps to enhance its liquidity in 2020 and believes it has more than adequate liquidity. xcel energy will take steps to enhance liquidity in 2021 if needed.

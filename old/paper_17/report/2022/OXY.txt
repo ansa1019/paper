@@ -1,0 +1,1435 @@
+risk factors in part i, item ia of this form 10-k.
+
+financial statementsfootnotes debt activity for the twelve months ended december 31, 2022, occidental repaid debt with a face value of more than $ 10.5billion, reducing the face value of occidental's debt to less than $ 18.0billion. the net book value of the full year repayments was $ 9.8billion, which resulted in a gain of $ 149million.
+for the twelve months ended december 31, 2021, occidental repaid debt with a face value of $ 6.7billion, reducing the face value of occidental's debt to $ 28.5billion. the net book value of the full year repayments was $
+6.8billion which resulted in a loss of $ 118million.
+debt activity - 2022
+the following table summarizes occidental's debt activity for the year ended december 31, 2022:
+borrowings at face millions                                           value
+───────────────────────────────────────────────────────────────────────
+total borrowings at face value as of    $  28,493
+december 31, 2021
+repayments:
+2.600% senior notes due 2022            $    -101
+2.700% senior notes due 2023                 -442
+6.950% senior notes due 2024                 -359
+3.450% senior notes due 2024                  -16
+2.900% senior notes due 2024                 -295
+3.500% senior notes due 2025                 -189
+8.000% senior notes due 2025                 -500
+5.875% senior notes due 2025                 -294
+5.500% senior notes due 2025                 -285
+5.550% senior notes due 2026                 -230
+3.200% senior notes due 2026                 -615
+3.400% senior notes due 2026                 -495
+3.000% senior notes due 2027                 -418
+8.500% senior notes due 2027                  -11
+7.150% debentures due 2028                     -3
+6.375% senior notes due 2028                  -22
+3.500% senior notes due 2029               -1,191
+6.625% senior notes due 2030                  -51
+6.125% senior notes due 2031                 -107
+6.450% senior notes due 2036                  -23
+zero coupon senior notes due 2036          -1,596
+4.300% senior notes due 2039                 -446
+6.200% senior notes due 2040                  -13
+4.500% senior notes due 2044                 -417
+4.625% senior notes due 2045                 -338
+6.600% senior notes due 2046                  -40
+4.400% senior notes due 2046                 -552
+4.100% senior notes due 2047                 -405
+4.200% senior notes due 2048                 -657
+4.400% senior notes due 2049                 -424
+total borrowings at face value as of    $  17,958
+december 31, 2022
+30oxy2022 form 10-k financial statementsfootnotes debt activity - 2021
+the following table summarizes occidental's debt activity for the year ended december 31, 2021:
+borrowings at face millions                                              value
+──────────────────────────────────────────────────────────────────────────
+total borrowings at face value as of       $  35,235
+december 31, 2020
+activity:
+4.850% senior notes due 2021               $    -147
+variable rate bonds due 2021                     -27
+2.600% senior notes due 2021                    -224
+3.125% senior notes due 2022                    -276
+2.700% senior notes due 2022                    -629
+floating interest rate notes due august       -1,052
+2022
+2.700% senior notes due 2023                    -484
+3.450% senior notes due 2024                    -121
+2.900% senior notes due 2024                  -2,051
+3.500% senior notes due 2025                    -424
+3.400% senior notes due 2026                    -371
+3.200% senior notes due 2026                    -203
+3.000% senior notes due 2027                    -116
+3.500% senior notes due 2029                     -23
+4.300% senior notes due 2039                     -57
+4.500% senior notes due 2044                     -17
+4.625% senior notes due 2045                    -116
+6.600% senior notes due 2046                      57
+4.400% senior notes due 2046                    -224
+4.100% senior notes due 2047                     -87
+4.200% senior notes due 2048                     -39
+4.400% senior notes due 2049                     -46
+7.730% debentures due 2096                        -3
+7.500% debentures due 2096                       -18
+7.250% debentures due 2096                       -44
+total borrowings at face value as of       $  28,493
+december 31, 2021
+revolving credit facility in december 2021, occidental entered into the second amended and restated credit agreement in which the total committed borrowing capacity of $ 4.0billion is based on a sofr benchmark. the interest rate margin and the facility fee rates are subject to adjustments based on occidental's performance on specified sustainability target thresholds with respect to absolute reductions in ghg emissions from its worldwide operated assets. the rcf maturity date is june 30, 2025.
+borrowings under the rcf bear interest at sofr benchmark rates, plus a margin based on occidental's senior debt ratings. the facility has similar terms to other debt agreements and does not contain material adverse change clauses or debt ratings triggers that could restrict occidental's ability to borrow, or that would permit lenders to terminate their commitments or accelerate debt repayment. the facility provides for the termination of loan commitments and requires immediate repayment of any outstanding amounts if certain events of default occur. as of the date of this filing, occidental had no drawn amounts under the rcf. in 2022, occidental paid average annual facility fees of 0.302% on the total commitment amount.
+receivables securitization facility in december 2021, occidental amended and extended its existing receivables securitization facility to december
+2024. as of december 31, 2022, the facility had $ 400million of available borrowing capacity and no drawn amounts.
+subsequent to december 31, 2022, but before the date of this filing, occidental amended the facility to expand its available borrowing capacity to $ 600million. the amended facility includes adjustments based on the same specified sustainability target thresholds as contained in the rcf.
+
+financial statementsfootnotes note 7 - lease commitments occidental identifies leases through its accounts payable and contract monitoring processes. lease assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term.
+lease assets include the lease liability, upfront payments and costs incurred to execute the lease and are amortized on a straight-line basis over the lease term. occidental assesses the likelihood of exercising renewal, termination and purchase options to determine the lease term. occidental uses its incremental borrowing rate at commencement date to determine the present value of lease payments. the incremental borrowing rate is the rate of interest that occidental would pay to borrow an amount equal to the lease payments over a similar term on a collateralized basis in a similar economic environment. certain leases include variable lease payments based on the underlying asset's operations that are not included in the lease asset and liability.
+occid ental has operating leases for oil and gas exploration and development equipment, including office space of $
+352million, offshore and onshore drilling rigs of $ 169million, compressors of $ 113million and $ 60million consisting of storage facilities and other field equipment. operating lease terms generally range from oneto eight years. operating leases also include pipelines, rail cars, easements, aircraft and real estate of $ 236million.
+these operating leases have contract expiration terms ranging from oneto 10years.
+occidental's finance leases include compressors of $ 378million, real estate offices of $ 266million and $
+45million consisting of drilling rigs, vehicles and aircraft leases.
+the following table presents lease balances and their classification on the consolidated balance sheets as of december 31:
+millions assets:                    balance sheet classification                                  2022              2021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+operating                  operating lease assets                              $    903          $    726
+finance                    property, plant and equipment                            686               581
+total lease assets                                                             $  1,589          $  1,307
+liabilities:
+current operating                  current operating lease liabilities                 $    273          $    186
+finance                    current maturities of long-term debt                     143                85
+non-current operating                  deferred credits and other liabilities -                 657               585
+operating lease liabilities finance                    long-term debt, net                                      546               504
+total lease liabilities                                                        $  1,619          $  1,360
+as of december 31, 2022, occidental's outstanding lease payments, excluding variable component, consisted of the following:
+millions                      operating leases(a)       finance leases(b)              total
+──────────────────────────────────────────────────────────────────────────────────────────────
+2023                       $                  287    $                146    $    433
+2024                                          226                     109         335
+2025                                          108                      95         203
+2026                                           89                      84         173
+2027                                           81                      66         147
+thereafter                                    250                     277         527
+total lease payments                        1,041                     777       1,818
+less: interest                               -111                     -88        -199
+total lease liabilities    $                  930    $                689    $  1,619
+(a) the weighted-average remaining lease term is 5.4years and the weighted-average discount rate is 3.84%.
+(b) the weighted-average remaining lease term is 7.7years and the weighted-average discount rate is 3.05%.
+32oxy2022 form 10-k financial statementsfootnotes the following tables present occidental's total lease cost classifications for operating and finance lease liabilities for the years ended december 31:
+millions lease cost classification(a)
+operating lease costs(b)                       2022          2021
+───────────────────────────────────────────────────────────────────
+property, plant and equipment, net     $  246        $  222
+operating expense and cost of sales       234           487
+selling, general and administrative        78           109
+expenses finance lease cost amortization of rou assets                 83            39
+interest on lease liabilities              20            13
+total lease cost                       $  661        $  870
+(a) amounts reflected are gross before joint-interest recoveries. lease payments are reduced by joint-interest recoveries on the income statement through the joint-interest billing process.
+(b) included short-term lease cost of $ 184million and $ 238million and variable lease cost of $ 101million an d $
+120million for the years ended december 31, 2022 and 2021, respectively.
+the following tables present occidental's total cash paid for operating and finance lease liabilities for the years ended december 31
+millions                        2022          2021
+────────────────────────────────────────────────────
+operating cash flows    $  211        $  401
+investing cash flows    $   81        $   73
+financing cash flows    $   83        $   39
+
+financial statementsfootnotes note 8 - derivatives objective and strategy occidental uses a variety of derivative financial instruments and physical contracts to manage its exposure to commodity price fluctuations, transportation commitments and to fix margins on the future sale of stored commodity volumes. occidental also enters into derivative financial instruments for trading purposes. derivatives are carried at fair value and on a net basis when a legal right of offset exists with the same counterparty.
+occidental may elect normal purchases and normal sales exclusions when physically delivered commodities are purchased or sold to a customer. occidental occasionally applies cash flow hedge accounting treatment to derivative financial instruments to lock in margins on the forecasted sales of its natural gas storage volumes. the value of cash flow hedges was insignificant for all periods presented. see note 1 - summary of significant accounting policies for occidental's accounting policy on derivatives.
+derivatives not designated as hedging instruments as of december 31, 2022, occidental's derivatives not designated as hedges consisted of marketing derivatives. all interest rate swaps were settled prior to december 31, 2022.
+derivative instruments that are not designated as hedging instruments are required to be recorded on the balance sheet at fair value. changes in fair value will impact occidental's earnings through mark-to-market adjustments until the physical commodity is delivered or the financial instrument is settled.
+marketing derivatives occidental's marketing derivative instruments not designated as hedges are short-duration physical and financial forward contracts. a substantial majority of occidental's physically settled derivative contracts are index-based and carry no mark-to-market valuation in earnings. as of december 31, 2022, the weighted-average settlement price of these forward contracts was $ 81.37/bbl and $ 7.89/mcf for crude oil and natural gas, respectively. the weighted-average settlement price was $ 74.85/bbl and $ 4.61/mcf for crude oil and natural gas, respectively, as of december 31, 2021. net gains and losses associated with marketing derivative instruments not designated as hedging instruments are recognized currently in net sales.
+the following table summarizes net short volumes associated with the outstanding marketing commodity derivatives not designated as hedging instruments as of december 31:
+2022          2021
+oil commodity contracts volume (mmbbl)                      -33           -28
+natural gas commodity contracts volume (bcf)                       -112          -136
+interest rate swaps occidental retired all remaining outstanding interest rate swaps in the twelve months ended december 31, 2022.
+occidental's interest rate swap contracts locked in a fixed interest rate in exchange for a floating interest rate indexed to the three-month libor throughout the reference period. net gains and losses associated with interest rate swaps and warrants, were recognized currently in gains (losses) on interest rate swaps, net in the consolidated statements of operations.
+interest rate swaps and collateralization are classified as cash flows from financing activities. for the twelve months ended december 31, 2022, the interest rate swaps were terminated through the application of $ 144million of collateral and cash payments of $ 255million. prior to termination, occidental paid $ 35million of periodic settlements and $ 179million of collateral was returned.
+fair value of derivatives occidental has categorized its assets and liabilities that are measured at fair value in a three-level fair value hierarchy, based on the inputs to the valuation techniques: level 1 - using quoted prices in active markets for the assets or liabilities; level 2 - using observable inputs other than quoted prices for the assets or liabilities;
+and level 3 - using unobservable inputs. transfers between levels, if any, are reported at the end of each reporting period. the following table presents the fair values of occidental's outstanding derivatives. fair values are presented at gross amounts below, including when derivatives are subject to netting arrangements, and are presented on a net basis in the consolidated balance sheets.
+34oxy2022 form 10-k financial statementsfootnotes millions balance sheet                                                        fair value classifi...                                                    measureme...
+december                                                     using                                   total fair
+31, 2022                level 1             level 2          level 3          netting(a)             value
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+marketing derivati...
+other current      $     920             $   127             $  -                $        -980    $    67
+assets long-term receivab...
+and other            1                   2                -                           -1          2
+assets, net accrued           -938                 -96                -                          980        -54
+liabilit...
+deferred credits and other           -1                  -1                -                            2          -
+liabilit...
+
+other december
+31, 2021
+marketing derivati...
+other current      $   1,516             $   173             $  -                $      -1,645    $    44
+assets long-term receivab...
+and other            4                   1                -                           -4          1
+assets, net accrued         -1,608                -196                -                        1,645       -159
+liabilit...
+deferred credits and other           -4                   -                -                            4          -
+liabilit...
+
+other interest rate swaps accrued              -                -315                -                            -       -315
+liabilit...
+deferred credits and other            -                -436                -                            -       -436
+liabilit...
+
+other
+(a) these amounts do not include collateral. as of december 31, 2021, $ 323million of collateral related to interest rate swaps had been netted against derivative liabilities. occidental netted $ 15million and $ 110million of collateral deposited with brokers against derivative liabilities related to marketing derivatives as of december
+31, 2022, and december 31, 2021, respectively.
+gains and losses on derivatives the following table presents gains and (losses) related to occidental's derivative instruments in the consolidated statements of operations for the years ended december 31:
+millions income statement classification collars and calls(a)                             2022             2021              2020
+──────────────────────────────────────────────────────────────────────────────────────────
+net sales                                $    -          $  -344          $  1,064
+marketing derivatives net sales(b)                                381              338              -393
+interest rate swaps gains (losses) on interest rate swaps       317              122              -428
+and warrants, net
+(a) all of occidental's collars and calls expired on or before december 31, 2021.
+(b) includes derivative and non-derivative marketing activity.
+credit risk the majority of occidental's counterparty credit risk is related to the physical delivery of energy commodities to its customers and their inability to meet their settlement commitments. occidental manages credit risk by selecting counterparties that it believes to be financially strong, by entering into netting arrangements with counterparties and by requiring collateral or other credit risk mitigants, as appropriate. occidental actively evaluates the creditworthiness of its counterparties, assigns appropriate credit limits and monitors credit exposures against those assigned limits. occidental also enters into futures contracts through regulated exchanges with select clearinghouses and brokers, which are subject to minimal credit risk, if any.
+certain of occidental's otc derivative instruments contain credit-risk-contingent features, primarily tied to credit ratings for occidental or its counterparties, which may affect the amount of collateral that each party would need to post. the aggregate fair value of derivative instruments with credit-risk-contingent features for which a net liability position existed as of december 31, 2022 was $ 18million. the aggregate fair value of derivative instruments with credit-risk-contingent features for which a net liability position existed as of december 31, 2021 was $ 107million (net of $ 323million of collateral), which was primarily related to interest rate swaps.
+
+financial statementsfootnotes note 9 - fair value measurements fair values - nonrecurring there were no significant non-recurring fair value measurements during the year ended december 31, 2022.
+for the year ended december 31, 2021, occidental recorded pre-tax impairments of $ 276million related to undeveloped leases that either expired or were set to expire in the near-term, where occidental had no plans to pursue exploration activities.
+the table below summarizes the significant impairments and other charges incurred to measure assets to their fair value on a nonrecurring basis throughout the year ended december 31, 2020:
+millions asset impairments and other charges                total fair value
+─────────────────────────────────────────────────────────────────────
+goodwill                                 $  1,153
+oil and gas properties - proved          $  2,436
+oil and gas properties - unproved        $  4,591
+oil and gas properties - discontinued    $  2,191
+operations wes equity investment                    $  2,673
+goodwill in the first quarter of 2020, occidental impaired $ 1.2billion in goodwill related to occidental's ownership in wes, which was previously included in long-term receivables and other assets, net. the market value of wes'
+publicly traded units is considered a level 1 input.
+oil and gas properties in the second quarter of 2020, as a result of the expected prolonged period of lower commodity prices brought on by the covid-19 pandemic's impact on oil demand, occidental tested substantially all of its oil and gas assets for impairment. occidental recognized total pre-tax impairments to its oil and gas proved and unproved properties of $
+8.6billion, of which $ 6.4billion was included in oil and gas segment results and $ 2.2billion ($ 1.4billion net of tax) related to ghana was included in discontinued operations.
+in the second quarter of 2020, occidental recorded proved property pre-tax impairments of $ 1.2billion primarily related to certain assets for its domestic onshore and gulf of mexico assets and $ 0.9billion to adjust the algeria oil and gas proved properties to their fair value. the fair value of the proved properties was measured based on the income approach.
+unproved property pre-tax impairments of $ 4.3billion were primarily related to domestic onshore unproved acreage.
+the fair value of this acreage was measured based on a market approach using an implied acreage valuation derived from domestic onshore market participants excluding the fair value assigned to proved properties.
+income approaches are considered level 3 fair value estimates and include significant assumptions of future production and timing of production, commodity price assumptions and operating and capital cost estimates, discounted using a 10percent weighted average cost of capital. taxes were based on current statutory rates. future production and timing of production is based on internal reserves estimates and internal economic models for a specific oil and gas asset. internal reserve estimates consist of proved reserves and unproved reserves, the latter adjusted for uncertainty based on reserve category. price assumptions were based on a combination of market information and published industry resources adjusted for historical differentials. price assumptions ranged from approximately $ 40per barrel of oil in 2020 increasing to approximately $ 70per barrel of oil in 2034, with an unweighted arithmetic average price of $ 59.17and $ 62.42for wti and brent indexed assets for the 15year period, respectively. natural gas prices ranged from approximately $ 2.00per mcf in 2020 to approximately $ 3.60per mcf in
+2034, with an unweighted arithmetic average price of $ 3.13for nymex based assets for the 15year period. both oil and natural gas commodity prices were held flat after 2034 and were adjusted for location and quality differentials. operating and capital cost estimates were based on current observable costs and were further escalated 1percent in every period where commodity prices exceeded $ 50per barrel and 2percent in every period where commodity prices exceeded $ 60per barrel. the weighted average cost of capital is calculated based on industry peers and best approximates the cost of capital an external market participant would expect to obtain.
+in the first quarter of 2020, occidental's oil and gas segment recognized pre-tax impairment and related charges of
+$ 581million primarily related to both proved and unproved oil and gas properties and a lower of cost or net realizable value adjustment for crude inventory. occidental recorded proved property impairments of $ 293million related to certain international assets and the gulf of mexico. occidental recorded unproved property impairments, of approximately $ 241million, primarily related to domestic onshore undeveloped leases and offshore gulf of mexico where occidental no
+36oxy2022 form 10-k financial statementsfootnotes longer intends to pursue exploration, appraisal or development activities primarily due to the reduction in near-
+term capital plans.
+if there is an adverse downturn of the macroeconomic conditions and if such downturn is expected to or does persist for a prolonged period of time, occidental's oil and gas properties may be subject to further testing for impairment, which could result in additional non-cash asset impairments. such impairments could be material to the financial statements.
+wes equity investment at the end of the third quarter of 2020, occidental recorded an other-than-temporary impairment of $ 2.7billion, as the fair value of occidental's investment in wes had remained significantly lower than its book value for the majority of the nine months ended september 30, 2020. occidental concluded that the difference between the fair value and book value of wes was not temporary, primarily given both the magnitude and the duration that the fair value was below its book value. this other-than-temporary impairment was calculated based on the closing market price of wes as of september 30, 2020. the market value of wes' publicly traded common units is considered a level
+1 input.
+financial instruments fair value the carrying amounts of cash, cash equivalents, restricted cash, restricted cash equivalents and other on-balance sheet financial instruments, other than fixed-rate debt, approximate fair value. see note 6 - long-term debt for the fair value of long-term debt.
+note 10 - income taxes legal entity reorganization to align occidental's legal entity structure with the nature of its business activities after completing the acquisition of anadarko and subsequent large scale post-acquisition divestiture program, management undertook a legal entity reorganization that was completed in the first quarter of 2022.
+as a result of this legal entity reorganization, management made an adjustment to the tax basis in a portion of its operating assets, thus reducing occidental's deferred tax liabilities. accordingly, in 2022, occidental recorded a tax benefit of $ 2.7billion in connection with this reorganization. the timing of any reduction in occidental's future cash taxes as a result of this legal entity reorganization will be dependent on a number of factors, including prevailing commodity prices, capital activity level and production mix. the legal entity reorganization transaction is currently under irs review as part of the company's 2022 federal tax audit.
+inflation reduction act in august 2022, congress passed the inflation reduction act that contains, among other provisions, a corporate book minimum tax on financial statement income, an excise tax on stock buybacks, a methane emissions fee and certain tax incentives related to climate change and clean energy. occidental is currently evaluating the provisions of this act. the ultimate impact of the inflation reduction act to occidental will depend on a number of factors including future commodity prices, interpretations and assumptions as well as additional regulatory guidance.
+the following summarizes domestic and foreign components of income (loss) from continuing operations before domestic and foreign income taxes for the years ended december 31:
+millions               2022              2021                2020
+───────────────────────────────────────────────────────────────────
+domestic    $  11,314          $  1,966          $  -15,322
+foreign         2,803             1,739                -383
+total       $  14,117          $  3,705          $  -15,705
+
+financial statementsfootnotes the following summarizes components of income tax expense (benefit) on continuing operations for the years ended december 31:
+millions current                                            2022             2021               2020
+─────────────────────────────────────────────────────────────────────────────────────────────
+federal                                 $   1,272          $   173          $    -126
+state and local                               105               36                  6
+foreign                                     1,080              660                465
+total current tax expense               $   2,457          $   869          $     345
+deferred federal                                    -1,569              191             -2,384
+state and local                               -57             -153               -103
+foreign                                       -18                8                -30
+total deferred tax expense (benefit)    $  -1,644          $    46          $  -2,517
+total income tax expense (benefit)      $     813          $   915          $  -2,172
+the following reconciliation of the u.s federal statutory income tax rate to occidental's worldwide effective tax rate on income from continuing operations for the years ended december 31 is stated as a percentage of income
+(loss) from continuing operations before income taxes:
+2022        2021        2020
+u.s. federal statutory tax rate            21     %    21     %    21     %
+legal entity reorganization               -18           -           -
+enhanced oil recovery credit and other      -          -3           -
+general business credits goodwill impairment                         -           -          -3
+capital loss                                -          -2           -
+tax impact from foreign operations          3           8          -4
+state income taxes, net of federal          -          -2           -
+benefit other                                       -           3           -
+worldwide effective tax rate                6     %    25     %    14     %
+in 2022, occidental's worldwide effective tax rate wa s 6%, which was lower than the u.s. statutory rate o f 21%
+and primarily driven by a tax benefit associated with occidental's legal entity reorganization, as described above, partially offset by higher tax rates in the foreign jurisdictions in which occidental operates.
+in 2021, occidental's worldwide effective tax rate was 25%, which was higher than the u.s. statutory rate of 21%
+due to higher tax rates in the foreign jurisdictions in which occidental operates, partially offset by the tax impact of business credits, state tax revaluations and other domestic tax benefits.
+38oxy2022 form 10-k financial statementsfootnotes the tax effects of temporary differences resulting in deferred income taxes as of december 31:
+millions deferred tax liabilities                               2022                2021
+─────────────────────────────────────────────────────────────────────────────────
+property, plant and equipment               $  -7,218          $   -9,905
+differences equity investments, partnerships and             -441                -571
+international subsidiaries gross long-term deferred tax liabilities       -7,659             -10,476
+deferred tax assets environmental reserves                            229                 242
+postretirement benefit accruals                   235                 285
+deferred compensation and benefits                207                 286
+asset retirement obligations                      799                 850
+foreign tax credit carryforwards                3,622               3,904
+general business credit carryforwards              30                 698
+net operating loss carryforward                 1,058               1,628
+interest expense carryforward                      11                  28
+all other                                         771                 689
+gross long-term deferred tax assets             6,962               8,610
+valuation allowance                            -4,785              -5,136
+net long-term deferred tax assets           $   2,177          $    3,474
+total deferred income tax liability, net    $  -5,482          $   -7,002
+less:
+foreign deferred tax asset in long-term           -30                 -37
+receivables and other assets, net total deferred income tax liability,        $  -5,512          $   -7,039
+gross total deferred tax assets, after valuation allowances, w ere $ 2.2billion and $ 3.5billion as of december 31, 2022
+and 2021, respectively. occidental expects to realize the recorded deferred tax assets, net of any allowances, through future operating income and reversal of temporary differences. the total deferred tax liabilities were $
+7.7billion and $ 10.5billion as of december 31, 2022 and 2021, respectively. the decrease in the net deferred tax liability in 2022 compared to 2021 was primarily driven by a tax benefit associated with occidental's legal entity reorganization, as described above, partially offset by the utilization of net operating losses and other tax attributes.
+as of december 31, 2022, occidental had foreign tax credit carryforwards of $ 3.6billion a nd state tax credit carryforwards of $ 30million. occidental had recorded a valuation allowance fo r $ 3.6billion of the foreign tax credit carryforwards a nd $ 27million of the state tax credit carryforwards.
+as of december 31, 2022, occidental had tax-effected federal net operating loss carryforwards of $ 3million, foreign net operating loss carryforwards of $ 841million and state net operating loss carryforwards of $
+214million. th e carryforward balances have va rying carryforward periods through 2042, excluding certain attributes for which there is an indefinite carryforward period. a valuation allowance was recorded for $
+184million of the tax-effected state net operating loss carryforwards and $ 801million of the tax-effected foreign net operating loss carryforwards. occidental had an additional valuation allowance of $ 145million against other foreign deferred tax assets.
+occidental had no tax-effected federal interest expense carryforward and tax-effected state interest expense carryforward of $ 11million as of december 31, 2022. occidental recorded a valuation allowance for $ 9million of the state interest expense carryforward .
+a deferred tax liability had not been recognized for temporary differences related to unremitted earnings of certain consolidated international subsidiaries aggregating approximately $ 924million as of december 31, 2022, as it is occidental's intention to reinvest such earnings indefinitely. if the earnings of these international subsidiaries were not indefinitely reinvested, an additional deferred tax liability of approximately $ 221million would be required.
+
+financial statementsfootnotes a reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows:
+millions                                           2022              2021              2020
+─────────────────────────────────────────────────────────────────────────────────────────────
+balance as of january 1                  $  2,026          $  2,045          $  2,173
+increases related to prior-year                 2                75                14
+positions settlements                                     -               -80               -42
+reductions for tax positions of prior         -18               -14              -100
+years balance as of december 31                $  2,010          $  2,026          $  2,045
+the december 31, 2022 balance of unrecognized tax benefits of $ 2.0billion included potential benefits of $
+2.0billion of which, if recognized, $ 1.5billion would affect the effective tax rate on income. also included were benefits of $ 45million related to tax positions for which the ultimate deductibility is highly certain, but the timing of such deductibility is uncertain. unrecognized tax benefits are included in deferred credits and other liabilities - other. occidental records estimated potential interest and penalties related to liabilities for unrecognized tax benefits in the provisions for domestic and foreign income taxes. during 2022, occidental recorded interest related to liabilities for unrecognized tax benefits of $ 95million, for a cumulative accrued interest related to liabilities for unrecognized tax benefits of $ 416million as of december 31, 2022. there were nopenalties associated with liabilities for unrecognized tax benefits recorded for the years ended december 31,
+2022 and 2021. over the next 12 months, it is reasonably possible that the total amount of unrecognized tax benefits could decrease by $ 50million to $ 60million due to settlements with taxing authorities or lapses in statutes of limitation.
+occidental recognized $ 280million and $ 105million in federal and state income tax receivables as of december 31,
+2022 and 2021, respectively, which was recorded in other current assets. in addition, occidental recognized $
+33million associated with the december 31, 2021 au dit, which was recorded in long-term receivables and other assets, net.
+occidental is subject to audit by various tax authorities in varying periods. see note 13 - lawsuits, claims, commitments and contingencies for a discussion of these matters.
+note 11 - retirement and postretirement benefit plans occidental has various defined contribution and defined benefit plans for its salaried, domestic union and nonunion hourly and certain foreign national employees. in addition, occidental also provides medical and other benefits for certain active, retired and disabled employees and their eligible dependents.
+in 2021, occidental settled a significant portion of retiree liability through an annuity purchase. this annuity purchase applied to participants in certain defined benefit plans. the impact of this settlement transaction was approximately $ 109million and is reflected in the december 31, 2021 projected benefit obligation.
+defined contribution plans all domestic employees and certain foreign national employees are eligible to participate in one or more of the defined contribution retirement or savings plans that provide for periodic contributions by occidental based on plan-specific criteria, such as base pay, level and employee contributions. certain salaried employees participate in a supplemental retirement plan that restores benefits lost due to governmental limitations on qualified retirement benefits. the accrued liabilities for the supplemental retirement plan were $ 288million and $
+249million as of december 31, 2022 and 2021, respectively. occidental expensed $ 202million in 2022, $ 166million in 2021 and $ 192million in 2020 under the provisions of these defined contribution and supplemental retirement plans.
+defined benefit plans participation in defined benefit plans is limited. approximately 400domestic and 300foreign national employees, mainly union, nonunion hourly and certain employees that joined occidental from acquired operations with grandfathered benefits, are currently accruing benefits under these plans.
+pension costs for occidental's defined benefit pension plans, determined by independent actuarial valuations, are generally funded by payments to trust funds, which are administered by independent trustees.
+postretirement and other benefit plans occidental provides medical and dental benefits and life insurance coverage for certain active, retired and disabled employees and their eligible dependents. occidental generally funds the benefits as they are paid during the year. these benefit costs, including the postretirement costs for the years ended december 31, were $
+211million in 2022, $ 211million in 2021 and $ 235million in 2020.
+40oxy2022 form 10-k financial statementsfootnotes obligations and funded status the following tables show the amounts recognized in occidental's consolidated balance sheets related to its pension and postretirement benefit plans as of december 31:
+millions amounts recognized in                                                                                 postretirement the consolidated                              pension benefits                                benefits balance sheet:               2022             2021                         2022               2021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+long-term receivables and     $   102          $   192                      $     -          $       -
+other assets, net accrued                  -3               -4                          -62                -71
+liabilities deferred credits and other liabilities -          -344             -391                         -711             -1,149
+pension and postretirement obligations
+$  -245          $  -203                      $  -773          $  -1,220
+accumulated other comprehensive loss included the following after-tax balances:
+net (gain) loss     $    17          $   -17                      $  -190          $     163
+prior service             -                -                          -52                -50
+credit
+$    17          $   -17                      $  -242          $     113
+the following tables show the funding status, obligations and plan asset fair values of occidental related to its pension and postretirement benefit plans for the years ended december 31:
+millions changes in the                                                                                  postretirement benefit                                        pension benefits                                 benefits obligation:                  2022              2021                          2022               2021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+benefit obligation -       $  1,273          $  1,613                      $  1,220          $   1,259
+beginning of year service cost -
+benefits earned           7                 8                            38                 42
+during the period interest cost on projected             36                35                            33                 33
+benefit obligation actuarial gain         -297               -55                          -468                -54
+benefits paid          -123              -219                           -58                -67
+settlement due to annuity                -              -109                             -                  -
+purchase other                   -10                 -                             8                  7
+benefit obligation -       $    886          $  1,273                      $    773          $   1,220
+end of year changes in plan assets:
+fair value of plan assets -      $  1,070          $  1,193                      $      -          $       -
+beginning of year actual return          -304                44                             -                  -
+on plan assets employer                 16               162                            49                 59
+contributions benefits paid          -123              -219                           -57                -67
+payments due to annuity                   -              -109                             -                  -
+purchase other                   -18                -1                             8                  8
+fair value of plan assets -      $    641          $  1,070                      $      -          $       -
+end of year unfunded           $   -245          $   -203                      $   -773          $  -1,220
+status:
+
+financial statementsfootnotes changes in actuarial gains and losses in the projected benefit obligation are primarily driven by discount rate movement.
+the following table sets forth details of the obligations and assets of occidental's defined benefit pension plans for the years ended december 31:
+accumulated benefit                            plan assets in obligation in                                  excess of excess of                                      accumulated plan assets                                    benefit obligation millions                      2022            2021                           2022            2021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+projected benefit     $  738          $  963                         $  148          $  310
+obligation accumulated           $  736          $  960                         $  146          $  308
+benefit obligation fair value of plan    $  458          $  656                         $  183          $  414
+assets components of net periodic benefit cost the following table sets forth the components of net periodic benefit costs for the years ended december 31:
+millions net periodic                                             pension                                          postreti...
+benefit                                              benefits                                         benefits costs:              2022            2021             2020               2022           2021           2020
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+service cost -
+benefits earned      $    7          $    8          $    37              $  38          $  42          $  39
+during the period interest cost on project...        36              35               52                 33             33             37
+benefit obligat...
+expected return         -38             -59              -73                  -              -              -
+on plan assets recogni...
+actuari...         1               2                5                  5             15             11
+loss recogni...
+prior            -               -                -                 -9             -9             -8
+service credit
+(gain)
+loss due         -               -             -124                  -              -              2
+to curtail...
+gain due to              -1             -19              -19                  -              -              -
+settlem...
+special termina...         -               -               22                  -              -              -
+benefits other costs            -               -                1                  -              -              -
+and adjustm...
+net periodic    $    5          $  -33          $   -99              $  67          $  81          $  81
+benefit cost the service cost component of net periodic benefit cost is included in selling, general and administrative, oil and gas operating expense, chemical and midstream costs and exploration expense on occidental's consolidated statements of operations. all other components of net periodic benefit cost are included in other operating and non-operating expense.
+additional information the following table sets forth the weighted-average assumptions used to determine occidental's benefit obligation and net periodic benefit cost for domestic plans for the years ended december 31:
+pension benefits                        postretirement benefits
+2022                      2021          2022                             2021
+benefit obligation assumptions:
+discount rate               5.27     %    2.67                 %    5.43     %    2.94                        %
+rate of increase in         3.95     %    3.98                 %       -             -
+compensation levels net periodic benefit cost assumptions:
+discount rate               2.65     %    2.19                 %    2.94     %    3.05                        %
+rate of increase in         3.98     %    5.07                 %       -             -
+compensation levels assumed long-term rate of return on                4.36     %    4.92                 %       -             -
+assets for domestic pension plans and postretirement benefit plans, occidental based the discount rate on a aa-aaa universe yield curve in 2022 and 2021. the assumed long-term rate of return on assets is estimated with regard to current market factors but within the context of historical returns for the asset mix that exists at year end.
+assumed rates of compensation increases for active participants in certain plans and vary by age group.
+42oxy2022 form 10-k financial statementsfootnotes in 2021, occidental adopted the society of actuaries pri-2012 private retirement plans mortality tables with mp-2021 mortality improvement scale, which updated the mortality assumptions that private defined-benefit plans in the united states use in the actuarial valuations that determine a plan sponsor's pension obligations. the new mortality assumption reflects additional data that the social security administration has released since the previous mortality tables and improvement scales were released.
+the postretirement benefit obligation was determined by application of the terms of medical and dental benefits and life insurance coverage, including the effect of established maximums on covered costs, together with relevant actuarial assumptions and health care cost trend rates. health care cost trend rates for medicare advantaged prescription drug plans of 9.2% starting in 2022, then grading down to 4.5% in 2028 and beyond. health care cost trend rates used for non-medicare advantaged prescription drug plans are 6.0% to 6.5% in 2022, then grading down to
+4.5% in 2028 and beyond.
+the actuarial assumptions used could change in the near-term as a result of changes in expected future trends and other factors that, depending on the nature of the changes, could cause increases or decreases in the plan assets and liabilities.
+fair value of pension plan assets qualified defined benefit plan assets are monitored by occidental's pension and retirement trust and investment committee in its role as a fiduciary. the investment committee selects and employs various external professional investment management firms to manage specific investments across the spectrum of asset classes. the investment committee employs a liability driven investment approach that uses a diversified blend of investments (equity securities, fixed-income securities, and alternative investments) along a glide path to optimize the long-term return of plan assets relative to plan liabilities, at a prudent level of risk. equity investments are diversified across u.s. and non-u.s. stocks, as well as differing styles and market capitalizations. investment performance is measured and monitored on an ongoing basis through quarterly investment portfolio and manager guideline compliance reviews, annual liability measurements and periodic studies.
+the fair values of occidental's pension plan assets by asset category were as follows:
+millions december 31, 2022                             level 1            level 2          level 3              total
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+asset class:
+cash and cash equivalents             $    8             $    -             $  -             $      8
+government securities                     29                  -                -                   29
+corporate bonds(a)                         -                 16                -                   16
+equity securities(b)                      34                  -                -                   34
+other                                      -                 46                -                   46
+investments measured at fair value    $   71             $   62             $  -             $    133
+investments measured at net asset          -                  -                -                  509
+value(c)
+total pension plan assets(d)          $   71             $   62             $  -             $    642
+december 31, 2021
+asset class:
+cash and cash equivalents             $   19             $    -             $  -             $     19
+government securities                     63                  -                -                   63
+corporate bonds(a)                         -                 36                -                   36
+equity securities(b)                      46                  -                -                   46
+other                                      -                 76                -                   76
+investments measured at fair value    $  128             $  112             $  -             $    240
+investments measured at net asset          -                  -                -                  836
+value(c)
+total pension plan assets(d)          $  128             $  112             $  -             $  1,076
+(a) this category represents investment grade bonds of u.s. and non-u.s. issuers from diverse industries.
+(b) this category represents direct investments in mutual funds and common and preferred stocks from diverse u.s.
+and non-u.s. industries.
+(c) certain investments measured at fair value using the nav per share (or its equivalent) have not been categorized in the fair value hierarchy. amounts presented in this table are intended to reconcile the fair value hierarchy to the pension plan assets.
+(d) amounts exclude net payables of approximately $ 1million as of december 31, 2022 and $ 6million as of december
+31, 2021.
+
+financial statementsfootnotes occidental expects to contribute approximately $ 100million to its defined benefit pensions plans during 2023.
+estimated future benefit payments, which reflect expected future service, as appropriate, are as follows for the years ended december 31:
+postretirement millions               pension benefits            benefits
+───────────────────────────────────────────────────────────────────
+2023           $   75                      $   64
+2024               78                          62
+2025               70                          59
+2026               67                          57
+2027               68                          55
+2028 - 2032       303                         261
+note 12 - environmental liabilities and expenditures occidental and its subsidiaries and their respective operations are subject to stringent federal, state, local and international laws and regulations related to improving or maintaining environmental quality. the laws that require or address environmental remediation, including cercla and similar federal, state, local and international laws, may apply retroactively and regardless of fault, the legality of the original activities or the current ownership or control of sites. occidental or certain of its subsidiaries participate in or actively monitor a range of remedial activities and government or private proceedings under these laws with respect to alleged past practices at third-party, currently operated, and closed or non-operated sites. remedial activities may include one or more of the following: investigation involving sampling, modeling, risk assessment or monitoring; clean-up measures including removal, treatment or disposal; or operation and maintenance of remedial systems. the environmental proceedings seek funding or performance of remediation and, in some cases, compensation for alleged property damage, natural resource damages, punitive damages, civil penalties, injunctive relief and government oversight costs.
+environmental remediation as of december 31, 2022, certain occidental subsidiaries participated in or monitored remedial activities or proceedings at 162sites. the following table presents the current and non-current environmental remediation liabilities of such subsidiaries on a consolidated basis as of december 31, 2022 and 2021, the current portion of which is included in accrued liabilities($ 141million in 2022 and $ 155million in 2021) and the remainder in deferred credits and other liabilities - environmental remediation liabilities($ 0.9billion in 2022 and $
+0.9billion in 2021).
+these environmental remediation sites are grouped into npl sites and the following threecategories of non-npl sites
+-third-party sites, currently operated sites and closed or non-operated sites.
+millions, except                                          2022                                             2021
+number of            number of                  remediation           number of                  remediation sites                sites                      balance               sites                      balance
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+npl sites        30                   $    445                    30                   $    427
+third-party      68                        238                    69                        273
+sites currently operated         13                        106                    15                        122
+sites closed or non-operated     51                        257                    51                        277
+sites total           162                   $  1,046                   165                   $  1,099
+as of december 31, 2022, environmental remediation liabilities of occidental subsidiaries exceeded $ 10million each at 17of the 162sites described above, and 94of the sites had liabilities from $ 0to $ 1million each.
+the diamond alkali superfund site (dass) in newark, new jersey accounted for a significant portion of the liabilities associated with the category of npl sites.
+fiveof the 68third-party sites - a chrome site in new jersey, a former copper mining and smelting operation in tennessee, a former oil field and a landfill in california and an active refinery in louisiana where occidental reimburses the current owner for certain remediation activities - accounted for nearly two-thirds of the liabilities associated with this category.
+threecurrently operated sites - oil and gas operations in colorado and chemical plants in kansas and louisiana -
+accounted for approximately two-thirds of the liabilities associated with this category.
+44oxy2022 form 10-k financial statementsfootnotes eightclosed or non-operated sites - a landfill in western new york, a former refinery in oklahoma, former chemical plants in california, michigan, ohio, tennessee and washington, and a closed coal mine in pennsylvania - accounted for more than two-thirds of the liabilities associated with this category.
+the consolidated estimate of environmental remediation liabilities in the table above varies over time depending on factors such as acquisitions or divestitures, identification of additional sites, remedy selection and implementation and changes in applicable laws or regulations, among other factors. occidental's subsidiaries recorded environmental remediation expensesof $ 65million, $ 28million and $ 36million for the years ended december
+31, 2022, 2021, and 2020, respectively, on a consolidated basis. environmental remediation expenses primarily relate to changes to existing conditions from past operations. based on current estimates, occidental expects its subsidiaries to expend funds corresponding to approximately 40% of the year-end remediation balance over the next threeto four yearswith the remainder over the subsequent 10or more years.
+occidental believes its range of reasonably possible additional losses of its subsidiaries beyond those amounts currently recorded for environmental remediation for the 162environmental sites in the table above could be up to $
+2.7billion.
+maxus environmental sites a significant portion of aggregate estimates of environmental remediation liabilities and reasonably possible additional losses described above relates to the former diamond alkali chemicals company (dscc). when oxychem acquired dscc in 1986, maxus agreed to indemnify oxychem for a number of environmental sites, including the dass.
+in june 2016, maxus and several affiliated companies filed for chapter 11 bankruptcy in the u.s. bankruptcy court for the district of delaware. prior to filing for bankruptcy, maxus defended and indemnified oxychem in connection with remediation costs and other liabilities associated with the sites subject to the indemnity. any additional recovery of indemnified costs would come from the proceeds of litigation brought by the maxus liquidating trust.
+for additional information on the maxus liquidating trust, see note 13 - lawsuits, claims, commitments and contingencies .
+diamond alkali superfund site the epa has organized the dass into fouroperable units (ous) for evaluating, selecting and implementing remediation under cercla. oxychem's current activities in each ou are summarized below, many of which are performed on oxychem's behalf by glenn springs holdings, inc.
+ou1 - the former diamond alkali plant at 80-120 lister avenue in newark: maxus and its affiliates implemented an interim remedy of ou1 pursuant to a 1990 consent decree, for which oxychem currently performs maintenance and monitoring. the epa is conducting a periodic evaluation of the interim remedy for ou1.
+ou2 - the lower 8.3miles of the lower passaic river: in march 2016, the epa issued a record of decision (rod)
+specifying remedial actions required for ou2. during the third quarter of 2016, and following maxus's bankruptcy filing, oxychem and the epa entered into an administrative order on consent (aoc) to complete the design of the remedy selected in the rod. at that time, the epa sent notice letters to approximately 100parties notifying them that they were potentially responsible to pay the costs to implement the remedy in ou2 and announced that it would pursue similar agreements with other potentially responsible parties. in june 2018, oxychem filed a complaint under cercla in federal district court in the state of new jersey against numerous potentially responsible parties seeking contribution and cost recovery of amounts incurred or to be incurred to comply with the aoc and the ou2
+rod, or to perform other remediation activities related to the dass. that action remains pending and the district court has not adjudicated oxychem's relative share of responsibility for those costs. the epa has estimated the cost to remediate ou2 to be approximately $ 1.4billion.
+ou3 - newark bay study area, including newark bay and portions of the hackensack river, arthur kill, and kill van kull: maxus and its affiliates initiated a remedial investigation and feasibility study of ou3 pursuant to a 2004
+aoc which was amended in 2010. oxychem is currently performing feasibility study activities in ou3.
+ou4 - the 17-mile lower passaic river study area, comprising ou2 and the upper 9miles of the lower passaic river:
+in september 2021, the epa issued a rod selecting an interim remedy for the portion of ou4 that excludes ou2, and is located upstream from the lister avenue plant site for which oxychem inherited legal responsibility. the epa had estimated the cost to remediate ou4 to be approximately $ 440million. at this time, oxychem's role or responsibilities under the ou4 rod, and those of other potentially responsible parties, have not been adjudicated.
+to provide continued, efficient remediation progress, in january 2022, oxychem offered to design and implement the interim remedy for ou4 subject to certain conditions, including a condition that the epa would not seek to bar oxychem's right to seek contribution or cost recovery from any other parties that are potentially responsible to pay for the ou4 interim remedy. in march 2022, the epa sent a notice letter to oxychem and other parties requesting good faith offers to implement the selected remedies at ou2 and ou4. oxychem submitted a good faith offer in june
+2022, reaffirming the offer to design the remedy for ou4 and offering to enter into additional sequential agreements to remediate ou2 and ou4, subject to similar conditions, including that the epa not seek to bar oxychem from pursuing contribution or cost recovery from other responsible parties. the epa did not accept oxychem's june
+2022 offer and, as such, oxychem believes that the epa may issue a unilateral administrative order or commence cercla litigation against it, and potentially other parties, to require further design and/or implementation activities of the epa's selected remedies at the dass.
+
+financial statementsfootnotes ongoing assessment by natural resource trustees: in addition to the activities of the epa and oxychem in the ous described above, federal and state natural resources trustees are conducting an assessment of natural resources in the lower passaic river and greater newark bay to evaluate potential claims for natural resource damages.
+alden leeds litigation in december 2022, the epa and the doj filed a proposed consent decree in the alden leeds litigation seeking court approval to settle with 85parties for a total of $ 150million and release them from liability for remediation costs in dass ou2 and ou4, which oxychem believes is based on a disproportionate allocation of responsibility to oxychem despite overwhelming evidence regarding the responsibility of others, and, among other infirmities, is contrary to site-specific sampling and other relevant evidence concerning the liability of the settling parties. the epa and doj also seek entry of an order that would bar oxychem from pursuing contribution against those parties for remediation costs oxychem had incurred or may incur in the future to design and implement the remedies in ou2 and ou4.
+oxychem intends to challenge the proposed settlement vigorously in the alden leeds litigation and to seek contribution and cost recovery from other potentially responsible parties for remediation costs it had incurred or may incur at the dass. if oxychem is denied leave to intervene in the alden leeds litigation, its anticipated settlement objections are overruled by the court or in any subsequent appeals, or the proposed settlement is approved by the court and not overturned on appeal, then, notwithstanding oxychem's vigorous, good faith effort to contest the settlement proposed in the alden leeds litigation, the epa could attempt to compel oxychem to bear substantially all of the estimated cost to design and implement the ou2 and ou4 remedies, which would have a material adverse impact on oxychem and occidental's consolidated results of operations in the period recorded.
+while the remedies for ou2 and ou4 are expected to take over ten years to complete, the epa may seek to require oxychem to provide financial assurance to secure its performance. the amount of financial assurance is not subject to estimation at this time, as it is uncertain when or to what extent the epa may take action to compel oxychem to perform further remediation in ou2 or ou4 or the amount of assurance oxychem would be required to post if the epa takes such actions before the proposed settlement at issue in alden leeds is resolved. for further information on the alden leeds litigation, see note 13 - lawsuits, claims, commitments and contingencies.
+other information for the dass, oxychem has accrued a reserve relating to its estimated allocable share of the costs to perform the maintenance and monitoring required in the ou1 consent decree, the design and implementation of remedies selected in the ou2 rod and aoc and the ou4 rod, and the remedial investigation and feasibility study required in the ou3.
+oxychem's accrued environmental remediation reserve does not reflect the potential for additional remediation costs or natural resource damages for the dass that oxychem believes are not reasonably estimable. oxychem's ultimate liability at the dass may be higher or lower than the reserved amount and the reasonably possible additional losses, and is subject to final design plans, further action by the epa and natural resource trustees, and the resolution of oxychem's allocable share with other potentially responsible parties, among other factors.
+oxychem continues to evaluate the estimated costs currently recorded for remediation at the dass and other maxus-
+indemnified sites, as well as the range of reasonably possible additional losses beyond those amounts currently recorded. given the complexity and extent of the remediation efforts, estimates of the remediation costs may increase or decrease over time as new information becomes available.
+note 13 - lawsuits, claims, commitments and contingencies legal matters occidental or certain of its subsidiaries are involved, in the normal course of business, in lawsuits, claims and other legal proceedings that seek, among other things, compensation for alleged personal injury, breach of contract, property damage or other losses, punitive damages, civil penalties, or injunctive or declaratory relief.
+occidental or certain of its subsidiaries also are involved in proceedings under cercla and similar federal, regional, state, provincial, tribal, local and international environmental laws. these environmental proceedings seek funding or performance of remediation and, in some cases, compensation for alleged property damage, natural resource damages, punitive damages, civil penalties, injunctive relief and government oversight costs. usually occidental or such subsidiaries are among many companies in these environmental proceedings and have to date been successful in sharing remediation costs with other financially sound companies. further, some lawsuits, claims and legal proceedings involve acquired or disposed assets with respect to which a third party or occidental or its subsidiary retains liability or indemnifies the other party for conditions that existed prior to the transaction.
+in accordance with applicable accounting guidance, occidental or its subsidiaries accrue reserves for outstanding lawsuits, claims and proceedings when it is probable that a liability has been incurred and the liability can be reasonably estimated. reserves for matters, other than for the arbitration award (disclosed below), tax matters or environmental remediation, that satisfy these criteria as of december 31, 2022 and 2021, were not material to occidental's consolidated balance sheets.
+46oxy2022 form 10-k financial statementsfootnotes if unfavorable outcomes of these matters were to occur, future results of operations or cash flows for any particular quarterly or annual period could be materially adversely affected. occidental's estimates are based on information known about the legal matters and its experience in contesting, litigating and settling similar matters. occidental reassesses the probability and estimability of contingent losses as new information becomes available.
+andes arbitration in 2016, occidental received payments from the republic of ecuador of approximately $ 1.0billion pursuant to a november 2015 arbitration award for ecuador's 2006 expropriation of occidental's participation contract for block
+15. the awarded amount represented a recovery of occidental's 60% of the value of block 15. in 2017, andes commenced an arbitration, against oepc, claiming it is entitled to a 40% share of the judgment amount obtained by occidental. occidental contended that andes is not entitled to any of the amounts paid under the 2015 arbitration award because occidental's recovery was limited to occidental's own 60% economic interest in the block. on march
+26, 2021, the arbitration tribunal issued an award in favor of andes and against oepc in the amount of $ 391million plus interest. in june 2021, oepc filed a motion to vacate the award due to concerns regarding the validity of the award. in december 2021, the u.s. district court for the southern district of new york confirmed the arbitration award, plus prejudgment interest, in the aggregate amount of $ 558million. oepc has appealed the judgment. oral argument with respect to oepc's appeal occurred on february 2, 2023, and a ruling is expected later this year.
+andes has filed state court claims in new york and delaware against oepc, opc, and oxy usa to attempt to recover on its judgment against oepc during the pendency of the appeal. all occidental entities are vigorously defending against these actions. in addition, oepc commenced an arbitration against andes to recover significant additional claims not addressed by the prior arbitration tribunal relating to andes' 40% share of costs, liabilities, losses and expenses due under the parties' agreements. a hearing on these claims occurred in december 2022. a ruling from the arbitration tribunal is expected in the first half of 2023.
+alden leeds litigation in december 2022, the epa and the doj filed a proposed consent decree with the federal district court in new jersey in the alden leeds litigation seeking court approval of a proposed settlement in which the epa seeks to release
+85potentially responsible parties from all remediation costs in ou2 and ou4 of the dass for approximately $
+150million. oxychem believes the proposed settlement relies, improperly, on an allocation report prepared by an epa contractor in which the contractor purports to assign a disproportionate share of the responsibility for remediation costs in ou2 and ou4 to oxychem. in the proposed settlement, the epa also seeks to bar oxychem from pursuing contribution claims against the 85 settling parties for remediation costs in ou2 and ou4. the settlement does not address the liability of any party with respect to ou3 or natural resource damages. oxychem intends to contest the proposed settlement vigorously.
+the proposed epa settlement is subject to a public comment process that closes in march 2023. oxychem believes the proposed settlement exceeds the epa's statutory authority and is based on a flawed allocation process. oxychem also believes that process was unreasonably limited in scope and unreliably based on voluntary reporting by the settling parties, instead of sworn evidence, publicly available sampling results, and historical documents reflecting the operating history and disposal practices of the 85parties that the epa proposes to release as part of this settlement. oxychem expects to show that the epa's proposed settlement does not fairly and reasonably reflect the settling parties' contribution of hazardous substances to the dass, and, among other things, incorrectly attributes to oxychem substances that were contributed by one or more of the 85 settling parties.
+oxychem has sought to intervene in the alden leeds proceeding to protect its rights under federal law to challenge the proposed settlement, seek contribution and cost recovery from potentially responsible parties, and obtain a judicial allocation of responsibility under cercla. it is unclear when the court will rule on oxychem's request to intervene or will address whether the underlying settlement will be approved. in the related cercla litigation, oxychem also intends to defend and prosecute vigorously its right to seek contribution and cost recovery from all potentially responsible parties to pay remediation costs in the dass. as the alden leeds case is in its early stages, oxychem is unable to estimate the timing of the court's decision, its outcome, or the outcome of any appeals from the court's decision.
+maxus liquidating trust as described in note 12 - environmental liabilities and expenditures , maxus was contractually obligated to indemnify, defend, and hold harmless oxychem against environmental liabilities arising from the former operations of dscc. in june 2016, maxus filed for bankruptcy protection in the u.s. bankruptcy court for the district of delaware. in june 2017, the bankruptcy court approved a plan of liquidation to liquidate maxus and create the trust for the benefit of maxus' creditors, including oxychem, to pursue claims against maxus' current and former parents, ypf and repsol, certain of their respective subsidiaries and affiliates, and others to satisfy claims by oxychem and other creditors for past and future remediation and other costs. in july 2017, the court-approved plan of liquidation became final and the trust became effective. pursuant to the plan, the trust is governed by an independent trustee and is not controlled by oxychem. the plan authorizes the trust to distribute any assets it recovers from such litigation claims to the trust's beneficiaries, which include oxychem and other creditors, in accordance with the plan and governing trust agreement.
+
+financial statementsfootnotes in june 2018, the trust filed its complaint against ypf and repsol in delaware bankruptcy court asserting claims based upon, among other things, fraudulent transfer and alter ego. during 2019, the bankruptcy court denied repsol's and ypf's motions to dismiss the complaint as well as their motions to move the case to a different court.
+these rulings were upheld on appeal. the trust, ypf, and repsol each filed motions for summary judgment, and the bankruptcy court denied all but one motion in the second quarter of 2022. the bankruptcy court's summary judgment decision indicated that, at trial, the trust must establish a causal link between its claimed damages and the alter ego conduct of repsol and ypf. oxychem is currently uncertain what amount of recovery it will ultimately obtain from the trust. trial is scheduled for march and april 2023.
+tax matters during the course of its operations, occidental is subject to audit by tax authorities for varying periods in various federal, state, local and international tax jurisdictions. tax years through 2020 for u.s. federal income tax purposes have been audited by the irs pursuant to its compliance assurance program and subsequent taxable years are currently under review. tax years through 2014 have been audited for state income tax purposes. significant audit matters in international jurisdictions have been resolved through 2010. during the course of tax audits, disputes have arisen and other disputes may arise as to facts and matters of law.
+for anadarko, its taxable years through 2014 and tax year 2016 for u.s. federal tax purposes have been audited by the irs. tax years through 2010 have been audited for state income tax purposes. there is one outstanding significant tax matter in an international jurisdiction related to a discontinued operation. as stated above, during the course of tax audits, disputes have arisen and other disputes may arise as to facts and matters of law.
+other than the matter discussed below, occidental believes that the resolution of these outstanding tax matters would not have a material adverse effect on its consolidated financial position or results of operations.
+anadarko received an $ 881million tentative refund in 2016 related to its $ 5.2billion tronox adversary proceeding settlement payment in 2015. in september 2018, anadarko received a statutory notice of deficiency from the irs disallowing the net operating loss carryback and rejecting anadarko's refund claim. as a result, anadarko filed a petition with the u.s. tax court to dispute the disallowances in november 2018. in december 2022, the parties filed competing motions for partial summary judgment. the motions are not fully briefed. trial is set for may 2023.
+occidental expects to continue pursuing resolution.
+in accordance with asc 740's guidance on the accounting for uncertain tax positions, occidental has recorded no tax benefit on the tentative cash tax refund of $ 881million. as a result, should occidental not ultimately prevail on the issue, there would be no additional tax expense recorded relative to this position for financial statement purposes other than future interest. however, in that event, occidental would be required to repay approximately $
+1.4billion in federal taxes, $ 28million in state taxes and accrued interest of $ 415million. a liability for this amount plus interest is included in deferred credits and other liabilities - other.
+indemnities to third parties occidental, its subsidiaries, or both, have indemnified various parties against specified liabilities those parties might incur in the future in connection with purchases and other transactions that they have entered into with occidental or its subsidiaries. these indemnities usually are contingent upon the other party incurring liabilities that reach specified thresholds. as of december 31, 2022, occidental is not aware of circumstances that it believes would reasonably be expected to lead to indemnity claims that would result in payments materially in excess of reserves.
+purchase obligations and commitments occidental, its subsidiaries, or both, have entered into agreements providing for future payments, primarily to secure terminal and pipeline capacity, and also for drilling rigs and services, electrical power, steam and certain chemical raw materials. occidental has certain other commitments under contracts, guarantees and joint ventures, including purchase commitments for goods and services at market-related prices and certain other contingent liabilities. the amounts that will be paid for such outstanding off-balance sheet purchase obligations as of december 31, 2022 are $ 3.0billion in 2023, $ 4.2billion in 2024 and 2025, $ 2.5billion in 2026 and 2027 and $
+2.2billion in 2028 and thereafter.
+48oxy2022 form 10-k financial statementsfootnotes note 14 - stockholders' equity the following table presents the effects of occidental's share repurchases as part of the $ 3.0billion stock repurchase plan announced in february 2022, along with other transactions in occidental's stock:
+exerci...
+of                                                 treasury                   common period             warran...    -a              other    -b             stock       -c             stock       -d and                                                purchas...                   outstan...
+options decem...
+31,                                                                                     934,07...
+2021
+first quart...    1,082,...                   2,764,7...                 -730,7...                    937,19...
+2022
+second quart...    3,409,...                     42,342                 -11,67...                    928,96...
+2022
+third quart...    7,667,...                     18,280                 -28,57...                    908,07...
+2022
+fourth quart...     86,309                     18,108                 -8,323...                    899,85...
+2022
+total     12,246...                   2,843,4...                 -49,30...                    899,85...
+2022
+(a) approximately $ 280million of cash was received as a result of the exercise of common stock warrants and options.
+(b) consisted of issuances for the 2015 long-term incentive plan, the opc savings plan, dividend reinvestment plan and anadarko restricted stock awards.
+(c) included purchases of 1,640,719shares from the trustee of occidental's defined contribution savings plan that are not part of publicly announced plans or programs.
+(d) as of december 31, 2022, occidental had 104million outstanding warrants with a strike of $ 22per share and
+83.9million of warrants with a strike of $ 59.62per share.
+treasury stock under the share repurchase program announced and completed in 2022, occidental purchased 47.7million shares for $
+3.0billion. additionally, occidental purchased shares from the trustee of its defined contribution savings plan in
+2022, 2021 and 2020. as of december 31, 2022, 2021 and 2020, treasury stock shares numbered 198.7million,
+149.3million and 149.1million, respectively.
+preferred stock in connection with the anadarko acquisition, occidental issued 100,000shares of series a preferred stock, having a face value of $ 100,000per share and a liquidation preference of $ 105,000per share plus unpaid accrued dividends.
+the agreement includes a mandatory redemption provision that obligates occidental to redeem the preferred at 110%
+of the par value on a dollar-for-dollar basis for every dollar distributed to common shareholders above $ 4.00per share, on a trailing 12-month basis. occidental cannot voluntarily redeem the preferred shares before august 2029.
+after august 2029, occidental can voluntarily redeem the preferred shares at a 5% premium at par. dividends on the preferred stock will accrue on the face value at a rate per annum of 8%, but will be paid only when, as and if declared by occidental's board of directors. at any time, when such dividends have not been paid in full, the unpaid amounts will accrue dividends, compounded quarterly, at a rate per annum of 9%. following the payment in full of any accrued but unpaid dividends, the dividend rate will remain at 9% per annum. if preferred dividends are not paid in full, occidental is prohibited from paying dividends on common stock. occidental paid $ 200million in preferred stock dividends in each quarter of 2022.
+as of december 31, 2022, 2021 and 2020, occidental had 100,000shares of preferred stock issued and outstanding.
+berkshire warrant in connection with the preferred stock issuance, occidental also issued the berkshire warrant. the berkshire warrant is exercisable at the holder's option, in whole or in part, until the first anniversary of the date on which no shares of preferred stock remain outstanding, at which time the berkshire warrant expires. the holder of the berkshire warrant and the preferred stock may redeem the preferred stock as payment for the exercise price of the warrant in lieu of cash payment upon exercise. as of december 31, 2022, the berkshire warrant would result in the issuance of 83.9million shares of occidental common stock, if exercised in full for its current strike price of
+$ 59.624per share of occidental common stock.
+common stock warrants on june 26, 2020, the board of directors declared common stock warrants, at a rate of 0.125warrants per share of occidental common stock. occidental issued approximately 116million common stock warrants on august 3, 2020 to holders of record of outstanding shares of occidental's common stock as of the close of business on july 6, 2020, and pursuant to occidental's outstanding equity-based incentive awards in connection with anti-dilution adjustments resulting from such distribution. the common stock warrants have an exercise price of $ 22.00per share and will expire on august 3, 2027. the common stock warrants are listed on the nyse and trade under the symbol "oxy ws".
+
+financial statementsfootnotes the common stock warrants were measured at fair value on the declaration date using the black-scholes option model and were classified as equity in "additional paid-in capital". the following level 2 inputs were used in the black-
+scholes option model: the expected life of the common stock warrants, a volatility factor and the exercise price.
+the expected life is based on the estimated term of the common stock warrants, the volatility factor is based on historical volatilities of occidental common stock and the exercise of $ 22.00per share of occidental common stock.
+earnings per share occidental's instruments containing rights to nonforfeitable dividends granted in stock-based awards are considered participating securities prior to vesting and, therefore, have been deducted from earnings in computing basic and diluted eps under the two-class method.
+basic eps was computed by dividing net income attributable to common stock, net of income allocated to participating securities, by the weighted-average number of common shares outstanding during each period, including vested but unissued shares and share units. the computation of diluted eps reflects the additional dilutive effect of stock options, warrants and unvested stock awards.
+the following table presents the calculation of basic and diluted eps for the years ended december 31:
+millions except per share amounts                       2022              2021                2020
+────────────────────────────────────────────────────────────────────────────────────────────────────
+income (loss) from continuing operations    $   13,304          $  2,790          $  -13,533
+loss from discontinued operations                    -              -468              -1,298
+net income (loss)                           $   13,304          $  2,322          $  -14,831
+less: preferred stock dividends                   -800              -800                -844
+net income (loss) attributable to common    $   12,504          $  1,522          $  -15,675
+stock less: net income allocated to                      -83               -10                   -
+participating securities net income (loss), net of participating     $   12,421          $  1,512          $  -15,675
+securities weighted-average number of basic shares          926.2             935.0               918.7
+basic earnings (loss) per common share      $    13.41          $   1.62          $   -17.06
+net income (loss) attributable to common    $   12,504          $  1,522          $  -15,675
+stock less: net income allocated to                      -77               -10                   -
+participating securities net income (loss), net of participating     $   12,427          $  1,512          $  -15,675
+securities weighted-average number of basic shares          926.2             935.0               918.7
+dilutive securities                               75.8              23.8                   -
+total diluted weighted-average common          1,002.0             958.8               918.7
+shares diluted earnings (loss) per common share    $    12.40          $   1.58          $   -17.06
+as of december 31, 2022, nopotentially dilutive shares of occidental common stock were excluded from the diluted shares. as of december 31, 2021, warrants and options covering 87million shares of occidental common stock were excluded from the diluted shares as their effect would have been anti-dilutive.
+accumulated other comprehensive income (loss)
+accumulated oci (loss) consisted of the following after-tax amounts as of december 31:
+millions                                            2022             2021
+───────────────────────────────────────────────────────────────────────────
+foreign currency translation adjustments    $   -5          $    -8
+derivatives                                    -25             -104
+pension and postretirement                     225              -96
+adjustments(a)
+total                                       $  195          $  -208
+(a) see note 11 - retirement and postretirement benefit plans for further information.
+50oxy2022 form 10-k financial statementsfootnotes note 15 - stock-based incentive plans occidental issues stock-based awards to employees in accordance with the terms of the plan, as amended and restated. an aggregate of 133million shares of occidental common stock were authorized for issuance and approximately 16.1million shares had been reserved for issuance for employee awards through december 31, 2022. as of december 31, 2022, approximately 57.0million shares were available for grants of future awards. the plan requires each share covered by an award (other than options) to be counted as if threeshares were issued in determining the number of shares that are available for future awards. accordingly, the number of shares available for future awards may be less than 57.0million depending on the type of award granted, and shares available for future awards may increase by the number of shares that are forfeited, canceled, or correspond to the portion of any stock-based awards settled in cash, including awards that were issued under a previous plan that remain outstanding. current outstanding awards include rsus, stock options, crocei awards and tsri awards.
+during 2022, non-employee directors were granted awards for 33,575shares of common stock. compensation expense for these awards was measured using the closing quoted market price of occidental's common stock on the grant date and was fully recognized at that time.
+occidental incurred expenses of $ 258million, $ 287million and $ 202million related to stock-based incentive plans in the years ended december 31, 2022, 2021, and 2020, respectively. the income tax benefit associated with this expense was $ 54million, $ 60million and $ 42million in the years ended december 31, 2022, 2021, and 2020, respectively.
+as of december 31, 2022, unrecognized compensation expense for all unvested stock-based incentive awards was $
+236million. this expense is expected to be recognized over a weighted-average period of 1.8years. occidental accounts for forfeitures as they occur.
+restricted stock units certain employees are awarded the right to receive rsus, some of which have performance criteria, and are in the form of, or equivalent in value to, actual shares of occidental common stock. depending on their terms, rsus may be settled in stock or may be cash settled liabilities. these awards vest from oneto three yearsfollowing the grant date. for certain rsus, dividend equivalents are paid during the vesting period.
+cash-settled rsu liability awards the weighted-average, grant-date fair values of cash-settled rsus granted in 2022, 2021 and 2020 were $ 47.41, $
+25.83and $ 40.86per share, respectively. cash-settled rsus resulted in payments of $ 203million, $ 4million and $
+3million, during the years ended december 31, 2022, 2021 and 2020, respectively.
+stock-settled rsu equity awards the weighted-average, grant-date fair values of the stock-settled rsus granted in 2022, 2021, and 2020 were $
+45.14, $ 25.45and $ 41.60, respectively. the fair value of rsus settled in shares during the years ended december
+31, 2022, 2021 and 2020 was $ 160million, $ 70million and $ 62million, respectively.
+a summary of changes in occidental's unvested cash- and stock-settled rsus during the year ended december 31, 2022, is presented below:
+cash-settled                                  stock-settled weighted-average                              weighted-average thousands, except                                grant-date                                    grant-date fair values                    rsus              fair value                  rsus              fair value
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+unvested as of          5,375          $  41.44                       8,589          $  33.10
+january 1
+granted                   150          $  47.41                       4,362          $  45.14
+vested                 -5,188          $  41.86                      -3,654          $  38.04
+forfeitures               -39          $  35.80                        -403          $  39.09
+unvested as of            298          $  37.96                       8,894          $  36.70
+december 31
+total shareholder return incentive awards certain executives are awarded tsris that vest at the end of a three-yearperiod following the grant date. payout is based upon occidental's absolute total shareholder return and performance relative to its peers. tsris have payouts that range from 0% to 200% of the target award and settle in stock once certified. dividend equivalents for tsris are accumulated and paid upon certification of the award. the fair value of tsris settled in shares during the years ended december 31, 2022, 2021 and 2020 was zero, $ 4million and $ 9million, respectively.
+
+financial statementsfootnotes the fair values of tsris are initially determined on the grant date using a monte carlo simulation model based on occidental's assumptions, noted in the following table, and the volatility from corresponding peer group companies.
+the expected life is based on the term. the risk-free interest rate is the implied yield available on zero coupon treasury notes at the time of grant with a remaining term equal to the term. the dividend yield is the expected annual dividend yield over the term, expressed as a percentage of the stock price on the grant date. estimates of fair value may not accurately predict the value ultimately realized by the employees who receive the awards, and the ultimate value may not be indicative of the reasonableness of the original estimates of fair value made by occidental.
+the grant-date assumptions used in the monte carlo simulation models for the estimated payout level of tsris were as follows:
+tsris
+2022          2021          2020
+assumptions used:
+risk-free interest rate                      1.7%          0.2%          1.4%
+volatility factor                             80%           75%           26%
+expected life (years)                        2.89          2.88          3.00
+grant-date fair value of underlying    $    42.98    $    25.39    $    41.60
+occidental common stock a summary of changes in occidental's unvested tsris during the year ended december 31, 2022 is presented below:
+tsris weighted-average grant-date fair value thousands, except fair values           awards              of occidental stock
+───────────────────────────────────────────────────────────────────────────────────
+unvested as of january 1         1,769            $  43.12
+granted                            403            $  42.98
+vested(a)                         -520            $  67.19
+forfeitures                         -9            $  35.43
+unvested as of december 31       1,643            $  35.51
+(a) presented at the target payouts. nopayouts occurred in 2022.
+stock options certain employees are granted options that vest over three years, expire on the tenth anniversary of the grant date, and settle in stock. exercise prices of the options were equal to the quoted market value of occidental's stock on the grant date. the inputs to this and results of this model are presented below:
+options assumptions used:                            2022          2021            2020
+risk-free interest rate                     1.87%          0.7%            1.4%
+volatility factor                             58%           55%             25%
+expected life (years)                        6.02          6.00            6.00
+dividend yield                              0.09%         0.16%           7.60%
+─────────────────────────────────────────────────────────────────────────────────
+exercise price                         $    42.98    $    25.39    $      41.60
+grant-date fair value of underlying    $    23.39    $    12.72    $       3.19
+occidental common stock
+52oxy2022 form 10-k financial statementsfootnotes a summary of occidental's outstanding stock options as of december 31, 2022 and changes during the year ended december 31, 2022 is presented below:
+thousands,                                    vested                                         unvested except fair                                   weighted average                               weighted average values                     options            strike price                options            strike price
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+january 1           2,236           $  49.13                       1,430           $  35.52
+granted                 -           $      -                         286           $  42.98
+vested                641           $  36.68                        -641           $  36.68
+forfeited            -551           $  76.96                           -           $      -
+exercised            -673           $  39.78                           -           $      -
+december 31         1,653           $  38.83                       1,075           $  36.82
+the intrinsic value of options exercised in 2022 was $ 17million. nooptions were exercised during the years ended december 31, 2021 and 2020. as of december 31, 2022, the remaining life of fully vested options was 5.9years.
+cash return on capital employed incentive awards certain executives are awarded crocei awards that vest at the end of a three-yearperiod if performance targets based on croce are met. these awards are settled in stock upon certification of the performance target, with payouts that range from 0% to 200% of the target award. dividend equivalents are accumulated and paid upon certification of the award. a summary of changes in occidental's unvested crocei during the year ended december 31,
+2022 is presented below:
+crocei weighted-average grant-date thousands, except fair values         awards              fair value of occidental stock
+──────────────────────────────────────────────────────────────────────────────────────────
+unvested as of january 1         418            $  33.03
+granted                          156            $  42.98
+unvested as of december 31       574            $  35.73
+
+financial statementsfootnotes note 16 - industry segments and geographic areas occidental conducts its operations through threesegments: (1) oil and gas; (2) chemical; and (3) midstream and marketing. the factors used to identify these segments are based on the nature of the operations that are undertaken in each segment. income taxes, interest income, interest expense, environmental remediation expenses, anadarko acquisition-related costs and unallocated corporate expenses are included under corporate and eliminations. intersegment sales eliminate upon consolidation and are generally made at prices approximating those that the selling entity would be able to obtain in third-party transactions. identifiable assets are those assets used in the operations of the segments. corporate assets consist of cash and restricted cash, certain corporate receivables and pp&e. the chief operating decision maker analyzes each segment's operating results to make decisions about resources to be allocated to the segment and to assess its performance as well as occidental's overall performance.
+mi...
+ye...
+en...
+de...              oil                                       mid...                    cor...
+31,              and                                       and                     and
+20...              gas                     che...              mar...                    eli...                    tot...
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+net    $  27,1...                $  6,757          $  4,136                $  -1,4...                $  36,6...
+sa...
+in...
+(l...
+fr...
+co...    $  12,8...          -a    $  2,508          $    273          -b    $  -1,4...          -c    $  14,1...
+op...
+be...
+in...
+ta...
+in...
+tax           -                       -                 -                    -813          -d        -813
+ex...
+in...
+(l...
+fr...    $  12,8...                $  2,508          $    273                $  -2,2...                $  13,3...
+co...
+op...
+in...
+in     $    142                $    578          $  2,456                $      -                $  3,176
+un...
+en...
+pr...
+pl...
+and    $  3,898                $    331          $    270                $     67                $  4,566
+eq...
+ad...
+de...
+de...    $  6,179                $    370          $    328                $     49                $  6,926
+and am...
+to...    $  54,0...                $  4,558          $  12,0...                $  1,917                $  72,6...
+as...
+ye...
+en...
+de...
+31,
+20...
+net    $  18,9...                $  5,246          $  2,863                $  -1,0...                $  25,9...
+sa...
+in...
+(l...
+fr...
+co...    $  4,145          -a    $  1,544          $    257          -b    $  -2,2...          -c    $  3,705
+op...
+be...
+in...
+ta...
+in...
+tax           -                       -                 -                    -915          -d        -915
+be...
+in...
+(l...
+fr...    $  4,145                $  1,544          $    257                $  -3,1...                $  2,790
+co...
+op...
+in...
+in     $    154                $    608          $  2,176                $      -                $  2,938
+un...
+en...
+pr...
+pl...
+and    $  2,458                $    316          $    107                $     50                $  2,931
+eq...
+ad...
+de...
+de...    $  7,741                $    343          $    325                $     38                $  8,447
+and am...
+to...    $  56,1...                $  4,671          $  11,1...                $  3,101                $  75,0...
+as...
+ye...
+en...
+de...
+31,
+20...
+net    $  13,0...                $  3,733          $  1,768                $   -758                $  17,8...
+sa...
+in...
+(l...
+fr...
+co...    $  -9,6...          -a    $    664          $  -4,1...          -b    $  -2,5...          -c    $  -15,...
+op...
+be...
+in...
+ta...
+in...
+tax           -                       -                 -                   2,172          -d       2,172
+ex...
+in...
+(l...
+fr...    $  -9,6...                $    664          $  -4,1...                $   -390                $  -13,...
+co...
+op...
+in...
+in     $    168                $    645          $  2,437                $      -                $  3,250
+un...
+en...
+pr...
+pl...
+and    $  2,279                $    261          $     50                $     29                $  2,619
+eq...
+ad...
+de...
+de...    $  7,414                $    356          $    312                $     15                $  8,097
+and am...
+to...    $  62,9...                $  4,326          $  9,856                $  2,951                $  80,0...
+as...
+(a) the 2022 amount included $ 148million of gains, primarily related to the sale of certain non-strategic assets in the permian basin. the 2022 amount included $ 55million related to post-closing consideration earned from 2020
+asset sales as a result of certain production and pricing targets being met as well as the closing of the sale of certain assets that were negotiated with the 2020 colombia divestiture. the 2021 amount included $ 282million of asset impairments and $ 280million of net oil, gas and co 2 derivative losses. the 2020 amount included $
+7.1billion related to asset impairments and net asset sale losses of $ 1.6billion, partially offset by a $
+1.1billion gain on the oil and gas collars and calls and a loss on the sale of occidental's colombia assets of $
+353million.
+(b) the 2022 amount included $ 259million of net derivative mark-to-market losses, $ 62million relating to a gain on the sale of 10million limited partner units in wes and a $ 36million gain on the sale of a joint venture. the
+2021 amount included $ 252million in derivative mark-to-market losses and $ 124million of gains on sales, primarily from the sale of 11.5million limited partner units in wes. the 2020 amount included $ 2.7billion of other-than-
+temporary impairment of wes equity
+54oxy2022 form 10-k financial statementsfootnotes investment and $ 1.4billion of impairments related to the write-off of goodwill and a $ 236million loss from an equity investment related to wes' write-off of its goodwill.
+(c) the 2022 amount included a tax benefit of $ 2.7billion in connection with occidental's legal entity reorganization, which is further discussed in the income taxes section of the management's discussion and analysis of financial condition and results of operations section under part ii, item 7, of this form 10-k and note 10 -
+income taxes in the notes to consolidated financial statements in part ii item 8 of this form 10-k, as well as $
+317million of net gains on interest rate swaps, $ 149million of net gains on early debt extinguishment and $
+89million of anadarko acquisition-related costs. the 2021 amount included $ 153million of anadarko acquisition-
+related costs, $ 122million net derivative mark-to-market gains on interest rate swaps and $ 118million of early debt extinguishment expenses. the 2020 amount included $ 339million in expenses related to anadarko acquisition-
+related costs and a $ 428million loss on interest rate swaps.
+(d) included all foreign and domestic income taxes from continuing operations.
+(e) included capital expenditures and capitalized interest, but excluded acquisition and disposition of assets.
+geographic areas millions                                                                         property, plant and equipment, for the years ended december                                                     net
+31,                                        2022               2021               2020
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+united states                   $  51,706          $  53,197          $  59,016
+international uae                                 3,663              3,645              3,737
+oman                                2,159              2,055              1,901
+algeria                               350                496                664
+qatar                                 428                468                510
+other international                    78                 69                 61
+total international                 6,678              6,733              6,873
+total                           $  58,384          $  59,930          $  65,889
+
+supplemental oil and gas information(unaudited)
+supplemental oil and gas information oil and gas reserves the following tables set forth occidental's net interests in quantities of proved developed and undeveloped reserves of oil, ngl and natural gas and changes in such quantities. proved oil, ngl and natural gas reserves were estimated using the unweighted arithmetic average of the first-day-of-the-month price for each month within the year, unless prices were defined by contractual arrangements. oil, ngl and natural gas prices used for this purpose were based on posted benchmark prices and adjusted for price differentials including gravity, quality and transportation costs. the following table shows the pricing used in the reserve analysis for the periods presented:
+2022              2021              2020
+───────────────────────────────────────────────────────────────────────────────────────────────
+average wti oil ($/bbl)                    $  93.67          $  66.56          $  39.57
+average brent oil ($/bbl)                  $  97.77          $  69.24          $  43.41
+average henry hub natural gas ($/mmbtu)    $   6.36          $   3.60          $   1.98
+average mt. belvieu ngl ($/bbl)            $  47.81          $  44.22          $  18.74
+reserves are stated net of applicable royalties. estimated reserves include occidental's economic interests under pscs and other similar economic arrangements. in addition, discussions of oil and gas production or volumes, in general, refer to sales volumes unless the context requires or it is indicated otherwise.
+prices for oil, ngl and natural gas fluctuate widely. historically, the markets for oil, ngl and natural gas and refined products have been volatile and may continue to be volatile in the future. prolonged declines in oil, ngl and natural gas prices would reduce occidental's operating results and cash flows and could impact its future rate of growth and the recoverability of the carrying value of its assets.
+56oxy2022 form 10-k supplemental oil and gas information(unaudited)
+oil reserves
+(a)
+mmbbl                                        united states          international           total proved developed and undeveloped reserves balance as of december 31, 2019       1,570                    469                   2,039
+revisions of previous estimates        -283                     -1                    -284
+improved recovery                        82                     18                     100
+extensions and discoveries                9                      5                      14
+purchases of proved reserves              2                      -                       2
+sales of proved reserves                -31                   -101                    -132
+production                             -205                    -59                    -264
+balance as of december 31, 2020       1,144                    331                   1,475
+revisions of previous estimates         382                      4                     386
+improved recovery                         6                     13                      19
+extensions and discoveries               88                      1                      89
+purchases of proved reserves             33                      -                      33
+sales of proved reserves                 -5                      -                      -5
+production                             -182                    -44                    -226
+balance as of december 31, 2021       1,466                    305                   1,771
+revisions of previous estimates(b)      215                     -5                     210
+improved recovery                        57                      9                      66
+extensions and discoveries               89                      6                      95
+purchases of proved reserves              7                      -                       7
+sales of proved reserves                -10                      -                     -10
+production                             -185                    -41                    -226
+balance as of december 31, 2022       1,639                    274                   1,913
+proved developed reserves december 31, 2019                     1,206                    371                   1,577
+december 31, 2020                       917                    251                   1,168
+december 31, 2021                     1,140                    226                   1,366
+december 31, 2022                     1,208                    200                   1,408
+proved undeveloped reserves december 31, 2019                       364                     98                     462
+december 31, 2020                       227                     80                     307
+december 31, 2021                       326                     79                     405
+december 31, 2022                       431                     74                     505
+(a) excluded reserve amounts related to discontinued operations and held for sale assets in 2020 and 2019. proved reserves for held for sale assets as of december 31, 2021 were immaterial.
+(b) revisions of previous estimates in 2022 included the effects of new infill drilling, price revisions and other updates, including changes in reservoir performance, economic conditions, and development plans. positive revisions of 164 mmbbl were related to additions associated with infill development projects, primarily in the permian basin
+(122 mmbbl) and the dj basin (33 mmbbl). another 72 mmbbl of positive price revisions were primarily in the permian basin (83 mmbbl) and the gulf of mexico (6 mmbbl), partially offset by negative price revisions of 22 mmbbl related to pscs. further positive revisions of 34 mmbbl were associated with updates based on reservoir performance
+(30mmbbl) and changes in development plans (4 mmbbl). the positive revisions were offset by negative revisions associated with various other cost and interest related revisions (60 mmbbl).
+
+supplemental oil and gas information(unaudited)
+ngl reserves
+(a)
+mmbbl proved developed and undeveloped reserves balance as of december 31, 2019              540  united states    208  international    748  total
+─────────────────────────────────────────────────────────────────────────────────────────────────────
+revisions of previous estimates              -90                    10                   -80
+improved recovery                             32                    10                    42
+extensions and discoveries                     2                     -                     2
+purchases of proved reserves                   1                     -                     1
+sales of proved reserves                     -20                     -                   -20
+production                                   -81                   -13                   -94
+balance as of december 31, 2020              384                   215                   599
+revisions of previous estimates              227                    -1                   226
+improved recovery                              -                     -                     -
+extensions and discoveries                    27                     -                    27
+purchases of proved reserves                   7                     -                     7
+sales of proved reserves                      -2                     -                    -2
+production                                   -79                   -12                   -91
+balance as of december 31, 2021              564                   202                   766
+revisions of previous estimates(b)           126                     2                   128
+improved recovery                             13                     -                    13
+extensions and discoveries                    36                     -                    36
+purchases of proved reserves                   2                     -                     2
+sales of proved reserves                      -4                     -                    -4
+production                                   -83                   -12                   -95
+balance as of december 31, 2022              654                   192                   846
+proved developed reserves december 31, 2019                            406                   147                   553
+december 31, 2020                            314                   138                   452
+december 31, 2021                            433                   125                   558
+december 31, 2022                            444                   120                   564
+proved undeveloped reserves december 31, 2019                            134                    61                   195
+december 31, 2020                             70                    77                   147
+december 31, 2021                            131                    77                   208
+december 31, 2022                            210                    72                   282
+(a) excluded reserve amounts related to discontinued operations and held for sale assets in 2020 and 2019. proved reserves for held for sale assets as of december 31, 2021 were immaterial.
+(b) revisions of previous estimates in 2022 included the effects of new infill drilling, price revisions and other updates, including changes in reservoir performance, economic conditions and development plans. positive revisions of 80 mmbbl were related to additions associated with infill development projects, primarily in the permian basin
+(56 mmbbl) and the dj basin (24 mmbbl). another 30 mmbbl of positive price revisions were primarily in the permian basin. further positive revisions of 36 mmbbl were primarily associated with updates based on reservoir performance. the positive revisions were offset by negative revisions associated with various other cost and interest related revisions (18 mmbbl).
+58oxy2022 form 10-k supplemental oil and gas information(unaudited)
+natural gas reserves
+(a)
+bcf                                          united states           international           total proved developed and undeveloped reserves balance as of december 31, 2019       4,128                   2,572                   6,700
+revisions of previous estimates        -823                     102                    -721
+improved recovery                       183                     103                     286
+extensions and discoveries               38                       -                      38
+purchases of proved reserves              4                       -                       4
+sales of proved reserves               -523                      -9                    -532
+production                             -561                    -195                    -756
+balance as of december 31, 2020       2,446                   2,573                   5,019
+revisions of previous estimates       1,274                      27                   1,301
+improved recovery                         3                       3                       6
+extensions and discoveries              176                       -                     176
+purchases of proved reserves             22                       -                      22
+sales of proved reserves                -25                       -                     -25
+production                             -477                    -172                    -649
+balance as of december 31, 2021       3,419                   2,431                   5,850
+revisions of previous estimates(b)      841                     -30                     811
+improved recovery                        51                      17                      68
+extensions and discoveries              244                      23                     267
+purchases of proved reserves              8                       -                       8
+sales of proved reserves                -45                       -                     -45
+production                             -445                    -164                    -609
+balance as of december 31, 2022       4,073                   2,277                   6,350
+proved developed reserves december 31, 2019                     3,198                   2,007                   5,205
+december 31, 2020                     2,028                   1,846                   3,874
+december 31, 2021                     2,632                   1,705                   4,337
+december 31, 2022                     2,761                   1,597                   4,358
+proved undeveloped reserves december 31, 2019                       930                     565                   1,495
+december 31, 2020                       418                     727                   1,145
+december 31, 2021                       787                     726                   1,513
+december 31, 2022                     1,312                     680                   1,992
+(a) excluded reserve amounts related to discontinued operations and held for sale assets in 2020 and 2019. proved reserves for held for sale assets as of december 31, 2021 were immaterial.
+(b) revisions of previous estimates in 2022 included the effects of new infill drilling, price revisions and other updates, including changes in reservoir performance, economic conditions and development plans. positive revisions of 545 bcf were related to additions associated with infill development projects, primarily in the permian basin
+(322 bcf) and the dj basin (221 bcf). another 200 bcf of positive price revisions were primarily in the permian basin (205 bcf) and the dj basin (11 bcf), partially offset by negative price revisions of 31 bcf related to pscs.
+further positive revisions of 193 bcf were associated with updates based on reservoir performance (163 bcf), interest related revisions (21 bcf) and changes in development plans (9 bcf). the positive revisions were offset by negative revisions associated with various other cost related revisions (127 bcf).
+
+supplemental oil and gas information(unaudited)
+total reserves (a)
+mmboe(b)                                     united states           international           total proved developed and undeveloped reserves balance as of december 31, 2019       2,798                   1,106                   3,904
+revisions of previous estimates        -510                      26                    -484
+improved recovery                       145                      45                     190
+extensions and discoveries               17                       5                      22
+purchases of proved reserves              4                       -                       4
+sales of proved reserves               -138                    -103                    -241
+production                             -380                    -104                    -484
+balance as of december 31, 2020       1,936                     975                   2,911
+revisions of previous estimates         821                       8                     829
+improved recovery                         7                      13                      20
+extensions and discoveries              144                       1                     145
+purchases of proved reserves             44                       -                      44
+sales of proved reserves                -11                       -                     -11
+production                             -341                     -85                    -426
+balance as of december 31, 2021       2,600                     912                   3,512
+revisions of previous estimates(c)      481                      -7                     474
+improved recovery                        78                      11                      89
+extensions and discoveries              166                      10                     176
+purchases of proved reserves             10                       -                      10
+sales of proved reserves                -21                       -                     -21
+production                             -342                     -81                    -423
+balance as of december 31, 2022       2,972                     845                   3,817
+proved developed reserves december 31, 2019                     2,145                     853                   2,998
+december 31, 2020                     1,569                     697                   2,266
+december 31, 2021                     2,012                     635                   2,647
+december 31, 2022                     2,112                     586                   2,698
+proved undeveloped reserves december 31, 2019                       653                     253                     906
+december 31, 2020                       367                     278                     645
+december 31, 2021                       588                     277                     865
+december 31, 2022                       860                     259                   1,119
+(a) excluded reserve amounts related to discontinued operations and held for sale assets in 2020 and 2019. proved reserves for held for sale assets as of december 31, 2021 were immaterial.
+(b) natural gas volumes have been converted to boe based on an energy content of six mcf of gas to one barrel of oil. conversion to boe does not necessarily result in price equivalency.
+(c) revisions of previous estimates in 2022 included the effects of new infill drilling, price revisions and other updates, including changes in reservoir performance, economic conditions and development plans. positive revisions of 335 mmboe were related to additions associated with infill development projects, primarily in the permian basin
+(232 mmboe) and the dj basin (94 mmboe). another 136 mmboe of positive price revisions were primarily in the permian basin (147 mmboe), the gulf of mexico (8 mmboe) and the dj basin (4 mmboe), partially offset by negative price revisions of 29 mmboe related to pscs. further positive revisions of 98 mmboe were associated with updates based on reservoir performance (93 mmboe) and changes in development plans (5 mmboe). the positive revisions were offset by negative revisions associated with various other cost and interest related revisions (95 mmboe).
+60oxy2022 form 10-k supplemental oil and gas information(unaudited)
+capitalized costs capitalized costs relating to oil and gas producing activities and related accumulated dd&a were as follows:
+millions december 31, 2022                              united states                international                total
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+proved properties                  $   71,314                   $   15,733                   $   87,047
+unproved properties                    17,251                          189                       17,440
+total capitalized costs(a)             88,565                       15,922                      104,487
+proved properties depreciation,       -36,727                      -12,373                      -49,100
+depletion and amortization unproved properties valuation          -4,781                          -27                       -4,808
+total accumulated depreciation,       -41,508                      -12,400                      -53,908
+depletion and amortization net capitalized costs              $   47,057                   $    3,522                   $   50,579
+december 31, 2021
+proved properties                  $   66,443                   $   15,232                   $   81,675
+unproved properties                    19,423                          153                       19,576
+total capitalized costs(a)             85,866                       15,385                      101,251
+proved properties depreciation,       -32,355                      -11,821                      -44,176
+depletion and amortization unproved properties valuation          -4,789                          -27                       -4,816
+total accumulated depreciation,       -37,144                      -11,848                      -48,992
+depletion and amortization net capitalized costs              $   48,722                   $    3,537                   $   52,259
+december 31, 2020
+proved properties                  $   63,988                   $   14,548                   $   78,536
+unproved properties                    23,713                          205                       23,918
+total capitalized costs(a,b)           87,701                       14,753                      102,454
+proved properties depreciation,       -27,914                      -11,140                      -39,054
+depletion and amortization unproved properties valuation          -5,285                          -27                       -5,312
+total accumulated depreciation,       -33,199                      -11,167                      -44,366
+depletion and amortization net capitalized costs              $   54,502                   $    3,586                   $   58,088
+(a) included acquisition costs, development costs, capitalized interest and aros.
+(b) excluded capitalized costs related to ghana, which was presented as held for sale as of december 31, 2020.
+
+supplemental oil and gas information(unaudited)
+costs incurred costs incurred in oil and gas property acquisition, exploration and development activities, whether capitalized or expensed, were as follows:
+millions december 31, 2022                          united states            international              total
+──────────────────────────────────────────────────────────────────────────────────────────────────────
+property acquisition costs(a)
+proved properties                $    496                   $    3                   $    499
+unproved properties                   488                        -                        488
+exploration costs                     279                      175                        454
+development costs                   3,083                      423                      3,506
+costs incurred                   $  4,346                   $  601                   $  4,947
+december 31, 2021(b)
+property acquisition costs proved properties                $    378                   $    1                   $    379
+unproved properties                    51                        -                         51
+exploration costs                     147                      143                        290
+development costs                   1,749                      366                      2,115
+costs incurred                   $  2,325                   $  510                   $  2,835
+december 31, 2020(b)
+property acquisition costs proved properties                $      7                   $   35                   $     42
+unproved properties                    41                       24                         65
+exploration costs                     117                       95                        212
+development costs                   1,376                      466                      1,842
+costs incurred                   $  1,541                   $  620                   $  2,161
+(a) included $340 million in property acquisition costs related to non-monetary exchange transactions.
+(b) excluded costs incurred related to the south africa (sold 2020) and ghana (sold 2021) assets.
+62oxy2022 form 10-k supplemental oil and gas information(unaudited)
+results of operations occidental's oil and gas producing activities for continuing operations, which exclude items such as asset divestitures, corporate overhead, interest and royalties, were as follows:
+millions for the year ended december 31, 2022                   united states       international(a)               total
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+revenues(b)                                 $  22,487                   $             4,671    $  27,158
+lease operating costs                           3,050                                   978        4,028
+transportation costs                            1,324                                    69        1,393
+other operating expenses                          981                                   235        1,216
+depreciation, depletion and amortization        5,608                                   571        6,179
+taxes other than on income                      1,236                                   299        1,535
+exploration expenses                              113                                   103          216
+pretax income (loss)                           10,175                                 2,416       12,591
+income tax expense (benefit)(c)                 2,213                                   964        3,177
+results of operations                       $   7,962                   $             1,452    $   9,414
+for the year ended december 31, 2021
+revenues(b)                                 $  15,817                   $             3,462    $  19,279
+lease operating costs                           2,341                                   883        3,224
+transportation costs                            1,306                                    65        1,371
+other operating expenses                          896                                   176        1,072
+depreciation, depletion and amortization        7,053                                   687        7,740
+taxes other than on income                        785                                   209          994
+exploration expenses                              158                                    94          252
+oil and gas mark-to-market - collars and          280                                     -          280
+co2
+pretax income (loss) before impairments         2,998                                 1,348        4,346
+and other charges asset impairments and other charges               282                                     -          282
+pretax income (loss)                            2,716                                 1,348        4,064
+income tax expense (benefit)(c)                   508                                   656        1,164
+results of operations                       $   2,208                   $               692    $   2,900
+for the year ended december 31, 2020
+revenues(b)                                 $   9,058                   $             2,947    $  12,005
+lease operating costs                           2,169                                   921        3,090
+transportation costs                            1,425                                    72        1,497
+other operating expenses                          960                                   221        1,181
+depreciation, depletion and amortization        6,611                                   803        7,414
+taxes other than on income                        503                                   111          614
+exploration expenses                               68                                    64          132
+oil and gas mark-to-market - collars and       -1,089                                     -       -1,089
+co2
+pretax income (loss) before impairments        -1,589                                   755         -834
+and other charges asset impairments and other charges             5,973                                 1,208        7,181
+pretax income (loss)                           -7,562                                  -453       -8,015
+income tax expense (benefit)(c)                -1,663                                   428       -1,235
+results of operations                       $  -5,899                   $              -881    $  -6,780
+(a) results of operations excluded discontinued operations related to south africa (sold 2020) and ghana (sold
+2021) assets.
+(b) revenues are net of royalty payments.
+(c) u.s. federal income taxes reflect certain expenses related to oil and gas activities allocated for u.s. income tax purposes. these amounts are computed using the statutory rate in effect during the period.
+
+supplemental oil and gas information(unaudited)
+results per unit of production for continuing operations
+$/boe(a)
+for the year ended december 31, 2022                   united states       international(b)               total
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+revenues(c)                                 $   65.77                   $             57.67    $   64.22
+lease operating costs                            8.92                                 12.07         9.52
+transportation costs                             3.87                                  0.85         3.29
+other operating expenses                         2.87                                  2.90         2.88
+depreciation, depletion and amortization        16.40                                  7.05        14.61
+taxes other than on income                       3.61                                  3.69         3.63
+exploration expenses                             0.33                                  1.27         0.51
+pretax income (loss)                            29.77                                 29.84        29.78
+income tax expense(d)                            6.47                                 11.90         7.51
+results of operations                       $   23.30                   $             17.94    $   22.27
+for the year ended december 31, 2021
+revenues(c)                                 $   46.42                   $             40.82    $   45.31
+lease operating costs                            6.87                                 10.41         7.58
+transportation costs                             3.83                                  0.76         3.22
+other operating expenses                         2.63                                  2.08         2.52
+depreciation, depletion and amortization        20.70                                  8.10        18.19
+taxes other than on income                       2.30                                  2.47         2.34
+exploration expenses                             0.46                                  1.10         0.59
+oil and gas mark-to-market - collars and         0.82                                     -         0.66
+co2
+pretax income (loss) before impairments          8.81                                 15.90        10.21
+and other charges asset impairments and other charges              0.83                                     -         0.66
+pretax income (loss)                             7.98                                 15.90         9.55
+income tax expense(d)                            1.49                                  7.73         2.73
+results of operations                       $    6.49                   $              8.17    $    6.82
+for the year ended december 31, 2020
+revenues(c)                                 $   23.86                   $             28.15    $   24.79
+lease operating costs                            5.71                                  8.80         6.38
+transportation costs                             3.75                                  0.69         3.09
+other operating expenses                         2.53                                  2.11         2.44
+depreciation, depletion and amortization        17.41                                  7.67        15.31
+taxes other than on income                       1.32                                  1.06         1.27
+exploration expenses                             0.18                                  0.61         0.27
+oil and gas mark-to-market - co2                -2.87                                     -        -2.25
+pretax income (loss) before impairments         -4.17                                  7.21        -1.72
+and other charges asset impairments and other charges             15.73                                 11.54        14.83
+pretax income (loss)                           -19.90                                 -4.33       -16.55
+income tax expense (benefit)(d)                 -4.38                                  4.09        -2.55
+results of operations                       $  -15.52                   $             -8.42    $  -14.00
+(a) natural gas volumes have been converted to boe based on energy content of six mcf of gas to one barrel of oil.
+(b) results of operations excluded discontinued operations related to the south africa (sold 2020) and ghana (sold
+2021) assets.
+(c) revenues are net of royalty payments.
+(d) u.s. federal income taxes reflect certain expenses related to oil and gas activities allocated for u.s. income tax purposes. these amounts are computed using the statutory rate in effect during the period.
+64oxy2022 form 10-k supplemental oil and gas information(unaudited)
+standardized measure, including year-to-year changes therein, of discounted future net cash flows for purposes of the following disclosures, future cash flows were computed by applying to occidental's proved oil and gas reserves the unweighted arithmetic average of the first-day-of-the-month price for each month within the years ended december 31, 2022, 2021 and 2020, respectively, unless prices were defined by contractual arrangements, and exclude escalations based upon future conditions. the realized prices used to calculate future cash flows vary by producing area and market conditions. future operating and capital costs were forecast using the current cost environment applied to expectations of future operating and development activities to develop and produce proved reserves at year end.
+future income tax expenses were computed by applying, generally, year-end statutory tax rates (adjusted for permanent differences, tax credits, allowances and foreign income repatriation considerations) to the estimated net future pre-tax cash flows. the discount was computed by application of a 10% discount factor. the calculations assumed the continuation of existing economic, operating and contractual conditions as of december 31, 2022, 2021
+and 2020. such assumptions, which are required by regulation, have not always proven accurate in the past. other valid assumptions would give rise to substantially different results.
+standardized measure of discounted future net cash flows millions balance as of december 31, 2022                     united states       international(a)                total
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────
+future cash inflows                     $  186,942                   $            34,514    $  221,456
+future costs production costs and other operating       -68,068                                -9,468       -77,536
+development costs(b)                       -14,845                                -2,498       -17,343
+future income tax expense                  -18,633                                -4,984       -23,617
+future net cash flows                       85,396                                17,564       102,960
+10% discount factor                        -37,340                                -7,468       -44,808
+standardized measure of discounted      $   48,056                   $            10,096    $   58,152
+future net cash flows balance as of december 31, 2021
+future cash inflows                     $  116,014                   $            28,865    $  144,879
+future costs production costs and other operating       -47,803                                -9,284       -57,087
+development costs(b)                       -12,186                                -3,004       -15,190
+future income tax expense                   -9,875                                -3,544       -13,419
+future net cash flows                       46,150                                13,033        59,183
+10% discount factor                        -19,538                                -5,821       -25,359
+standardized measure of discounted      $   26,612                   $             7,212    $   33,824
+future net cash flows balance as of december 31, 2020
+future cash inflows                     $   49,050                   $            21,270    $   70,320
+future costs production costs and other operating       -29,147                                -8,304       -37,451
+development costs(b)                        -9,103                                -2,410       -11,513
+future income tax expense                      -19                                -2,088        -2,107
+future net cash flows                       10,781                                 8,468        19,249
+10% discount factor                         -3,827                                -4,071        -7,898
+standardized measure of discounted      $    6,954                   $             4,397    $   11,351
+future net cash flows
+(a) excluded discontinued operations related to ghana (sold 2021).
+(b) included aro costs.
+
+supplemental oil and gas information(unaudited)
+changes in the standardized measure of discounted future net cash flows from proved reserve quantities (a)
+millions                                              2022                2021                2020
+────────────────────────────────────────────────────────────────────────────────────────────────────
+balance as of january 1                   $   33,824          $   11,351          $   29,229
+sales and transfers of oil and gas produced, net of production costs and        -20,547             -13,983              -6,483
+other operating expenses net change in prices received per barrel, net of production costs and           29,798              32,464             -19,738
+other operating expenses extensions, discoveries and improved recovery, net of future production and         5,390               2,412               1,007
+development costs change in estimated future development        -1,562                -376               1,686
+costs revisions of quantity estimates               10,481              10,296              -1,989
+previously estimated development costs         1,813               1,277               1,680
+incurred during the period accretion of discount                          3,492               1,009               2,541
+net change in income taxes                    -5,961              -6,249               3,212
+purchases and sales of reserves in              -158                 377                -651
+place, net changes in production rates and other          1,582              -4,754                 857
+net change                                    24,328              22,473             -17,878
+balance as of december 31                 $   58,152          $   33,824          $   11,351
+(a) excluded results from discontinued operations.
+66oxy2022 form 10-k supplemental oil and gas information(unaudited)
+net productive and dry- exploratory and development wells completed the following table sets forth, for each year in the three-year period ended december 31, 2022, occidental's net productive and dry exploratory and development wells completed:
+united states        international         total
+2022
+oil exploratory      9                   10                    19
+development    265                   32                   297
+gas exploratory      -                    -                     -
+development      3                    2                     5
+dry exploratory      -                    5                     5
+development      1                    -                     1
+2021
+oil exploratory      6                    4                    10
+development    292                   42                   334
+gas exploratory      -                    1                     1
+development      4                    -                     4
+dry exploratory      4                    2                     6
+development      1                    -                     1
+2020
+oil exploratory      7                    2                     9
+development    240                   81                   321
+gas exploratory      -                    2                     2
+development      6                    1                     7
+dry exploratory      -                    1                     1
+development      -                    -                     -
+
+supplemental oil and gas information(unaudited)
+productive oil and gas wells the following table sets forth, as of december 31, 2022, occidental's productive oil and gas wells (both producing and capable of production):
+united states           international                  total oil(a)
+gross(b)    17,944    -1,009                   2,894                    -    20,838           -1,009
+net(c)      15,437      -861                   1,392                    -    16,829             -861
+gas(a)
+gross(b)     2,656    -1,453                     162                   -2     2,818           -1,455
+net(c)       2,229    -1,165                      96                   -2     2,325           -1,167
+(a) the numbers in parentheses indicate the number of wells with multiple completions.
+(b) the total number of wells in which interests are owned.
+(c) the sum of fractional interests.
+participation in wells being drilled or pending completion the following table sets forth, as of december 31, 2022, occidental's participation in exploratory and development wells being drilled:
+united states        international         total exploratory and development wells being drilled gross                                       27                   16                    43
+net                                         22                   12                    34
+exploratory and development wells pending completion(a)
+gross                                      107                    1                   108
+net                                         79                    1                    80
+(a) wells suspended or waiting on completion include exploration and development wells where drilling has occurred, but the wells are awaiting the completion of hydraulic fracturing or other completion activities or the resumption of drilling in the future. there were 42 mmboe of pud reserves primarily assigned to u.s. onshore development wells suspended or waiting on completion as of december 31, 2022. occidental expects to convert all of these pud reserves to developed status within five years of their initial disclosure.
+as of december 31, 2022, occidental was participating in 135 and 37 gross pressure-maintenance projects in the united states and internationally, respectively. in the united states, these projects primarily consisted of waterfloods and co 2 floods, and in the middle east and north africa, these projects consisted mostly of waterfloods.
+68oxy2022 form 10-k supplemental oil and gas information(unaudited)
+oil and gas acreage the following table sets forth, as of december 31, 2022, occidental's holdings of developed and undeveloped oil and gas acreage:
+thousands                          united states           international           total developed(a)
+gross(b)                    6,190                   1,130                   7,320
+net(c)                      3,948                     393                   4,341
+undeveloped(d)
+gross(b)                    1,437                   8,422                   9,859
+net(c)                      1,016                   6,677                   7,693
+fee mineral ownership(e)
+gross(b)                    8,040                       -                   8,040
+net(c)                      4,567                       -                   4,567
+(a) acres spaced or assigned to productive wells.
+(b) total acres in which interests are held.
+(c) sum of the fractional interests owned based on working interests, or interests under pscs and other economic arrangements.
+(d) acres on which wells have not been drilled or completed to a point that would permit the production of commercial quantities of oil and gas, regardless of whether the acreage contains proved reserves.
+(e) occidental's fee mineral acreage is primarily undeveloped.
+occidental's investment in developed and undeveloped acreage comprises numerous concessions, blocks and leases.
+work programs are designed to ensure that the exploration potential of any property is fully evaluated before the contractual expiration date. in some instances, occidental may elect to relinquish acreage in advance of the contractual expiration date if the evaluation process is complete and there is not a business basis for extension.
+in cases where additional time may be required to fully evaluate acreage, occidental has generally been successful in obtaining extensions. scheduled lease and concession expirations for undeveloped acreage over the next three years are not expected to have a material adverse impact on occidental.
+
+supplemental oil and gas information(unaudited)
+oil, ngl and natural gas sales volumes per day the following tables set forth the sales volumes from ongoing operations of oil, ngl and natural gas per day for each of the three years in the period ended december 31, 2022. the differences between the sales and production volumes per day are negligible and are generally due to the timing of shipments at occidental's international locations where product is loaded onto tankers. natural gas volumes have been converted to boe based on energy content of six mcf of gas to one barrel of oil.
+sales per day from ongoing operations           2022           2021           2020
+(mboe/d)
+united states permian                                    513            487            575
+rockies & other domestic                   277            302            332
+gulf of mexico                             147            144            130
+total                                      937            933          1,037
+international algeria and other international             48             43             46
+al hosn gas                                 73             76             78
+dolphin                                     37             40             45
+oman                                        64             74             85
+total                                      222            233            254
+total sales from ongoing operations      1,159          1,166          1,291
+(mboe/d)
+operations exited or exiting                 -             18             60
+total sales (mboe/d)                     1,159          1,184          1,351
+70oxy2022 form 10-k supplemental oil and gas information(unaudited)
+sales per day by products from ongoing           2022           2021           2020
+operations united states oil (mbbl)
+permian                                     303            286            343
+rockies & other domestic                     82             93            109
+gulf of mexico                              122            119            109
+total                                       507            498            561
+ngl (mbbl)
+permian                                     119            110            129
+rockies & other domestic                     97             97             83
+gulf of mexico                               11             10              9
+total                                       227            217            221
+natural gas (mmcf)
+permian                                     545            548            620
+rockies & other domestic                    590            676            838
+gulf of mexico                               81             84             71
+total                                     1,216          1,308          1,529
+international oil (mbbl)
+algeria and other international              42             39             42
+al hosn gas                                  12             13             14
+dolphin                                       6              7              7
+oman                                         53             61             65
+total                                       113            120            128
+ngl (mbbl)
+algeria and other international               4              3              3
+al hosn gas                                  23             23             25
+dolphin                                       7              8              9
+total                                        34             34             37
+natural gas (mmcf)
+algeria and other international              12              6              6
+al hosn gas                                 227            234            238
+dolphin                                     142            151            171
+oman                                         69             80            120
+total                                       450            471            535
+total sales from ongoing operations       1,159          1,166          1,291
+(mboe/d)
+
+schedule ii - valuation and qualifying accounts    occidental petroleum corporation and subsidiaries balance                charged at                     to                 charged                            balance beginn...                costs              to                                 at milli...              of                     and                other                              end of
+2022                period        additi...  expens...            accoun...       deduct...              period
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+allow...
+for       $    867             $       37             $    -             $        -    $    904              -b doubt...
+accou...
+envir...
+litig...
+tax       $  3,164             $      714             $  138             $     -304    $  3,712              -c and other reser...
+2021
+allow...
+for       $    822             $       56             $  -11             $        -    $    867              -b doubt...
+accou...
+envir...
+litig...
+tax       $  2,429             $      900             $   94             $     -259    $  3,164              -c and other reser...
+2020
+allow...
+for       $    788             $       37             $   -3             $        -    $    822              -b doubt...
+accou...
+envir...
+litig...
+tax       $  2,411             $      115             $   43             $     -140    $  2,429              -c and other reser...
+(a) primarily represents payments.
+(b) of these amounts, $ 44million, $ 46million and $ 42million in 2022, 2021, and 2020, respectively, were classified as current.
+(c) of these amounts, $ 266million, $ 790million and $ 149million in 2022, 2021, and 2020, respectively, were classified as current.
+note: the amounts presented represent continuing operations.
+
+╔═ § ═════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                 ║
+║  part iv                                                                                                        ║
+║                                                                                                                 ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+╭─ • ─────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  item 15. exhibits and financial statement schedules                                                            │
+│                                                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+the agreements included as exhibits to this report are included to provide information about their terms and not to provide any other factual or disclosure information about occidental or the other parties to the agreements. the agreements contain representations and warranties by each of the parties to the applicable agreement that were made solely for the benefit of the other agreement parties and:
+■ should not be treated as categorical statements of fact, but rather as a way of allocating the risk among the parties if those statements prove to be inaccurate;
+■ have been qualified by disclosures that were made to the other party in connection with the negotiation of the applicable agreement, which disclosures are not necessarily reflected in the agreement;
+■ may apply standards of materiality in a way that is different from the way investors may view materiality; and
+■ were made only as of the date of the applicable agreement or such other date or dates as may be specified in the agreement and are subject to more recent developments.
+(a) (1) and (2). financial statements and financial statement schedule reference is made to item 8 of the table of contents of the 2022 form 10-k, where these documents are listed.
+(a) (3). exhibits restated certificate of incorporation of occidental, dated november
+12, 1999, and certificates of amendment thereto dated may 5, 2006,
+3.(i)                                       may 1, 2009, may 2, 2014 and june 3, 2020 (filed as exhibit 4.1 to the registration statement on form s-8 of occidental filed on june
+17, 2020, file no. 333-239236).
+certificate of change of location of registered office and of
+3.(i)(a)                                    registered agent, dated july 6, 2001 (filed as exhibit 3.1(i) to the registration statement on form s-3 of occidental dated february
+6, 2002, file no. 333-82246).
+amended and restated by-laws of occidental petroleum corporation as
+3.(ii)                                      of march 25, 2020 (filed as exhibit 3.1 to the current report on form 8-k of occidental filed on march 25, 2020, file no. 1-9210).
+certificate of designations with respect to the cumulative
+3.(ii)(a)                                   perpetual preferred stock, series a (filed as exhibit 3.1 to the current report on form 8-k of occidental filed on august 8, 2019, file no. 1-9210).
+certificate of designations with respect to the junior
+3.(ii)(b)                                   participating preferred stock, series b (filed as exhibit 3.1 to the current report on form 8-k of occidental filed on march 13,
+2020, file no. 1-9210).
+description of securities of occidental petroleum corporation
+4.1                                         registered under section 12 of the exchange act (filed as exhibit
+4.1 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2020, file no. 1-9210).
+indenture, dated as of august 8, 2019, between occidental petroleum
+4.2                                         corporation and the bank of new york mellon trust company, n.a.(filed as exhibit 4.1 to the current report on form 8-k of occidental filed on august 8, 2019, file no. 1-9210).
+first supplemental indenture to that certain indenture, dated as of august 8, 2019, by and between occidental petroleum corporation and
+4.3                                         the bank of new york mellon trust company, n.a. (filed as exhibit
+4.7 to the current report on form 8-k of occidental filed on july
+13, 2020, file no. 1-9210).
+second supplemental indenture to that certain indenture, dated as of august 8, 2019, by and between occidental petroleum corporation
+4.4                                         and the bank of new york mellon trust company, n.a. (filed as exhibit 4.6 to the current report on form 8-k of occidental filed on december 22, 2020, file no. 1-9210).
+third supplemental indenture to that certain indenture, dated as of august 8, 2019, by and between occidental petroleum corporation and
+4.5                                         the bank of new york mellon trust company, n.a. (filed as exhibit
+4.2 to the current report on form 8-k of occidental filed on july
+15, 2021, file no. 1-9210).
+other instruments defining the rights of holders of other long-term debt of occidental and its subsidiaries are not being filed since the total amount of securities authorized under each of such instruments does not exceed 10% of the total assets of occidental and its subsidiaries on a consolidated basis.
+occidental agrees to furnish a copy of any such instrument to the commission upon request.
+all of the exhibits numbered 10.1 to
+10.26 are management contracts and compensatory plans required to be identified specifically as responsive to item 601(b)(10)(iii)(a) of regulation s-k pursuant to item 15(b) of form 10-k.
+occidental petroleum corporation savings plan (amended and restated
+10.1                                        effective as of january 1, 2023)(filed as exhibit10.1 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2022, fileno. 1-9210).
+occidental petroleum corporation 2015 long-term incentive plan form
+10.2                                        of notice of grant of restricted stock unit incentive award (filed as exhibit 10.2 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2021, file no. 1-9210).
+
+occidental petroleum corporation modified deferred compensation plan (effective december 31, 2006 and
+10.3     amended and restated effective january 1, 2021) (filed as exhibit 10.2 to the annual report on form
+10-k of occidental for the fiscal year ended december 31, 2020, file no. 1-9210).
+occidental petroleum corporation supplemental retirement plan ii (effective as of january 1, 2005 and
+10.4     amended and restated as of july 1, 2020) (filed as exhibit 10.4 to the quarterly report on form 10-q of occidental for the quarterly period ended june 30, 2020, file no. 1-9210).
+occidental petroleum corporation executive incentive compensation plan (as amended and restated
+10.5     effective january 1, 2023)(filed asexhibit 10.5 to the annual report on form 10-k of occidentalfor the fiscal year ended december31, 2022, file no. 1-9210).
+form of indemnification agreement between occidental and each of its directors and certain executive
+10.6     officers (filed as exhibit b to the proxy statement of occidental for its may 21, 1987, annual meeting of stockholders, file no. 1-9210).
+form of indemnification agreement between occidental and each of its directors and certain executive
+10.7     officers (filed as exhibit 10.9 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2020, file no. 1-9210).
+amended and restated occidental petroleum corporation 2015 long-term incentive plan (filed as exhibit
+10.8     4.7 to the registration statement on form s-8 of occidental filed on june 17, 2020, file no.
+333-239236).
+10.9     description of financial counseling program (filed as exhibit 10.50 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2003, file no. 1-9210).
+10.10    description of group excess liability insurance program (filed as exhibit 10.16 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2020, file no. 1-9210).
+form of occidental petroleum corporation 2015 long-term incentive plan common stock award for
+10.11    non-employee directors grant agreement (filed as exhibit 10.2 to the quarterly report on form 10-q of occidental for the quarterly period ended june 30, 2015, file no. 1-9210).
+anadarko retirement restoration plan (as amended and restated effective as of december 31, 2021)
+10.12    (filed as exhibit 10.14 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2021, file no. 1-9210).
+anadarko petroleum corporation savings restoration plan (as amended and restated effective july 1,
+10.13    2020) (filed as exhibit 10.1 to the quarterly report on form 10-q of occidental for the quarterly period ended june 30, 2020, file no. 1-9210).
+form of occidental petroleum corporation 2015 long-term incentive plan cash return on capital employed
+10.14    incentive award (filed as exhibit 10.1 to the quarterly report on form 10-q of occidental for the quarterly period ended march 31, 2020, file no. 1-9210).
+form of 2020 occidental petroleum corporation 2015 long-term incentive plan total shareholder return
+10.15    incentive award (filed as exhibit 10.2 to the quarterly report on form 10-q of occidental for the quarterly period ended march 31, 2020, file no. 1-9210).
+form of occidental petroleum corporation 2015 long-term incentive plan stock option award (filed as
+10.16    exhibit 10.3 to the quarterly report on form 10-q of occidental for the quarterly period ended march
+31, 2020, file no. 1-9210).
+form of occidental petroleum corporation 2015 long-term incentive plan stock appreciation right award
+10.17    (filed as exhibit 10.4 to the quarterly report on form 10-q of occidental for the quarterly period ended march 31, 2020, file no. 1-9210).
+10.18    occidental petroleum corporation executive severance plan (filed as exhibit 10.5 to the quarterly report on form 10-q of occidental for the quarterly period ended march 31, 2020, file no. 1-9210).
+form of 2020 occidental petroleum corporation 2015 long-term incentive plan special restricted stock
+10.19    unit incentive award (filed as exhibit 10.6 to the quarterly report on form 10-q of occidental for the quarterly period ended march 31, 2020, file no. 1-9210).
+occidental petroleum corporation executive change in control severance plan (filed as exhibit 10.5 to
+10.20    the quarterly report on form 10-q of occidental for the quarterly period ended june 30, 2020, file no.
+1-9210).
+form of employee notice, impact of august 2020 warrant distribution on long-term incentive awards
+10.21    (filed as exhibit 10.7 to the quarterly report on form 10-q of occidental for the quarterly period ended september 30, 2020, file no. 1-9210).
+form of occidental petroleum corporation 2015 long-term incentive plan total shareholder return
+10.22    incentive award (applicable to annual grants made in 2021) (filed as exhibit 10.1 to the quarterly report on form 10-q of occidental for the quarterly period ended march 31, 2021, file no. 1-9210).
+letter agreement by and between occidental petroleum corporation and sylvia j. kerrigan dated
+10.23    september 14, 2022 (filed as exhibit 10.1 to the quarterly report on form 10-q of occidental for the quarterly period ended september 30, 2022).
+occidental petroleum corporation 2015 long-term incentive plan form of notice of grant of restricted
+10.24    stock unit incentive award (for awards to chief legal officer) (filed as exhibit 10.2 to the quarterly report on form 10-q of occidental for the quarterly period ended september 30, 2022).
+transition services and separation agreement by and between occidental petroleum corporation and
+10.25    marcia e. backus dated september 29, 2022 (filed as exhibit 10.3 to the quarterly report on form 10-q of occidental for the quarterly period ended september 30, 2022).
+form of occidental petroleum corporation 2015 long-term inventive plan total shareholder return
+10.26    incentive award (applicable to annual grants made in 2022)(filed as exhibit 10.26 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2022, file no. 1-9210).
+74oxy2022 form 10-k warrant agreement (including form of warrant), dated july 24, 2020, between the company and equiniti
+10.27      trust company, as warrant agent (filed as exhibit 10.1 to the current report on form 8-k of occidental filed on july 27, 2020, file no. 1-9210).
+second amended and restated credit agreement, dated as of december 10, 2021, by and among occidental
+10.28      petroleum corporation, the banks party thereto, as lenders, and jpmorgan chase bank, n.a., as administrative agent (filed as exhibit 10.1 to the current report on form 8-k of occidental filed on december 13, 2021, file no. 1-9210).
+21         list of subsidiaries of occidental as of december 31, 2022(filed as exhibit 21 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2022, file no. 1-9210).
+23.1       consent of independent registered public accounting firm(filed as exhibit 23.1 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2022, file no. 1-9210).
+23.2       consent of ryder scott, independent petroleum engineers(filedas exhibit 23.2 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2022, file no. 1-9210).
+31.1       certification of ceo pursuant to section 302 of the sarbanes-oxley act of 2002.
+31.2       certification of cfo pursuant to section 302 of the sarbanes-oxley act of 2002.
+32.1       certifications of ceo and cfo pursuant to section 906 of the sarbanes-oxley act of 2002.
+ryder scott company process review of the estimated future proved reserves and income attributable
+99.1       to certain leasehold and royalty interests and certain economic interests derived through production sharing contracts as of december 31, 2022(filed as exhibit 99.1 to the annual report on form 10-k of occidental for the fiscal year ended december 31, 2022, file no 1-9210).
+101.ins    inline xbrl instance document.
+101.sch    inline xbrl taxonomy extension schema document.
+101.cal    inline xbrl taxonomy extension calculation linkbase document.
+101.lab    inline xbrl taxonomy extension label linkbase document.
+101.pre    inline xbrl taxonomy extension presentation linkbase document.
+101.def    inline xbrl taxonomy extension definition linkbase document.
+cover page interactive data file - the cover page from occidental petroleum corporation's annual
+104        report on form 10-k/a for the year ended december 31, 2022 is formatted in inline xbrl (included as exhibit 101).
+
+signatures pursuant to the requirements of section 13 or 15(d) of the securities exchange act of 1934, the registrant has duly caused this amendment to be signed on its behalf by the undersigned, thereunto duly authorized.
+occidental petroleum corporation may 9, 2023    by:                                 /s/ christopher o. champion
+────────────────────────────────────────────────────────────────────────────────────────────────────────────
+christopher o. champion vice president, chief accounting officer and controller
+

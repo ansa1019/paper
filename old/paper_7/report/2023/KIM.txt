@@ -1,0 +1,409 @@
+item 7.  management's discussion and analysis of financial condition and results of operations the following discussion should be read in conjunction with the consolidated financial statements and notes thereto included in this form 10-k. historical results and percentage relationships set forth in the consolidated statements of income contained in the consolidated financial statements, including trends, should not be taken as indicative of future operations.
+the consolidated financial statements of the company include the accounts of the company, its wholly owned subsidiaries and all entities in which the company has a controlling interest, including where the company has been determined to be a primary beneficiary of a variable interest entity in accordance with the consolidation guidance of the fasb accounting standards codification. the company applies these provisions to each of its joint venture investments to determine whether the cost, equity or consolidation method of accounting is appropriate. the company evaluates performance on a property specific or transactional basis and does not distinguish its principal business or group its operations on a geographical basis for purposes of measuring performance. accordingly, the company believes it has a single reportable segment for disclosure purposes in accordance with accounting principles generally accepted in the united states of america ("gaap").
+critical accounting estimates the preparation of financial statements in conformity with gaap requires management to make estimates and assumptions in certain circumstances that affect amounts reported in the accompanying consolidated financial statements and related notes. in preparing these financial statements, management has made its best estimates and assumptions that affect the reported amounts of assets and liabilities. these estimates are based on, but not limited to, historical results, industry standards and current economic conditions, giving due consideration to materiality. the company's significant accounting policies are more fully described in footnote 1 of the notes to consolidated financial statements included in this form 10-k. the company is required to make subjective assessments, of which, the most significant assumptions and estimates relate to the recoverability of trade accounts receivable, depreciable lives, valuation of real estate and intangible assets and liabilities, and valuation of joint venture investments and other investments. the company's reported net earnings are directly affected by management's estimate of impairments. application of these assumptions requires the exercise of judgment as to future uncertainties, and, as a result, actual results could materially differ from these estimates.
+trade accounts receivable the company reviews its trade accounts receivable, related to base rents, straight-line rent, expense reimbursements and other revenues for collectability. the company evaluates the probability of the collection of the lessee's total accounts receivable, including the corresponding straight-line rent receivable balance on a lease-by-lease basis. determining the probability of collection of substantially all lease payments during a lease term requires significant judgment. the company's analysis of its accounts receivable included (i) customer credit worthiness, (ii) assessment of risk associated with the tenant, and (iii) current economic trends. in addition, tenants in bankruptcy are analyzed and considerations are made in connection with the expected recovery of pre-petition and post-petition bankruptcy claims. the company includes provision for doubtful accounts in revenues from rental properties, net. if a lessee's accounts receivable balance is considered uncollectible, the company will write-off the receivable balances associated with the lease and will only recognize lease income on a cash basis. in addition to the lease-specific collectability assessment, the analysis also recognizes a general reserve, as a reduction to revenues from rental properties, for its portfolio of operating lease receivables which are not expected to be fully collectible based on the company's historical and current collection experience and the potential for settlement of arrears. although the company estimates uncollectible receivables and provides for them through charges against revenues from rental properties, actual results may differ from those estimates. for example, in the event that the company's collectability determinations are not accurate, and the company is required to write off additional receivables equaling 1% of the outstanding accounts and notes receivable, net balance at december 31, 2023, the company's rental income and net income would decrease by $3.1 million for the year ended december 31, 2023. if the company subsequently determines that it is probable it will collect the remaining lessee's lease payments under the lease term, any outstanding lease receivables (including straight-line rent receivables) are reinstated with a corresponding increase to rental income.
+real estate valuation of real estate, and intangible assets and liabilities the company's investments in real estate properties are stated at cost, less accumulated depreciation and amortization. expenditures for maintenance and repairs are charged to operations as incurred. significant renovations and replacements, which improve and extend the life of the asset, are capitalized.
+28
+transaction costs related to acquisitions that qualify as asset acquisitions are capitalized as part of the cost basis of the acquired assets, while transaction costs for acquisitions that are deemed to be business combinations are expensed as incurred. also, upon acquisition of real estate operating properties in either an asset acquisition or business combination, the company estimates the fair value of acquired tangible assets (consisting of land, building, building improvements and tenant improvements) and identified intangible assets and liabilities (consisting of above and below-market leases, in-place leases, and tenant relationships, where applicable), assumed debt and redeemable units issued at the date of acquisition, based on evaluation of information and estimates available at that date. fair value is determined based on a market approach, which contemplates the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+depreciation and amortization are provided on the straight-line method over the estimated useful lives of the assets, as follows:
+buildings and building improvements (in years)                                                 5 to 50
+
+fixtures, leasehold and tenant improvements (including certain identified intangible assets)   terms of leases or useful lives, whichever is shorter the company is required to make subjective assessments as to the useful lives of its properties for purposes of determining the amount of depreciation to reflect on an annual basis with respect to those properties. these assessments have a direct impact on the company's net earnings.
+during 2023, the company acquired properties for a total purchase price of $346.0 million of which, $5.0 million, or less than 1.4% of the total purchase price, was allocated to above-market leases and $29.3 million, or 8.5% of the total purchase price, was allocated to below-market leases. if the amounts allocated in 2023 to above-market and below-market leases were each reduced by 1% of the total purchase price, the net annual market lease amortization through rental income would decrease by $1.1 million (using the weighted average life of above-market and below-market leases at each respective acquired property).
+on a continuous basis, management assesses whether there are any indicators, including property operating performance, changes in anticipated holding period, general market conditions and delays of development, that the value of the real estate properties (including any related amortizable intangible assets or liabilities) may be impaired. a property value is considered impaired only if management's estimate of current and projected operating cash flows, net of anticipated construction and leasing costs (undiscounted and unleveraged), of the property over its anticipated hold period is less than the net carrying value of the property. such cash flow projections consider factors such as expected future costs of materials and labor, operating income, trends and prospects, as well as the effects of demand, competition and other factors. to the extent impairment has occurred, the carrying value of the property would be adjusted to reflect the estimated fair value of the property. the company's estimated fair values are primarily based upon estimated sales prices from signed contracts or letters of intent from third-parties, discounted cash flow models or third-party appraisals. estimated fair values that are based on discounted cash flow models include all estimated cash inflows and outflows over a specified holding period. capitalization rates and discount rates utilized in these models are based upon unobservable rates that the company believes to be within a reasonable range of current market rates.
+see footnotes 3 and 5 of the notes to consolidated financial statements included in this form 10-k for further discussion.
+valuation of joint venture investments and other investments on a continuous basis, management assesses whether there are any indicators, including property operating performance and general market conditions, that the value of the company's investments in unconsolidated joint ventures may be impaired. an investment's value is impaired only if management's estimate of the fair value of the investment is less than the carrying value of the investment and such difference is deemed to be other-than-temporary. to the extent impairment has occurred, the loss will be measured as the excess of the carrying amount of the investment over the estimated fair value of the investment. estimated fair values which are based on discounted cash flow models include all estimated cash inflows and outflows over a specified holding period, capitalization rates and discount rates utilized in these models are based upon unobservable rates that the company believes to be within a reasonable range of current market rates.
+see footnote 1 of the notes to consolidated financial statements included in this form 10-k for further discussion of the company's accounting policies and estimates.
+executive overview kimco realty corporation is north america's largest publicly traded owner and operator of open-air, grocery-anchored shopping centers, and a growing portfolio of mixed-use assets. the executive officers are engaged in the day-to-day management and operation of real estate exclusively with the company, with nearly all operating functions, including leasing, asset management, maintenance, construction, legal, finance and accounting, administered by the company.
+29
+corporate upreit reorganization in january of 2023, the company completed the reorganization into an upreit structure as described in the explanatory note at the beginning of this annual report. prior to the reorganization, the company's business was conducted through the predecessor. this annual report includes the business and results of operations of the predecessor for its fiscal years ended december 31, 2022 and 2021. as a result of the reorganization, the company became the successor issuer to the predecessor under the exchange act. the company and kimco op have elected to co-file this annual report on form 10-k to ensure continuity of information to investors. for additional information about the reorganization, please see the company's current reports on form 8-k filed with the sec on january 3, 2023 and january 4, 2023.
+financial highlights the following highlights the company's significant transactions, events and results that occurred during the year ended december 31, 2023:
+financial and portfolio information:
+●   net income available to the company's common shareholders was $629.3 million, or $1.02 per diluted share, for the year ended december 31, 2023 as compared to $100.8 million, or $0.16 per diluted share, for the year ended december 31, 2022.
+
+●   ffo available to the company's common shareholders was $970.0 million, or $1.57 per diluted share, for the year ended december 31, 2023, as compared to $976.4 million, or $1.58 per diluted share, for the corresponding period in 2022 (see additional disclosure on ffo beginning on page 42).
+
+●   same property net operating income ("same property noi") was $1.31 billion and $1.28 billion for the years ended december 31, 2023 and december 31, 2022, respectively, an increase of 2.4% (see additional disclosure on same property noi beginning on page 43).
+
+●   executed 1,620 new leases, renewals and options totaling approximately 11.1 million square feet in the consolidated operating portfolio during the year ended december 31, 2023.
+
+●   consolidated operating portfolio occupancy at december 31, 2023 was 96.1% as compared to 95.5% at december 31, 2022.
+
+acquisitions, dispositions and other activity (see footnotes 3, 4, 8 and 28 of the notes to consolidated financial statements included in this form 10-k):
+●   acquired an operating property and five parcels, in separate transactions, for $195.3 million.
+
+●   acquired three properties for an aggregate purchase price of $150.7 million from joint ventures in which the company previously held noncontrolling ownership interests.
+
+●   disposed of six operating properties and 13 parcels, in separate transactions, for an aggregate sales price of $214.2 million, which resulted in aggregate gains of $75.0 million, before noncontrolling interests and taxes.
+
+●   monetized 14.1 million shares of albertsons companies inc. ("aci") common stock held by the company, generating net proceeds of $282.3 million. for tax purposes, the company recognized a long-term capital gain of $241.2 million. the company retained the proceeds from this stock sale for general corporate purposes and incurred federal and state taxes of $60.9 million on the taxable gain. as of december 31, 2023 the company held 14.2 million shares of aci common stock.
+
+●   received a special dividend payment of $194.1 million on its shares of aci common stock.
+
+capital activity (for additional details see liquidity and capital resources below):
+●   issued $500.0 million of 6.40% unsecured notes maturing march 2034.
+
+●   assumed $37.2 million of mortgage debt through the acquisition of two operating properties, which it subsequently repaid in march 2023, and repaid $12.3 million of mortgage debt that encumbered two operating properties and a consolidated joint venture operating property.
+
+●   as of december 31, 2023, had $2.8 billion in immediate liquidity, including $783.8 million of cash and cash equivalents.
+
+30
+as a result of the above debt activity, the company's consolidated debt maturity profile, including extension options as of december 31, 2023, is as follows:
+●   as of december 31, 2023, the company's consolidated debt had a weighted average interest rate of 3.68% and a weighted average maturity profile of 8.7 years.
+
+the company faces external factors which may influence its future results from operations. there remains significant uncertainty in the current macro-economic environment, driven by inflationary pressures, as well as ongoing supply chain issues. these factors have impacted, and are expected to continue to impact, consumer discretionary spending and many of our tenants. the convenience and availability of e-commerce has continued to impact the retail sector, which could affect our ability to increase or maintain rental rates and our ability to renew expiring leases and/or lease available space. to better position itself, the company's strategy has been to attract local area customers to its properties by providing a diverse and robust tenant base across a variety of retailers, including grocery stores, off-price retailers, discounters and service-oriented tenants, which offer buy online and pick up in store, off-price merchandise and day-to-day necessities rather than high-priced luxury items.
+the company's portfolio is focused on first ring suburbs around major metropolitan-area u.s. markets, predominantly on the east and west coasts and in the sun belt region, which are supported by strong demographics, significant projected population growth, and where the company perceives significant barriers to entry. the company owns a predominantly grocery-anchored portfolio clustered in the nation's top markets. the company believes it can continue to increase its occupancy levels, rental rates and overall rental growth. in addition, the company, on a selective basis, has developed or redeveloped projects which include residential and mixed-use components.
+as part of the company's investment strategy, each property is evaluated for its highest and best use, which may include residential and mixed-use components. in addition, the company may consider other opportunistic investments related to retailer controlled real estate, such as, repositioning underperforming retail locations, retail real estate financing and bankruptcy transaction support. the company may continue to dispose of certain properties. if the estimated fair value for any of these assets is less than their net carrying values, the company would be required to take impairment charges and such amounts could be material. for a further discussion of these and other factors that could impact our future results, performance or transactions, see item 1a. risk factors.
+31
+results of operations comparison of the years ended december 31, 2023 and 2022
+the following table presents the comparative results from the company's consolidated statements of income for the year ended december 31, 2023, as compared to the corresponding period in 2022 (in thousands, except per share data):
+year ended december 31,
+
+2023                        2022                                      change revenues revenues from rental properties, net                                   $1,767,057                   $1,710,848                    $56,209
+management and other fee income                                            16,343                       16,836                       (493   )
+operating expenses rent (1)                                                                  (15,997    )                 (15,811    )                  (186   )
+real estate taxes                                                        (231,578    )                (224,729    )                (6,849   )
+operating and maintenance (2)                                            (309,143    )                (290,367    )               (18,776   )
+general and administrative (3)                                           (136,807    )                (119,534    )               (17,273   )
+impairment charges                                                        (14,043    )                 (21,958    )                 7,915
+merger charges                                                             (4,766    )                       -                     (4,766   )
+depreciation and amortization                                            (507,265    )                (505,000    )                (2,265   )
+gain on sale of properties                                                 74,976                       15,179                     59,797
+other income/(expense)
+special dividend income                                                   194,116                            -                    194,116
+other income, net                                                          39,960                       28,829                     11,131
+gain/(loss) on marketable securities, net                                  21,262                     (315,508    )               336,770
+interest expense                                                         (250,201    )                (226,823    )               (23,378   )
+early extinguishment of debt charges                                            -                       (7,658    )                 7,658
+provision for income taxes, net                                           (60,952    )                 (56,654    )                (4,298   )
+equity in income of joint ventures, net                                    72,278                      109,481                    (37,203   )
+equity in income of other investments, net                                 10,709                       17,403                     (6,694   )
+net (income)/loss attributable to noncontrolling interests                (11,676    )                  11,442                    (23,118   )
+preferred dividends                                                       (25,021    )                 (25,218    )                   197
+net income available to the company's common shareholders                $629,252                     $100,758                   $528,494
+net income available to the company's common shareholders:
+diluted per share                                                           $1.02                        $0.16                      $0.86
+(1)   rent expense relates to ground lease payments for which the company is the lessee.
+
+(2)   operating and maintenance expense consists of property related costs including repairs and maintenance costs, roof repair, landscaping, parking lot repair, snow removal, utilities, property insurance costs, security and various other property related expenses.
+
+(3)   general and administrative expense includes employee-related expenses (including salaries, bonuses, equity awards, benefits, severance costs and payroll taxes), professional fees, office rent, travel and entertainment costs and other company-specific expenses.
+
+net income available to the company's common shareholders was $629.3 million for the year ended december 31, 2023, as compared to $100.8 million for the comparable period in 2022. on a diluted per share basis, net income available to the company's common shareholders for the year ended december 31, 2023, was $1.02 as compared to $0.16 for the comparable period in 2022. for additional disclosure, see footnote 27 of the notes to consolidated financial statements included in this form 10-k.
+the following describes the changes of certain line items included on the company's consolidated statements of income, that the company believes changed significantly and affected net income available to the company's common shareholders during the year ended december 31, 2023, as compared to the corresponding period in 2022:
+revenues from rental properties, net -
+the increase in revenues from rental properties, net of $56.2 million is primarily from (i) an increase in revenues from tenants of $50.2 million, primarily due to an increase in leasing activity and net growth in the current portfolio, and (ii) an increase in revenues of $48.8 million due to properties acquired during 2023 and 2022, partially offset by (iii) a decrease in revenues of $24.5 million due to dispositions in 2023 and 2022, (iv) a net decrease of $15.2 million due to changes in credit losses from tenants, and (v) a decrease in lease termination fee income of $3.1 million.
+real estate taxes -
+the increase in real estate taxes of $6.8 million is primarily due to properties acquired during 2023 and 2022, partially offset by dispositions during 2023 and 2022.
+32
+operating and maintenance -
+the increase in operating and maintenance expense of $18.8 million is primarily due to (i) an increase in insurance expense of $7.4 million, (ii) an increase in repairs and maintenance expense of $5.9 million, and (iii) an increase in operating costs of $5.4 million, primarily related to properties acquired during 2023 and 2022, partially offset by (iv) dispositions during 2023 and 2022.
+general and administrative -
+the increase in general and administrative expense of $17.3 million is primarily due to (i) an increase in employee-related benefit expenses of $14.5 million, including an increase in the valuation of employee equity awards and additional employees hired and (ii) an increase in professional fees and corporate expenses of $3.7 million, primarily related to the reorganization.
+impairment charges -
+during the years ended december 31, 2023 and 2022, the company recognized impairment charges of $14.0 million and $22.0 million, respectively, primarily related to adjustments to property carrying values for which the company's estimated fair values were primarily based upon signed contracts or letters of intent from third-party offers. these adjustments to property carrying values were recognized in connection with the company's efforts to market certain properties and management's assessment as to the likelihood and timing of such potential transactions. certain of the calculations to determine fair values utilized unobservable inputs and, as such, were classified as level 3 of the fasb's fair value hierarchy. for additional disclosure, see footnotes 5 and 17 of the notes to consolidated financial statements included in this form 10-k.
+merger charges -
+during the year ended december 31, 2023, the company incurred costs of $4.8 million associated with the rpt merger, primarily comprised of professional and legal fees (see footnote 28 of the notes to consolidated financial statements included in this form 10-k).
+gain on sale of properties -
+during 2023, the company disposed of six operating properties and 13 parcels, in separate transactions, for an aggregate sales price of $214.2 million, which resulted in aggregate gains of $75.0 million. during 2022, the company disposed of nine operating properties and 13 parcels, in separate transactions, for an aggregate sales price of $191.1 million, which resulted in aggregate gains of $15.2 million.
+special dividend income -
+during 2023, the company received a $194.1 million special dividend payment on its shares of aci common stock.
+other income, net -
+the increase in other income, net of $11.1 million is primarily due to (i) an increase of $8.6 million relating to net settlement gains recognized upon the liquidation of the company's defined benefit plan during 2023, and (ii) an increase in dividend, interest and other income of $6.8 million due to higher levels of cash on hand during 2023, partially offset by, (iii) a net decrease in mortgage and other financing income of $3.0 million.
+gain/(loss) on marketable securities, net -
+the change in gain/(loss) on marketable securities, net of $336.8 million is primarily the result of mark-to-market fluctuations of the aci shares of common stock held by the company and the sale of aci shares of common stock during 2023 and 2022.
+interest expense -
+the increase in interest expense of $23.4 million is primarily due to a decrease in fair market value amortization resulting from the repayment of senior unsecured notes in 2022 and the issuance of $500.0 million 6.400% senior unsecured notes during 2023.
+early extinguishment of debt charges -
+during 2022, the company repaid its $500.0 million 3.40% senior unsecured notes, which were scheduled to mature in november 2022. as a result, the company incurred a prepayment charge and wrote-off deferred financing costs during 2022.
+33
+provision for income taxes, net -
+the increase in provision for income taxes, net of $4.3 million is primarily due to the company's sale of shares of aci common stock during 2023, which generated an increased taxable long-term capital gain as compared to 2022. the company elected to retain the proceeds from the sale and as a result incurred federal and state income tax aggregating $60.9 million on such gain.
+equity in income of joint ventures, net -
+the decrease in equity in income of joint ventures, net of $37.2 million is primarily due to (i) higher gains of $29.8 million recognized on sale of properties within various joint venture investments during 2022 as compared to 2023, (ii) an increase in interest expense of $7.2 million and (iii) lower equity in income in 2023 as compared to 2022 by $3.8 million, partially offset by (iv) lower impairments in 2023 as compared to 2022 by $3.6 million.
+equity in income of other investments, net -
+the decrease in equity in income of other investments, net of $6.7 million is primarily due to higher profit participation resulting from the sale of properties within various investments during 2022 as compared to 2023.
+net (income)/loss attributable to noncontrolling interests -
+the change in net (income)/loss attributable to noncontrolling interests of $23.1 million is primarily due to (i) lower impairment charges of $16.4 million relating to properties within consolidated joint ventures recognized during 2022, and (ii) an increase in income from properties acquired within consolidated joint ventures during 2022.
+comparison of the years ended december 31, 2022 and 2021
+information pertaining to fiscal year 2021 was included in the company's annual report on form 10-k for the year ended december 31, 2022 under part ii, item 7, "management's discussion and analysis of financial condition and results of operations," which was filed with the sec on february 24, 2023.
+liquidity and capital resources the company's capital resources include accessing the public debt and equity capital markets, unsecured term loans, mortgages and construction loan financing, marketable securities (including 14.2 million shares of aci common stock held by the company, see footnote 28 of the notes to consolidated financial statements included in this form 10-k) and immediate access to an unsecured revolving credit facility (the "credit facility") with bank commitments of $2.0 billion, which can be increased to $2.75 billion through an accordion feature.
+the company's cash flow activities are summarized as follows (in thousands):
+year ended december 31,
+
+2023                         2022
+cash, cash equivalents and restricted cash, beginning of year               $149,829                      $334,663
+net cash flow provided by operating activities                             1,071,607                       861,114
+net cash flow used for investing activities                                 (136,983     )                 (63,217   )
+net cash flow used for financing activities                                 (300,696     )                (982,731   )
+net change in cash, cash equivalents and restricted cash                     633,928                      (184,834   )
+cash, cash equivalents and restricted cash, end of year                     $783,757                      $149,829
+operating activities the company anticipates that cash on hand, net cash flow provided by operating activities, borrowings under its credit facility and the issuance of equity, public debt, as well as other debt and equity alternatives, and the sale of marketable equity securities, will provide the necessary capital required by the company. the company will continue to evaluate its capital requirements for both its short-term and long-term liquidity needs, which could be affected by various risks and uncertainties, including, but not limited to, the effects of the current inflationary environment, rising interest rates, and other risks detailed in part i, item 1a. risk factors.
+net cash flow provided by operating activities for the year ended december 31, 2023 was $1.1 billion, as compared to $861.1 million for the comparable period in 2022. the increase of $210.5 million is primarily attributable to:
+●   special dividend payment from aci of $194.1 million during 2023;
+
+●   additional operating cash flow generated by operating properties acquired during 2023 and 2022; and
+
+34
+●   new leasing, expansion and re-tenanting of core portfolio properties; partially offset by
+
+●   a decrease in distributions from the company's joint ventures programs;
+
+●   the disposition of operating properties in 2023 and 2022;
+
+●   changes in assets and liabilities due to timing of receipts and payments; and
+
+●   nonrecurring costs incurred in connection with the rpt merger during 2023.
+investing activities net cash flow used for investing activities was $137.0 million for 2023, as compared to $63.2 million for 2022.
+investing activities during 2023 consisted primarily of:
+cash inflows:
+●   $292.6 million in proceeds from the sale of marketable securities, primarily due to the sale of 14.1 million shares of aci common stock;
+
+●   $160.1 million in proceeds from the sale of six consolidated properties and 13 parcels;
+
+●   $14.0 million in reimbursements of investments in and advances to real estate joint ventures and other investments primarily due to the sale of properties within the investments; and
+
+●   $4.6 million for principal payments from securities held to maturity.
+
+cash outflows:
+●   $277.3 million for the acquisition/consolidation of four consolidated operating properties and five parcels;
+
+●   $264.4 million for improvements to operating real estate primarily related to the company's active redevelopment pipeline;
+
+●   $42.9 million for investments in and advances to real estate joint ventures, primarily related to partner buyouts and a redevelopment project within the company's joint venture portfolio, and investments in other investments, primarily related to funding commitments for certain investments;
+
+●   $18.5 million for investment in mortgage and other financing receivables;
+
+●   $3.6 million for investment in marketable securities; and
+
+●   $1.6 million for investment in cost method investments.
+
+investing activities during 2022 consisted primarily of:
+cash inflows:
+●   $302.5 million in proceeds from the sale of marketable securities, primarily due to the sale of 11.5 million shares of aci common stock;
+
+●   $184.3 million in proceeds from the sale of nine consolidated properties and 13 parcels;
+
+●   $68.4 million in reimbursements of investments in and advances to real estate joint ventures and other investments primarily due to the sale of properties within the investments;
+
+●   $60.3 million in collection of mortgage and other financing receivables; and
+
+●   $4.0 million for principal payments from securities held to maturity.
+
+cash outflows:
+●   $300.8 million for the acquisition of 10 consolidated operating properties and eight parcels;
+
+●   $193.7 million for improvements to operating real estate primarily related to the company's active redevelopment pipeline;
+
+●   $104.7 million for investments in and advances to real estate joint ventures, primarily related to partner buyouts and a redevelopment project within the company's joint venture portfolio, and investments in other investments, primarily related to funding commitments for certain investments;
+
+●   $75.1 million for investment in mortgage and other financing receivables;
+
+●   $4.5 million for investment in cost method investments; and
+
+●   $4.0 million for investment in marketable securities.
+
+acquisitions of operating real estate and other related net assets during the years ended december 31, 2023 and 2022, the company expended $277.3 million and $300.8 million, respectively, towards the acquisition/consolidation of operating real estate properties. the company anticipates spending approximately $50.0 million to $100.0 million towards the acquisition of or purchase of additional interests in operating properties during 2024, excluding amounts expended in connection with the rpt merger. the company intends to fund these acquisitions with cash on hand, net cash flow provided by operating activities, proceeds from property dispositions, proceeds from the sale of marketable securities and/or availability under its credit facility.
+35
+improvements to operating real estate during the years ended december 31, 2023 and 2022, the company expended $264.4 million and $193.7 million, respectively, towards improvements to operating real estate. these amounts consist of the following (in thousands):
+year ended december 31,
+
+2023                       2022
+redevelopment and renovations                         $151,067                    $113,928
+tenant improvements and tenant allowances              113,328                      79,782
+total improvements                                    $264,395                    $193,710
+the company has an ongoing program to redevelop and re-tenant its properties to maintain or enhance its competitive position in the marketplace. the company is actively pursuing redevelopment opportunities within its operating portfolio which it believes will increase the overall value by bringing in new tenants and improving the assets' value. the company anticipates its capital commitment toward these redevelopment projects and re-tenanting efforts for 2024 will be approximately $225.0 million to $275.0 million. the funding of these capital requirements will be provided by cash on hand, proceeds from property dispositions, proceeds from the sale of marketable securities, net cash flow provided by operating activities and/or availability under the company's credit facility.
+financing activities net cash flow used for financing activities was $300.7 million for 2023, as compared to $982.7 million for 2022.
+financing activities during 2023 primarily consisted of the following:
+cash inflows:
+●   $500.0 million in proceeds from issuance of 6.4% senior unsecured notes due in 2034;
+
+●   $3.7 million in proceeds from the issuance of common stock from stock option exercises; and
+
+●   $2.5 million from changes in tenants' security deposits.
+
+cash outflows:
+●   $657.5 million of dividends paid;
+
+●   $60.8 million in principal payment on debt, including normal amortization of rental property debt;
+
+●   $58.4 million in redemption/distribution of noncontrolling interests;
+
+●   $16.3 million in shares repurchased for employee tax withholding on equity awards;
+
+●   $12.5 million in financing origination costs, in connection with the issuance of senior unsecured notes; and
+
+●   $1.5 million for repurchase of preferred stock.
+
+financing activities during 2022 primarily consisted of the following:
+cash inflows:
+●   $1.25 billion in proceeds from issuance of the company's $600.0 million 3.20% senior unsecured notes due 2032 and $650.0 million 4.60% senior unsecured notes due 2033;
+
+●   $19.0 million in proceeds from a mortgage loan financing;
+
+●   $15.5 million in proceeds from the issuance of common stock; and
+
+●   $5.3 million from changes in tenants' security deposits.
+
+cash outflows:
+●   $1.4 billion for repayment of four separate senior unsecured notes, which had maturity dates ranging from november 2022 to june 2023;
+
+●   $544.7 million of dividends paid;
+
+●   $167.7 million in principal payment on debt, including normal amortization of rental property debt;
+
+●   $67.5 million in redemption/distribution of noncontrolling interests;
+
+●   $20.3 million in financing origination costs, in connection with the issuance of senior unsecured notes;
+
+●   $13.7 million in shares repurchased for employee tax withholding on equity awards;
+
+●   $7.0 million for payment of early extinguishment of debt charges; and
+
+●   $3.4 million for repurchase of preferred stock.
+
+the company continually evaluates its debt maturities, and, based on management's current assessment, believes it has viable financing and refinancing alternatives that will not materially adversely impact its expected financial results. as of december 31, 2023, the company had consolidated floating rate debt totaling $17.6 million, excluding deferred financing costs of $0.1 million. the company continues to pursue borrowing opportunities with large commercial u.s. and global banks, select life insurance companies and certain regional and local banks.
+36
+debt maturities for 2024 consist of: $659.0 million of consolidated debt (of which $246.2 million was subsequently repaid), $112.9 million of unconsolidated joint venture debt and $231.2 million of debt included in the company's preferred equity program, assuming the utilization of extension options where available. the 2024 remaining consolidated debt maturities are anticipated to be repaid with operating cash flows or debt refinancing, as deemed appropriate. the 2024 debt maturities on properties in the company's unconsolidated joint ventures and preferred equity program are anticipated to be repaid through operating cash flows, debt refinancing, proceeds from sales within the respective entities, and partner capital contributions, as deemed appropriate.
+the company intends to maintain strong debt service coverage and fixed charge coverage ratios as part of its commitment to maintain its unsecured debt ratings. the company may, from time to time, seek to obtain funds through additional common and preferred equity offerings, unsecured debt financings, unsecured term loans and/or mortgage/construction loan financings and other capital alternatives.
+since the completion of the company's ipo in 1991, the company has utilized the public debt and equity markets as its principal source of capital for its expansion needs. since the ipo, the company has completed additional offerings of its public unsecured debt and equity, raising in the aggregate over $17.9 billion. proceeds from public capital market activities have been used for the purposes of, among other things, repaying indebtedness, acquiring interests in open-air, grocery anchored shopping centers and mixed-use assets, expanding and improving properties in the portfolio and other investments.
+during january 2023, the company filed a shelf registration statement on form s-3, which is effective for a term of three years, for future unlimited offerings, from time to time, of debt securities, preferred stock, depositary shares, common stock and common stock warrants. the company, pursuant to this shelf registration statement may, from time to time, offer for sale its senior unsecured debt securities for any general corporate purposes, including (i) funding specific liquidity requirements in its business, including property acquisitions, development and redevelopment costs and (ii) managing the company's debt maturities.
+during january 2023, the company filed a registration statement on form s-8 for its 2020 equity participation plan (the "2020 plan"), which was previously approved by the company's stockholders and is a successor to the restated kimco realty corporation 2010 equity participation plan that expired in march 2020. the 2020 plan provides for a maximum of 10,000,000 shares of the company's common stock to be reserved for the issuance of stock options, stock appreciation rights, restricted stock, restricted stock units, performance awards, dividend equivalents, stock payments and deferred stock awards. at december 31, 2023, the company had 4.9 million shares of common stock available for issuance under the 2020 plan. (see footnote 22 of the notes to consolidated financial statements included in this form 10-k).
+preferred stock -
+the company's board of directors had authorized the repurchase of up to 894,000 depositary shares of class l preferred stock and 1,048,000 depositary shares of class m preferred stock through december 31, 2023, which represented up to 1,942 shares of the company's preferred stock, par value $1.00 per share. during the year ended december 31, 2023, the company repurchased the following preferred stock:
+class of preferred stock    depositary shares repurchased     purchase price (in thousands)
+
+class l                                             43,777                            $973.4
+class m                                             23,791                            $515.9
+in conjunction with the rpt merger the company issued 1,848,539 depositary shares each representing one one-thousandth of a share of class n preferred stock. the class n preferred stock was issued to replace the rpt 7.25% series d cumulative convertible perpetual preferred share.
+during january 2024, the company's board of directors authorized the repurchase of up to 891,000 depositary shares of class l preferred stock, 1,047,000 depositary shares of class m preferred stock, and 185,000 depositary shares of class n preferred stock through february 28, 2026.
+common stock -
+during september 2023, the company established an at-the-market continuous offering program (the "atm program") pursuant to which the company may offer and sell from time-to-time shares of its common stock, par value $0.01 per share, with an aggregate gross sales price of up to $500.0 million through a consortium of banks acting as sales agents. sales of the shares of common stock may be made, as needed, from time to time in "at the market" offerings as defined in rule 415 of the securities act of 1933, as amended, including by means of ordinary brokers' transactions on the new york stock exchange or otherwise (i) at market prices prevailing at the time of sale, (ii) at prices related to prevailing market prices or (iii) as otherwise agreed to with the applicable sales agent. in addition, the company may from time to time enter into separate forward sale agreements with one or more banks. the company did not issue any shares under the atm program during the year ended december 31, 2023. as of december 31, 2023, the company had $500.0 million available under this atm program.
+37
+the company has a common share repurchase program, which is scheduled to expire on february 28, 2026. under this program, the company may repurchase shares of its common stock, par value $0.01 per share, with an aggregate gross purchase price of up to $300.0 million. the company did not repurchase any shares under the share repurchase program during 2023 and 2022. as of december 31, 2023, the company had $224.9 million available under this common share repurchase program.
+senior notes -
+in october 2023, the company issued $500.0 million in senior unsecured notes, which are scheduled to mature in march 2034 and accrue interest at a rate of 6.400% per annum. these senior unsecured notes are guaranteed by the parent company. the company used the net proceeds from the offering for general corporate purposes.
+in january 2024, the company paid off the remaining $246.2 million of its 4.45% senior unsecured notes, which were scheduled to mature in january 2024.
+the company's supplemental indenture governing its senior notes contains the following covenants, all of which the company is compliant with:
+covenant                                          must be          as of december 31, 2023
+
+consolidated indebtedness to total assets                                              &lt;60%                               38%
+consolidated secured indebtedness to total assets                                      &lt;40%                                2%
+consolidated income available for debt service to maximum annual service charge        &gt;1.50x                            5.3x unencumbered total asset value to consolidated unsecured indebtedness                  &gt;1.50x                            2.4x for a full description of the various indenture covenants refer to the indenture dated september 1, 1993; the first supplemental indenture dated august 4, 1994; the second supplemental indenture dated april 7, 1995; the third supplemental indenture dated june 2, 2006; the fourth supplemental indenture dated april 26, 2007; the fifth supplemental indenture dated as of september 24, 2009; the sixth supplemental indenture dated as of may 23, 2013; seventh supplemental indenture dated as of april 24, 2014; and the eighth supplemental indenture dated as of january 3, 2023 each as filed with the sec. see the index to exhibits included in this form 10-k for specific filing information.
+in connection with the merger with weingarten, the company assumed senior unsecured notes which have covenants that are similar to the company's existing debt covenants for its senior unsecured notes. please refer to the form indenture included in weingarten's registration statement on form s-3, filed with the securities and exchange commission on february 10, 1995, the first supplemental indenture, dated as of august 2, 2006 filed with weingarten's current report on form 8-k dated august 2, 2006, and the second supplemental indenture, dated as of october 9, 2012 filed with weingarten's current report on form 8-k dated october 9, 2012. see the exhibits index in this form 10-k for specific filing information.
+in connection with the reorganization, kimco op became the issuer of the senior notes and the parent company has provided a full and unconditional guarantee of kimco op's obligations under each series of senior notes previously issued and outstanding.
+in connection with the rpt merger, the company assumed $511.5 million of senior unsecured notes with maturities ranging from 2026 to 2031, which bear interest at rates ranging from 3.64% to 4.74%.  the merger triggered a change in control, and as such, in january 2024, the company repaid these notes, including any accrued interest and make-whole requirements.
+credit facility -
+in february 2023, the company obtained a new $2.0 billion unsecured revolving credit facility (the "credit facility") with a group of banks, which replaced the company's existing $2.0 billion unsecured revolving credit facility which was scheduled to mature in march 2024.  the credit facility is scheduled to expire in march 2027 with two additional six-month options to extend the maturity date, at the company's discretion, to march 2028.  the credit facility is guaranteed by the parent company. the credit facility could be increased to $2.75 billion through an accordion feature.  the credit facility is a green credit facility tied to sustainability metric targets, as described in the agreement. the credit facility accrues interest at a rate of adjusted term sofr, as defined in the terms of the credit facility, plus 77.5 basis points and fluctuates in accordance with the company's credit ratings. the interest rate can be further adjusted upward or downward by a maximum of four basis points based on the sustainability metric targets, as defined in the agreement. the interest rate on the credit facility as of december 31, 2023 was 6.21% after a two-basis point reduction was achieved.  pursuant to the terms of the credit facility, the company continues to be subject to the same covenants under the company's prior unsecured revolving credit facility. for a full description of the credit facility's covenants refer to the amended and restated credit agreement dated as of february 23, 2023, filed as exhibit 10.20 in our annual report on form 10-k for the year ended december 31, 2022. as of december 31, 2023, the credit facility had no outstanding balance and no appropriations for letters of credit.
+38
+pursuant to the terms of the credit facility, the company, among other things, is subject to maintenance of various covenants. the company is currently in compliance with these covenants. the financial covenants for the credit facility are as follows:
+covenant                                     must be     as of december 31, 2023
+
+total indebtedness to gross asset value ("gav")                               &lt;60%                           36%
+total priority indebtedness to gav                                            &lt;35%                            1%
+unencumbered asset net operating income to total unsecured interest expense   &gt;1.75x                        5.4x fixed charge total adjusted ebitda to total debt service                      &gt;1.50x                        4.7x for a full description of the credit facility's covenants, refer to the amended and restated credit agreement dated as of february 23, 2023, filed as exhibit 10.20 in our annual report on form 10-k for the year ended december 31, 2022. see the index to exhibits included in this form 10-k for specific filing information.
+term loans -
+on january 2, 2024, kimco op entered into a new $200.0 million unsecured term loan credit facility pursuant to a credit agreement, among kimco op, td bank, n.a., as administrative agent, and the other parties thereto. this unsecured term loan credit facility accrues interest at a spread (currently 0.850%) to the adjusted term sofr rate (as defined in the credit agreement) or, at kimco op's option, a spread (currently 0.000%) to a base rate defined in the credit agreement, that, in each case, fluctuates in accordance with changes in kimco's senior debt ratings.
+in addition, in connection with the rpt merger, the company assumed and amended $310.0 million of unsecured term loans, which were outstanding under rpt's sixth amended and restated credit agreement. the term loans consisted of the following tranches: (i) $50.0 million maturing in 2026, (ii) $100.0 million maturing in 2027, (iii) $50.0 million maturing in 2027 and (iv) $110.0 million maturing in 2028. the company entered into a seventh amended and restated credit agreement, through which the current term loans were terminated and new term loans were issued to replace them. the new term loans retained the amounts and maturities of the current term loans, however, the rates (adjusted term sofr plus 0.905%) and covenants were revised to match those within the company's credit facility. the rates fluctuate in accordance with changes in kimco's senior debt ratings. the company entered into swap rate agreements with various lenders swapping the interest rates to fixed rates ranging from 4.674% to 4.875%.
+mortgages payable -
+during 2023, the company (i) assumed $37.2 million of individual non-recourse mortgage debt through the acquisition of two operating properties, which it subsequently repaid in march 2023, and (ii) repaid $12.3 million of mortgage debt that encumbered two operating properties and a consolidated joint venture operating property.
+in addition to the public equity and debt markets as capital sources, the company may, from time to time, obtain mortgage financing on selected properties to partially fund the capital needs of its real estate re-development and re-tenanting projects. as of december 31, 2023, the company had over 485 unencumbered property interests in its portfolio.
+albertsons companies, inc. -
+during 2023, the company received a $194.1 million special dividend payment on its shares of aci common stock and recognized this as special dividend income on the company's consolidated statements of income. as a result, the company's board of directors declared a $0.09 per common share special cash dividend to maintain distribution requirements as a reit. this special dividend was paid on december 21, 2023, to shareholders of record on december 7, 2023.
+in addition, during 2023, the company sold 14.1 million shares of aci common stock held by the company, generating net proceeds of $282.3 million. for tax purposes, the company recognized a long-term capital gain of $241.2 million. the company retained the proceeds from this stock sale for general corporate purposes and incurred federal and state taxes of $60.9 million on the taxable gain. as of december 31, 2023, the company held 14.2 million shares of aci common stock.
+in february 2024, the company sold its remaining 14.2 million shares of aci common stock, generating net proceeds of $299.1 million. for tax purposes, the company will recognize a long-term capital gain of $288.7 million during the three months ended march 31, 2024. the company anticipates retaining the proceeds from this stock sale for general corporate purposes and will incur estimated corporate taxes of $72.9 million on the taxable gain.
+39
+dividends -
+in connection with its intention to continue to qualify as a reit for u.s. federal income tax purposes, the company expects to continue paying regular dividends to its stockholders. these dividends will be paid from operating cash flows. the company's board of directors will continue to evaluate the company's dividend policy on a quarterly basis as it monitors sources of capital and evaluates the impact of the economy and capital markets availability on operating fundamentals. since cash used to pay dividends reduces amounts available for capital investment, the company generally intends to maintain a dividend payout ratio which reserves such amounts as it considers necessary for the expansion and renovation of shopping centers in its portfolio, debt reduction, the acquisition of interests in new properties and other investments as suitable opportunities arise and such other factors as the board of directors considers appropriate. cash dividends paid were $657.5 million, $544.7 million and $382.1 million in 2023, 2022 and 2021, respectively.
+although the company receives substantially all of its rental payments on a monthly basis, it generally intends to continue paying dividends quarterly. amounts accumulated in advance of each quarterly distribution will be invested by the company in short-term money market or other suitable instruments. the company's objective is to establish a dividend level that maintains compliance with the company's reit taxable income distribution requirements. on october 23, 2023, the company's board of directors declared a quarterly dividend with respect to the company's classes of cumulative redeemable preferred shares (classes l and m) which were paid on january 16, 2024, to shareholders of record on january 2, 2024. also, the company's board of directors declared a "stub period" cash dividend with respect to the company's newly issued class n preferred stock, payable on january 16, 2024 to shareholders of record on january 5, 2024.
+in addition, the company's board of directors declared a quarterly cash dividend of $0.24 per common share, which was paid on december 21, 2023, to shareholders of record on december 7, 2023. also, as discussed above, on november 12, 2023, the company's board of directors declared a special cash dividend $0.09 per common share, which was paid on december 21, 2023, to shareholders of record on december 7, 2023.
+on january 30, 2024, the company's board of directors declared quarterly dividends with respect to the company's classes of cumulative redeemable preferred shares (classes l, m and n), which are scheduled to be paid on april 15, 2024, to shareholders of record on april 1, 2024. additionally, on january 30, 2024, the company's board of directors declared a quarterly cash dividend of $0.24 per common share payable on march 21, 2024 to shareholders of record on march 7, 2024.
+contractual obligations and other commitments contractual obligations the company has debt obligations relating to its credit facility (no outstanding balance as of december 31, 2023), unsecured senior notes and mortgages with maturities ranging from less than one month to 26 years. as of december 31, 2023, the company's consolidated total debt had a weighted average term to maturity of 8.7 years. in addition, the company has non-cancelable leases pertaining to its shopping center portfolio. as of december 31, 2023, the company had 38 consolidated shopping center properties that are subject to long-term ground leases where a third party owns and has leased the underlying land or a portion of the underlying land to the company to construct and/or operate a shopping center. amounts due in 2024 in connection with these leases aggregate $11.8 million. the following table summarizes the company's consolidated debt maturities (excluding extension options, unamortized debt issuance costs of $66.2 million and fair market value of debt adjustments aggregating $24.4 million) and obligations under non-cancelable operating leases as of december 31, 2023:
+payments due by period (in millions)
+
+2024                2025                2026                2027                2028                    thereafter            total long-term debt:
+principal (1)                   $667.5              $813.5              $780.4              $472.7              $523.4           $4,401.2           $7,658.7
+interest (2)                    $261.8              $236.1              $223.0              $193.4              $178.2           $1,572.6           $2,665.1
+non-cancelable leases:
+operating leases (3)             $11.8               $11.3               $10.6               $10.3               $10.4           $178.4               $232.8
+financing leases                 $25.9                  $-                  $-                  $-                  $-           $-                    $25.9
+(1)   maturities utilized do not reflect extension options, which range from two to five years.
+
+(2)   for loans which have interest at floating rates, future interest expense was calculated using the rate as of december 31, 2023.
+
+(3)   for leases which have inflationary increases, future ground and office rent expense was calculated using the rent based upon initial lease payment.
+
+as of december 31, 2023, the company had $646.8 million of consolidated unsecured debt (of which $246.2 million was subsequently repaid) and $12.2 million of consolidated secured debt scheduled to mature in 2024. the company anticipates satisfying the remaining future maturities with available cash, operating cash flows and/or debt financing.
+commitments the company has issued letters of credit in connection with the completion and repayment guarantees, primarily on certain of the company's redevelopment projects and guaranty of payment related to the company's insurance program. at december 31, 2023, these letters of credit aggregated $39.2 million.
+40
+the company has investments with funding commitments of $64.7 million, of which $51.8 million has been funded as of december 31, 2023.
+in connection with the construction of its development/redevelopment projects and related infrastructure, certain public agencies require posting of performance and surety bonds to guarantee that the company's obligations are satisfied. these bonds expire upon the completion of the improvements and infrastructure. as of december 31, 2023, the company had $18.4 million in performance and surety bonds outstanding.
+the company provides a guaranty for the payment of any debt service shortfalls on series a bonds issued by the sheridan redevelopment agency which are tax increment revenue bonds issued in connection with a property owned by the company in sheridan, colorado. these tax increment revenue bonds have a balance of $41.0 million outstanding at december 31, 2023. the bonds are to be repaid with incremental sales and property taxes and a public improvement fee ("pif") to be assessed on current and future retail sales and, to the extent necessary, any amounts we may have to provide under a guaranty. the revenue generated from incremental sales, property taxes and pif have satisfied the debt service requirements to date. the incremental taxes and pif are to remain intact until the earlier of the payment of the bond liability in full or 2040.
+off-balance sheet arrangements unconsolidated real estate joint ventures the company has investments in various unconsolidated real estate joint ventures with varying structures. these joint ventures primarily operate shopping centers or mixed-use properties. the properties owned by the joint ventures are primarily financed with individual non-recourse mortgage loans, however, the company, on a selective basis, has obtained unsecured financing for certain joint ventures. as of december 31, 2023, the company did not guarantee any joint venture unsecured debt. non-recourse mortgage debt is generally defined as debt whereby the lenders' sole recourse with respect to borrower defaults is limited to the value of the property collateralized by the mortgage. the lender generally does not have recourse against any other assets owned by the borrower or any of the constituent members of the borrower, except for certain specified exceptions listed in the particular loan documents (see footnote 6 of the notes to consolidated financial statements included in this form 10-k).
+debt balances within the company's unconsolidated joint venture investments for which the company held noncontrolling ownership interests at december 31, 2023, aggregated $1.2 billion. as of december 31, 2023, these loans had scheduled maturities ranging from three months to 7.5 years and bore interest at rates ranging from 2.95% to sofr plus 210 basis points (7.41% as of december 31, 2023). approximately $112.9 million of the aggregate outstanding loan balance matures in 2024. these maturing loans are anticipated to be repaid with operating cash flows, debt refinancing, unsecured credit facilities, proceeds from sales of properties within the respective entities, and partner capital contributions, as deemed appropriate (see footnote 6 of the notes to consolidated financial statements included in this form 10-k).
+other investments the company has provided capital to owners and developers of real estate properties through its preferred equity program, which is included in other investments on the company's consolidated balance sheets. in addition, the company has invested capital in structured investments, which are primarily accounted for on the equity method of accounting. as of december 31, 2023, the company's other investments were $144.1 million, of which the company's net investment under the preferred equity program was $104.1 million. as of december 31, 2023, these preferred equity investment properties had non-recourse mortgage loans aggregating $231.2 million. these loans have scheduled maturities of less than one year and bear interest at rates ranging from 4.19% to sofr plus 265 basis points (8.14% as of december 31, 2023). these maturing loans are anticipated to be repaid with operating cash flows, debt refinancing, proceeds from sales of properties within the respective entities, and partner capital contributions, as deemed appropriate. due to the company's preferred position in these investments, the company's share of each investment is subject to fluctuation and is dependent upon property cash flows. the company's maximum exposure to losses associated with its preferred equity investments is limited to its invested capital.
+effects of inflation many of the company's long-term leases contain provisions designed to help mitigate the adverse impact of inflation. such provisions include clauses enabling the company to receive payment of additional rent calculated as a percentage of tenants' gross sales above pre-determined thresholds, which generally increase as prices rise, and/or as a result of escalation clauses, which generally increase rental rates during the terms of the leases. such escalation clauses often include increases based upon changes in the consumer price index or similar inflation indices. in addition, many of the company's leases are for terms of less than 10 years, which permits the company to seek to increase rents to market rates upon renewal. to assist in partially mitigating the company's exposure to increases in costs and operating expenses, including common area maintenance costs, real estate taxes and insurance, resulting from inflation, the company's leases include provisions that either (i) require the tenant to pay an allocable share of these operating expenses or (ii) contain fixed contractual amounts, which include escalation clauses, to reimburse these operating expenses.
+41
+funds from operations funds from operations ("ffo") is a supplemental non-gaap financial measure utilized to evaluate the operating performance of real estate companies. nareit defines ffo as net income/(loss) available to the company's common shareholders computed in accordance with gaap, excluding (i) depreciation and amortization related to real estate, (ii) gains or losses from sales of certain real estate assets, (iii) gains and losses from change in control, (iv) impairment write-downs of certain real estate assets and investments in entities when the impairment is directly attributable to decreases in the value of depreciable real estate held by the entity and (v) after adjustments for unconsolidated partnerships and joint ventures calculated to reflect ffo on the same basis. the company also made an election, in accordance with the nareit funds from operations white paper-2018 restatement, to exclude from its calculation of ffo (i) gains and losses on the sale of assets and impairments of assets incidental to its main business and (ii) mark-to-market changes in the value of its equity securities. as such, the company does not include gains/impairments on land parcels, mark-to-market gains/losses from marketable securities, allowance for credit losses on mortgage receivables, gains/impairments on other investments or other amounts considered incidental to its main business in nareit defined ffo.
+the company presents ffo available to the company's common shareholders as it considers it an important supplemental measure of our operating performance and believes it is frequently used by securities analysts, investors and other interested parties in the evaluation of reits, many of which present ffo available to the company's common shareholders when reporting results. comparison of our presentation of ffo available to the company's common shareholders to similarly titled measures for other reits may not necessarily be meaningful due to possible differences in the application of the nareit definition used by such reits.
+ffo is a supplemental non-gaap financial measure of real estate companies' operating performances, which does not represent cash generated from operating activities in accordance with gaap, and therefore, should not be considered an alternative for net income or cash flows from operations as a measure of liquidity.
+the company's reconciliation of net income/(loss) available to the company's common shareholders to ffo available to the company's common shareholders is reflected in the table below (in thousands, except per share data).
+three months ended december 31,                              year ended december 31,
+
+2023                          2022                          2023                        2022
+net income/(loss) available to the company's common shareholders              $133,360                          $(56,086   )              $629,252                     $100,758
+gain on sale of properties                                                     (22,600       )                    (4,221   )               (74,976     )                (15,179   )
+gain on sale of joint venture properties                                             -                              (643   )                (9,020     )                (38,825   )
+depreciation and amortization - real estate related                            123,053                           123,663                   502,347                      501,274
+depreciation and amortization - real estate joint ventures                      16,082                            16,158                    64,472                       66,326
+impairment charges (including real estate joint ventures)                        1,020                             1,585                    15,060                       27,254
+profit participation from other investments, net                                   366                            (4,584   )                (1,916     )                (15,593   )
+special dividend income                                                              -                                 -                  (194,116     )                      -
+(gain)/loss on marketable securities/derivative, net                           (11,354       )                   100,314                   (21,996     )                315,508
+(benefit)/provision for income taxes (1)                                          (112       )                    58,608                    61,351                       58,373
+noncontrolling interests (1)                                                      (372       )                        63                      (440     )                (23,540   )
+ffo available to the company's common shareholders (3) (4)                    $239,443                          $234,857                  $970,018                     $976,356
+weighted average shares outstanding for ffo calculations:
+basic                                                                          617,122                           615,856                   616,947                      615,528
+units                                                                            2,389                             2,559                     2,380                        2,492
+dilutive effect of equity awards                                                   845                             2,114                     1,132                        2,283
+diluted (2)                                                                    620,356                           620,529                   620,459                      620,303
+ffo per common share - basic                                                     $0.39                             $0.38                     $1.57                        $1.59
+ffo per common share - diluted (2)                                               $0.39                             $0.38                     $1.57                        $1.58
+(1)   related to gains, impairment, depreciation on properties, and gains/(losses) on sales of marketable securities, where applicable.
+
+(2)   reflects the potential impact if certain units were converted to common stock at the beginning of the period, which would have a dilutive effect on ffo available to the company's common shareholders. ffo available to the company's common shareholders would be increased by $763 and $584 for the three months ended december 31, 2023 and 2022, respectively, and $2,395 and $2,041 for the years ended december 31, 2023 and 2022, respectively. the effect of other certain convertible units would have an anti-dilutive effect upon the calculation of ffo available to the company's common shareholders per share. accordingly, the impact of such conversion has not been included in the determination of diluted earnings per share calculations.
+
+(3)   includes early extinguishment of debt charges of $7.7 million recognized during the year ended december 31, 2022.
+
+(4)   includes merger-related charges of $1.0 million and $4.8 million for the three months and year ended december 31, 2023, respectively. in addition, includes income related to the liquidation of the pension plan of $5.0 million, net for the year ended december 31, 2023.
+
+42
+same property net operating income same property noi is a supplemental non-gaap financial measure of real estate companies' operating performance and should not be considered an alternative to net income in accordance with gaap or cash flows from operations as a measure of liquidity. the company considers same property noi as an important operating performance measure because it is frequently used by securities analysts and investors to measure only the net operating income of properties that have been owned by the company for the entire current and prior year reporting periods. it excludes properties under redevelopment, development and pending stabilization; properties are deemed stabilized at the earlier of (i) reaching 90% leased or (ii) one year following a project's inclusion in operating real estate. same property noi assists in eliminating disparities in net income due to the development, acquisition or disposition of properties during the particular period presented, and thus provides a more consistent performance measure for the comparison of the company's properties.
+same property noi is calculated using revenues from rental properties (excluding straight-line rent adjustments, lease termination fees, tifs and amortization of above/below-market rents) less charges for credit losses, operating and maintenance expense, real estate taxes and rent expense plus the company's proportionate share of same property noi from unconsolidated real estate joint ventures, calculated on the same basis. the company's method of calculating same property noi available to the company's common shareholders may differ from methods used by other reits and, accordingly, may not be comparable to such other reits.
+the following is a reconciliation of net income/(loss) available to the company's common shareholders to same property noi (in thousands):
+three months ended december 31,                                     year ended december 31,
+
+2023                          2022                          2023                        2022
+net income/(loss) available to the company's common shareholders              $133,360                          $(56,086   )               $629,252                    $100,758
+adjustments:
+management and other fee income                                                 (3,708       )                    (3,955   )                (16,343    )                (16,836   )
+general and administrative                                                      35,627                            31,928                    136,807                     119,534
+impairment charges                                                                   -                               200                     14,043                      21,958
+merger charges                                                                   1,016                                 -                      4,766                           -
+depreciation and amortization                                                  124,282                           124,676                    507,265                     505,000
+gain on sale of properties                                                     (22,600       )                    (4,221   )                (74,976    )                (15,179   )
+special dividend income                                                              -                                 -                   (194,116    )                      -
+interest expense and other income, net                                          46,917                            50,969                    210,241                     205,652
+(gain)/loss on marketable securities, net                                       (3,620       )                   100,314                    (21,262    )                315,508
+(benefit)/provision for income taxes, net                                         (175       )                    57,750                     60,952                      56,654
+equity in income of other investments, net                                      (1,968       )                    (1,912   )                (10,709    )                (17,403   )
+net income/(loss) attributable to noncontrolling interests                       2,468                             2,710                     11,676                     (11,442   )
+preferred dividends                                                              6,285                             6,307                     25,021                      25,218
+non same property net operating income                                         (12,967       )                   (13,293   )                (62,357    )                (68,548   )
+non-operational expense from joint ventures, net                                24,713                            23,934                     86,625                      55,514
+same property noi                                                             $329,630                          $319,321                 $1,306,885                  $1,276,388
+same property noi increased by $10.3 million, or 3.2%, for the three months ended december 31, 2023, as compared to the corresponding period in 2022. this increase is primarily the result of (i) an increase of $12.2 million, primarily related to an increase in rental revenue driven by strong leasing activity, partially offset by (ii) a change in credit loss from tenants of $1.9 million.
+same property noi increased by $30.5 million, or 2.4%, for the year ended december 31, 2023, as compared to the corresponding period in 2022. this increase is primarily the result of (i) an increase of $47.9 million primarily related to an increase in rental revenue driven by strong leasing activity, partially offset by (ii) a change in credit loss from tenants of $17.4 million.
+new accounting pronouncements see footnote 1 of the notes to consolidated financial statements included in this form 10-k.
+43

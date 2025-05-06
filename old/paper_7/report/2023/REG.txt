@@ -1,0 +1,411 @@
+item 7. management's discussion and analysis of financial condition and results of operations executing on our strategy during the year ended december 31, 2023, we had net income attributable to common shareholders of $359.5 million as compared to $482.9 million during the year ended december 31, 2022, which included gains on sale of real estate of $109.0 million.
+during the year ended december 31, 2023:
+•we completed the acquisition of ubp in an all-stock transaction. as part of the transaction, we acquired over 70 properties, growing our portfolio of high-quality, neighborhood and community shopping centers in premier suburban trade areas that benefit from compelling demographics.
+•our pro-rata same property noi, excluding termination fees, grew 1.7%, primarily attributable to improvements in base rent from increases in year over year occupancy rates, contractual rent steps in existing leases, and positive rent spreads on new and renewal leases.
+•we executed 1,839 new and renewal leasing transactions representing 6.9 million pro-rata sf with positive rent spreads of 10.0% during 2023, compared to 1,981 leasing transactions representing 7.3 million pro-rata sf with positive rent spreads of 7.4% in 2022. rent spreads are calculated on all executed leasing transactions for comparable retail operating property spaces, including spaces vacant greater than 12 months.
+•at december 31, 2023, our total property portfolio was 95.1% leased while our same property portfolio was 95.7% leased, compared to 94.8% and 95.1%, respectively, at december 31, 2022.
+we continued our development and redevelopment of high quality shopping centers:
+•estimated pro-rata project costs of our current in process development and redevelopment projects totaled $468.1 million compared to $300.9 million at december 31, 2022.
+•development and redevelopment projects completed during 2023 represented $87.4 million of estimated net project costs, with an average stabilized yield of 8.7%.
+we maintained liquidity and financial flexibility to cost effectively fund investment opportunities and debt maturities:
+•at december 31, 2023, our pro-rata net debt-to-operating ebitdare ratio on a trailing 12 month basis was 5.4x compared to 5.0x at december 31, 2022.
+•on january 8, 2024, regency priced a public offering of $400 million of senior unsecured debt due in 2034, with a coupon of 5.250% . the company intends to use the net proceeds of the offering to reduce the outstanding balance on its line of credit and for general corporate purposes, including, but not limited to, the future repayment of outstanding debt. prior to using any of the net proceeds, we may invest the net proceeds in certificates of deposit, interest-bearing short-term investment grade securities or money-market accounts.
+•we have $250 million of unsecured debt maturing in june 2024, which we intend to pay off by utilizing the proceeds available from the january 2024 offering noted above.
+•we have $148.3 million of secured mortgage maturities during the next 12 months, including mortgages within our real estate partnership, which we intend to refinance or pay-off as they mature.
+•at december 31, 2023, we had $1.1 billion available on the line. in january 2024, we amended the line agreement, to, among other items, increase the borrowing capacity to $1.5 billion and to extend the maturity date to march 23, 2028 with the option to extend the maturity for two additional six-month periods.
+ubp acquisition on august 18, 2023, we completed the acquisition of ubp, which was structured as multiple mergers. under the terms of the merger agreement, each share of urstadt biddle common stock and urstadt biddle class a common stock was converted into 0.347 of a share of common stock of the parent company. additionally, each share of ubp's 6.25% series h cumulative redeemable preferred stock and 5.875% series k cumulative redeemable preferred stock was converted into one share of parent company series a preferred stock and parent company series b preferred stock, respectively.
+the following table provides the components that make up the total purchase price for the ubp acquisition:
+(in thousands, except stock price)                 purchase price shares of common stock issued for acquisition              13,568
+closing stock price on august 17, 2023                     $61.03
+value of common stock issued for acquisition             $828,025
+other adjustments                                          (9,495   )
+total value of common stock issued                       $818,530
+debt repaid                                                39,266
+preferred stock converted                                 225,000
+transaction costs                                          57,197
+other cash payments                                            68
+total purchase price                                   $1,140,061
+as part of the acquisition, regency acquired 74 properties (all categorized as non-same property for 2023 and 2024 reporting purposes) representing 5.3 million square feet of gla, including 10 properties held through real estate partnerships. the consolidated results of operations of ubp are included in the consolidated financial statements from the closing date, august 18, 2023 through december 31, 2023.
+leasing activity and significant tenants we believe our high-quality, neighborhood and community shopping centers located in suburban trade areas with compelling demographics create attractive spaces for retail and service providers to operate their businesses.
+pro-rata percent leased the following table summarizes pro-rata percent leased of our combined consolidated and unconsolidated shopping center portfolio:
+december 31, 2023         december 31, 2022
+percent leased - all properties                     95.1   %                  94.8   %
+anchor space (spaces ≥ 10,000 sf)                   96.7   %                  96.8   %
+shop space (spaces &lt; 10,000 sf)                  92.4   %                  91.5   %
+our percent leased increased primarily due to favorable leasing activity in our shop space category during 2023.
+pro-rata leasing activity the following table summarizes leasing activity, including our pro-rata share of activity within the portfolio of our real estate partnerships (totals as a weighted-average psf):
+year ended december 31, 2023
+leasing           sf                                 base                    tenant                 leasing transactions           (in thousands)                 rent psf                 allowance             commissions and landlord                     psf work psf anchor space leases new                                      41           859                              $20.37                    $45.96                   $5.38
+renewal                                 110                       2,916                 18.06                      0.39                    0.10
+total anchor space leases               151                       3,775                $18.58                    $10.77                   $1.30
+shop space leases new                                     583                       1,179                $38.25                    $41.71                  $13.28
+renewal                               1,105                       1,952                 37.55                      1.73                    0.73
+total shop space leases               1,688                       3,131                $37.82                    $16.79                   $5.45
+total leases                          1,839                       6,906                $27.30                    $13.50                   $3.19
+44
+year ended december 31, 2022
+leasing           sf                                 base                    tenant                 leasing transactions           (in thousands)                 rent psf                 allowance             commissions and landlord                     psf work psf anchor space leases new                                      24           632                              $15.09                    $24.36                   $5.32
+renewal                                 108                       3,252                 16.36                      1.07                    0.23
+total anchor space leases               132                       3,884                $16.16                     $4.86                   $1.06
+shop space leases new                                     562                       1,058                $37.55                    $36.17                  $11.48
+renewal                               1,287                       2,395                 35.94                      1.66                    0.77
+total shop space leases               1,849                       3,453                $36.44                    $12.23                   $4.05
+total leases                          1,981                       7,337                $25.70                     $8.33                   $2.47
+the weighted-average base rent psf on signed shop space leases during 2023 was $37.82 psf, which is higher than the weighted average annual base rent psf of all shop space leases due to expire during the next 12 months of $34.73 psf. new and renewal rent spreads, as compared to prior rents on these same spaces leased, were positive at 10.0% for the 12 months ended december 31, 2023, as compared to 7.4% for the 12 months ended december 31, 2022.
+significant tenants and concentrations of risk we seek to reduce our operating and leasing risks through geographic diversification of our properties, as seen in "item 2. properties" of this report. we seek to avoid dependence on any single property, market, or tenant. based on percentage of annualized base rent, the following table summarizes our most significant tenants, of which four of the top five are grocers:
+december 31, 2023
+anchor                         number of             percentage of             percentage of stores                  company-                    annual owned gla (1)             base rent (1)
+publix                                68                       6.4   %                   3.0   %
+albertsons companies, inc.            53                       4.8   %                   3.0   %
+kroger co.                            52                       6.4   %                   2.7   %
+amazon/whole foods                    38                       2.7   %                   2.6   %
+tjx companies, inc.                   70                       3.6   %                   2.6   %
+(1)includes regency's pro-rata share of unconsolidated properties and excludes those owned by anchors.
+bankruptcies and credit concerns our management team devotes significant time to researching and monitoring consumer preferences and trends, customer shopping behaviors, changes in delivery methods, shifts to e-commerce, and changing demographics in order to anticipate the challenges and opportunities impacting our industry. we seek to mitigate these potential impacts through maintaining a high quality portfolio, diversifying our tenant mix, replacing less successful tenants with stronger operators, anchoring our centers with market leading grocery stores that drive customer traffic, and investing in suburban trade areas with compelling demographic populations benefiting from high levels of disposal income. the potential for a recession and the severity and duration of any economic downturn could negatively impact our existing tenants and their ability to continue to meet their lease obligations.
+although base rent is derived from long-term lease contracts, tenants that file for bankruptcy generally have the legal right to reject any or all of their leases and close related stores. any unsecured claim we hold against a bankrupt tenant for unpaid rent might be paid only to the extent that funds are available and only in the same percentage as is paid to all other holders of unsecured claims. as a result, it is likely that we would recover substantially less than the full value of any unsecured claims we hold. additionally, we may incur significant expense to adjudicate our claim and significant downtime to re-lease the vacated space. in the event that a tenant with a significant number of leases in our shopping centers files for bankruptcy and rejects its leases, we could experience a significant reduction in our revenues. tenants who are currently in bankruptcy and continue to occupy space in our shopping centers represent an aggregate of 0.5% of our pro-rata annual base rent which is primarily related to rite aid who filed in october 2023.
+45
+results from operations results from operations for the year ended december 31, 2023, include the results of our acquisition of ubp from august 18, 2023.
+comparison of the years ended december 31, 2023 and 2022:
+revenues changed as summarized in the following table:
+(in thousands)                                                         2023                      2022                change lease income base rent                                                                         $897,451                 821,755          75,696
+recoveries from tenants                                                            311,775                 280,658          31,117
+percentage rent                                                                     12,963                   9,635           3,328
+uncollectible lease income                                                            (549   )              13,841         (14,390   )
+other lease income                                                                  20,685                  14,748           5,937
+straight-line rent                                                                  10,788                  24,272         (13,484   )
+above/below market rent and tenant rent inducement amortization, net                30,826                  22,543           8,283
+total lease income                                                              $1,283,939               1,187,452          96,487
+other property income                                                               11,573                  10,719   854
+management, transaction, and other fees                                             26,954                  25,851           1,103
+total revenues                                                                  $1,322,466               1,224,022          98,444
+total lease income increased $96.5 million primarily driven by the following contractually billable components of rent to the tenants per the lease agreements:
+•$75.7 million increase from billable base rent:
+o$36.5 million increase from acquisition of ubp;
+o$2.8 million increase from rent commencing at development properties;
+o$4.5 million increase from acquisitions of other operating properties in 2023 and 2022; and o$32.1 million net increase from same properties, including:
+▪$19.1 million net increase due to increases from occupancy, rent steps in existing leases, and positive rental spreads on new and renewal leases;
+▪$2.1 million increase related to our acquisition and resulting consolidation of four properties previously held in an unconsolidated real estate partnership during 2022; and
+▪$10.8 million increase due to redevelopment projects completing and operating.
+•$31.1 million increase from contractual recoveries from tenants, which represents the tenants' proportionate share of the operating, maintenance, insurance, and real estate tax expenses that we incur to operate our shopping centers. recoveries from tenants increased, on a net basis, mainly from the following:
+o$12.7 million increase from acquisition of ubp;
+o$1.3 million increase from rents commencing at development properties and the acquisition of other operating properties in 2022 and 2023; and o$16.9 million net increase from same properties primarily due to higher operating costs in the current year.
+•$3.3 million increase in percentage rent due to increases in tenant sales.
+•$14.4 million decrease primarily driven by the 2022 collections of previously reserve amounts, which have continued to occur in 2023, but to a lesser degree.
+•$5.9 million increase in other lease income primarily due to an $3.8 million increase in lease termination fees and $2.1 million related to the acquisition of ubp.
+•$13.5 million decrease in straight-line rent due to higher 2022 levels of reinstating straight-line rents from former cash basis tenants upon returning to accrual basis.
+•$8.3 million increase in above and below market rent primarily driven by accelerated write offs for early tenant move-outs.
+management, transaction, and other fees increased $1.1 million primarily due to increased debt placement, property management and development fees from our real estate partnerships.
+46
+changes in our operating expenses are summarized in the following table:
+(in thousands)                  2023                 2022              change depreciation and amortization             $352,282           319,697          32,585
+property operating expense                 229,209           196,148          33,061
+real estate taxes                          165,560           149,795          15,765
+general and administrative                  97,806            79,903          17,903
+other operating expenses                     9,459             6,166           3,293
+total operating expenses                  $854,316           751,709         102,607
+depreciation and amortization costs increased $32.6 million, as follows:
+•$24.0 million increase from acquisition of ubp;
+•$5.1 million increase from same properties, primarily driven by redevelopment projects;
+•$3.0 million increase from acquisitions of operating properties; and
+•$0.5 million increase from development properties becoming available for occupancy.
+property operating expense increased $33.1 million, on a net basis, as follows:
+•$8.1 million increase from acquisition of ubp;
+•$1.3 million increase from development properties;
+•$3.2 million increase from higher claims expense in our captive insurance company;
+•$2.2 million related to acquisitions of other operating properties; and
+•$18.3 million increase from same properties primarily attributable to an increase in recoverable common area and tenant related costs.
+real estate taxes increased $15.8 million, on a net basis, mainly due to the following:
+•$8.9 million increase from acquisition of ubp;
+•$2.1 million increase from acquisitions of other operating properties and developments where capitalization ceased and spaces became available for occupancy; and
+•$4.8 million net increase from same properties primarily due to increases in real estate tax assessments across the portfolio.
+general and administrative costs increased $17.9 million, on a net basis, mainly due to the following:
+•$10.9 million net increase due to changes in the value of participant obligations within the deferred compensation plan, attributable to changes in market values of those investments, reflected within net investment income;
+•$1.1 million net increase driven by higher professional fees, business promotion and travel related costs;
+•$8.3 million net increase in compensation costs primarily driven by salary increases, fewer vacant positions and performance-based incentive compensation; partially offset by
+•$2.5 million decrease due to higher development overhead capitalization based on the timing and progress of our development and redevelopment projects.
+other operating expenses increased $3.3 million, primarily due to transition costs related to the acquisition of ubp.
+the following table presents the components of other expense:
+(in thousands)                            2023                     2022                   change interest expense, net interest on notes payable                           $154,647                148,803               5,844
+interest on unsecured credit facilities                6,824                  2,058               4,766
+capitalized interest                                  (5,695   )             (4,166   )          (1,529   )
+hedge expense                                            438                    438                   -
+interest income                                       (1,965   )               (947   )          (1,018   )
+interest expense, net                                154,249                146,186               8,063
+gain on sale of real estate, net of tax                 (661   )           (109,005   )         108,344
+early extinguishment of debt                             (99   )                  -                 (99   )
+net investment (income) loss                          (5,665   )              6,921             (12,586   )
+total other expense (income)                        $147,824                 44,102             103,722
+47
+interest expense, net increased $8.1 million primarily due to the following:
+•$5.8 million net increase related to loans assumed with the ubp acquisition;
+•$4.8 million increase driven by higher average balances on our unsecured credit facility; partially offset by
+•$2.5 million decrease from higher capitalization of interest due to timing of development spend and higher interest income earned on cash balances.
+during 2023, we recognized gains on sale of $0.7 million from three land parcels. during 2022, we recognized gains on sale of $109.0 million from two operating property and five land parcels.
+net investment income increased $12.6 million primarily driven by $11.0 million gains on investments held in the non-qualified deferred compensation plan which have an offsetting expense in general and administrative costs noted above and $1.6 million gains on investments held in our captive insurance company.
+total equity in income of investments in real estate partnerships changed as follows:
+(in thousands)                                                                             regency's              2023   2022                   change ownership gri - regency, llc ("grir")                                                                   40.00%           $35,901           35,819             82
+equity one jv portfolio llc ("nyc") (1)                                                       30.00%                84            9,173         (9,089   )
+columbia regency retail partners, llc ("columbia i")                                          20.00%             1,630            1,817           (187   )
+columbia regency partners ii, llc ("columbia ii")                                             20.00%             1,743            1,735              8
+columbia village district, llc                                                                30.00%             2,199            1,669            530
+regcal, llc ("regcal") (2)                                                                    25.00%             2,912            4,499         (1,587   )
+other investments in real estate partnerships                                        11.80% - 66.67%             6,072            5,112            960
+total equity in income of investments in real estate partnerships                                              $50,541           59,824         (9,283   )
+(1)on may 25, 2022, the nyc partnership sold its remaining two properties and distributed sales proceeds to its members. dissolution will follow final distributions, which are expected in 2024.
+(2)on april 1, 2022, we acquired our partner's 75% share in four properties held in the regcal partnership for a total purchase price of $88.5 million; therefore, results following the date of acquisition are included in consolidated results. the remaining operating property within regcal, llc, was sold in the fourth quarter of 2023.
+the $9.3 million decrease, on a net basis, in our equity in income of investments in real estate partnerships is largely attributable to the following changes:
+•$9.1 million decrease within nyc, primarily due to gains on the sale of two operating properties during 2022;
+•$1.6 million decrease within regcal, primarily due to gain on sale of one operating property during 2022 in comparison to the one sold in 2023; partially offset by
+•$1.0 million increase within other investments in real estate partnerships, related to increases in lease income at a single property partnership under redevelopment and income generated by new partnerships assumed through the ubp acquisition.
+the following represents the remaining components that comprise net income attributable to common shareholders and unit holders:
+(in thousands)                                                        2023                     2022                  change net income                                                                      $370,867               488,035             (117,168   )
+income attributable to noncontrolling interests                                   (6,310   )            (5,170   )           (1,140   )
+net income attributable to the company                                           364,557               482,865             (118,308   )
+preferred stock dividends                                                         (5,057   )                 -               (5,057   )
+net income attributable to common shareholders                                  $359,500               482,865             (123,365   )
+net income attributable to exchangeable operating partnership units                2,008                 2,105                  (97   )
+net income attributable to common unit holders                                  $361,508               484,970             (123,462   )
+comparison of the years ended december 31, 2022 and 2021:
+for a comparison of our results from operations for the years ended december 31, 2022 and 2021, see "part ii, item 7. management's discussion and analysis of financial condition and results of operations" of our annual report on form 10-k for the year ended december 31, 2022, filed with the sec on february 17, 2023.
+48
+supplemental earnings information we use certain non-gaap measures, in addition to certain performance metrics determined under gaap, as we believe these measures improve the understanding of the operating results. we believe these non-gaap measures provide useful information to our board of directors, management and investors regarding certain trends relating to our financial condition and results of operations. our management uses these non-gaap measures to compare our performance to that of prior periods for trend analyses, purposes of determining management incentive compensation and budgeting, forecasting and planning purposes. we provide pro-rata financial information because we believe it assists investors and analysts in estimating our economic interest in our consolidated and unconsolidated real estate partnerships, when read in conjunction with our reported results under gaap. we believe presenting our pro-rata share of operating results, along with other non-gaap measures, may assist in comparing our operating results to other reits. we continually evaluate the usefulness, relevance, limitations, and calculation of our reported non-gaap measures to determine how best to provide relevant information to the public, and thus such reported non-gaap measures could change. see "defined terms" in "item 1. business" for additional information regarding the definition of and other information regarding the non-gaap measures we present in this report.
+we do not consider non-gaap measures as an alternative to financial measures determined in accordance with gaap, rather they supplement gaap measures by providing additional information we believe to be useful to our shareholders. the principal limitation of these non-gaap measures is they may exclude significant expense and income items that are required by gaap to be recognized in our consolidated financial statements. in addition, they reflect the exercise of management's judgment about which expense and income items are excluded or included in determining these non-gaap measures. in order to compensate for these limitations, reconciliations of the non-gaap measures we use to their most directly comparable gaap measures are provided, including as set forth below. non-gaap measures should not be relied upon in evaluating the financial condition, results of operations, or future prospects.
+pro-rata same property noi:
+pro-rata same property noi, excluding termination fees/expenses, changed from the following major components:
+(in thousands)                                                            2023                       2022                       change real estate revenues:
+base rent                                                                             $940,556                 908,351          32,205
+recoveries from tenants                                                                328,314                 308,930          19,384
+percentage rent                                                                         14,531                  11,040           3,491
+termination fees                                                                         7,833                   5,007           2,826
+uncollectible lease income                                                                (361   )              14,496         (14,857   )
+other lease income                                                                      12,450                  11,945             505
+other property income                                                                    9,229                   8,580             649
+total real estate revenue                                                            1,312,552               1,268,349          44,203
+real estate operating expenses:
+operating and maintenance                                                              222,139                 202,017          20,122
+real estate taxes                                                                      168,825                 162,926           5,899
+ground rent                                                                             11,992                  11,761             231
+total real estate operating expenses                                                   402,956                 376,704          26,252
+pro-rata same property noi                                                            $909,596                 891,645          17,951
+less: termination fees / expense                                                         7,833                   5,007           2,826
+pro-rata same property noi, excluding termination fees / expense                      $901,763                 886,638          15,125
+pro-rata same property noi growth, excluding termination fees / expense                                                            1.7   %
+real estate revenue increased $44.2 million, on a net basis, as follows:
+•base rent increased $32.2 million due to rent steps in existing leases, positive rental spreads on new and renewal leases, and increases in occupancy, as well as redevelopment projects completing and operating.
+•recoveries from tenants increased $19.4 million due to increases in recoverable expenses.
+•percentage rent increased $3.5 million, due to increases in tenant sales.
+•termination fees increased $2.8 million driven by two anchor terminations recognized in 2023.
+•uncollectible lease income decreased $14.9 million primarily driven by the 2022 collection of previously reserved amounts, which have continued to occur in 2023, but to a lesser degree.
+49
+total real estate operating expense increased $26.3 million, on a net basis, as follows:
+•operating and maintenance increased $20.1 million primary due to increases in common area maintenance and other tenant-recoverable costs.
+•real estate taxes increased $5.9 million primary due to an increase in real estate tax assessments across the portfolio.
+same property roll-forward:
+our same property pool includes the following property count, pro-rata gla, and changes therein:
+2023                                     2022
+(gla in thousands)                                                                                property                 gla             property                 gla count                                    count beginning same property count                                                                          389              41,383                  393              41,294
+acquired properties owned for entirety of comparable periods                                             5                 771                    -                 327
+developments that reached completion by beginning of earliest comparable period presented                -                   -                    1                  72
+disposed properties                                                                                     (1   )             (27   )               (5   )            (195   )
+sf adjustments (1)                                                                                       -                   8                    -                (115   )
+change in intended property use                                                                          1                   -                    -                   -
+ending same property count                                                                             394              42,135                  389              41,383
+(1)sf adjustments arising from re-measurements or redevelopments.
+nareit ffo and core operating earnings:
+our reconciliation of net income attributable to common stock and unit holders to nareit ffo and to core operating earnings is as follows:
+(in thousands, except share information)                   2023                     2022
+reconciliation of net income to nareit ffo net income attributable to common shareholders                       $359,500                482,865
+adjustments to reconcile to nareit ffo: (1)
+depreciation and amortization (excluding ff&amp;e)                    378,400                344,629
+gain on sale of real estate                                            (3,822   )           (121,835   )
+exchangeable operating partnership units                                2,008                  2,105
+nareit ffo attributable to common stock and unit holders             $736,086                707,764
+reconciliation of nareit ffo to core operating earnings nareit funds from operations                                         $736,086                707,764
+adjustments to reconcile to core operating earnings: (1)
+not comparable items merger transition costs                                                 4,620                      -
+early extinguishment of debt                                              (99   )                176
+certain non cash items straight-line rent                                                    (11,060   )            (11,327   )
+uncollectible straight-line rent                                       (1,174   )            (14,155   )
+above/below market rent amortization, net                             (29,869   )            (21,434   )
+debt premium/discount amortization                                      2,352                   (184   )
+core operating earnings                                              $700,856                660,840
+(1)includes regency's pro-rata share of unconsolidated investment partnerships, net of pro-rata share attributable to noncontrolling interests.
+reconciliation of same property noi to nearest gaap measure:
+our reconciliation of net income attributable to common shareholders to same property noi, on a pro-rata basis, is as follows:
+(in thousands)                                                         2023                     2022
+net income attributable to common shareholders                                   $359,500               482,865
+less:
+management, transaction, and other fees                                            26,954                25,851
+other (1)                                                                          46,084                51,090
+plus:
+depreciation and amortization                                                     352,282               319,697
+general and administrative                                                         97,806                79,903
+other operating expense                                                             9,459                 6,166
+other expense                                                                     147,824                44,102
+equity in income of investments in real estate excluded from noi (2)               46,088                35,824
+net income attributable to noncontrolling interests                                 6,310                 5,170
+preferred stock dividends                                                           5,057                     -
+pro-rata noi                                                                      951,288               896,786
+less non-same property noi (3)                                                    (41,692   )            (5,141   )
+pro-rata same property noi                                                       $909,596               891,645
+(1)includes straight-line rental income and expense, net of reserves, above and below market rent amortization, other fees, and noncontrolling interests.
+(2)includes non-noi income earned and expenses incurred at our unconsolidated real estate partnerships, including those separated out above for our consolidated properties.
+(3)includes revenues and expenses attributable to non-same property, sold property, development properties, and corporate activities. also includes adjustments for earnings at the four properties we acquired from our former unconsolidated regcal partnership in 2022 in order to calculate growth on a comparable basis for the periods presented.
+liquidity and capital resources general we use cash flows generated from operating, investing, and financing activities to strengthen our balance sheet, finance our development and redevelopment projects, fund our investment activities, and maintain financial flexibility. a significant portion of our cash from operations is distributed to our common shareholders in the form of dividends in order to maintain our status as a reit.
+except for $200 million of private placement debt, our parent company has no capital commitments other than its guarantees of the commitments of our operating partnership. all remaining debt is held by our operating partnership, its subsidiaries, or by our real estate partnerships. the operating partnership is a co-issuer and a guarantor of the $200 million of outstanding debt of our parent company. the parent company will from time to time access the capital markets for the purpose of issuing new equity, and will simultaneously contribute all of the offering proceeds to the operating partnership in exchange for additional partnership units.
+we continually assess our available liquidity and our expected cash requirements, including monitoring our tenant rent collections. we have access to and draw on multiple financing sources to fund our operations and our long-term capital needs, including the requirements of our in process and planned developments, redevelopments, other capital expenditures, and the repayment of debt. we expect to meet these needs by using a combination of the following: cash flow from operations after funding our common stock and preferred stock dividends, borrowings from our line, proceeds from the sale of real estate, mortgage loan and unsecured bank financing, distributions received from our real estate partnerships, and when the capital markets are favorable, proceeds from the sale of equity securities or the issuance of new unsecured debt. we continually evaluate alternative financing options, and we believe we can obtain new financing on reasonable terms, although likely at higher interest rates than that of our debt currently outstanding, due to the current interest rate environment.
+on january 8, 2024, regency priced a public offering of $400 million of senior unsecured notes due 2034 (the "2024 notes") under our existing shelf registration filed with the sec. the notes mature on january 15, 2034, and were issued at 99.617% of par value with a coupon of 5.25%. we have $250 million of unsecured debt maturing in june 2024, which we intend to pay off by utilizing the proceeds available from the 2024 notes. in addition, we have $148.3 million of secured mortgage maturities during the next 12 months, including mortgages within our real estate partnerships, which we intend to refinance or pay-off as they mature. based upon our available cash balance, sources of capital, our current credit ratings, and the number of high quality, unencumbered properties we own, we believe our available capital resources are sufficient to meet our expected capital needs for the next year, although, in the longer term, we can provide no assurances.
+in addition to our $85.0 million of unrestricted cash, we have the following additional sources of capital available:
+(in thousands)                                                           december 31, 2023
+atm program (see note 12 to our consolidated financial statements)
+original offering amount                                                          $500,000
+available capacity                                                                $500,000
+line of credit (see note 9 to our consolidated financial statements)
+total commitment amount(2)                                                      $1,250,000
+available capacity (1)                                                          $1,090,285
+maturity (2)                                                                march 23, 2025
+(1)net of letters of credit issued against our line.
+(2)in january 2024, the company amended its line, to, among other items, increase the borrowing capacity to $1.5 billion and to extend the maturity date to march, 2028 with the option to extend the maturity for two additional six-month periods.
+the declaration of dividends is determined quarterly by our board of directors. on february 7, 2024, our board of directors:
+•declared a common stock dividend of $0.67 per share, payable on april 3, 2024, to shareholders of record as of march 13, 2024;
+•declared a dividend on the series a preferred stock, which will be paid at a rate of $0.390625 per share on april 30, 2024. the dividend will be payable to holders of record of the series a preferred stock as of the close of business on april 15, 2024; and
+•declared a dividend on the series b preferred stock, which will be paid at a rate of $0.367200 per share on april 30, 2024. the dividend will be payable to holders of record of the series b preferred stock as of the close of business on april 15, 2024.
+while future dividends will be determined at the discretion of our board of directors, we plan to continue paying an aggregate amount of distributions to our stock and unit holders that, at a minimum, meet the requirements to continue qualifying as a reit for federal income tax purposes. we have historically generated sufficient cash flow from operations to fund our dividend distributions. during the years ended december 31, 2023 and 2022, we generated cash flow from operations of $719.6 million and $655.8 million, respectively, and paid $458.8 million in dividends to our common and preferred stock and unit holders, and $430.1 million in dividends to our common stock and unit holders, respectively.
+we currently have development and redevelopment projects in various stages of construction, along with a pipeline of potential projects for future development or redevelopment. after funding our common and preferred stock dividend payments in january 2024, we estimate that we will require capital during the next 12 months of approximately $677.8 million related to leasing commissions, tenant improvements, in-process developments and redevelopments, capital contributions to our real estate partnerships, and repaying maturing debt. these capital requirements are being impacted by inflation resulting in increased costs of construction materials, labor, and services from third party contractors and suppliers. further, continued challenges from permitting delays and labor shortages may extend the time to completion of these projects. in response, we have implemented mitigation strategies such as entering into fixed cost construction contracts, pre-ordering materials, and other planning efforts.
+if we start new developments or redevelopments, commit to property acquisitions, repay debt prior to maturity, declare future dividends, or repurchase shares of our common stock, our cash requirements will increase. if we refinance maturing debt, our cash requirements will decrease.
+we endeavor to maintain a high percentage of unencumbered assets. as of december 31, 2023, 87.1% of our wholly-owned real estate assets were unencumbered. our low level of encumbered assets allows us to more readily access the secured and unsecured debt markets and to maintain borrowing capacity on the line. our trailing 12 month fixed charge coverage ratio, including our pro-rata share of our partnerships, was 4.7x and 4.6x for the periods ended december 31, 2023 and 2022, respectively, and our pro-rata net debt and preferred stock-to-operating ebitdare adjusted ratio on a trailing 12 month basis was 5.4x and 5.0x, respectively, for the same periods. in light of the merger with ubp on august 18, 2023, the adjusted debt metric calculations include legacy regency results for the trailing 12 months and the annualized contribution from ubp post merger.
+our line and unsecured debt require that we remain in compliance with various covenants, which are described in note 9 to the consolidated financial statements. the debt assumed in conjunction with the ubp acquisition contain covenants that are consistent with our existing debt covenants. we were in compliance with these covenants at december 31, 2023, and expect to remain in compliance.
+summary of cash flow activity the following table summarizes net cash flows related to operating, investing, and financing activities of the company:
+(in thousands)                                              2023                      2022                   change net cash provided by operating activities                              $719,591                655,815               63,776
+net cash used in investing activities                                  (341,978   )           (206,108   )         (135,870   )
+net cash used in financing activities                                  (355,035   )           (475,958   )          120,923
+net change in cash, cash equivalents, and restricted cash                22,578                (26,251   )           48,829
+total cash, cash equivalents, and restricted cash                       $91,354                 68,776               22,578
+net cash provided by operating activities:
+net cash provided by operating activities increased $63.8 million due to:
+•$58.7 million increase in cash from operations due to timing of receipts and payments, and
+•$5.1 million increase in operating cash flow distributions from investments in real estate partnerships.
+net cash used in investing activities:
+net cash used in investing activities changed by $135.9 million as follows:
+(in thousands)                                                                                                             2023                      2022                   change cash flows from investing activities:
+acquisition of operating real estate, net of cash acquired of $0, $3,061 and $2,991 in 2023, 2022 and 2021, respectively       $(45,386          )           (169,639   )          124,253
+acquisition of ubp, net of cash acquired of $14,143                                                                                    (82,389   )                  -              (82,389   )
+real estate development and capital improvements                                                                                      (232,855   )           (195,418   )          (37,437   )
+proceeds from sale of real estate                                                                                                       11,167                143,133             (131,966   )
+issuance of notes receivable                                                                                                            (4,000   )                  -               (4,000   )
+collection of notes receivable                                                                                                           4,000                  1,823                2,177
+investments in real estate partnerships                                                                                                (13,119   )            (36,266   )           23,147
+return of capital from investments in real estate partnerships                                                                          11,308                 48,473              (37,165   )
+dividends on investment securities                                                                                                       1,283                  1,113       170
+acquisition of investment securities                                                                                                    (7,990   )            (21,112   )           13,122
+proceeds from sale of investment securities                                                                                             16,003                 21,785               (5,782   )
+net cash used in investing activities                                                                                          $(341,978         )           (206,108   )         (135,870   )
+significant changes in investing activities include:
+•we paid $45.4 million in 2023 to purchase two operating properties. in 2022, we paid $169.6 million to purchase seven operating properties, including four properties in which we previously held a 25% interest through an unconsolidated investment in real estate partnership.
+•we invested $82.4 million, net of $14.1 million in cash acquired for the acquisition of ubp, including $39.3 million for ubp debt repaid at closing, and $57.2 million in direct transaction and other costs.
+•we invested $37.4 million more in 2023 than 2022 in real estate development, redevelopment, and capital improvements, as further detailed in the tables below.
+•we sold five land parcels, and one development project interest in 2023 for proceeds of $11.2 million compared to two operating properties, four land parcels, and one development project interest in 2022 for proceeds of $143.1 million.
+•we issued and collected $4.0 million in notes receivable during 2023, and collected $1.8 million during 2022.
+•we invested $13.1 million in our real estate partnerships during 2023, including:
+o$2.8 million to fund our share of acquiring one operating property within an existing real estate partnership, and o$10.3 million to fund our share of development and redevelopment activities
+•during the same period in 2022, we invested $36.3 million in our real estate partnerships, including:
+o$6.1 million to fund our share of acquiring one operating property within an existing real estate partnership o$20.2 million to fund our share of secured debt maturities, and o$10.0 million to fund our share of development and redevelopment activities.
+53
+•return of capital from our unconsolidated investments in real estate partnerships includes sales or financing proceeds:
+oduring 2023, we received $11.3 million, including $3.6 million from our share of debt refinancing activities and $7.7 million from our share of proceeds from real estate sales.
+oduring 2022, we received $48.5 million, including $11.6 million from our share of debt refinancing activities and $36.9 million from our share of proceeds from real estate sales.
+•acquisition of securities and proceeds from sale of securities pertain to investment activities held in our captive insurance company and our deferred compensation plan.
+we plan to continue developing and redeveloping shopping centers for long-term investment. during 2023, we deployed capital of $232.9 million for the development, redevelopment, and improvement of our real estate properties, comprised of the following:
+(in thousands)                                     2023                2022              change capital expenditures:
+land acquisitions                                             $2,580            12,484         (9,904   )
+building and tenant improvements                              92,609            75,420         17,189
+redevelopment costs                                           88,426            68,730         19,696
+development costs                                             34,981            27,861          7,120
+capitalized interest                                           5,505             4,133          1,372
+capitalized direct compensation                                8,754             6,790          1,964
+real estate development and capital improvements            $232,855           195,418         37,437
+•we paid $2.6 million to acquire one land parcel for development in 2023, and paid $12.5 million to acquire one land parcel for development and one land parcel formerly under ground lease at one of our existing centers in 2022.
+•building and tenant improvements increased $17.2 million during 2023, primarily related to the timing of capital projects.
+•redevelopment costs are $19.7 million higher in 2023 due to the timing and magnitude of projects currently in process. we intend to continuously improve our portfolio of shopping centers through redevelopment which can include adjacent land acquisition, existing building expansion, facade renovation, new out-parcel building construction, and redevelopment related tenant improvement costs. the size and magnitude of each redevelopment project varies with each redevelopment plan. the timing and duration of these projects could also result in volatility in noi. see the tables below for more details about our redevelopment projects.
+•development costs are higher in 2023 due to the progress towards completion of our development projects in process. see the tables below for more details about our development projects.
+•interest is capitalized on our development and redevelopment projects and is based on cumulative actual costs expended. we cease interest capitalization when the property is no longer being developed or is available for occupancy upon substantial completion of tenant improvements, but in no event would we capitalize interest on the project beyond 12 months after the anchor tenant opens for business. if we reduce our development and redevelopment activity, the amount of interest that we capitalize may be lower than historical averages.
+•we have a staff of employees who directly support our development program, which includes redevelopment of our existing properties. internal compensation costs directly attributable to these activities are capitalized as part of each project.
+the following table summarizes our development projects in-process and completed:
+(in thousands, except cost psf)                                                                                                         december 31, 2023
+property name                                 market                   ownership   start date        estimated stabilization year (1)   estimated / actual net                gla (3)                    cost psf              % of costs development                                                of gla (2) (3)                incurred costs (2) (3)
+developments in-process glenwood green                                metro nyc                      70%   q1-22                                         2025                      46,172                 247                         187                      81   %
+baybrook east - phase 1b(4)                   houston, tx                    50%   q2-22                                         2025                      10,384                  78                         133                      77   %
+sienna - phase 1                              houston, tx                    75%   q2-23                                         2027                       9,409                  23                         409                      26   %
+the shops at sunvet                           long island, ny               100%   q2-23                                         2027                      86,872                 167                         520                      36   %
+total developments in-process                                                                                                           $152,837                                  515                        $297                      51   %
+(1)estimated stabilization year represents the estimated first full calendar year that the project will reach our expected stabilized yield.
+(2)includes leasing costs and is net of tenant reimbursements.
+(3)estimated net development costs and gla are reported based on regency's ownership interest in the real estate partnership at completion.
+(4)estimated net development costs for baybrook east - phase 1b is limited to our ownership interest in the value of land and site improvements to deliver a parcel to a grocer, under a ground lease agreement, to construct their building and improvements. this property is included in our investments in real estate partnerships.
+54
+the following table summarizes our redevelopment projects in-process and completed:
+(in thousands)                                                                                                                                                                                                                              december 31, 2023
+property name                                               market                       ownership   start date        estimated stabilization year (1)     estimated incremental project costs (2) (3)               gla (3)             % of costs incurred redevelopments in-process the abbot                                                   boston, ma                        100%   q2-19                                         2025                                         $58,973                    64                              95   %
+westbard square phase i                                     bethesda, md                      100%   q2-21                                         2025                                          37,000                   126                              74   %
+buckhead landing                                            atlanta, ga                       100%   q2-22                                         2025                                          30,859                   152                              37   %
+bloom on third (fka town and country center)                los angeles, ca                    35%   q4-22                                         2027                                          24,525                    51                              24   %
+mandarin landing                                            jacksonville, fl                  100%   q2-23                                         2025                                          16,422                   140                              22   %
+serramonte center - phase 3                                 san francisco, ca                 100%   q2-23                                         2025                                          36,989                 1,072                              13   %
+circle marina center                                        los angeles, ca                   100%   q3-23                                         2025                                          14,986                   118                              10   %
+avenida biscayne                                            miami, fl                         100%   q4-23                                         2026                                          22,743                    29                              12   %
+cambridge square                                            atlanta, ga                       100%   q4-23                                         2026                                          15,002                    73                               3   %
+various redevelopments                                      various                     20% - 100%   various                                    various                                          57,762                 1,368                              40   %
+total redevelopments in-process                                                                                                                                                                $315,261                 3,193                              43   %
+redevelopments completed the crossing clarendon                                      metro dc                          100%   q4-18                                         2024                                         $55,679                   129
+various properties                                          various                     20% - 100%   various                                    various                                          32,345                 1,648
+total redevelopments completed                                                                                                                                                                  $88,024                 1,777
+(1)estimated stabilization year represents the estimated first full calendar year that the project will reach our expected stabilized yield.
+(2)includes leasing costs and is net of tenant reimbursements.
+(3)estimated net development costs and gla are reported based on regency's ownership interest in the real estate partnership at completion.
+net cash used in financing activities:
+net cash flows used in financing activities changed during 2023, as follows:
+(in thousands)                                                                             2023                      2022                   change cash flows from financing activities:
+net proceeds from common stock issuances                                                       $(33              )             61,284             (61,317   )
+repurchase of common shares in conjunction with equity award plans                                      (7,662   )             (6,447   )          (1,215   )
+common shares repurchased through share repurchase program                                             (20,006   )            (75,419   )          55,413
+proceeds from sale of treasury stock, net                                                      103                                 64       39
+contributions from (distributions to) limited partners in consolidated partnerships, net                 2,425                 (7,245   )           9,670
+dividend payments and operating partnership distributions                                             (458,846   )           (430,143   )         (28,703   )
+redemption of exchangeable operating partnership units                                                  (9,163   )                  -              (9,163   )
+proceeds from unsecured credit facilities, net                                                         152,000                      -             152,000
+proceeds from debt issuance                                                                             59,500                      -              59,500
+debt repayment, including early redemption costs                                                       (72,827   )            (17,964   )         (54,863   )
+payment of loan costs                                                                                     (526   )                (88   )            (438   )
+net cash used in financing activities                                                          $(355,035         )           (475,958   )         120,923
+significant financing activities during the years ended december 31, 2023 and 2022 included the following:
+•we received proceeds of $61.3 million, net of issue costs, in april 2022 upon settling forward equity sales under our atm program.
+•we repurchased for cash a portion of the common stock granted to employees for stock-based compensation to satisfy employee tax withholding requirements, which totaled $7.7 million and $6.4 million during the years ended december 31, 2023 and 2022, respectively.
+•we paid $20.0 million to repurchase 349,519 shares of our common stock through our repurchase program during 2023, and $75.4 million during the same period in 2022 to repurchase 1,294,201 shares of our common stock through our repurchase program.
+•we received $2.4 million net from limited partners, including $10.2 million of contributions for their share of debt repayments and development funding, partially offset by $7.8 million in operating distributions during 2023. during 2022, we paid $7.2 million, net to limited partners, including $15.0 million in distributions for both operating cash flows as well as a partner buyout, partially offset by $7.8 million of contributions from limited partners in new consolidated investments in real estate partnerships.
+•we paid $28.7 million more in dividends as a result of an increase in our dividend rate per share and the number of shares of our common stock outstanding, as well as preferred dividends commencing in 2023 as a result of the ubp acquisition.
+•we paid $9.2 million in 2023 for the redemption of exchangeable operating partnership units.
+•we received net proceeds of $152.0 million from our unsecured credit facilities to fund direct transaction costs related to the ubp acquisition.
+•we had the following debt related activity during 2023:
+owe received $59.5 million in proceeds from a mortgage refinancing, owe paid $72.8 million for debt repayments, including:
+▪$11.2 million in principal mortgage payments, and
+▪$61.6 million for a combination of repaying or refinancing six mortgage loans at maturity.
+•we had the following debt related activity during 2022:
+owe paid $18.0 million for secured debt payments, including:
+▪$6.8 million to repay one mortgage, and
+▪$11.2 million in principal mortgage payments.
+contractual obligations we have contractual obligations at december 31, 2023, which are discussed in our notes to consolidated financial statements and include:
+•mortgage loans, unsecured notes, and unsecured credit facilities as discussed in note 9, and related interest rate swaps as discussed in note 10;
+•we have shopping centers that are subject to non-cancelable long-term ground leases where a third party owns and has leased the underlying land to us to construct and/or operate a shopping center. we also have non-cancelable operating leases pertaining to office space from which we conduct our business. these lease obligations are discussed in note 7;
+•our share of mortgage loans within our investments in real estate partnerships, as discussed in note 4;
+•letters of credit of $8.5 million issued to cover our captive insurance program and performance obligations on certain development projects, the latter of which will be satisfied upon completion of the development projects;
+•obligations for retirement savings plans due to uncertainty around timing of participant withdrawals, which are solely within the control of the participant, and are further discussed in note 14; and
+•we will also incur obligations related to construction or development contracts on projects in process; however, future amounts under these construction contracts are not due until future satisfactory performance under the contracts.
+critical accounting estimates knowledge about our significant accounting policies is necessary for a complete understanding of our consolidated financial statements. the preparation of our consolidated financial statements requires that we make certain estimates, judgments, and assumptions that impact the balance of assets and liabilities as of the financial statement date and the reported amount of income and expenses during the financial reporting period. these accounting estimates, judgments and assumptions are based upon, but not limited to historical experience, current trends, expected future results, current market conditions, and interpretation of industry accounting standards. while the following is not intended to be a comprehensive list of our accounting estimates, the estimates discussed below are believed to be critical because of their significance to the consolidated financial statements and the possibility that future events may differ from those judgments, or that the use of different assumptions could result in materially different estimates. we review these estimates on a periodic basis to ensure reasonableness; however, the amounts we may ultimately realize could differ from such estimates.
+valuation of real estate investments acquired from urstadt biddle properties, inc.
+we generally account for an acquisition of a single real estate property or portfolio of real estate properties as an asset acquisition. we measure the real estate assets acquired based on their total cost of the acquisition and the total cost is allocated to the real estate properties acquired and related lease intangibles on a relative fair value basis. the fair value of the real estate properties acquired is based on a valuation utilizing an income approach methodology, primarily by applying a market-specific capitalization rate to the estimated stabilized net operating income of the individual real estate properties. the fair value of land acquired is generally based on a valuation utilizing a market approach methodology that identifies comparable land sales.
+key assumptions may include stabilized net operating income and capitalization rates. stabilized net operating income is based on several factors including property operating history, market rents, location, property conditions, amenities, local demographics, economic trends, and size of the property. we determine capitalization rates by market based on recent transactions and other market data and adjust, if necessary, based on the property characteristics. the fair value of land is generally based on relevant market data, such as a comparison of the subject site to similar parcels that have recently been sold or are currently being offered on the market for sale. the use of different assumptions, judgments and estimates to value the acquired properties and allocate the most significant portion of the purchase price among the land, buildings and improvements and identified intangible assets and liabilities could affect the depreciation and amortization expense we recognize over the estimated remaining useful life.
+impairment of real estate investments in accordance with gaap, we evaluate our real estate for impairment whenever there are events or changes in circumstances, including property operating performance, general market conditions or changes in expected hold periods, that indicate that the carrying value of our real estate properties (including any related amortizable intangible assets or liabilities) may not be recoverable. if such events or changes occur, we compare the current carrying value of the asset to the estimated undiscounted cash flows that are directly associated with the use and ultimate disposition of the asset. our estimated cash flows are based on several key assumptions, including rental rates, expected leasing activity, costs of tenant improvements, leasing commissions, expected hold period, comparable sales information, and assumptions regarding the residual value upon disposition, including the exit capitalization rate. these key assumptions are subjective in nature and the resulting impairment, if any, could differ from the actual gain or loss recognized upon ultimate sale in an arm's length transaction. if the carrying value of the asset exceeds the estimated undiscounted cash flows, an impairment loss is recognized equal to the excess of carrying value over the estimated fair value.
+the estimated fair value of real estate assets is subjective and is estimated through comparable sales information and other market data if available, as well as the use of an income approach such as the direct capitalization method or the discounted cash flow approach. the discounted cash flow method uses similar assumptions to the undiscounted cash flow method above, as well as a discount rate. such cash flow projections and rates are subject to management judgment and changes in those assumptions could impact the estimation of fair value. in estimating the fair value of undeveloped land, we generally use market data and comparable sales information. changes in events or changes in circumstances may alter the expected hold period of an asset or asset group, which may result in an impairment loss and such loss could be material to the company's financial condition or operating performance.
+recent accounting pronouncements see note 1 to consolidated financial statements.
+environmental matters we are subject to numerous environmental laws and regulations, which primarily pertain to chemicals historically used by certain current and former dry cleaning and gas station tenants and the existence of asbestos in older shopping centers. we believe that the relatively few tenants who currently operate dry cleaning plants or gas stations do so in accordance with current laws and regulations. generally, we endeavor to require tenants to remove dry cleaning plants from our shopping centers or convert them to more environmentally friendly systems, in accordance with the terms of our leases. we carry an environmental insurance policy for certain third-party liabilities and, in certain circumstances, remediation costs on shopping centers for currently unknown contamination. we have also secured environmental insurance policies, where appropriate, on a relatively small number of specific properties with known contamination, in order to mitigate our environmental risk. we monitor the shopping centers containing environmental issues and in certain cases voluntarily remediate the sites. we also have legal obligations to remediate certain sites and we are in the process of doing so.
+as of december 31, 2023, we had accrued liabilities of $19.4 million for our pro-rata share of environmental remediation, including our investments in real estate partnerships. we believe that the ultimate remediation of currently known environmental matters will not have a material effect on our financial position, cash flows, or results of operations. we can give no assurance that existing environmental studies on our shopping centers have revealed all potential environmental contamination; that our estimate of liabilities will not change as more information becomes available; that any previous owner, occupant or tenant did not create any material environmental condition not known to us; that the current environmental condition of the shopping centers will not be affected by tenants and occupants, by the condition of nearby properties, or by unrelated third parties; or that changes in applicable environmental laws and regulations or their interpretation will not result in additional environmental liability to us.

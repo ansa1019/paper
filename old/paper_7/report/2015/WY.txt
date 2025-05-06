@@ -1,0 +1,537 @@
+management's discussion and analysis of financial condition and results of operations (md&a)
+what you will find in this md&amp;a our md&a includes the following major sections:
+•   economic and market conditions affecting our operations;
+•   financial performance summary;
+•   results of our operations - consolidated and by segment;
+•   liquidity and capital resources - where we discuss our cash flows;
+•   off-balance sheet arrangements;
+•   environmental matters, legal proceedings and other contingencies; and
+•   accounting matters - where we discuss critical accounting policies and areas requiring judgments and estimates.
+economic and market conditions affecting our operations the strength of the u.s. housing market strongly affects our wood products and timberlands segments. as published by the u.s. census bureau, total u.s. housing starts for 2015 were 1,111,000 units, with single-family units accounting for 715,000 of the total. this represents a 10 percent increase in single-family starts from 2014, which were 648,000 units. multi-family construction also increased in 2015 to 396,000 units compared with 358,000 in 2014. expectations are for a similar increase in 2016. consensus forecasts place expected total housing starts between 1.2 and 1.3 million units for 2016. sources include ihs global insight, john burns real estate and risi. while housing has improved significantly since the recession of 2009, current demand for new housing continues to run below historic pre bubble averages. the 25-year period of 1976-2000 averaged 1.5 million total starts and 1.1 million single family starts, levels which have not yet been achieved in the post recession period.
+wood products primarily sells into the new residential building and repair and remodel markets. demand for wood products continued to improve in 2015 following the growth in home construction, however, growth in production also expanded and prices were lower in 2015 than 2014. the random lengths framing lumber composite was 14 percent lower in 2015 versus 2014 while oriented strand board (osb) was 4 percent lower in 2015 as measured by random lengths north central price. expectations are for similar to slightly higher wood product prices in 2016 as demand continues to increase with growth in housing starts and remodeling.
+demand for logs from our timberlands segment is affected by the production of wood-based building products as well as export demand in our western holdings. in the south, southern pine sawlog prices were flat to slightly higher in 2015 as available supplies continue to match or exceed growth in demand. western log prices were lower in 2015 due primarily to the pullback in demand from china which had been actively competing with domestic lumber producers for sawlogs. expectations are for slightly improved log prices as off-shore demand improves over 2015 and domestic wood products manufacturing output increases with rising housing starts creating increased log demand.
+cellulose fibers is primarily affected by global supply and demand factors and the relative strength of the u.s. dollar. the slowdown in global growth and reduced expectations for emerging economies slowed demand growth for pulp in 2015. the u.s. dollar continued to strengthen versus the euro in 2015, rising 12 percent due to stronger us economic growth and increasingly accommodative monetary policies in eurozone economies. consequently prices for benchmark nbsk pulp were 8% lower in 2015 versus 2014. expectations are for similar to slightly lower prices in 2016 as global economic growth is expected to be weak, which will limit growth in demand for products made with cellulose fibers. furthermore, the us dollar is expected to remain strong relative to other currencies including the euro and a weak euro has historically been associated with lower us dollar prices for cellulose fibers.
+weyerhaeuser company > 2015 annual report and form 10-k 37
+financial performance summary net sales by segment contribution to pretax earnings by segment weyerhaeuser company > 2015 annual report and form 10-k 38
+results of operations in reviewing our results of operations, it is important to understand these terms:
+•   sales realizations refer to net selling prices - this includes selling price plus freight minus normal sales deductions.
+•   net contribution to earnings refers to earnings (loss) attributable to weyerhaeuser shareholders before interest expense and income taxes.
+consolidated results how we did in 2015
+summary of financial results dollar amounts in millions, except per-share figures amount of change
+2015                                                                                                 2014              2013         2015                   2014
+vs.                     vs.
+2014                   2013
+net sales                                                                        $7,082            $7,403            $7,254         $(321       )          $149
+operating income                                                                   $919            $1,320              $634         $(401       )          $686
+earnings from discontinued operations, net of tax                                    $-              $998               $72         $(998       )          $926
+net earnings attributable to weyerhaeuser common shareholders                      $462            $1,782              $540         $(1,320     )        $1,242
+basic earnings per share attributable to weyerhaeuser common shareholders         $0.89             $3.20             $0.95         $(2.31      )         $2.25
+diluted earnings per share attributable to weyerhaeuser common shareholders       $0.89             $3.18             $0.95         $(2.29      )         $2.23
+comparing 2015 with 2014
+net sales net sales decreased $321 million - 4 percent - primarily due to:
+•   lower timberlands segment sales - $147 million - primarily due to lower average log sales realizations and export sales volumes in the west, and lower log sales volumes in the south;
+•   lower wood products segment sales - $98 million - primarily due to decreased structural lumber and osb average realizations, partially offset by higher structural lumber, osb, and engineered solid section sales volumes and higher sales of complementary building products; and
+•   lower cellulose fibers segment sales - $76 million - primarily due to lower pulp and liquid packaging board average sales realizations.
+net earnings attributable to weyerhaeuser common shareholders our net earnings attributable to weyerhaeuser common shareholders decreased $1,320 million primarily due to:
+•   earnings from discontinued operation recognized in 2014 - $998 million. there were no earnings from discontinued operations in 2015;
+•   lower gross margin - $252 million - primarily due to lower average sales realizations in lumber and osb in our wood products segment, lower average log sales realizations and sales volumes in our timberlands segment, and lower average sales realizations for pulp and liquid packaging board, and higher operating costs due to scheduled maintenance outages and the west coast port slowdown in our cellulose fibers segment;
+•   lower other operating income - $219 million - primarily due to a $151 million pretax gain recognized in 2014 related to a previously announced postretirement plan amendment, a $22 million pretax gain recognized in 2014 on the sale of a landfill in washington state, $14 million of plum creek merger-related costs in 2015, and a $13 million noncash impairment charge related to a nonstrategic asset sale in 2015; and
+•   losses from an equity affiliate in 2015 - $105 million - primarily due to an $84 million noncash asset impairment recorded by an equity affiliate in the fourth quarter 2015.
+these decreases were partially offset by:
+•   lower income taxes - $188 million - primarily due to lower earnings in our taxable reit subsidiary (trs) in 2015, an income tax benefit recognized in the fourth quarter 2015 related to a noncash asset impairment recorded by an equity affiliate and the expiration of the company's built-in-gains tax period as a result of a change in u.s. tax legislation; and
+•   lower general and administrative expenses - $49 million.
+comparing 2014 with 2013
+net sales net sales increased $149 million - 2 percent - primarily due to:
+•   timberlands segment sales increased $154 million, primarily due to higher log prices and increased sales volumes in the west, including our acquired longview timber holdings.
+•   cellulose fibers segment sales increased $34 million primarily due to higher sales realizations for pulp.
+weyerhaeuser company > 2015 annual report and form 10-k 39
+these increases were partially offset by a $39 million decrease in our wood products segment sales, primarily due to lower sales realizations for osb. this decrease in sales was partially offset by higher sales realizations and volumes for engineered wood products and lumber and increased sales from complementary building products.
+net earnings attributable to weyerhaeuser common shareholders our net earnings attributable to weyerhaeuser common shareholders increased $1,242 million primarily due to:
+•   a $926 million increase in earnings from discontinued operations, primarily due to a $972 million net gain on the real estate divestiture recognized in 2014;
+•   a $333 million decrease in charges for restructuring, closure and asset impairments primarily related to a noncash impairment charge relating to a large master-planned community north of las vegas, nevada which was retained by weyerhaeuser in the divestiture of weyerhaeuser real estate company (wreco);
+•   a $206 million increase in gross margin in our timberlands and cellulose fibers segments, primarily due to higher sales realizations and owning longview timber for a full year;
+•   a $166 million increase in other operating income, primarily due to a $151 million pretax gain recognized in 2014 related to a previously announced postretirement plan amendment; and
+•   a $79 million decrease in our selling, general and administrative expenses.
+these increases were partially offset by:
+•   a $356 million change in income taxes from a benefit in 2013 to an expense in 2014 primarily related to a previously unrecognized tax benefit recorded in 2013 and higher earnings in our taxable reit subsidiary (trs) in 2014; and
+•   a $140 million decrease in gross margin in our wood products segment, primarily due to lower sales realizations in osb.
+timberlands how we did in 2015
+we report sales volume and annual production data for our timberlands segment in our business/what we do/timberlands.
+here is a comparison of net sales to unaffiliated customers, intersegment sales, and net contribution to earnings for the last three years:
+net sales and net contribution to earnings for timberlands dollar amounts in millions amount of change
+2015                                                                                                       2014                                      2013                                      2015                                      2014
+vs.                                       vs.
+2014                                      2013
+net sales to unaffiliated customers:
+logs:
+west                                                             $830                                      $972                                      $828                                     $(142             )                        $144
+south                                                             241                                       257                                       256                                       (16             )                           1
+canada                                                             24                                        22                                        19                                         2                                         3
+total                                                           1,095                                     1,251                                     1,103                                      (156             )                         148
+chip sales                                                         15                                        12                                         9                                         3                                         3
+timberlands exchanges(1)                                           62                                        52                                        65                                        10                                       (13             )
+higher and better-use land sales(1)                                14                                        19                                        19                                        (5             )                           -
+minerals, oil and gas                                              26                                        32                                        32                                        (6             )                           -
+products from international operations(2)                          87                                        96                                        90                                        (9             )                           6
+other products                                                     51                                        35                                        25                                        16                                        10
+subtotal sales to unaffiliated customers                        1,350                                     1,497                                     1,343                                      (147             )                         154
+intersegment sales:
+united states                                                     559                                       576                                       518                                       (17             )                          58
+other                                                             271                                       291                                       281                                       (20             )                          10
+subtotal intersegment sales                                       830                                       867                                       799                                       (37             )                          68
+total                                                          $2,180                                    $2,364                                    $2,142                                     $(184             )                        $222
+net contribution to earnings                                     $549                                      $613                                      $470                                      $(64             )                        $143
+(1) significant dispositions of higher and better use timberland and some nonstrategic timberlands are made through subsidiaries.
+(2) products include logs, plywood and hardwood lumber harvested or produced by our international operations. this includes sales from our operations in uruguay and brazil (sold in 2014).
+on july 23, 2013, we purchased 100 percent of the equity interests in longview timber llc (longview timber) for cash and assumed debt. the sales and net contribution to earnings of our acquired entity from the acquisition date forward are included in the west results of our timberlands segment. longview timber was and continues to be a supplier to our wood products segment and those sales are shown in intersegment sales. more information on this transaction can be found in note 4: acquisitions in the notes to consolidated financial statements.
+weyerhaeuser company > 2015 annual report and form 10-k 40
+comparing 2015 with 2014
+net sales - unaffiliated customers net sales to unaffiliated customers decreased $147 million - 10 percent - primarily due to a $142 million decrease in western log sales as a result of lower average sales realizations and export sales volumes, and a $16 million decrease in southern log sales due to lower sales volumes.
+intersegment sales intersegment sales decreased $37 million - 4 percent - primarily due to a $20 million decrease in canada due to lower translated revenues as a result of the strengthening u.s. dollar, and a $17 million decrease in the united states due to lower southern log sales volumes and decreased western average realizations.
+net contribution to earnings net contribution to earnings decreased $64 million - 10 percent - primarily due to:
+•   lower average log sales realizations in the west - $106 million and
+•   lower sales volumes in the west and south - $46 million.
+these decreases were partially offset by:
+•   lower operating costs, primarily due to lower logging and silviculture costs in the south and lower log purchases in the west - $68 million;
+•   higher average sales realizations in the south - $13 million; and
+•   lower selling, general and administrative expenses - $11 million.
+comparing 2014 with 2013
+net sales - unaffiliated customers net sales to unaffiliated customers increased $154 million - 11 percent - primarily due to a $144 million increase in western log sales due to higher log prices from our legacy western timberlands and a 17 percent increase in sales volumes including the increase related to the acquired longview timber holdings.
+intersegment sales intersegment sales increased $68 million - 9 percent - primarily due to:
+•   higher sales volume in the united states including the increase related to acquired longview timber holdings, and higher log prices in our legacy western and southern timberlands - $58 million; and
+•   higher log and chip sales volumes in canada - $10 million.
+net contribution to earnings net contribution to earnings increased $143 million - 30 percent - primarily due to:
+•   an $87 million increase as a result of owning longview timber for a full year;
+•   a $59 million increase due to higher log prices in our legacy western timberlands and southern timberlands;
+•   a $20 million increase due to higher sales volumes in our legacy western timberlands; and
+•   a $12 million decrease in selling, general and administrative expenses, excluding longview timber.
+these increases were partially offset by a $40 million increase in operating costs in our legacy western timberlands due to increased log purchases.
+weyerhaeuser company > 2015 annual report and form 10-k 41
+wood products how we did in 2015
+we report sales volume and annual production data for our wood products segment in our business/what we do/wood products.
+net sales and net contribution to earnings for wood products dollar amounts in millions amount of change
+2015                                                   2014            2013            2015              2014
+vs.               vs.
+2014              2013
+net sales:
+structural lumber                    $1,741          $1,901          $1,873           $(160     )         $28
+engineered solid section                428             402             353              26                49
+engineered i-joists                     284             277             247               7                30
+oriented strand board                   595             610             809             (15     )        (199   )
+softwood plywood                        129             143             144             (14     )          (1   )
+other products produced                 189             176             171              13                 5
+complementary building products         506             461             412              45                49
+total                                $3,872          $3,970          $4,009            $(98     )        $(39   )
+net contribution to earnings           $258            $327            $441            $(69     )       $(114   )
+comparing 2015 with 2014
+net sales net sales decreased $98 million - 2 percent - primarily due to an 11 percent decrease in structural lumber average sales realizations, and a 9 percent decrease in osb average sales realizations.
+these decreases were partially offset by:
+•   higher structural lumber sales volumes - 3 percent,
+•   higher osb sales volumes - 7 percent,
+•   higher engineered solid section sales volumes - 6 percent and
+•   higher sales of complementary building products - 10 percent.
+net contribution to earnings net contribution to earnings decreased $69 million - 21 percent - primarily due to:
+•   lower average sales realizations in lumber and osb - $258 million and
+•   pretax restructuring charges related to the closure of four distribution centers - $8 million.
+these decreases were partially offset by:
+•   lower unit manufacturing costs due to lower resin and other input costs, higher operating rates, and lower translated canadian operating costs due to the strengthening of the u.s. dollar - $96 million;
+•   lower log costs due to decreasing log prices and lower translated canadian costs due to the strengthening of the u.s. dollar- $45 million;
+•   lower general and administrative expenses - $28 million;
+•   lower freight costs due to declining fuel prices - $18 million and
+•   higher sales volumes across most product lines - $17 million.
+comparing 2014 with 2013
+net sales net sales decreased $39 million - 1 percent - primarily due to a 25 percent decrease in osb average sales realizations.
+this decrease was partially offset by:
+•   higher engineered solid section shipment volumes - 10 percent, and average sales realizations - 4 percent;
+•   higher sales of complementary building products - 12 percent;
+•   higher engineered i-joists average sales realizations - 8 percent, and shipment volumes - 4 percent; and
+•   higher structural lumber average sales realizations - 1 percent, and shipment volumes - 1 percent.
+net contribution to earnings net contribution to earnings decreased $114 million - 26 percent -primarily due to:
+•   lower osb sales realizations - $204 million and
+•   higher log costs - $47 million.
+these decreases were partially offset by:
+•   lower lumber manufacturing costs primarily due to aggressive cost control - $40 million;
+•   higher average sales realizations in engineered wood products and lumber - $35 million;
+•   higher margins in our distribution business - $31 million;
+weyerhaeuser company > 2015 annual report and form 10-k 42
+•   lower selling, general and administrative expenses - $15 million;
+•   higher shipment volumes primarily in engineered wood products and our distribution business - $10 million; and
+•   an impairment charge in 2013 related to the decision to permanently close an engineered wood products facility - $9 million.
+cellulose fibers how we did in 2015
+we report sales volume and annual production data for our cellulose fibers segment in our business/what we do/cellulose fibers.
+here is a comparison of net sales and net contribution to earnings for the last three years:
+net sales and net contribution to earnings for cellulose fibers dollar amounts in millions amount of change
+2015                                                      2014            2013       2015                   2014
+vs.                     vs.
+2014                   2013
+net sales:
+pulp                                    $1,499          $1,559          $1,501       $(60        )           $58
+liquid packaging board                     305             310             326       (5          )           (16   )
+other products                              56              67              75       (11         )            (8   )
+total                                   $1,860          $1,936          $1,902       $(76        )           $34
+net contribution to earnings:                                                        $-                       $-
+operating income                          $224            $292            $197       (68         )            95
+gain (loss) from equity affiliates        (105   )           1               3       (106        )            (2   )
+total                                     $119            $291            $200       $(172       )           $91
+comparing 2015 with 2014
+net sales net sales decreased $76 million - 4 percent - primarily due to the following:
+•   pulp average sales realizations decreased $31 per ton - 4 percent;
+•   liquid packaging board average sales realizations decreased $48 per ton - 4 percent; and
+•   other products sales volumes decreased 12 percent.
+these decreases were partially offset by increased sales volumes for liquid packaging board of 2 percent.
+net contribution to earnings net contribution to earnings decreased $172 million - 59 percent - primarily due to:
+•   losses from an equity affiliate - $105 million - primarily due to an $84 million noncash asset impairment recorded in the fourth quarter 2015;
+•   lower pulp average sales realizations - $58 million;
+•   higher operating costs primarily due to scheduled maintenance outages and the west coast port slowdown - $46 million;
+•   lower liquid packaging board average sales realizations - $18 million; and
+•   higher fiber costs - $13 million.
+these decreases were partially offset by:
+•   lower energy and chemical costs - $28 million,
+•   lower translated canadian operating costs due to the strengthening of the u.s. dollar - $27 million and
+•   lower selling, general and administrative expenses - $10 million.
+comparing 2014 with 2013
+net sales net sales increased $34 million - 2 percent - primarily due to increased sales realizations for pulp of $50 per ton - 6 percent and liquid packaging board of $61 per ton - 6 percent.
+this was partially offset by decreased sales volumes for pulp of 2 percent and liquid packaging board of 10 percent.
+net contribution to earnings net contribution to earnings increased $91 million - 46 percent - primarily due to:
+•   higher pulp and liquid packaging board sales realizations - $108 million and
+•   lower translated canadian operating costs due to the strengthening of the u.s. dollar - $14 million.
+weyerhaeuser company > 2015 annual report and form 10-k 43
+these increases were partially offset by:
+•   higher energy costs primarily due to reduced electricity sales and higher fuel prices - $13 million and
+•   higher maintenance costs due to a scheduled machine rebuild in our liquid packaging board facility and pulp planned maintenance outages - $13 million.
+unallocated items unallocated items are gains or charges not related to or allocated to an individual operating segment. they include a portion of items such as: share-based compensation, pension and postretirement costs, foreign exchange transaction gains and losses associated with financing, and the elimination of intersegment profit in inventory and the lifo reserve.
+net contribution to earnings for unallocated items dollar amounts in millions amount of change
+2015                                                                        2014          2013            2015              2014
+vs.               vs.
+2014              2013
+unallocated corporate function expenses                       $(27   )      $(24   )      $(38   )         $(3     )         $14
+unallocated share-based compensation                             6            (9   )        (8   )          15                (1   )
+unallocated pension and postretirement credits (costs)          11           196           (40   )        (185     )         236
+foreign exchange gains (losses)                                (47   )       (27   )        (7   )         (20     )         (20   )
+elimination of intersegment profit in inventory and lifo        10           (10   )        15              20               (25   )
+other                                                          (65   )       (38   )      (392   )         (27     )         354
+operating income (loss)                                       (112   )        88          (470   )        (200     )         558
+interest income and other                                       36            38            48              (2     )         (10   )
+net contribution to earnings                                  $(76   )      $126         $(422   )       $(202     )        $548
+unallocated items in 2015 include:
+•   $13 million noncash impairment charge recognized in first quarter 2015 related to a nonstrategic asset that was sold in second quarter 2015 which is recorded in "other" above and "charges for restructuring, closures, and impairments" in our consolidated statement of operations. see note 18: charges for restructuring, closures and asset impairments in the notes to consolidated financial statements for more information.
+•   $14 million plum creek merger-related costs which are recorded in "other" above and "other operating income, net" in our consolidated statement of operations.
+unallocated items in 2014 include:
+•   $151 million pretax gain related to a previously announced postretirement plan amendment which is recorded in "unallocated pension and postretirement credits (costs)" above. see note 9: pension and other postretirement benefit plans in the notes to consolidated financial statements for more information.
+•   $39 million in charges related to our selling, general and administrative cost reduction initiative which is recorded in "other" above.
+•   $22 million pretax gain on the sale of a landfill in washington state, which is recorded in "other" above and "other operating income, net" in our consolidated statement of operations. see note 19: other operating income, net in the notes to consolidated financial statements for more information.
+interest expense our net interest expense incurred for the last three years was:
+•   $347 million in 2015,
+•   $344 million in 2014 and
+•   $369 million in 2013.
+there were no changes in our amount of outstanding debt during 2015 and 2014. our outstanding debt balane increased $600 million during 2013.
+interest expense in 2013 includes $11 million in fees related to a bridge loan we did not draw from in the acquisition of longview timber and $25 million in pretax losses on early extinguishment of debt.
+income taxes our provision (benefit) for income taxes for our continuing operations over the last three years was:
+•   $(3) million in 2015,
+•   $185 million in 2014 and
+•   $(171) million in 2013.
+during 2015, our provision for income taxes decreased $188 million as compared with 2014, primarily due to lower earnings in our trs in 2015.  we also recorded a $13 million tax benefit for the expiration of the company's built-in-gains tax period due to a change in tax law in the fourth quarter 2015, and a $28 million tax benefit for the reduction in the deferred tax liability associated with an equity affiliate resulting from a non-cash impairment charge recorded by that entity.
+weyerhaeuser company > 2015 annual report and form 10-k 44
+during 2013, we recorded a $193 million tax benefit related to unrecognized tax benefits and a $21 million tax charge related to the repatriation of canadian earnings.
+as a reit, we generally are not subject to corporate level tax on income of the reit that is distributed to shareholders. we are no longer subject to corporate taxes on built-in-gains (the excess of fair market value over tax basis at january 1, 2010) due to a change in tax law in the fourth quarter 2015, which statutorily shortened the built-in-gains tax period from 10 years to 5 years following the reit conversion. we continue to be required to pay federal corporate income taxes on earnings of our trs, which includes our manufacturing businesses and the portion of our timberlands segment income included in the trs.
+the table below summarizes the historical tax characteristics of distributions to shareholders for the years ended december 31:
+amounts per share
+2015                                                      2014          2013
+preference - capital gain distribution     $3.19         $3.19         $1.66
+common - capital gain distribution         $1.20         $1.02         $0.81
+liquidity and capital resources we are committed to maintaining a sound, conservative capital structure that enables us to:
+•   protect the interests of our shareholders and lenders and
+•   have access at all times to major financial markets.
+cash from operations cash from operations includes:
+•   cash received from customers;
+•   cash paid to employees and suppliers;
+•   cash paid for interest on our debt; and
+•   cash paid or received for taxes.
+consolidated net cash provided by our operations was:
+•   $1,064 million in 2015,
+•   $1,088 million in 2014 and
+•   $1,004 million in 2013.
+comparing 2015 with 2014
+net cash provided by operations decreased $24 million in 2015 as compared with 2014, primarily due to:
+•   cash received from customers decreased $296 million as sales decreased in our timberlands, wood products, and cellulose fibers segments.
+•   net cash outflows related to income taxes decreased $66 million. we paid income taxes of $14 million in 2015 and received tax refunds of $52 million in 2014.
+•   cash paid for interest increased $28 million, primarily due to interest received related to tax refunds in 2014.
+these outflows were partially offset by a $393 million decrease in cash paid to employees and suppliers.
+comparing 2014 with 2013
+net cash provided by operations increased $84 million in 2014 as compared with 2013, primarily due to:
+•   cash received from customers increased $180 million as sales increased in our timberlands and cellulose fibers segments.
+•   net cash inflows related to income taxes increased $70 million. we received income tax refunds of $52 million in 2014 and paid $18 million in 2013.
+•   cash paid for interest decreased $43 million, primarily due to interest received related to tax refunds in 2014 and refinancing of debt in 2013.
+these inflows were partially offset by a $189 million increase in cash paid to employees and suppliers primarily due to increased production and the acquisition of longview timber.
+pension contributions and benefit payments made and expected during 2015, we:
+•   contributed $33 million for our canadian registered plan in accordance with minimum funding rules and respective provincial regulations;
+•   contributed to or made benefit payments for our canadian nonregistered pension plans of $3 million;
+•   made benefit payments of $24 million for our u.s. nonqualified pension plans; and
+•   made benefit payments of $23 million for our u.s. and canadian other postretirement plans.
+there was no minimum required contribution for our u.s. qualified plan for 2015, nor were any contributions made to this plan in 2015.
+weyerhaeuser company > 2015 annual report and form 10-k 45
+during 2016, based on estimated year-end assets and projections of plan liabilities, we expect to:
+•   be required to contribute approximately $16 million for our canadian registered plan;
+•   be required to contribute or make benefit payments for our canadian nonregistered plans of $3 million;
+•   make benefit payments of $19 million for our u.s. nonqualified pension plans; and
+•   make benefit payments of $22 million for our u.s. and canadian other postretirement plans.
+we do not anticipate a contribution being required to our u.s. qualified pension plan for 2016.
+investing in our business cash from investing activities includes:
+•   acquisitions of property, equipment, timberlands and reforestation;
+•   investments in or distribution from equity affiliates;
+•   proceeds from sale of assets and operations; and
+•   purchases and redemptions of short-term investments.
+consolidated net cash provided by (used in) investing activities was:
+•   $(487) million in 2015,
+•   $361 million in 2014 and
+•   $(1,829) million in 2013.
+comparing 2015 with 2014
+net cash from investing activities changed $848 million to an outflow in 2015 as compared with an inflow in 2014, primarily due to:
+•   net proceeds from the real estate divestiture, net of cash divested in 2014; and
+•   higher capital spending in 2015.
+comparing 2014 with 2013
+net cash from investing activities changed $2,190 million to an inflow in 2014 as compared with an outflow in 2013, primarily due to:
+•   the acquisition of longview timber in 2013;
+•   net proceeds from the real estate divestiture, net of cash divested in 2014; and
+•   higher capital spending in 2014.
+longview timber purchase on july 23, 2013, we purchased 100 percent of the equity interests in longview timber llc (longview timber) for $1.58 billion cash and assumed debt of $1.07 billion, for an aggregate purchase price of $2.65 billion. more information can be found in note 4: acquisitions in the notes to consolidated financial statements and the "cash from financing activities" section below.
+real estate divestiture at the close of the real estate divestiture in july 2014, wreco used $744 million of the debt proceeds to repay intercompany debt and interest to weyerhaeuser company. the newly issued debt, remaining proceeds and other wreco assets and liabilities, including $5 million cash on hand, were acquired by tri pointe homes, inc. (tri pointe) when wreco became a wholly-owned subsidiary of tri pointe at the closing of the transaction. additionally, $32 million related to the adjustment amount payable pursuant to the terms of the transaction agreement was paid to tri pointe. our net cash proceeds in connection with the real estate divestiture totaled $707 million. more information can be found in note 3: discontinued operations and the "cash from financing activities" section below.
+three-year summary of capital spending by business segment dollar amounts in millions
+2015                                        2014           2013
+timberlands                   $75            $74            $73
+wood products                 287            190            113
+cellulose fibers              118            123             92
+unallocated items               3              4              5
+discontinued operations         -              4             10
+total                        $483           $395           $293
+we expect our net capital expenditures for 2016 to be down slightly compared to 2015, subject to the outcome of the strategic review of the cellulose fibers business and our transaction with plum creek. the amount we spend on capital expenditures could change due to:
+•   future economic conditions,
+•   environmental regulations,
+•   changes in the composition of our business,
+•   weather and
+•   timing of equipment purchases.
+weyerhaeuser company > 2015 annual report and form 10-k 46
+note receivable in 2014, we received $25 million in full payment of a note receivable and interest of $7 million made in connection with the divestiture of our hardwoods operations in 2011, which is recorded in "other" in the "cash flows from investing activities" in our consolidated statement of cash flows.
+variable interest entities in 2013, we repaid a $162 million note and received $184 million related to one of our timber monetization special-purpose entities (spes) undertaken in 2003. net proceeds were $22 million. more information about these entities, which were formed in connection with the sale of nonstrategic timberlands in 2003, can be found in note 10: variable interest entities in the notes to consolidated financial statements and our annual report on form 10-k for 2003.
+equity affiliates in 2013, we sold part of our investment in liaison technologies inc. and received $10 million in cash, which is recorded in "other" in the "cash flows from investing activities" in our consolidated statement of cash flows. see note 8: equity affiliates in the notes to consolidated financial statements for more information.
+proceeds from the sale of nonstrategic assets proceeds received from the sale of various nonstrategic assets over the last three years were:
+•   $19 million in 2015,
+•   $28 million in 2014 and
+•   $20 million in 2013.
+financing cash from financing activities includes:
+•   issuances and payments of long-term debt,
+•   borrowings and payments under revolving lines of credit,
+•   changes in book overdrafts,
+•   proceeds from stock offerings and option exercises and
+•   payments of cash dividends and repurchasing stock.
+consolidated net cash provided by (used in) financing activities was:
+•   $(1,145) million in 2015,
+•   $(704) million in 2014 and
+•   $762 million in 2013.
+comparing 2015 with 2014
+net cash used in financing activities increased $441 million in 2015, primarily due to an increase in share repurchases and common stock dividends. this was partially offset by a decrease in stock option exercises.
+comparing 2014 with 2013
+net cash provided by financing activities changed $1,466 million to an outflow in 2014 as compared with an inflow in 2013, primarily due to the issuance of common and preference shares and debt in 2013. this was partially offset by a decrease in payments on debt and share repurchases in 2014. we had no payments on debt in 2014 and $1,567 million in 2013. we repurchased $203 million of shares in 2014 and none in 2013.
+longview timber purchase in order to finance our purchase of longview timber, see note 4: acquisitions in the notes to consolidated financial statements for more information, we issued the following:
+•   29 million common shares on june 24, 2013, at the price of $27.75 per share for net proceeds of $781 million;
+•   4.4 million common shares on july 8, 2013, at the price of $27.75 per share for net proceeds of $116 million, in connection with the exercise of an overallotment option; and
+•   13.8 million of our 6.375 percent mandatory convertible preference shares, series a, par value $1.00 and liquidation preference of $50.00 per share on june 24, 2013, for net proceeds of $669 million.
+we paid $11 million in fees related to a bridge loan in 2013, which is recorded in "other" in the "cash flows from financing activities" in our consolidated statement of cash flows. as of the close of the longview timber purchase, we did not draw from the loan and these fees were expensed in 2013.
+in order to repay the debt that we assumed in the acquisition of longview timber, in 2013 we issued $500 million of 4.625 percent notes due september 15, 2023. the net proceeds after deducting the discount, underwriting fees and issuance costs were $495 million. we also entered into a $550 million 7-year senior unsecured term loan credit facility maturing in september 2020 and borrowed $550 million. borrowings are at libor plus a spread or at other interest rates mutually agreed upon between the borrower and the lending banks.
+on october 15, 2013, we repaid the $1,118 million carrying value of the debt that we assumed in the acquisition of longview timber and related fees, expenses and premiums using the proceeds from the notes issued and the borrowings from our term loan credit facility borrowed in 2013. a pretax charge of $25 million was included in our net interest expense in 2013, for early retirement premiums, unamortized debt issuance costs and other miscellaneous charges in connection with the early extinguishment of debt. see note 4: longview timber purchase in the notes to consolidated financial statements for more information.
+weyerhaeuser company > 2015 annual report and form 10-k 47
+debt our consolidated long-term debt was $4.9 billion as of december 31, 2015, december 31, 2014 and december 31, 2013. long-term debt proceeds were $1,050 million in 2013.
+during 2014, our wholly-owned subsidiary, wreco, issued $450 million of unsecured and unsubordinated senior debt obligations bearing an interest rate of 4.375 percent due june 15, 2019 and $450 million of unsecured and unsubordinated senior debt obligations bearing an interest rate of 5.875 percent due june 15, 2024. the net proceeds were deposited into an escrow account. upon closure of the transaction, the newly issued debt and remaining proceeds were acquired by tri pointe, along with other wreco assets and liabilities.
+there were no long-term debt retirements in 2015 and 2014. we retired $409 million of long-term debt according to its scheduled maturity in 2013. additionally, we retired $1,158 million of long-term debt in 2013 prior to its scheduled maturity. the loss recognized on early extinguishment of debt and included in our net interest expense was $25 million.
+there are no debt maturities in the next twelve months.
+see note 3: discontinued operations and note 13: long-term debt in the notes to consolidated financial statements for more information.
+revolving credit facilities during september 2013, weyerhaeuser company and wreco entered into a new $1 billion 5-year senior unsecured revolving credit facility that expires in september 2018. this replaced a $1 billion revolving credit facility that was set to expire june 2015. as of june 16, 2014, wreco terminated its participation as a borrower in the facility.
+there were no net proceeds from the issuance of debt or from borrowings (repayments) under our available credit facility in 2015, 2014 or 2013.
+debt covenants:
+as of december 31, 2015, weyerhaeuser company:
+•   had no borrowings outstanding under our credit facility and
+•   was in compliance with the credit facility covenants.
+weyerhaeuser company covenants:
+key covenants related to weyerhaeuser company include the requirement to maintain:
+•   a minimum defined net worth of $3.0 billion;
+•   a defined debt-to-total-capital ratio of 65 percent or less; and
+•   ownership of, or long-term leases on, no less than four million acres of timberlands.
+weyerhaeuser company's defined net worth is comprised of:
+•   total weyerhaeuser shareholders' interest,
+•   excluding accumulated comprehensive income (loss) related to pension and postretirement benefits,
+•   minus weyerhaeuser company's investment in our unrestricted subsidiaries.
+total weyerhaeuser company capitalization is comprised of:
+•   total weyerhaeuser company debt
+•   plus total defined net worth.
+as of december 31, 2015, weyerhaeuser company had:
+•   a defined net worth of $6.3 billion and
+•   a defined debt-to-total-capital ratio of 44 percent.
+there are no other significant financial debt covenants related to our third party debt. see note 12: lines of credit in the notes to consolidated financial statements for more information.
+credit ratings on january 21, 2015, standard & poor's upgraded our long-term issuer credit ratings from bbb- to bbb and short-term issuer credit ratings from a-3 to a-2. on november 9, 2015, standard & poor's announced that our credit rating would likely be lowered from bbb to bbb- upon completion of our merger with plum creek.
+on april 14, 2015, moody's investors service upgraded our long-term issuer credit ratings from baa3 to baa2. on june 12, 2014, moody's investors service changed their outlook on our senior unsecured notes to positive. on april 22, 2013, moody's investors service upgraded our senior unsecured note rating to baa3 from ba1 and changed their outlook to stable.
+option exercises our cash proceeds from the exercise of stock options were:
+•   $34 million in 2015,
+•   $119 million in 2014 and
+•   $162 million in 2013.
+our average stock price was $31.67, $31.89 and $29.69 in 2015, 2014 and 2013, respectively.
+weyerhaeuser company > 2015 annual report and form 10-k 48
+dividends we paid cash dividends on commons shares of:
+•   $619 million in 2015,
+•   $563 million in 2014 and
+•   $458 million in 2013.
+changes in the amount of dividends we paid were primarily due to:
+•   an increase in our quarterly dividend from 17 cents per share to 20 cents per share in april 2013;
+•   an increase in our quarterly dividend from 20 cents per share to 22 cents per share in august 2013;
+•   an increase in our quarterly dividend from 22 cents per share to 29 cents per share in august 2014; and
+•   an increase in our quarterly dividend from 29 cents per share to 31 cents per share in august 2015.
+we paid cash dividends on preference shares of $44 million in 2015.
+our dividends declared on preference shares were:
+•   85.88 cents per share in august 2013 and
+•   79.69 cents per share in october 2013; february, april, august and october 2014; and february, may, august and october 2015.
+on february 10, 2016, our board of directors declared a dividend of 31 cents per share, payable on march 18, 2016, to shareholders of record at the close of business march 8, 2016. additionally, our board of directors declared a dividend of 79.69 cents per share on our 6.375 percent mandatory convertible preference shares, series a, payable on april 1, 2016, to shareholders of record at the close of business march 15, 2016.
+stock repurchases on august 13, 2014, our board of directors approved a stock repurchase program under which we were authorized to repurchase up to $700 million of outstanding shares (the 2014 repurchase program). the 2014 repurchase program replaced the prior 2011 stock repurchase program. during 2014, we repurchased 6,062,993 shares of common stock for $203 million under the 2014 repurchase program. during 2015 we completed the 2014 repurchase program by repurchasing 15,471,962 shares of common stock for $497 million. all common stock purchases under the stock repurchase program were made in open-market transactions.
+on august 27, 2015 our board of directors approved a new share repurchase program of up to $500 million on outstanding shares (the 2015 repurchase program), commencing upon completion of the 2014 repurchase program. during 2015, we repurchased 717,464 shares of common stock for $22 million under the 2015 repurchase program. as of december 31, 2015 we had remaining authorization of $478 million for future stock repurchases. all common stock purchases under the stock repurchase program were made in open-market transactions. we had 510,483,285 shares of common stock outstanding as of december 31, 2015.
+on november 8, 2015 weyerhaeuser announced it intends to execute a $2.5 billion share repurchase shortly after closing the merger with plum creek timber company, inc. as of december 31, 2015 no portion of this announced repurchase has been completed. the remaining $478 million authorized for the 2015 repurchase program is expected to be used in the announced post-merger repurchase.
+weyerhaeuser company > 2015 annual report and form 10-k 49
+our contractual obligations and commercial commitments more details about our contractual obligations and commercial commitments are in note 9: pension and other postretirement benefit plans, note 13: long-term debt, note 15: legal proceedings, commitments and contingencies and note 20: income taxes in the notes to consolidated financial statements.
+significant contractual obligations as of december 31, 2015
+dollar amounts in millions payments due by period total                                                                                                                                                                                                                                                                                                      less than1 year                                                                                                                                                                                                                                                                                                             1-3years                                                                                                                                                                                                                                                                                                             3-5years                                                                                                                                                                                                                                                                                                    more than 5 years long-term debt obligations                                                                                                                                                                                                                                                                                  $4,896                                                                                                                                                                                                                                                                                                                   $-                                                                                                                                                                                                                                                                                                                 $343                                                                                                                                                                                                                                                                                                               $1,050                                                                                                                                                                                                                                                                                                               $3,503
+interest(1)                                                                                                                                                                                                                                                                                                  3,380                                                                                                                                                                                                                                                                                                                  321                                                                                                                                                                                                                                                                                                                  619                                                                                                                                                                                                                                                                                                                  554                                                                                                                                                                                                                                                                                                                1,886
+operating lease obligations                                                                                                                                                                                                                                                                                    210                                                                                                                                                                                                                                                                                                                   27                                                                                                                                                                                                                                                                                                                   47                                                                                                                                                                                                                                                                                                                   31                                                                                                                                                                                                                                                                                                                  105
+purchase obligations(2)                                                                                                                                                                                                                                                                                        146                                                                                                                                                                                                                                                                                                                   84                                                                                                                                                                                                                                                                                                                   41                                                                                                                                                                                                                                                                                                                    4                                                                                                                                                                                                                                                                                                                   17
+harvest commitments(3)                                                                                                                                                                                                                                                                                           1                                                                                                                                                                                                                                                                                                                    -                                                                                                                                                                                                                                                                                                                    -                                                                                                                                                                                                                                                                                                                    -                                                                                                                                                                                                                                                                                                                    1
+employee-related obligations(4)                                                                                                                                                                                                                                                                                486                                                                                                                                                                                                                                                                                                                  155                                                                                                                                                                                                                                                                                                                   56                                                                                                                                                                                                                                                                                                                   41                                                                                                                                                                                                                                                                                                                   91
+liabilities related to unrecognized tax benefits(5)                                                                                                                                                                                                                                                              7                                                                                                                                                                                                                                                                                                                    -                                                                                                                                                                                                                                                                                                                    -                                                                                                                                                                                                                                                                                                                    -                                                                                                                                                                                                                                                                                                                    -
+total                                                                                                                                                                                                                                                                                                       $9,126                                                                                                                                                                                                                                                                                                                 $587                                                                                                                                                                                                                                                                                                               $1,106                                                                                                                                                                                                                                                                                                               $1,680                                                                                                                                                                                                                                                                                                               $5,603
+(1) amounts presented for interest payments assume that all long-term debt obligations outstanding as of december 31, 2015 will remain outstanding until maturity, and interest rates on variable-rate debt in effect as of december 31, 2015 will remain in effect until maturity.(2) purchase obligations include agreements to purchase goods or services that are enforceable and legally binding on the company and that specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. purchase obligations exclude arrangements that the company can cancel without penalty.(3) harvest commitments are purchased at market value and can be resold at market value in the future.(4) the timing of certain of these payments will be triggered by retirements or other events. these payments can include workers' compensation, deferred compensation and banked vacation, among other obligations. when the timing of payment is uncertain, the amounts are included in the total column only. minimum pension funding is required by established funding standards and estimates are not made beyond 2016. estimated payments of contractually obligated postretirement benefits are not included due to the uncertainty of payment timing.(5) we have recognized total liabilities related to unrecognized tax benefits of $7 million as of december 31, 2015, including interest of $1 million. the timing of payments related to these obligations is uncertain; however, none of this amount is expected to be paid within the next year.
+off-balance sheet arrangements off-balance sheet arrangements have not had - and are not reasonably likely to have - a material effect on our current or future financial condition, results of operations or cash flows. note 10: variable interest entities and note 12: lines of credit in the notes to consolidated financial statements contain our disclosures of:
+•   surety bonds,
+•   letters of credit and guarantees and
+•   information regarding variable interest entities.
+environmental matters, legal proceedings and other contingencies see note 15: legal proceedings, commitments and contingencies in the notes to consolidated financial statements.
+accounting matters critical accounting policies our critical accounting policies involve a higher degree of judgment and estimates. they also have a high degree of complexity.
+in accounting, we base our judgments and estimates on:
+•   historical experience and
+•   assumptions we believe are appropriate and reasonable under current circumstances.
+actual results, however, may differ from the estimated amounts we have recorded.
+our most critical accounting policies relate to our:
+•   pension and postretirement benefit plans;
+•   potential impairments of long-lived assets; and
+•   legal, environmental and product liability reserves.
+details about our other significant accounting policies - what we use and how we estimate - are in note 1: summary of significant accounting policies in the notes to consolidated financial statements.
+weyerhaeuser company > 2015 annual report and form 10-k 50
+pension and postretirement benefit plans we sponsor several pension and postretirement benefit plans for our employees. key assumptions we use in accounting for the plans include our:
+•   expected long-term rate of return on plan assets,
+•   discount rates,
+•   anticipated trends in health care costs,
+•   assumed increases in salaries and
+•   mortality rates.
+at the end of every year, we review our assumptions with external advisers and make adjustments as appropriate. actual experience that differs from our assumptions or any changes in our assumptions could have a significant effect on our financial position, results of operations and cash flows.
+other factors that affect our accounting for the plans include:
+•   actual pension fund performance,
+•   level of lump sum distributions,
+•   plan changes and amendments,
+•   changes in plan participation or coverage and
+•   portfolio changes and restructuring.
+this section provides more information about our:
+•   expected long-term rate of return and
+•   discount rates.
+expected long-term rate of return on plan assets plan assets are assets of the pension plan trusts that fund the benefits provided under the pension plans. the expected long-term rate of return is our estimate of the long-term rate of return that our plan assets will earn. our expected long-term rate of return is important in determining the net periodic benefit or cost we recognize for our plans.
+over the 30 years it has been in place, our u.s. pension trust investment strategy has achieved a 14.2 percent net compound annual return rate.
+after considering available information at the end of 2015, we continue to assume an expected long-term rate of return of 9.0 percent. factors we considered include:
+•   the net compounded annual return of 8.0 percent achieved by our u.s. pension trust investment strategy the past 5 years and
+•   current and expected valuation levels in the global equity and credit markets.
+our expected long-term rate of return is important in determining the net periodic benefit or cost we recognize for our plans. every 0.5 percent decrease in our expected long-term rate of return would increase expense or reduce a credit by approximately:
+•   $24 million for our u.s. qualified pension plans and
+•   $4 million for our canadian registered pension plans.
+the actual return on plan assets in any given year may vary from our expected long-term rate of return. actual returns on plan assets affect the funded status of the plans. differences between actual returns on plan assets and the expected long-term rate of return are reflected as adjustments to cumulative other comprehensive income (loss), a component of total equity.
+discount rates our discount rates as of december 31, 2015, are:
+•   4.5 percent for our u.s. pension plans - compared with 4.1 percent at december 31, 2014;
+•   4.0 percent for our u.s. postretirement plans - compared with 3.6 percent at december 31, 2014;
+•   4.0 percent for our canadian pension plans - compared with 3.9 percent at december 31, 2014; and
+•   3.9 percent for our canadian postretirement plans - compared with 3.8 percent at december 31, 2014.
+we review our discount rates annually and revise them as needed. the discount rates are selected at the measurement date by matching current spot rates of high-quality corporate bonds with maturities similar to the timing of expected cash outflows for benefits.
+pension and postretirement benefit expenses for 2016 will be based on the 4.5 percent and 4.0 percent assumed discount rates for u.s. plans and 4 percent and 3.9 percent assumed discount rates for the canadian plans.
+our discount rates are important in determining the cost of our plans. a 0.5 percent decrease in our discount rate would increase expense or reduce a credit by approximately:
+•   $35 million for our u.s. qualified pension plans and
+•   $5 million for our canadian registered pension plans.
+weyerhaeuser company > 2015 annual report and form 10-k 51
+long-lived assets we review the carrying value of our long-lived assets whenever events or changes in circumstances indicate that the carrying value of the assets may not be recoverable through future operations. the carrying value is the amount assigned to long-lived assets in our financial statements.
+an impairment occurs when the carrying value of long-lived assets will not be recovered from future cash flows and is more than fair market value. fair market value is the estimated amount we would receive if we were to sell the assets.
+in determining fair market value and whether impairment has occurred, we are required to estimate:
+•   future cash flows,
+•   residual values and
+•   fair values of the assets.
+key assumptions we use in developing the estimates include:
+•   probability of alternative outcomes,
+•   product pricing,
+•   raw material costs,
+•   product sales and
+•   discount rate.
+contingent liabilities we are subject to lawsuits, investigations and other claims related to environmental, product and other matters, and are required to assess the likelihood of any adverse judgments or outcomes to these matters, as well as potential ranges of probable losses.
+we record contingent liabilities when:
+•   it becomes probable that we will have to make payments and
+•   the amount of loss can be reasonably estimated.
+assessing probability of loss and estimating probable losses requires analysis of multiple factors, including:
+•   historical experience,
+•   judgments about the potential actions of third party claimants and courts and
+•   recommendations of legal counsel.
+in addition to contingent liabilities recorded for probable losses, we disclose contingent liabilities when there is a reasonable possibility that an ultimate loss may occur.
+while we do our best in developing our projections, recorded contingent liabilities are based on the best information available and actual losses in any future period are inherently uncertain. if estimated probable future losses or actual losses exceed our recorded liability for such claims, we would record additional charges in other (income) expense, net. these exposures and proceedings can be significant and the ultimate negative outcomes could be material to our operating results or cash flow in any given quarter or year. see note 15: legal proceedings, commitments and contingencies in the notes to consolidated financial statements for more information.
+prospective accounting pronouncements a summary of prospective accounting pronouncements is in note 1: summary of significant accounting policies in the notes to consolidated financial statements.
+weyerhaeuser company > 2015 annual report and form 10-k 52
+performance measures we use adjusted earnings before interest, taxes, depreciation, depletion and amortization (adjusted ebitda) as a key performance measure to evaluate the performance of the consolidated company and our business segments. this measure should not be considered in isolation from and is not intended to represent an alternative to our results reported in accordance with u.s. generally accepted accounting principles (u.s. gaap). however, we believe adjusted ebitda provides meaningful supplemental information about our operating performance, better facilitates period to period comparisons, and is widely used by analysts, lenders, rating agencies and other interested parties.our definition of adjusted ebitda may be different from similarly titled measures reported by other companies. adjusted ebitda, as we define it, is operating income from continuing operations adjusted for depreciation, depletion, amortization, pension and postretirement costs not allocated to business segments (primarily interest cost, expected return on plan assets, amortization of actuarial loss and amortization of prior service cost/credit), special items and discontinued operations.
+adjusted ebitda by segment dollar amounts in millions
+2015                                      2014             2013
+timberlands              $758             $820             $632
+wood products             372              446              574
+cellulose fibers          378              447              353
+1,508            1,713            1,559
+unallocated items         (86    )         (79    )         (61    )
+total                  $1,422           $1,634           $1,498
+we reconcile adjusted ebitda to net earnings for the consolidated company and to operating income for the business segments, as those are the most directly comparable u.s. gaap measures for each.
+the table below reconciles adjusted ebitda to net income by segment during the year ended 2015:
+dollar amounts in millions timberlands                                                             wood products                                                           cellulose fibers                                                        unallocated items                                                                                               total net earnings                                                                                                                                                                                                                                                                                                                                                                                $506
+earnings from discontinued operations, net of taxes                                                                                                                                                                                                                                                                                                                                            -
+interest expense, net of capitalized interest                                                                                                                                                                                                                                                                                                                                                347
+income taxes                                                                                                                                                                                                                                                                                                                                                                                  (3                       )
+net contribution to earnings                       $549                                                                    $258                                                                    $119                                                                    $(76                                            )                                                                $850
+loss from equity affiliates                        -                                                                       -                                               105                                                                                             -                                               105
+interest income and other                          -                                                                       -                                                                       -                                                                       (36                                             )                                                                 (36                       )
+operating income                                   549                                             258                                                                     224                                                                                             (112                                            )                                                                 919
+depreciation, depletion and amortization           209                                             106                                                                     154                                                                     10                                                                      479
+non-operating pension and postretirement credits   -                                                                       -                                                                       -                                                                       (11                                             )                                                                 (11                       )
+special items(1)(2)                                -                                               8                                                                                               -                                               27                                                                      35
+total                                              $758                                                                    $372                                                                    $378                                                                    $(86                                            )                                                              $1,422
+(1) special items included in wood products are pre-tax restructuring charges related to the closure of four distribution centers.(2) special items included in unallocated items consist of a $13 million noncash impairment charge related to a nonstrategic asset that was sold in the second quarter and $14 million of plum creek merger-related costs.
+weyerhaeuser company > 2015 annual report and form 10-k 53
+the table below reconciles adjusted ebitda to net income by segment during the year ended 2014:
+dollar amounts in millions timberlands                                                          wood products                                                        cellulose fibers                                                     unallocated items                                                                                          total net earnings                                                                                                                                                                                                                                                                                                                                                                $1,826
+earnings from discontinued operations, net of taxes                                                                                                                                                                                                                                                                                                                           (998                      )
+interest expense, net of capitalized interest                                                                                                                                                                                                                                                                                                                                  344
+income taxes                                                                                                                                                                                                                                                                                                                                                                   185
+net contribution to earnings                       $613                                                                 $327                                                                 $291                                                                 $126                                                                                                      $1,357
+loss from equity affiliates                        -                                                                    -                                             1                                                                                           -                                             1
+interest income and other                          -                                                                    -                                                                    -                                                                    (38                                           )                                                              (38                      )
+operating income                                   613                                           327                                                                  292                                                                  88                                                                                                                                1,320
+depreciation, depletion and amortization           207                                           119                                                                  155                                                                  12                                                                   493
+non-operating pension and postretirement credits   -                                                                    -                                                                    -                                                                    (45                                           )                                                              (45                      )
+special items(1)                                   -                                                                    -                                                                    -                                                                    (134                                          )                                                             (134                      )
+total                                              $820                                                                 $446                                                                 $447                                                                 $(79                                          )                                                           $1,634
+(1) special items include: a $151 million pretax gain related to a previously announced postretirement plan amendment, $39 million in restructuring and closure charges related to our selling, general and administrative cost reduction initiative and a $22 million pretax gain on the sale of a landfill in washington state.
+the table below reconciles adjusted ebitda to net income by segment during the year ended 2013:
+dollar amounts in millions timberlands                                                                   wood products                                                                 cellulose fibers                                                              unallocated items                                                                                                         total net earnings                                                                                                                                                                                                                                                                                                                                                                                                          $563
+earnings from discontinued operations, net of taxes                                                                                                                                                                                                                                                                                                                                                                    (72                         )
+interest expense, net of capitalized interest                                                                                                                                                                                                                                                                                                                                                                          369
+income taxes                                                                                                                                                                                                                                                                                                                                                                                                          (171                         )
+net contribution to earnings                     $470                                                                          $441                                                                          $200                                                                          $(422                                               )                                                                      $689
+(earnings) loss from equity affiliates           -                                                                             -                                                                             (3                                                  )                         2                                                                                                                            (1                         )
+interest income and other                        (4                                                  )                         -                                                                             -                                                                             (50                                                 )                                                                       (54                         )
+operating income                                 466                                                 441                                                                           197                                                                                                     (470                                                )                                                                       634
+depreciation, depletion and amortization         166                                                 123                                                                           156                                                                           13                                                                            458
+non-operating pension and postretirement costs   -                                                                             -                                                                             -                                                   40                                                                            40
+special items(1)(2)                              -                                                   10                                                                                                      -                                                   356                                                                           366
+total                                            $632                                                                          $574                                                                          $353                                                                          $(61                                                )                                                                    $1,498
+(1) special items included in wood products consist of a $9 million noncash impairment charge and $1 million of restructuring charges related to the closure of our engineered wood products facility in colbert, georgia.(2) special items included in unallocated items consists of a $356 million noncash impairment charge for coyote springs, a nonstrategic asset that was sold in 2014.
+weyerhaeuser company > 2015 annual report and form 10-k 54
+quantitative and qualitative disclosures about market risk 

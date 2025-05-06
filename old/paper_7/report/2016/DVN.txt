@@ -1,0 +1,529 @@
+item 7. management's discussion and analysis of financial condition and results of operations introduction the following discussion and analysis presents management's perspective of our business, financial condition and overall performance. this information is intended to provide investors with an understanding of our past performance, current financial condition and outlook for the future and should be read in conjunction with "item 8. financial statements and supplementary data" of this report.
+overview of 2016 results by executing on our strategy outlined in "items 1 and 2. business and properties" of this report, we strive to optimize value for our shareholders by growing cash flow, earnings, production and reserves, all on a per debt-adjusted share basis. despite the challenges our company and the entire upstream energy sector have faced from the sustained low commodity price environment, we have continued to execute our strategy and position our company for long-term success. although we have seen moderate improvements in oil and natural gas prices over the course of 2016, prices for oil and natural gas were still significantly lower than 2015 and 2014 and remain under pressure due to excess supply concerns. in response to this environment, we remained committed to an approach centered on:
+•   maintaining a balanced portfolio of high-class assets with a focus on value and returns,
+
+•   accelerating our activity in the stack and delaware basin, and preserving continuity in our other u.s. resource plays,
+
+•   driving efficiencies across our portfolio of assets by achieving operating efficiencies and cost savings and increasing capital productivity, and
+
+•   protecting and strengthening our investment-grade balance sheet by investing directionally within cash flow and through use of divestiture proceeds.
+
+to that end, in 2016 we:
+•   expanded our position in the stack by acquiring approximately 80,000 net acres and assets for $1.5 billion, and increased production in this key resource play by 37% compared to 2015;
+
+•   continued the shift to higher-margin products, with oil and bitumen production representing 44% of our retained asset production mix for 2016;
+
+•   successfully divested certain non-core upstream assets in the u.s. and our 50% interest in the access pipeline in canada for $3.1 billion;
+
+•   reduced exploratory and developmental capital investment by approximately 65% compared to 2015;
+
+•   replaced approximately 175% of our retained-asset production through significant reserve additions;
+
+•   reduced g&amp;a and field operating costs by $845 million, or 25%, primarily through cost reduction initiatives, including a workforce reduction in early 2016;
+
+•   reduced devon debt by $3.1 billion, or 31%, and have no significant long term maturities until 2021;
+
+•   raised net proceeds of $1.5 billion in an offering of our common stock; and
+
+•   exited 2016 with approximately $5 billion in cash and senior credit facility capacity.
+
+in 2017 and beyond, we have the financial capacity to further accelerate investment across our best-in-class u.s. resource plays. we are increasing drilling activity and will continue to rapidly shift our production mix to high-margin products. we will continue our premier technical work to drive capital allocation and efficiency and industry-leading well productivity results. we will continue to maximize the value of our base production by sustaining the operational efficiencies we have achieved. finally, we will continue to manage activity levels within our cash flows. we expect this disciplined approach will position us to deliver substantial cash flow expansion over the next two years.
+29
+index to financial statements in addition, we recognized $267 million of restructuring and transaction costs during 2016 related to the workforce reduction and incurred $5.0 billion of noncash asset impairments as a result of the continued depressed prices for commodities but recognized $1.9 billion in gains on our divestiture transactions. while the gain on divestitures and impairments significantly impacted our earnings, they had no effect on our operating cash flow or debt covenants.
+key measures of our financial performance in 2016 are summarized in the following table:
+year ended december 31,
+
+2016                        change             2015                          change            2014
+(millions, except per share and per boe amounts)
+net earnings (loss) attributable to devon                     $(3,302   )                + 77   %             $(14,454   )         n/m                         $1,607
+net earnings (loss) per share attributable to devon            $(6.52   )                + 82   %              $(35.55   )         n/m                          $3.91
+core earnings (loss) attributable to devon (1)                   $(38   )               - 104   %               $1,044                   - 48   %              $2,017
+core earnings (loss) per share attributable to                 $(0.08   )               - 103   %                $2.52                   - 49   %               $4.91
+devon (1)
+retained production (mboe/d)                                      568                     - 4   %                  589                   +13    %                 521
+total production (mboe/d)                                         611                    - 10   %                  680                   +1     %                 673
+realized price per boe (2)                                     $18.72                    - 14   %               $21.68                   - 46   %              $40.33
+operating cash flow                                            $1,746                    - 68   %               $5,373                   - 11   %              $6,021
+capitalized costs, including acquisitions                      $4,191                    - 33   %               $6,233                   - 54   %             $13,559
+shareholder and noncontrolling interests                         $525                    - 19   %                 $650                   +5     %                $621
+distributions cash and cash equivalents                                      $1,959                    - 15   %               $2,310                   +56    %              $1,480
+total debt                                                    $10,154                    - 22   %              $13,032                   +16    %             $11,193
+reserves (mmboe)                                                2,058                     - 6   %                2,182                   - 21   %               2,754
+(1)   core earnings and core earnings per share attributable to devon are financial measures not prepared in accordance with gaap. for a description of core earnings and core earnings per share attributable to devon, as well as reconciliations to the comparable gaap measures, see "non-gaap measures" in this item 7.
+
+(2)   excludes any impact of oil, gas and ngl derivatives.
+
+our 2016 net loss and net loss per share improved compared to 2015 primarily due to more significant noncash asset impairments recognized in 2015 as a result of the large commodity price declines. core loss, core loss per share and operating cash flow for 2016 decreased significantly compared to 2015 as a result of the continued decline in commodity prices and the expiration of certain favorable commodity hedging positions.
+business and industry outlook devon marked its 45th anniversary in the oil and gas business and its 28th year as a public company during 2016. as an established company with a strong leadership team, we have experience operating in periods of challenged commodity prices. with our focused strategy and portfolio of quality assets, we are prepared to successfully navigate the current environment while ensuring our long-term financial strength.
+market prices for crude oil and natural gas are inherently volatile. therefore, we cannot predict with certainty the future prices for the commodities we produce and sell. during 2016, oil prices ranged from $26.21/bbl to $54.06/bbl. as a result of the ongoing worldwide oversupply issue, opec agreed to its first oil production cut in eight years in november 2016. following the agreements by both opec and non-opec producers to reduce output by nearly 1.8 million barrels per day in the first half of 2017, oil prices jumped approximately 10% in the fourth quarter of 2016, averaging $49.21/bbl. current market fundamentals indicate improved prices for crude oil, natural gas and natural gas liquids in 2017; however, changes in opec production strategies, the macro-economic environment, geopolitical risks, winter and summer temperature ranges or other factors could impact current forecasts. as such, we anticipate continued volatility into 2017.
+30
+index to financial statements while we expect that our industry will remain challenged by relatively low prices for the near-term, we have strategically positioned our company for continued growth and investment in our portfolio of assets. leveraging the success of our 2016 divestiture program and other key achievements noted above, we are in a position of significant strength and anticipate expanding our exploration and development capital spend by approximately 80% in 2017. our 2017 outlook is marked by accelerated activity across our key basins, focusing an expanded rig count in the stack and delaware basin and achieving 15% growth in u.s. oil production through some of our best-in-class positions. additionally, we ramped up our hedging program in 2016, with approximately 50% of our oil and 45% of our gas production hedged entering into 2017.
+finally, enlink continues to be a strategic advantage for us, allowing for improved midstream growth potential. annual distributions of approximately $270 million provide a visible cash flow stream to be further invested in our upstream capital programs discussed above.
+31
+index to financial statements results of operations oil, gas and ngl production year ended december 31,
+
+2016                    change           2015                    change           2014
+oil (mbbls/d)
+barnett shale                   1                 - 28   %               1                 - 35   %               2
+delaware basin                 33                 - 15   %              39                 +48    %              26
+eagle ford                     42                 - 37   %              66                 +65    %              40
+heavy oil                      22                 - 17   %              27                 +3     %              26
+rockies oil                    14                  - 9   %              15                 +68    %               9
+stack                          19                 +152   %               7                 +14    %               6
+other                          10                 - 19   %              14                 - 11   %              14
+retained assets               141                 - 16   %             169                 +37    %             123
+divested assets                10                 - 58   %              22                 - 34   %              35
+total                         151                 - 21   %             191                 +20    %             158
+bitumen (mbbls/d)
+heavy oil                     109                  +29   %              84                 +51    %              56
+gas (mmcf/d)
+barnett shale                 741                  - 9   %             815                 - 13   %             932
+delaware basin                 91                  +25   %              73                 +9     %              67
+eagle ford                    106                 - 29   %             149                 +66    %              90
+heavy oil                      20                 - 11   %              22                 - 5    %              23
+rockies oil                    25                 - 37   %              40                 - 23   %              52
+stack                         293                  +23   %             239                 - 1    %             242
+other                          14                 - 16   %              17                 - 10   %              19
+retained assets             1,290                  - 5   %           1,355                 - 5    %           1,425
+divested assets               123                 - 52   %             255                 - 49   %             495
+total                       1,413                 - 12   %           1,610                 - 16   %           1,920
+ngls (mbbls/d)
+barnett shale                  45                 - 12   %              51                 - 12   %              58
+delaware basin                 12                  +27   %               9                 +24    %               7
+eagle ford                     16                 - 33   %              25                 +113   %              12
+rockies oil                     1                  - 9   %               1                 +16    %               1
+stack                          26                  +22   %              21                 - 7    %              23
+other                           3                 - 17   %               3                 - 5    %               3
+retained assets               103                  - 6   %             110                 +5     %             104
+divested assets                13                 - 50   %              26                 - 26   %              35
+total                         116                 - 15   %             136                 - 2    %             139
+combined (mboe/d)
+barnett shale                 169                 - 10   %             188                 - 13   %             215
+delaware basin                 60                  - 1   %              61                 +35    %              45
+eagle ford                     76                 - 34   %             115                 +74    %              66
+heavy oil                     134                  +17   %             115                 +34    %              86
+rockies oil                    19                 - 17   %              23                 +23    %              19
+stack                          93                  +37   %              68                 - 2    %              70
+other                          17                 - 13   %              19                 - 5    %              20
+retained assets               568                  - 4   %             589                 +13    %             521
+divested assets                43                 - 53   %              91                 - 40   %             152
+total                         611                 - 10   %             680                 +1     %             673
+32
+index to financial statements oil, gas and ngl pricing year ended december 31,
+
+2016 (1)           change                  2015 (1)           change                  2014 (1)
+oil (per bbl)
+u.s.                      $38.92                 - 12   %            $44.01                 - 49   %            $85.64
+canada                    $23.96                 - 22   %            $30.58                 - 55   %            $68.14
+total                     $36.72                 - 13   %            $42.12                 - 49   %            $82.47
+bitumen (per bbl)
+canada                    $19.82                 - 15   %            $23.41                 - 58   %            $55.88
+gas (per mcf)
+u.s.                       $1.84                 - 15   %             $2.17                 - 45   %             $3.92
+canada (2)                   n/m           n/m                          n/m           n/m                        $3.64
+total                      $1.84                 - 14   %             $2.14                 - 45   %             $3.90
+ngls (per bbl)
+u.s.                       $9.81                   +5   %             $9.32                 - 62   %            $24.46
+canada                        $-           n/m                           $-           n/m                       $50.52
+total                      $9.81                   +5   %             $9.32                 - 63   %            $24.89
+combined (per boe)
+u.s.                      $18.34                 - 13   %            $21.12                 - 44   %            $37.96
+canada                    $20.07                 - 18   %            $24.46                 - 54   %            $53.11
+total                     $18.72                 - 14   %            $21.68                 - 46   %            $40.33
+(1)   prices presented exclude any effects of oil, gas and ngl derivatives.
+
+(2)   the reported canadian gas volumes include 11, 12 and 21 mmcf/d for the years ended 2016, 2015 and 2014, respectively, that are produced from certain of our leases and then transported to our jackfish operations where the gas is used as fuel. however, the revenues and expenses related to this consumed gas are eliminated in our consolidated financial results. with the sale of the vast majority of the canadian gas business in the second quarter of 2014, the eliminated gas revenues subsequently impacted our gas price more significantly.
+
+commodity sales the volume and price changes in the tables above caused the following changes to our oil, gas and ngl sales.
+oil                 bitumen                 gas                  ngls                total
+
+(millions)
+2014 sales                    $4,773                $1,138                $2,737              $1,262                $9,910
+change due to volumes            976                   584                  (443   )             (23   )             1,094
+change due to prices          (2,813   )            (1,000   )            (1,034   )            (775   )            (5,622   )
+2015 sales                    $2,936                  $722                $1,260                $464                $5,382
+change due to volumes           (608   )               209                  (151   )             (70   )              (620   )
+change due to prices            (299   )              (143   )              (159   )              21                  (580   )
+2016 sales                    $2,029                  $788                  $950                $415                $4,182
+volumes 2016 vs. 2015 commodity sales decreased due to our 67% reduction in exploration and development capital related to our retained assets during 2016. while expanded drilling in the stack and the performance of our jackfish assets drove production increases, these production increases were more than offset by reduced completion activity in the eagle ford and natural production declines in the barnett shale and rockies oil. delaware basin production was relatively flat as natural declines offset the increases from new wells. additionally, our production decreased as a result of our u.s. non-core divestiture program.
+volumes 2015 vs. 2014 commodity sales increased due to volumes in 2015 because of strong production growth from our u.s. oil properties. the growth was primarily driven by the continued development of our eagle
+33
+index to financial statements ford, delaware basin and rockies oil properties. additionally, our bitumen production increased primarily due to jackfish 3 coming on-line late in the third quarter of 2014 and reaching nameplate capacity in the third quarter of 2015. lower royalties resulting from the significant price decrease also increased our heavy oil production. the increases were partially offset by a decrease in our gas production, which resulted primarily from asset divestitures in 2014 and natural reservoir declines.
+prices 2016 vs. 2015 commodity sales decreased in 2016 as a result of lower prices for oil, bitumen and gas. the decrease in oil and bitumen sales primarily resulted from lower average wti crude oil index prices, which were approximately 11% lower in 2016 as compared to 2015. the decreases in gas were driven by lower north american regional index prices upon which our gas sales are based. these decreases were partially offset by slightly higher ngl prices at the mont belvieu, texas hub.
+prices 2015 vs. 2014 commodity sales decreased in 2015 as a result of significantly lower prices for all commodities. the decrease in oil and bitumen sales primarily resulted from significantly lower average wti crude oil index prices, which were approximately 50% lower in 2015 as compared to 2014. the decreases in gas and ngl sales were driven by lower north american regional index prices upon which our gas sales are based and lower ngl prices at the mont belvieu, texas hub.
+oil, gas and ngl derivatives the following tables provide financial information associated with our oil, gas and ngl hedges. the first table presents the cash settlements and fair value gains and losses recognized as components of our revenues. the subsequent tables present our oil, gas and ngl prices with and without the effects of the cash settlements. the prices do not include the effects of fair value gains and losses.
+year ended december 31,
+2016                 2015                     2014
+(millions)
+cash settlements:
+oil derivatives                                  $(41         )              $2,083                     $90
+gas derivatives                                  35                             333                     (36   )
+ngl derivatives                                         (5    )                   -                       1
+total cash settlements                                 (11    )               2,416                      55
+gains (losses) on fair value changes:
+oil derivatives                                       (103    )              (1,687    )              1,721
+gas derivatives                                        (86    )                (226    )                213
+ngl derivatives                                         (1    )                   -                       -
+total gains (losses) on fair value changes            (190    )              (1,913    )              1,934
+oil, gas and ngl derivatives                     $(201        )                $503                  $1,989
+34
+index to financial statements year ended december 31, 2016
+
+oil                    bitumen               gas                    ngls                   boe
+(per bbl)              (per bbl)             (per mcf)              (per bbl)              (per boe)
+realized price without hedges                $36.72                 $19.82                $1.84                  $9.81                  $18.72
+cash settlements of hedges                          (0.74   )              -              0.07                          (0.11   )              (0.05   )
+realized price, including cash settlements   $35.98                 $19.82                $1.91                  $9.70                  $18.67
+year ended december 31, 2015
+oil                    bitumen               gas                    ngls                   boe
+(per bbl)              (per bbl)             (per mcf)              (per bbl)              (per boe)
+realized price without hedges                $42.12                 $23.41                $2.14                  $9.32                  $21.68
+cash settlements of hedges                   29.88                         -              0.57                          -               9.74
+realized price, including cash settlements   $72.00                 $23.41                $2.71                  $9.32                  $31.42
+year ended december 31, 2014
+oil                    bitumen               gas                    ngls                   boe
+(per bbl)              (per bbl)             (per mcf)              (per bbl)              (per boe)
+realized price without hedges                $82.47                 $55.88                $3.90                  $24.89                 $40.33
+cash settlements of hedges                   1.56                          -                     (0.05   )       0.02                   0.22
+realized price, including cash settlements   $84.03                 $55.88                $3.85                  $24.91                 $40.55
+cash settlements as presented in the tables above represent realized gains or losses related to these various instruments. a summary of our open commodity derivative positions is included in note 3 in "item 8. financial statements and supplementary data" of this report. our oil, gas and ngl derivatives include price swaps, costless collars and basis swaps.
+in addition to cash settlements, we also recognize fair value changes on our oil, gas and ngl derivative instruments in each reporting period. the changes in fair value resulted from new positions and settlements that occurred during each period, as well as the relationships between contract prices and the associated forward curves. including the cash settlements discussed above, our oil, gas and ngl derivatives incurred a net loss in 2016 and generated net gains in 2015 and 2014.
+marketing and midstream revenues and operating expenses year ended december 31,
+
+2016                       change            2015                       change           2014
+(millions)
+operating revenues                              $6,323                  - 13   %             $7,260                 - 5    %             $7,667
+product purchases                               (5,133   )              - 15   %             (6,028   )             - 8    %             (6,540   )
+operations and maintenance expenses               (359   )               - 8   %               (392   )             +43    %               (275   )
+operating profit                                  $831                   - 1   %               $840                 - 1    %               $852
+devon profit (loss)                               $(48   )             - 443   %                $14                 - 84   %                $88
+enlink profit                                      879                    +6   %                826                 +8     %                764
+total profit                                      $831                   - 1   %               $840                 - 1    %               $852
+2016 vs. 2015 the overall decrease in marketing and midstream margin during 2016 was primarily due to lower margins on devon's downstream marketing commitments, offset by enlink's margin growth largely related to its acquisition activity in late 2015 and the first quarter of 2016. we anticipate the margins on devon's downstream marketing commitments to continue to negatively impact our marketing and midstream margins into 2017.
+35
+index to financial statements
+2015 vs. 2014 marketing and midstream operating profit changes were largely driven by a decrease in devon's marketing activities due to a decrease in commodity prices. these declines were partially offset by a full year of enlink's legacy asset operations compared to prior year and facility expansions coming online in late 2014, along with assets acquired during 2015.
+asset dispositions and other during 2016, we recognized gains of $1.9 billion in conjunction with the non-core u.s. upstream asset divestitures and the divestiture of our 50% interest in the access pipeline in canada. during 2014, in conjunction with the divestiture of certain canadian properties, we recognized gains of $1.1 billion. for further discussion, see note 2 in "item 8. financial statements and supplementary data" of this report.
+lease operating expenses year ended december 31,
+
+2016                    change           2015                    change           2014
+(millions, except per boe amounts)
+loe:
+u.s.                  $1,123                 - 28   %          $1,551                  - 0   %          $1,559
+canada                   459                 - 17   %             553                 - 28   %             773
+total                 $1,582                 - 25   %          $2,104                 - 10   %          $2,332
+loe per boe:
+u.s.                   $6.44                 - 14   %           $7.52                   +0   %           $7.52
+canada                 $9.36                 - 29   %          $13.18                 - 34   %          $20.10
+total                  $7.08                 - 17   %           $8.48                 - 11   %           $9.49
+2016 vs. 2015 loe and loe per boe decreased during 2016 primarily due to our well optimization and cost reduction initiatives, as well as our non-core oil and gas property divestitures. on an absolute dollar basis, loe decreased approximately $200 million as a result of our u.s. upstream divestitures, and we anticipate realizing approximately $100 million in additional loe savings in 2017 as a result of these divestitures. our cost reduction initiatives have been primarily focused on reducing costs associated with water disposal, power and fuel, compression and workovers. these cost savings were partially offset by $28 million of access pipeline transportation tolls which commenced in the fourth quarter of 2016 subsequent to the sale of our interest in access. our access transportation agreement contains a base transportation commitment, which for the initial five years averages $110 million annually.
+2015 vs. 2014 loe per boe decreased during 2015 primarily as a result of higher jackfish 3 volumes, our well optimization and cost reduction initiatives, lower royalties and changes in the canadian to u.s. foreign exchange rate. as canadian royalties decrease, our net production volumes increase, causing improvements to our per-unit operating costs. the flat u.s. rate is primarily related to our 2014 non-core natural gas asset divestitures and our oil production growth, where projects generate higher margins but generally require a higher cost to produce per unit than our retained and divested gas projects.
+36
+index to financial statements general and administrative expenses year ended december 31,
+
+2016                    change           2015                     change           2014
+(millions)
+gross g&amp;a                  $853                 - 30   %           $1,210                 - 5    %           $1,272
+capitalized g&amp;a            (244   )             - 34   %             (372   )             - 1    %             (376   )
+reimbursed g&amp;a              (82   )             - 32   %             (120   )             - 18   %             (146   )
+devon net g&amp;a               527                 - 27   %              718                 - 4    %              750
+enlink net g&amp;a              118                 - 14   %              137                 +41    %               97
+net g&amp;a                    $645                 - 25   %             $855                 +1     %             $847
+2016 vs. 2015 gross g&a and capitalized g&a decreased during 2016 largely due to lower devon employee costs resulting from workforce reductions, as discussed in note 6 in "item 8. financial statements and supplementary data" of this report, and other cost reduction initiatives. reimbursed g&a decreased primarily due to a reduction in drilling activity in response to the decline in commodity prices as well as the divestiture of operated properties. enlink net g&a decreased primarily due to lower employee compensation expense and other cost reductions initiatives during 2016.
+2015 vs. 2014 gross g&a decreased during 2015 largely because of a lower employee performance bonus pool and our cost reduction initiatives. furthermore, $22 million in one-time costs related to the enlink and geosouthern transactions contributed to higher costs in the first quarter of 2014. reimbursed g&a decreased subsequent to our 2014 asset divestitures. enlink g&a increased primarily due to a workforce increase associated with enlink's 2015 acquisitions.
+production and property taxes year ended december 31,
+
+2016                  change           2015                  change           2014
+(millions)
+production taxes                               $141                 - 29   %          $198                 - 45   %          $360
+property and other taxes                         95                 - 37   %           151                 +3     %           147
+devon production and property taxes             236                 - 32   %           349                 - 31   %           507
+enlink property taxes                            39                  - 1   %            39                 +39    %            28
+production and property taxes                  $275                 - 29   %          $388                 - 28   %          $535
+percentage of oil, gas and ngl sales:
+production taxes                                3.4   %              - 8   %           3.7   %             +1     %           3.6   %
+property and other taxes                        3.2   %              - 9   %           3.5   %             +100   %           1.8   %
+total                                           6.6   %              - 9   %           7.2   %             +33    %           5.4   %
+2016 vs. 2015 production taxes decreased on an absolute dollar basis primarily due to the decrease in our u.s. revenues, on which the majority of our production taxes are assessed. furthermore, property and other taxes decreased as a result of lower property value assessments from the local taxing authorities across our key operating areas and as a result of our u.s. non-core divestitures. property taxes do not change in direct correlation with the decline in oil, gas and ngl sales and are generally determined based on the valuation of the underlying assets.
+2015 vs. 2014 production taxes decreased during 2015 primarily because of a decrease in our u.s. revenues, on which the majority of our production taxes are assessed.
+37
+index to financial statements depreciation, depletion and amortization year ended december 31,
+
+2016                      change           2015                      change           2014
+(millions, except per boe amounts)
+dd&amp;a:
+oil and gas properties            $1,143                 - 56   %            $2,580                 - 11   %            $2,896
+other assets                         145                 - 10   %               162                 +16    %               139
+devon dd&amp;a                     1,288                 - 53   %             2,742                 - 10   %             3,035
+enlink dd&amp;a                      504                  +30   %               387                 +36    %               284
+total dd&amp;a                    $1,792                 - 43   %            $3,129                 - 6    %            $3,319
+dd&amp;a per boe:
+oil and gas properties             $5.11                 - 51   %            $10.40                 - 12   %            $11.79
+a description of how dd&a of our oil and gas properties is calculated is included in note 1 in "item 8. financial statements and supplementary data" of this report. generally, when reserve volumes are revised up or down, the dd&a rate per unit of production will change inversely. however, when the depletable base changes, the dd&a rate moves in the same direction. the per unit dd&a rate is not affected by production volumes. absolute or total dd&a, as opposed to the rate per unit of production, generally moves in the same direction as production volumes.
+2016 vs. 2015 dd&a from our oil and gas properties decreased largely because of the significant asset impairments recognized throughout 2015 and 2016. for discussion of asset impairments, see note 5 in "item 8. financial statements and supplementary data" of this report. enlink's dd&a increased primarily due to enlink acquisitions in 2016 and 2015.
+2015 vs. 2014 dd&a from our oil and gas properties decreased in 2015 compared to 2014 largely because of the 2014 divestitures of certain u.s. and canadian assets and the oil and gas asset impairments recognized in 2015. enlink's dd&a increased primarily due to enlink's acquisitions in 2014 and 2015.
+asset impairments during 2016, 2015 and 2014, we recognized asset impairments of $5.0 billion, $20.8 billion and $2.0 billion, respectively. for discussion of asset impairments, see note 5 in "item 8. financial statements and supplementary data" of this report.
+restructuring and transaction costs during 2016, 2015 and 2014, we recognized restructuring and transaction costs of $267 million, $78 million and $46 million, respectively. for discussion of our reorganization programs and the associated restructuring costs, see note 6 in "item 8. financial statements and supplementary data" of this report.
+38
+index to financial statements net financing costs year ended december 31,
+
+2016                   change           2015                   change           2014
+(millions)
+devon net financing costs:
+interest based on debt outstanding                           $488                 +9     %           $450                 - 4    %           $468
+early retirement of debt                                      269           n/m                         -           n/m                        48
+capitalized interest                                          (64   )             +18    %            (54   )             -7     %            (58   )
+other                                                          21                 +50    %             14                 - 7    %             15
+total devon net financing costs                               714                 +74    %            410                 - 13   %            473
+enlink net financing costs:
+interest based on debt outstanding                            144                 +26    %            115                 +80    %             64
+interest accretion on deferred installment payment             52           n/m                         -           n/m                         -
+other                                                          (6   )             - 25   %             (8   )             - 27   %            (11   )
+total enlink net financing costs                              190                 +77    %            107                 +102   %             53
+total net financing costs                                    $904                 +75    %           $517                 - 2    %           $526
+2016 vs. 2015 net financing costs increased during 2016 primarily as a result of the retirement premiums and costs related to early redemptions of senior notes in 2016, which is further discussed in note 14 in "item 8. financial statements and supplementary data" of this report. furthermore, net financing costs increased due to enlink's fixed rate borrowings and accretion of its future installment payments related to 2016 acquisition activity discussed in note 2 in "item 8. financial statements and supplementary data" of this report.
+2015 vs. 2014 net financing costs decreased primarily because of the 2014 early retirement premium and costs and a decrease in average fixed-rate borrowings.
+income taxes year ended december 31,
+
+2016                 2015                     2014
+(millions)
+current income tax expense (benefit)        $100                  $(237          )                $477
+deferred income tax expense (benefit)            (273    )              (5,828   )               1,891
+total income tax expense (benefit)          $(173        )        $(6,065        )              $2,368
+effective income tax rate                   4            %        29             %                  58   %
+for discussion on income taxes, see note 7 in "item 8. financial statements and supplementary data" of this report.
+39
+index to financial statements capital resources, uses and liquidity sources and uses of cash the following table presents the major source and use categories of our cash and cash equivalents.
+devon                                                            enlink                                                        consolidated
+
+2016                   2015                   2014                   2016                2015                 2014                2016                   2015                   2014
+(millions)
+operating cash flow                             $1,080                 $4,746                 $5,507                $666                 $627                $514                 $1,746                 $5,373                 $6,021
+issuance of common stock                         1,469                      -                      -                   -                    -                   -                  1,469                      -                      -
+divestitures of property and                     3,025                    106                  5,120                  93                    1                   -                  3,118                    107                  5,120
+equipment capital expenditures                            (1,667   )             (4,735   )             (6,192   )            (663   )             (573   )            (796   )             (2,330   )             (5,308   )             (6,988   )
+acquisitions of property, equipment               (849   )               (583   )             (6,104   )            (792   )             (524   )            (358   )             (1,641   )             (1,107   )             (6,462   )
+and businesses debt activity, net                              (3,383   )                770                 (2,829   )             228                1,061                 555                 (3,155   )              1,831                 (2,274   )
+shareholder and noncontrolling                    (221   )               (396   )               (486   )            (304   )             (254   )            (135   )               (525   )               (650   )               (621   )
+interests distributions enlink and general partner                         265                    268                    158                (265   )             (268   )            (158   )                  -                      -                      -
+distributions enlink dropdowns                                     -                    167                      -                   -                 (167   )               -                      -                      -                      -
+issuance of subsidiary units                         -                      -                      -                 892                   25                 410                    892                     25                    410
+sale of subsidiary units                             -                    654                      -                   -                    -                   -                      -                    654                      -
+effect of exchange rate and other                  (64   )               (117   )                172                 139                   22                  36                     75                    (95   )                208
+net change in cash and cash                      $(345   )               $880                $(4,654   )             $(6   )             $(50   )             $68                  $(351   )               $830                $(4,586   )
+equivalents cash and cash equivalents at end of             $1,947                 $2,292                 $1,412                 $12                  $18                 $68                 $1,959                 $2,310                 $1,480
+period operating cash flow net cash provided by operating activities continued to be a significant source of capital and liquidity in 2016. our operating cash flow decreased $3.6 billion, or 68%, during 2016. throughout 2015, our commodity hedges provided us with $2.4 billion of additional operating cash flow. the majority of these hedges expired in 2015 and were the primary driver of our decrease in operating cash flow in 2016. the remainder of the decrease is primarily related to the continued decrease in commodity prices, partially offset by our focused cost initiatives.
+our operating cash flow decreased 10% during 2015 primarily due to lower commodity prices. the effects of lower commodity prices were partially offset by the collection of $425 million of income taxes receivable in the first quarter of 2015 and $2.4 billion of cash settlements associated with our commodity derivatives during 2015.
+excluding payments made for acquisitions, our consolidated operating cash flow funded 75%, 100% and 86% of our capital expenditures during 2016, 2015 and 2014, respectively. in 2016, 2015 and 2014, leveraging our liquidity and other capital resources, we also used cash balances, short-term debt, proceeds from enlink transactions and divestiture proceeds to fund our acquisitions, dividends and capital requirements.
+issuance of common stock in february 2016, we issued 79 million shares of our common stock to the public, inclusive of 10 million shares sold as part of the underwriters' option. net proceeds from the offering were approximately $1.5 billion.
+40
+index to financial statements divestitures of property and equipment during 2016, we divested certain non-core upstream assets in the u.s. and our 50% interest in the access pipeline in canada for approximately $3.0 billion, net of purchase price adjustments. proceeds from these divestitures were used primarily for debt repayment and to support capital investment in devon's core resource plays. we did not have significant current cash income taxes resulting from these divestitures. for further discussion, see note 2 in "item 8. financial statements and supplementary data" of this report.
+during 2014, we divested certain non-core upstream assets in the u.s. and canada for approximately $5.1 billion. these proceeds were used primarily for debt repayment relating to the geosouthern transaction. for additional discussion, see note 2 in "item 8. financial statements and supplementary data" of this report.
+capital expenditures year ended december 31,
+
+2016                   2015                    2014
+(millions)
+oil and gas                            $1,624                  $4,577                  $5,735
+corporate and other                        43                     158                     457
+devon capital expenditures              1,667                   4,735                   6,192
+enlink capital expenditures               663                     573                     796
+total capital expenditures             $2,330                  $5,308                  $6,988
+devon acquisitions                       $849                    $583                  $6,104
+enlink acquisitions                       792                     524                     358
+total acquisitions                     $1,641                  $1,107                  $6,462
+capital expenditures consist of amounts related to our oil and gas exploration and development operations, our midstream operations, other corporate activities and enlink growth and maintenance activities. the vast majority of our capital expenditures are for the acquisition, drilling and development of oil and gas properties. in response to our lower operating cash flow, devon's 2016 capital program was designed to be lower than 2015. this change is evidenced by a 56% decrease in total capital expenditures from 2015 to 2016, excluding acquisitions. since 2014, we have reduced our capital expenditures by approximately 70%.
+capital expenditures for devon's and enlink's midstream operations are primarily for the construction and expansion of oil and gas gathering facilities and pipelines. midstream capital expenditures are largely impacted by oil and gas drilling and development activities.
+acquisition capital in 2016 primarily consisted of devon's bolt-on acquisition of assets in the stack play for $1.5 billion and enlink's acquisition of anadarko basin gathering and processing midstream assets for $1.5 billion. approximately $849 million and $792 million, respectively, was paid in cash at the closings with the remainder of the purchase prices funded with equity consideration and debt. in 2015 our acquisition activity primarily consisted of the powder river basin asset acquisition in the fourth quarter. the majority of the acquisition capital in 2014 related to the geosouthern acquisition in the eagle ford. enlink's acquisitions in 2015 and 2014 consisted of additional oil and gas pipeline assets, including gathering, transportation and processing facilities. for further discussion on acquisition activity, see note 2 in "item 8. financial statements and supplementary data" of this report.
+debt activity, net during 2016, our consolidated net debt decreased $2.9 billion. the decrease was primarily due to completed tender offers to purchase and redeem $2.1 billion of debt securities prior to their maturity and a $1 billion reduction in short-term borrowings during 2016. in conjunction with the tender offers, we recognized a $269 million loss on the early retirement of debt, including $265 million of cash retirement costs and fees. the decrease was partially
+41
+index to financial statements offset by $229 million of net borrowings from enlink. for additional information, see note 14 in "item 8. financial statements and supplementary data" in this report.
+during 2015, our consolidated net debt increased $1.8 billion. in june 2015, we issued $750 million of 5.0% senior notes. we used these proceeds to repay the aggregate principal amount of our floating rate senior notes upon maturity on december 15, 2015, as well as outstanding commercial paper balances. in december 2015, we issued $850 million of 5.85% senior notes to fund acquisitions announced in the fourth quarter. enlink's net debt borrowings increased $1.1 billion primarily from borrowings made to fund acquisitions and dropdowns.
+during 2014, we decreased our net debt by $2.2 billion. the decrease was primarily related to the repayment of debt used to fund the geosouthern transaction. this was partially offset by $555 million of net borrowings from enlink to fund its operations.
+shareholder and noncontrolling interests distributions the following table summarizes our common stock dividends.
+amounts           rate
+
+(millions)     (per share)
+year ended 2016:
+first quarter 2016             $125           $0.24
+second quarter 2016              33           $0.06
+third quarter 2016               32           $0.06
+fourth quarter 2016              31           $0.06
+total year-to-date             $221
+year ended 2015:
+first quarter 2015              $99           $0.24
+second quarter 2015              98           $0.24
+third quarter 2015               99           $0.24
+fourth quarter 2015             100           $0.24
+total year-to-date             $396
+year ended 2014:
+first quarter 2014              $90           $0.22
+second quarter 2014              99           $0.24
+third quarter 2014               98           $0.24
+fourth quarter 2014              99           $0.24
+total year-to-date             $386
+in response to the depressed commodity price environment, we reduced our quarterly dividend to $0.06 per share in the second quarter of 2016.
+in conjunction with the formation of enlink in the first quarter of 2014, we made a payment of $100 million to noncontrolling interests. furthermore, enlink and the general partner distributed $304 million, $254 million and $135 million to non-devon unitholders during 2016, 2015 and 2014, respectively.
+enlink and general partner distributions devon received $265 million, $268 million and $158 million in distributions from enlink and the general partner during 2016, 2015 and 2014, respectively.
+42
+index to financial statements enlink dropdowns in the second quarter of 2015, devon received $167 million in cash from enlink in exchange for vex. for further discussion, see note 2 in "item 8. financial statements and supplementary data" of this report.
+issuance of subsidiary units in january 2016, to fund a portion of the cash consideration of its acquisition of anadarko basin gathering and processing midstream assets, enlink issued 50 million preferred units in a private placement generating cash proceeds of approximately $725 million. general partner common units were also issued as consideration in the transaction.
+during 2016, 2015 and 2014, enlink issued and sold approximately 10.0 million, 1.3 million and 14.8 million common units through general public offerings and its "at the market" equity program, generating net proceeds of approximately $167 million, $25 million and $410 million, respectively.
+sale of subsidiary units in early 2015, we conducted an underwritten secondary public offering of 26.2 million common units representing limited partner interests in enlink, raising proceeds of $654 million, net of underwriting discount. see note 18 in "item 8. financial statements and supplementary data" of this report.
+effect of exchange rate and other in 2016, enlink received contributions from noncontrolling interests. for further discussion see note 2 in "item 8. financial statements and supplementary data" of this report.
+liquidity historically, our primary sources of capital and liquidity have been our operating cash flow, asset divestiture proceeds and cash on hand. additionally, we maintain a commercial paper program, supported by our revolving line of credit, which can be accessed as needed to supplement operating cash flow and cash balances. available sources of capital and liquidity include, among other things, debt and equity securities that can be issued pursuant to our shelf registration statement filed with the sec, as well as the sale of a portion of our common units representing interests in our investment in enlink and the general partner. the most significant source of liquidity in 2016 has come from approximately $3.0 billion of proceeds related to our asset divestitures. we estimate the combination of these sources of capital will continue to be adequate to fund our planned capital expenditures, future debt repayments and other contractual commitments as discussed in this section.
+operating cash flow our operating cash flow is sensitive to many variables, the most volatile of which are the prices of the oil, bitumen, gas and ngls we produce and sell. our consolidated operating cash flow decreased 68% in 2016 as a result of the expiration of certain favorable commodity hedging positions and the continued decrease in commodity prices. in spite of this decline, we expect operating cash flow to continue to be a primary source of liquidity as we adjust our capital program in response to lower commodity prices. additionally, we anticipate utilizing our credit availability to provide additional liquidity as needed.
+commodity prices - prices are determined primarily by prevailing market conditions. regional and worldwide economic activity, weather and other substantially variable factors influence market conditions for these products. these factors, which are difficult to predict, create volatility in prices and are beyond our control. as a result, entering into 2017 we have hedged approximately 50% of our oil and 45% of our gas production. the key
+43
+index to financial statements terms to our oil, gas and ngl derivative financial instruments as of december 31, 2016 are presented in note 3 in "item 8. financial statements and supplementary data" of this report.
+commodity prices can also affect our operating cash flow through an indirect effect on operating expenses. significant commodity price decreases can lead to a decrease in drilling and development activities. as a result, the demand and cost for people, services, equipment and materials may also decrease, causing a positive impact on our cash flow as the prices paid for services and equipment decline. however, the inverse is also generally true during periods of rising commodity prices.
+interest rates - our operating cash flow can also be impacted by interest rate fluctuations. as of december 31, 2016, we had total debt of $10.2 billion. of this amount, $10.0 billion bears fixed interest rates averaging 5.3%, and approximately $150 million is comprised of floating rate debt with interest rates averaging 2.5%.
+as of december 31, 2016, we had open interest rate swap positions that are presented in note 3 in "item 8. financial statements and supplementary data" in this report.
+credit losses - our operating cash flow is also exposed to credit risk in a variety of ways. this includes the credit risk related to customers who purchase our oil, gas and ngl production, the collection of receivables from our joint-interest partners for their proportionate share of expenditures made on projects we operate and counterparties to our derivative financial contracts. we utilize a variety of mechanisms to limit our exposure to the credit risks of our customers, partners and counterparties. such mechanisms include, under certain conditions, requiring letters of credit, prepayments or collateral postings.
+as recent years indicate, we have a history of investing more than 100% of our operating cash flow into capital development activities to grow our company and maximize value for our shareholders. therefore, negative movements in any of the variables discussed above would not only impact our operating cash flow but also would likely impact the amount of capital investment we could or would make. in the current environment, assuming current pricing expectations, our 2017 exploration and development capital budget is expected to be approximately $2.0 billion to $2.3 billion.
+at the end of 2016, we held approximately $2.0 billion of cash. included in this total was $644 million of cash held by our foreign subsidiaries. if we were to repatriate a portion or all of the cash held by our foreign subsidiaries, we would recognize and pay current income taxes in accordance with current u.s. tax law. the payment of such additional income tax would decrease the amount of cash ultimately available to fund our business.
+credit availability we have a $3.0 billion senior credit facility. the maturity date for $30 million of the senior credit facility is october 24, 2017. the maturity date for $164 million of the senior credit facility is october 24, 2018. the maturity date for the remaining $2.8 billion is october 24, 2019. this credit facility supports our $3.0 billion of short-term credit under our commercial paper program. as of december 31, 2016, there were no borrowings under our commercial paper program. see note 14 in "item 8. financial statements and supplementary data" of this report for further discussion.
+the senior credit facility contains only one material financial covenant. this covenant requires us to maintain a ratio of total funded debt to total capitalization, as defined in the credit agreement, of no more than 65%. the credit agreement defines total funded debt as funds received through the issuance of debt securities such as debentures, bonds, notes payable, credit facility borrowings and short-term commercial paper borrowings. in addition, total funded debt includes all obligations with respect to payments received in consideration for oil, gas and ngl production yet to be acquired or produced at the time of payment. funded debt excludes our outstanding letters of credit and trade payables. the credit agreement defines total capitalization as the sum of funded debt and stockholders' equity adjusted for noncash financial write-downs, such as full cost ceiling and goodwill impairments. as of december 31, 2016, we were in compliance with this covenant. our debt-to-capitalization ratio at december 31, 2016, as calculated pursuant to the terms of the agreement, was 18.7%.
+44
+index to financial statements our access to funds from the senior credit facility is not restricted under any "material adverse effect" clauses. it is not uncommon for credit agreements to include such clauses. these clauses can remove the obligation of the banks to fund the credit line if any condition or event would reasonably be expected to have a material and adverse effect on the borrower's financial condition, operations, properties or business considered as a whole, the borrower's ability to make timely debt payments or the enforceability of material terms of the credit agreement. while our credit facility includes covenants that require us to report a condition or event having a material adverse effect, the obligation of the banks to fund the credit facility is not conditioned on the absence of a material adverse effect.
+as market conditions warrant and subject to our contractual restrictions, liquidity position and other factors, we may from time to time seek to repurchase or retire our outstanding debt through cash purchases and/or exchanges for other debt or equity securities in open market transactions, privately negotiated transactions, by tender offer or otherwise. any such cash repurchases by us may be funded by cash on hand or incurring new debt. the amounts involved in any such transactions, individually or in the aggregate, may be material. furthermore, any such repurchases or exchanges may result in our acquiring and retiring a substantial amount of such indebtedness, which would impact the trading liquidity of such indebtedness.
+debt ratings we receive debt ratings from the major ratings agencies in the u.s. in determining our debt ratings, the agencies consider a number of qualitative and quantitative items including, but not limited to, commodity pricing levels, our liquidity, asset quality, reserve mix, debt levels, cost structure, planned asset sales and near-term and long-term production growth opportunities. in february 2016, our credit rating was revised by standard & poor's financial services from bbb+ with a negative outlook to bbb with a stable outlook, and moody's investor service revised our senior unsecured rating from baa1 with a stable outlook to ba2 with negative outlook. in march 2016, fitch ratings affirmed our bbb+ rating but revised our outlook from stable to negative. further, in july 2016, moody's revised the outlook to stable. the downgrade in ratings required us to post letters of credit and cash collateral as financial assurance of performance under certain contractual arrangements. any further rating downgrades may result in additional letters of credit or cash collateral being posted under certain contractual arrangements.
+there are no "rating triggers" in any of our or enlink's contractual debt obligations that would accelerate scheduled maturities should our debt rating fall below a specified level. however, these downgrades could adversely impact our and enlink's interest rate on any credit facility borrowings and the ability to economically access debt markets in the future.
+capital expenditures excluding enlink, our 2017 capital expenditures are expected to range from $2.3 billion to $2.7 billion, including $2.0 billion to $2.3 billion for our exploration and development capital program. to a certain degree, the ultimate timing of these capital expenditures is within our control. therefore, if commodity prices fluctuate from our current estimates, we could choose to defer a portion of these planned 2017 capital expenditures until later periods or accelerate capital expenditures planned for periods beyond 2017 to achieve the desired balance between sources and uses of liquidity. based upon current price expectations for 2017, available cash balances and credit availability, we anticipate having adequate capital resources to fund our 2017 capital expenditures.
+enlink liquidity enlink has a $1.5 billion unsecured revolving credit facility. the general partner has a $250 million revolving credit facility. as of december 31, 2016, there were $12 million in outstanding letters of credit and $120 million borrowed under the $1.5 billion credit facility and $28 million outstanding borrowings under the $250 million credit facility. all of enlink's and the general partner's debt is non-recourse to devon.
+45
+index to financial statements enlink's 2017 capital budget includes approximately $610 million to $770 million of identified growth projects. enlink's primary capital projects for 2017 include construction of the lobo ii plant and gathering system in the delaware basin, completing construction of an ngl pipeline in louisiana and development of its tall oak assets.
+enlink expects to fund the growth capital expenditures from the proceeds of borrowings under its bank credit facility and proceeds from other debt and equity sources. enlink expects to fund its 2017 maintenance capital expenditures from operating cash flows. enlink employs a strategy that includes maintaining stable operating cash flows that are supported by long-term, fixed-fee contracts. approximately 97% of enlink's cash flows were generated from fee-based services in 2016. in 2017, it is possible that not all of the planned projects will be commenced or completed. enlink's ability to pay distributions to its unitholders, fund planned capital expenditures and make acquisitions will depend upon its future operating performance, which will be affected by prevailing economic conditions in the industry and financial, business and other factors, some of which are beyond its control.
+contractual obligations the following table presents a summary of our contractual obligations as of december 31, 2016.
+payments due by period total              less than 1 year              1-3 years              3-5 years             more than 5 years
+(millions)
+devon obligations:
+debt (1)                                       $6,933                            $-                   $277                   $500                        $6,156
+interest expense (2)                            6,579                           390                    771                    752                         4,666
+purchase obligations (3)                        2,949                           609                  1,411                    929                             -
+operational agreements (4)                      4,726                           545                    914                    600                         2,667
+operational agreements with enlink (5)          1,589                           600                    847                    142                             -
+asset retirement obligations (6)                1,258                            46                    143                    163                           906
+drilling and facility obligations (7)             388                            76                    133                     94                            85
+lease obligations (8)                             371                            50                    168                     98                            55
+other (9)                                         202                           202                      -                      -                             -
+total devon obligations                        24,995                         2,518                  4,664                  3,278                        14,535
+enlink obligations:
+debt (1)                                        3,311                             -                    428                    120                         2,763
+interest expense (2)                            1,966                           144                    283                    267                         1,272
+other (9)                                         794                           313                    334                     35                           112
+total enlink obligations                        6,071                           457                  1,045                    422                         4,147
+total obligations                             $31,066                        $2,975                 $5,709                 $3,700                       $18,682
+(1)   debt amounts represent scheduled maturities of debt obligations at december 31, 2016, excluding net discounts and debt issue costs included in the carrying value of debt.
+
+(2)   interest expense represents the scheduled cash payments on long-term fixed-rate debt.
+
+(3)   purchase obligation amounts represent contractual commitments primarily to purchase condensate at market prices for use at our heavy oil projects in canada. we have entered into these agreements because condensate is an integral part of the heavy oil transportation process. any disruption in our ability to obtain condensate could negatively affect our ability to transport heavy oil at these locations. our total obligation related to condensate purchases expires in 2021. the value of the obligation in the table above is based on the contractual volumes and our internal estimate of future condensate market prices.
+
+(4)   operational agreements represent commitments to transport or process certain volumes of oil, gas and ngls for a fixed fee. we have entered into these agreements to aid the movement of our production to downstream markets.
+
+46
+index to financial statements
+(5)   operational agreements between devon and enlink represent fixed-fee gathering and processing and transportation agreements. these agreements also include minimum volume commitments that will remain in effect for approximately two more years, as well as annual rate escalators.
+
+(6)   asset retirement obligations represent estimated discounted costs for future dismantlement, abandonment and rehabilitation costs. these obligations are recorded as liabilities on our december 31, 2016 balance sheet.
+
+(7)   drilling and facility obligations represent gross contractual agreements with third-party service providers to procure drilling rigs and other related services for developmental and exploratory drilling and facilities construction.
+
+(8)   lease obligations consist primarily of non-cancelable leases for office space and equipment used in our daily operations.
+
+(9)   other devon obligations primarily relate to uncertain tax positions as discussed in note 7 in "item 8. financial statements and supplementary data" of this report. other enlink obligations primarily consist of $500 million of future installment payments on the tall oak acquisition as discussed in note 2 in "item 8. financial statements and supplementary data" of this report.
+
+contingencies and legal matters for a detailed discussion of contingencies and legal matters, see note 19 in "item 8. financial statements and supplementary data" of this report.
+critical accounting estimates the preparation of financial statements in conformity with accounting principles generally accepted in the u.s. requires us to make estimates, judgments and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. actual amounts could differ from these estimates, and changes in these estimates are recorded when known. we consider the following to be our most critical accounting estimates that involve judgment and have reviewed these critical accounting estimates with the audit committee of our board of directors.
+full cost method of accounting and proved reserves our estimates of proved reserves are a major component of the depletion and full cost ceiling calculations. additionally, our proved reserves represent the element of these calculations that require the most subjective judgments. estimates of reserves are forecasts based on engineering data, projected future rates of production and the timing of future expenditures. the process of estimating oil, gas and ngl reserves requires substantial judgment, resulting in imprecise determinations, particularly for new discoveries. different reserve engineers may make different estimates of reserve quantities based on the same data. our engineers prepare our reserve estimates. we then subject certain of our reserve estimates to audits performed by third-party petroleum consulting firms. in 2016, 89% of our reserves were subjected to such audits.
+the passage of time provides more qualitative information regarding estimates of reserves, when revisions are made to prior estimates to reflect updated information. in the past five years, annual performance revisions to our reserve estimates, which have been both increases and decreases in individual years, have averaged less than 5% of the previous year's estimate. however, there can be no assurance that more significant revisions will not be necessary in the future. the data for a given reservoir may also change substantially over time as a result of numerous factors including, but not limited to, additional development activity, evolving production history and continual reassessment of the viability of production under varying economic conditions.
+while the quantities of proved reserves require substantial judgment, the associated prices of oil, gas and ngl reserves, and the applicable discount rate, that are used to calculate the discounted present value of the reserves do not require judgment. applicable rules require future net revenues to be calculated using prices that represent the average of the first-day-of-the-month price for the 12-month period prior to the end of each quarterly period. such
+47
+index to financial statements rules also dictate that a 10% discount factor be used. therefore, the discounted future net revenues associated with the estimated proved reserves are not based on our assessment of future prices or costs or our enterprise risk.
+because the ceiling calculation dictates the use of prices that are not representative of future prices and requires a 10% discount factor, the resulting value is not indicative of the true fair value of the reserves. oil and gas prices have historically been cyclical and, for any particular 12-month period, can be either higher or lower than our long-term price forecast, which is a more appropriate input for estimating fair value. therefore, oil and gas property write-downs that result from applying the full cost ceiling limitation, and that are caused by fluctuations in price as opposed to reductions to the underlying quantities of reserves, should not be viewed as absolute indicators of a reduction of the ultimate value of the related reserves.
+because of the volatile nature of oil and gas prices, it generally is not possible to predict the timing or magnitude of full cost write-downs. in addition, because of the inter-relationship of the various judgments made to estimate proved reserves, it is impractical to provide quantitative analyses of the effects of potential changes in these estimates. however, decreases in estimates of proved reserves would generally increase our depletion rate and, thus, our depletion expense. decreases in our proved reserves may also increase the likelihood of recognizing a full cost ceiling write-down.
+based on prices from the last nine months of 2016 and the short-term pricing outlook for the first quarter of 2017, we do not expect to recognize u.s. and canadian full cost impairments in the first quarter of 2017.
+derivative financial instruments we enter into derivative financial instruments with respect to a portion of our oil, gas and ngl production to hedge future prices received. additionally, enlink periodically enters into derivative financial instruments with respect to its oil, gas and ngl marketing activity. these commodity derivative financial instruments include financial price swaps, basis swaps, costless price collars and call options.
+the estimates of the fair values of our derivative instruments require substantial judgment. we estimate the fair values of our commodity derivative financial instruments primarily by using internal discounted cash flow calculations. the most significant variable to our cash flow calculations is our estimate of future commodity prices. we base our estimate of future prices upon published forward commodity price curves such as the inside ferc henry hub forward curve for gas instruments and the nymex wti forward curve for oil instruments. another key input to our cash flow calculations is our estimate of volatility for these forward curves, which we base primarily upon implied volatility. the resulting estimated future cash inflows or outflows over the lives of the contracts are discounted primarily using u.s. treasury bill rates. these pricing and discounting variables are sensitive to the period of the contract and market volatility as well as changes in forward prices and regional price differentials.
+we periodically enter into interest rate swaps to manage our exposure to interest rate volatility. we estimate the fair values of our interest rate swap financial instruments primarily by using internal discounted cash flow calculations based upon forward interest rate yields. the most significant variable to our cash flow calculations is our estimate of future interest rate yields. we base our estimate of future yields upon our own internal model that utilizes forward curves such as the libor or the federal funds rate provided by third parties. the resulting estimated future cash inflows or outflows over the lives of the contracts are discounted using the libor and money market futures rates. these yield and discounting variables are sensitive to the period of the contract and market volatility.
+we periodically enter into foreign exchange forward contracts to manage our exposure to fluctuations in exchange rates. under the terms of our foreign exchange forward contracts, we generally receive u.s. dollars and pay canadian dollars based on a total notional amount. we estimate the fair values of our foreign exchange forward contracts primarily by using internal discounted cash flow calculations based upon forward exchange rates. the most significant variable to our cash flow calculations is our observation of forward foreign exchange rates. the resulting future cash inflows or outflows at maturity of the contracts are discounted using treasury rates. these discounting variables are sensitive to the period of the contract and market volatility.
+48
+index to financial statements we periodically validate our valuation techniques by comparing our internally generated fair value estimates with those obtained from contract counterparties.
+counterparty credit risk has not had a significant effect on our cash flow calculations and derivative valuations. this is primarily the result of two factors. first, we have mitigated our exposure to any single counterparty by contracting with numerous counterparties. our oil, gas and ngl commodity derivative contracts are held with thirteen separate counterparties. second, our derivative contracts generally require cash collateral to be posted if either our or the counterparty's credit rating falls below certain credit rating levels.
+because we have chosen not to qualify our derivatives for hedge accounting treatment, changes in the fair values of derivatives can have a significant impact on our reported results of operations. generally, changes in derivative fair values will not impact our liquidity or capital resources.
+settlements of derivative instruments, regardless of whether they qualify for hedge accounting, do have an impact on our liquidity and results of operations. generally, if actual market prices are higher than the price of the derivative instruments, our net earnings and cash flow from operations will be lower relative to the results that would have occurred absent these instruments. the opposite is also true. additional information regarding the effects that changes in market prices can have on our derivative financial instruments, net earnings and cash flow from operations is included in "item 7a. quantitative and qualitative disclosures about market risk" of this report.
+business combinations accounting for the acquisition of a business requires the assets and liabilities of the acquired business to be recorded at fair value. deferred taxes are recorded for any differences between the fair value and the tax basis of the acquired assets and liabilities. any excess of the purchase price over the fair values of the tangible and intangible net assets acquired is recorded as goodwill.
+there are various assumptions we make in determining the fair values of an acquired company's assets and liabilities. the most significant assumptions, and the ones requiring the most judgment, involve the estimated fair values of the oil and gas properties acquired. to determine the fair values of these properties, we prepare estimates of oil, natural gas and ngl reserves. these estimates are based on work performed by our engineers and that of outside consultants. the judgments associated with these estimated reserves are described earlier in this section in connection with the full cost ceiling calculation.
+however, there are factors involved in estimating the fair values of acquired oil, natural gas and ngl properties that require more judgment than that involved in the full cost ceiling calculation. as stated above, the full cost ceiling calculation applies a historical 12-month average price to the reserves to arrive at the ceiling amount. by contrast, the fair value of reserves acquired in a business combination must be based on our estimates of future oil, natural gas and ngl prices. our estimates of future prices are based on our own analysis of pricing trends. these estimates are based on current data obtained with regard to regional and worldwide supply and demand dynamics such as economic growth forecasts. they are also based on industry data regarding natural gas storage availability, drilling rig activity, changes in delivery capacity, trends in regional pricing differentials and other fundamental analysis. forecasts of future prices from independent third parties are noted when we make our pricing estimates.
+we estimate future prices to apply to the estimated reserve quantities acquired, and estimate future operating and development costs, to arrive at estimates of future net revenues. for estimated proved reserves, the future net revenues are then discounted using a rate determined appropriate at the time of the business combination based upon our cost of capital.
+we also apply these same general principles to estimate the fair value of unproved properties acquired in a business combination. these unproved properties generally represent the value of probable and possible reserves. because of their very nature, probable and possible reserve estimates are more imprecise than those of proved reserves. to compensate for the inherent risk of estimating and valuing unproved reserves, the discounted future net revenues of probable and possible reserves are reduced by what we consider to be an appropriate risk-weighting factor in each particular instance.
+49
+index to financial statements in addition, our acquisitions have involved other entities whose operations included substantial midstream activities. in these transactions, the purchase price is allocated to the fair value of midstream facilities and equipment, generally consisting of processing facilities and pipeline systems. estimating the fair value of these assets requires certain assumptions to be made regarding future quantities of commodities estimated to be processed and transported through these facilities and pipelines, as well as estimates of future expected prices and operating and capital costs.
+goodwill we test goodwill for impairment annually at october 31, or more frequently if events or changes in circumstances dictate that the carrying value of goodwill may not be recoverable. while we use data as of october 31 for our test, we typically complete the test in late december or early january as the october 31 market data used in our test becomes available. we first assess the qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount as a basis for determining whether it is necessary to perform the two-step goodwill impairment test. if we determine that it is more likely than not that its fair value is less than its carrying amount, then the two-step goodwill impairment test is performed.
+in the first step of the impairment test, the fair value of a reporting unit is compared to its carrying value. because quoted market prices are not available for our reporting units, the fair values of the reporting units are estimated based upon several valuation analyses, including comparable companies, comparable transactions and premiums paid. if the carrying value of a reporting unit exceeds its fair value, the second step of the impairment test is performed for purposes of measuring the impairment. in the second step, the fair value of the reporting unit is allocated to all of the assets and liabilities of the reporting unit to determine an implied goodwill value. this allocation is similar to a purchase price allocation. if the carrying amount of the reporting unit's goodwill exceeds the implied fair value of goodwill, an impairment loss is recognized in an amount equal to that excess. the determination of fair value requires judgment and involves the use of significant estimates and assumptions about expected future cash flows derived from internal forecasts and the impact of market conditions on those assumptions. critical assumptions primarily include revenue growth rates driven by future commodity prices and volume expectations, operating margins and capital expenditures.
+for the october 31, 2016 impairment tests for devon's u.s. reporting unit and each of enlink's reporting units, step one of the impairment analyses showed that the fair value of each reporting unit exceeded its carrying value.
+sustained weakness in the overall energy sector driven by low commodity prices, together with a decline in the enlink unit price, caused a change in circumstances warranting an interim impairment test for enlink's reporting units in the first quarter of 2016. using the fair value approaches described above, in the first quarter of 2016 it was determined that the estimated fair value of enlink's texas, general partner and crude and condensate reporting units were less than their carrying amounts, primarily due to changes in assumptions related to commodity prices and discount rates. through the analysis, a goodwill impairment loss of $473 million, $307 million and $93 million for enlink's texas, general partner and crude and condensate reporting units, respectively, was recognized in the first quarter of 2016.
+as of march 31, 2016, the goodwill allocated to the crude and condensate reporting unit was fully impaired. other than those mentioned above, no other goodwill impairment was identified or recorded for the remaining reporting units as a result of the interim goodwill assessment, as their estimated fair values were in excess of carrying values. however, the fair value of enlink's texas and general partner reporting units are not substantially in excess of their carrying value. the fair value of the texas and general partner reporting units approximates their carrying values after considering the impairment loss above, and as of december 31, 2016, $233 million and $1.1 billion of goodwill remains allocated to the reporting units, respectively.
+our impairment determinations involved significant assumptions and judgments, as discussed above. differing assumptions regarding any of these inputs could have a significant effect on the various valuations. if actual future results are not consistent with these assumptions and estimates, or the assumptions and estimates change due to new information, we may be exposed to additional goodwill impairment charges, which would be
+50
+index to financial statements recognized in the period in which we would determine that the carrying value exceeds fair value. we would expect that a prolonged or sustained period of lower commodity prices would adversely affect the estimate of future operating results, which could result in future goodwill impairments for other reporting units due to the potential impact on the cash flows of our operations.
+the impairment of goodwill has no effect on liquidity or capital resources. however, it adversely affects our results of operations in the period recognized.
+other intangible assets in 2015, the assessment of customer relationships was updated due to the factors described in the aforementioned goodwill section. this assessment resulted in a $223 million impairment of other intangible assets related to enlink's crude and condensate reporting unit. level 3 fair value measurements were utilized for the impairment analysis of definite-lived intangible assets, which included discounted cash flow estimates, consistent with those utilized in the goodwill impairment assessment.
+the other intangible assets impairment has no effect on liquidity or capital resources. however, it adversely affects our results of operations in the period recognized.
+income taxes the amount of income taxes recorded requires interpretations of complex rules and regulations of federal, state, provincial and foreign tax jurisdictions. we recognize current tax expense based on estimated taxable income for the current period and the applicable statutory tax rates. we routinely assess potential uncertain tax positions and, if required, estimate and establish accruals for such amounts. we have recognized deferred tax assets and liabilities for temporary differences, operating losses and other tax carryforwards. we routinely assess our deferred tax assets and reduce such assets by a valuation allowance if we deem it is more likely than not that some portion or all of the deferred tax assets will not be realized. at the end of 2016 and 2015, we had deferred tax assets that largely resulted from the full cost impairments recognized throughout 2015 and 2016. as a result of our recent cumulative losses and our current realization assessment, we recorded a 100% valuation allowance against our u.s. deferred tax assets as of december 31, 2016 and december 31, 2015. further, in 2016, we recorded a $69 million valuation allowance against certain canadian deferred tax assets as a result of continued financial losses.
+the accruals for deferred tax assets and liabilities are often based on assumptions that are subject to a significant amount of judgment by management. these assumptions and judgments are reviewed and adjusted as facts and circumstances change. material changes to our income tax accruals may occur in the future based on the progress of ongoing audits, changes in legislation or resolution of pending matters.
+we also assess factors relative to whether our foreign earnings are considered indefinitely reinvested. these factors include forecasted and actual results for both our u.s. and canadian operations, borrowing conditions in the u.s. and existing u.s. income tax laws, particularly the laws pertaining to the deductibility of intangible drilling costs and repatriations of foreign earnings. changes in any of these factors could require recognition of additional deferred, or even current, u.s. income tax expense. we accrue deferred u.s. income tax expense on our foreign earnings when the factors indicate that these earnings are no longer considered indefinitely reinvested.
+for our foreign earnings deemed indefinitely reinvested, we do not calculate a hypothetical deferred tax liability on these earnings. calculating a hypothetical tax on these accumulated earnings is much different from the calculation of the deferred tax liability on our earnings deemed not indefinitely reinvested. a hypothetical tax calculation on the indefinitely reinvested earnings would require the following additional activities:
+•   separate analysis of a diverse chain of foreign entities;
+
+•   relying on tax rates on a future remittance that could vary significantly depending on alternative approaches available to repatriate the earnings;
+
+51
+index to financial statements
+•   determining the nature of a yet-to-be-determined future remittance, such as whether the distribution would be a non-taxable return of capital or a distribution of taxable earnings and calculation of associated withholding taxes, which would vary significantly depending on the circumstances at the deemed time of remittance; and
+
+•   further analysis of a variety of other inputs such as the earnings, profits, u.s./foreign country tax treaty provisions and the related foreign taxes paid by our foreign subsidiaries, whose earnings are deemed permanently reinvested, over a lengthy history of operations.
+
+because of the administrative burden required to perform these additional activities, it is impractical to calculate a hypothetical tax on the foreign earnings associated with this separate and more complicated chain of companies.
+non-gaap measures we make reference to "core earnings attributable to devon" and "core earnings per share attributable to devon" in "overview of 2016 results" in this item 7. that are not required by or presented in accordance with gaap. these non-gaap measures should not be considered as alternatives to gaap measures. core earnings attributable to devon, as well as the per share amount, represent net earnings excluding certain noncash or non-recurring items that are typically excluded by securities analysts in their published estimates of our financial results. our non-gaap measures are typically used as a quarterly performance measure. items may appear to be recurring when comparing on an annual basis. in the table below, restructuring and transaction costs were incurred in each of the three year periods; however, these costs relate to different restructuring programs. amounts excluded for 2016 relate to derivatives and financial instrument fair value changes, noncash asset impairments (including an impairment of goodwill), deferred tax asset valuation allowance, gains and losses on asset sales, costs associated with early retirement of debt and restructuring and transaction costs associated with the 2016 workforce reduction.
+amounts excluded for 2015 relate to derivatives and financial instrument fair value changes, asset impairments (including an impairment of goodwill), deferred tax asset valuation allowance, restructuring and transaction costs and repatriation of funds to the u.s.
+amounts excluded for 2014 relate to derivatives and financial instrument fair value changes, asset impairments (including an impairment of goodwill), gains and losses on asset sales, costs associated with early retirement of debt, restructuring and transaction costs associated with our 2014 divestiture program, repatriation of proceeds to the u.s. and deferred income tax on the formation of the general partner. for more information on our restructuring programs, see note 6 in "item 8. financial statements and supplementary data" of this report.
+we believe these non-gaap measures facilitate comparisons of our performance to earnings estimates published by securities analysts, which typically make similar adjustments in their estimates of our financial results. we also believe these non-gaap measures can facilitate comparisons of our performance between periods and to the performance of our peers.
+52
+index to financial statements below are reconciliations of our core earnings and earnings per share to their comparable gaap measures.
+year ended december 31,
+
+before tax               after tax              after noncontrolling interests              per share
+2016
+loss attributable to devon (gaap)                          $(3,877   )             $(3,704   )                                 $(3,302   )             $(6.52   )
+adjustments:
+gains and losses on asset sales                             (1,890   )              (1,243   )                                  (1,249   )              (2.44   )
+asset impairments                                            4,996                   3,599                                       3,176                   6.28
+deferred tax asset valuation allowance                           -                     851                                         851                   1.66
+restructuring and transaction costs                            267                     173                                         170                   0.33
+fair value changes in financial                                270                     153                                         145                   0.28
+instruments and foreign currency early retirement of debt                                       269                     171                                         171                   0.33
+core earnings (loss) attributable to devon                     $35                      $-                                        $(38   )             $(0.08   )
+(non-gaap)
+2015
+loss attributable to devon (gaap)                         $(21,268   )            $(15,203   )                                $(14,454   )            $(35.55   )
+adjustments:
+asset impairments                                           20,820                  13,923                                      13,100                  32.18
+deferred tax asset valuation allowance                           -                     967                                         967                   2.37
+restructuring and transaction costs                             78                      52                                          52                   0.13
+fair value changes in financial                              1,967                   1,349                                       1,346                   3.31
+instruments and foreign currency repatriations                                                    -                      33                                          33                   0.08
+core earnings attributable to devon (non-gaap)              $1,597                  $1,121                                      $1,044                  $2.52
+2014
+earnings attributable to devon (gaap)                       $4,059                  $1,691                                      $1,607                  $3.91
+adjustments:
+gains and losses on asset sales                             (1,072   )                (625   )                                    (625   )              (1.52   )
+asset impairments                                            1,953                   1,948                                       1,948                   4.74
+restructuring and transaction costs                             46                      35                                          35                   0.08
+fair value changes in financial                             (1,828   )              (1,139   )                                  (1,132   )              (2.75   )
+instruments and foreign currency investment in general partner deferred income tax                -                      48                                          48                   0.12
+repatriations                                                    -                     105                                         105                   0.26
+early retirement of debt                                        48                      31                                          31                   0.07
+core earnings attributable to devon (non-gaap)              $3,206                  $2,094                                      $2,017                  $4.91
+53
+index to financial statements

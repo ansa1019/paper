@@ -1,0 +1,28 @@
+item 7. management's discussion and analysis of financial condition and results of operations.
+the following discussion should be read in conjunction with the other sections of this annual report on form 10-k, including the consolidated financial statements and related notes contained in item 8, and the discussion of risk factors that may affect future results in item 1a.
+description of the company for a description of altria, see item 1. business, and background in note 1.
+altria's reportable segments are smokeable products, smokeless products and wine. the financial services and the innovative tobacco products businesses are included in an all other category due to the continued reduction of the lease portfolio of pmcc and the relative financial contribution of altria's innovative tobacco products businesses to altria's consolidated results.
+effective with the first quarter of 2020, altria's smokeless products segment will be renamed as the oral tobacco products segment. altria's oral tobacco products segment will include financial results, volume and retail share performance from usstc's core mst and snus businesses and helix's on! oral nicotine pouches. prior period volume and retail share data will be updated to reflect these changes.
+executive summary consolidated results of operations the changes in altria's net earnings (losses) and diluted eps attributable to altria for the year ended december 31, 2019, from the year ended december 31, 2018, were due primarily to the following:
+2018 npm adjustment items              (109   )               (0.06   )
+2018 asset impairment, exit, implementation and acquisition-related costs               432                    0.23
+2018 tobacco and health litigation items                98                    0.05
+2018 (gain) loss on abi/sabmiller business combination                26                    0.01
+2019 asset impairment, exit, implementation and acquisition-related costs              (269   )               (0.15   )
+2019 tobacco and health litigation items               (58   )               (0.03   )
+2019 impairment of juul equity securities            (8,600   )               (4.60   )
+change in tax rate               (65   )               (0.03   )
+see the discussion of events affecting the comparability of statement of earnings (losses) amounts in the consolidated operating results section of the following discussion and analysis.
+▪   fewer shares outstanding: fewer shares outstanding during 2019 compared with 2018 were due primarily to shares repurchased by altria under its share repurchase programs.
+▪   change in tax rate: the change in tax rate was driven primarily by lower dividends from abi.
+▪   operations: the increase of $421 million in operations shown in the table above was due primarily to the following:
+▪   lower spending as a result of altria's decision in 2018 to refocus its innovative product efforts; and
+partially offset by higher interest and other debt expense, net, due to debt incurred in connection with the cronos and juul transactions.
+for further details, see the consolidated operating results and operating results by business segment sections of the following discussion and analysis.
+2020 forecasted results altria forecasts that its 2020 full-year adjusted diluted eps growth rate is expected to be in the range of 4% to 7% over its 2019 full-year adjusted diluted eps base of $4.22, as shown in the table below. altria's 2020 guidance reflects increased investments related to pm usa's commercialization efforts for iqos, helix's plans to manufacture and expand u.s. distribution of on! and one extra shipping day in the first quarter of 2020.
+this forecasted growth rate excludes estimated per share charges in 2020 of $0.05 for tax expense, representing a partial reversal of the tax basis benefit recorded in 2017 attributable to the deemed repatriation tax related to altria's investment in abi. for further discussion, see note 15.
+altria expects its 2020 full-year adjusted effective tax rate will be in a range of 23.5% to 24.5%.
+reconciliation of 2019 reported diluted eps to 2019 adjusted diluted eps
+asset impairment, exit, implementation and acquisition-related costs                                      0.15
+tobacco and health litigation items                                                                       0.03
+impairment of juul equity securities                                                                      4.60
