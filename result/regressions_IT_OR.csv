@@ -1,0 +1,17 @@
+Input,Model,Adj. R,IT Coef,IT P,OR Coef,OR P
+4o_Item7_report,IT+OR->Revenues,0.369,0.1064,0.003**,0.0607,0.121
+4o_Item7_report,IT+OR->Net_Income,0.258,0.0482,0.218,0.0348,0.412
+4o_Item7_filter,IT+OR->Revenues,0.369,0.1064,0.003**,0.0607,0.121
+4o_Item7_filter,IT+OR->Net_Income,0.258,0.0482,0.218,0.0348,0.412
+4o_Item17_report,IT+OR->Revenues,0.369,0.1064,0.003**,0.0607,0.121
+4o_Item17_report,IT+OR->Net_Income,0.258,0.0482,0.218,0.0348,0.412
+4o_Item17_filter,IT+OR->Revenues,0.369,0.1064,0.003**,0.0607,0.121
+4o_Item17_filter,IT+OR->Net_Income,0.258,0.0482,0.218,0.0348,0.412
+o4_Item7_report,IT+OR->Revenues,0.352,0.0402,0.278,-0.0156,0.653
+o4_Item7_report,IT+OR->Net_Income,0.255,-0.0363,0.361,-0.0102,0.783
+o4_Item7_filter,IT+OR->Revenues,0.352,0.0402,0.278,-0.0156,0.653
+o4_Item7_filter,IT+OR->Net_Income,0.255,-0.0363,0.361,-0.0102,0.783
+o4_Item17_report,IT+OR->Revenues,0.352,0.0402,0.278,-0.0156,0.653
+o4_Item17_report,IT+OR->Net_Income,0.255,-0.0363,0.361,-0.0102,0.783
+o4_Item17_filter,IT+OR->Revenues,0.352,0.0402,0.278,-0.0156,0.653
+o4_Item17_filter,IT+OR->Net_Income,0.255,-0.0363,0.361,-0.0102,0.783

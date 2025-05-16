@@ -1,0 +1,17 @@
+Input,Model,Adj. R,Coef,P
+4o_Item7_report,OR->Revenues,0.361,0.1070,0.003**
+4o_Item7_report,OR->Net_Income,0.257,0.0558,0.152
+4o_Item7_filter,OR->Revenues,0.361,0.1070,0.003**
+4o_Item7_filter,OR->Net_Income,0.257,0.0558,0.152
+4o_Item17_report,OR->Revenues,0.361,0.1070,0.003**
+4o_Item17_report,OR->Net_Income,0.257,0.0558,0.152
+4o_Item17_filter,OR->Revenues,0.361,0.1070,0.003**
+4o_Item17_filter,OR->Net_Income,0.257,0.0558,0.152
+o4_Item7_report,OR->Revenues,0.352,-0.0067,0.844
+o4_Item7_report,OR->Net_Income,0.255,-0.0183,0.612
+o4_Item7_filter,OR->Revenues,0.352,-0.0067,0.844
+o4_Item7_filter,OR->Net_Income,0.255,-0.0183,0.612
+o4_Item17_report,OR->Revenues,0.352,-0.0067,0.844
+o4_Item17_report,OR->Net_Income,0.255,-0.0183,0.612
+o4_Item17_filter,OR->Revenues,0.352,-0.0067,0.844
+o4_Item17_filter,OR->Net_Income,0.255,-0.0183,0.612
